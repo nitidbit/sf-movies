@@ -1,4 +1,11 @@
+Scratch Pad / Notes from Last Session
+=====================================
+
+# Stories
+
 ## Convert code to using 2 spaces for indentation
+
+## move to subdomain sf-movies.nitid.co
 
 ## Improve appearance
 

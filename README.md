@@ -1,20 +1,28 @@
-# sf-movies.nitidbit.com
+# sf-movies.nitid.co
 
-  https://nitidbit.github.io/sf-movies/
+  For now, located at https://nitidbit.github.io/sf-movies/
+
+### Commands
+
+| Command                   | Action                                           |
+| :------------------------ | :----------------------------------------------- |
+| `./dev-start.sh`          | Run the dev server                               |
+| `npm install`             | Installs dependencies                            |
+| `npm run dev`             | Starts local dev server at `localhost:4321`      |
+| `npm run build`           | Build your production site to `./dist/`          |
+| `npm run preview`         | Preview your build locally, before deploying     |
+| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
+| `npm run astro -- --help` | Get help using the Astro CLI                     |
+| `astro dev --background`  | Dev server in background mode                    |
+
+Manage the background server with `astro dev stop`, `astro dev status`, and `astro dev logs`.
 
 ## Developer Setup
 
-Commands:
-- `./dev-start.sh` — Run the dev server
+* npm i
+* npm test
+* ./dev-start.sh
 
-
-When starting the dev server, use background mode:
-
-```
-astro dev --background
-```
-
-Manage the background server with `astro dev stop`, `astro dev status`, and `astro dev logs`.
 
 ## Astro Documentation
 
@@ -47,18 +55,6 @@ There's nothing special about `src/components/`, but that's where we like to put
 
 Any static assets, like images, can be placed in the `public/` directory.
 
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
 
 ## 👀 Want to learn more?
 
