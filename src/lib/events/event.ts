@@ -8,4 +8,8 @@ export interface Event {
 	endTime?: string;
 	sourceUrl: string;
 	notes?: string;
+	// Required credit line for events sourced from a third-party feed
+	// (e.g. "Showtimes via SceneF.com") — a licensing condition of using
+	// that data, not a general-purpose note.
+	attribution?: string;
 }

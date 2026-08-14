@@ -2,15 +2,25 @@ import { join } from "node:path";
 import type { Event } from "../lib/events/event";
 import { writeTheaterEvents } from "../lib/events/persist";
 import { fetchRoxieEvents } from "../lib/scrapers/roxie";
+import { fetchSceneFEvents } from "../lib/scrapers/scenef";
 import { fetchSquarespaceEvents } from "../lib/scrapers/squarespace";
 import { theaters, type TheaterConfig } from "../lib/theaters";
 
 const DATA_DIR = join(process.cwd(), "movie-data");
 
-const fetchers: Record<TheaterConfig["source"], (baseUrl: string, theater: string) => Promise<Event[]>> = {
-	squarespace: fetchSquarespaceEvents,
-	roxie: fetchRoxieEvents,
-};
+function fetchEventsFor(theater: TheaterConfig): Promise<Event[]> {
+	switch (theater.source) {
+		case "squarespace":
+			return fetchSquarespaceEvents(theater.baseUrl, theater.name);
+		case "roxie":
+			return fetchRoxieEvents(theater.baseUrl, theater.name);
+		case "scenef":
+			if (!theater.venueId) {
+				throw new Error(`Theater "${theater.slug}" has source "scenef" but no venueId configured`);
+			}
+			return fetchSceneFEvents(theater.venueId, theater.name);
+	}
+}
 
 async function main() {
 	const slug = process.argv[2];
@@ -20,7 +30,7 @@ async function main() {
 		process.exit(1);
 	}
 
-	const events = await fetchers[theater.source](theater.baseUrl, theater.name);
+	const events = await fetchEventsFor(theater);
 	console.log(`Fetched ${events.length} upcoming events for ${theater.name}`);
 
 	const changedFiles = await writeTheaterEvents(DATA_DIR, theater.slug, events);

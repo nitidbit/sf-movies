@@ -2,7 +2,9 @@ export interface TheaterConfig {
 	slug: string;
 	name: string;
 	baseUrl: string;
-	source: "squarespace" | "roxie";
+	source: "squarespace" | "roxie" | "scenef";
+	// Required when source is "scenef" — the venue id in SceneF's feed.
+	venueId?: string;
 }
 
 // Adding a Squarespace-based theater here (Vogue, 4-Star) is the only change
@@ -31,5 +33,12 @@ export const theaters: Record<string, TheaterConfig> = {
 		name: "Roxie",
 		baseUrl: "https://roxie.com",
 		source: "roxie",
+	},
+	alamo: {
+		slug: "alamo",
+		name: "Alamo Drafthouse New Mission",
+		baseUrl: "https://drafthouse.com/sf",
+		source: "scenef",
+		venueId: "alamo-new-mission",
 	},
 };

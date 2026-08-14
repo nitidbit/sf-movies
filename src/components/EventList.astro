@@ -35,6 +35,12 @@ const timeFormatter = new Intl.DateTimeFormat("en-US", {
 					{event.notes && <> {event.notes}</>}
 					{" — "}
 					<a href={event.sourceUrl}>details</a>
+					{event.attribution && (
+						<>
+							{" "}
+							<small>({event.attribution})</small>
+						</>
+					)}
 				</li>
 			))}
 		</ul>
