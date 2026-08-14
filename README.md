@@ -1,10 +1,12 @@
-# Astro Starter Kit: Minimal
+# sf-movies.nitidbit.com
 
-```sh
-npm create astro@latest -- --template minimal
-```
+  https://nitidbit.github.io/sf-movies/
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+## Developer Setup
+
+Commands:
+- `./dev-start.sh` — Run the dev server
+
 
 ## 🚀 Project Structure
 
