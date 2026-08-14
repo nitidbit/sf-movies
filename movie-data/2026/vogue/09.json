@@ -1,0 +1,58 @@
+[
+  {
+    "theater": "Vogue",
+    "title": "Bullitt",
+    "startTime": "2026-09-01T23:30:00.567Z",
+    "endTime": "2026-09-02T04:40:00.567Z",
+    "sourceUrl": "https://voguemovies.com/calendar-of-events/bullitt-september-1"
+  },
+  {
+    "theater": "Vogue",
+    "title": "Bullitt",
+    "startTime": "2026-09-02T23:30:00.555Z",
+    "endTime": "2026-09-03T04:40:00.555Z",
+    "sourceUrl": "https://voguemovies.com/calendar-of-events/bullitt-september-2"
+  },
+  {
+    "theater": "Vogue",
+    "title": "The Game",
+    "startTime": "2026-09-03T23:30:00.555Z",
+    "endTime": "2026-09-04T04:55:00.555Z",
+    "sourceUrl": "https://voguemovies.com/calendar-of-events/the-game-september-3"
+  },
+  {
+    "theater": "Vogue",
+    "title": "The Game",
+    "startTime": "2026-09-04T23:30:00.748Z",
+    "endTime": "2026-09-05T04:55:00.748Z",
+    "sourceUrl": "https://voguemovies.com/calendar-of-events/the-game-september-4"
+  },
+  {
+    "theater": "Vogue",
+    "title": "Zodiac",
+    "startTime": "2026-09-05T20:30:00.039Z",
+    "endTime": "2026-09-06T05:25:00.039Z",
+    "sourceUrl": "https://voguemovies.com/calendar-of-events/zodiac-september-5"
+  },
+  {
+    "theater": "Vogue",
+    "title": "Zodiac",
+    "startTime": "2026-09-06T20:30:00.295Z",
+    "endTime": "2026-09-07T05:25:00.295Z",
+    "sourceUrl": "https://voguemovies.com/calendar-of-events/zodiac-september-6"
+  },
+  {
+    "theater": "Vogue",
+    "title": "National Theatre Live: The Playboy of the Western World",
+    "startTime": "2026-09-15T02:00:00.362Z",
+    "endTime": "2026-09-15T04:55:00.362Z",
+    "sourceUrl": "https://voguemovies.com/calendar-of-events/national-theatre-live-the-playboy-of-the-western-world-september-14"
+  },
+  {
+    "theater": "Vogue",
+    "title": "National Theatre Live: The Misanthrope",
+    "startTime": "2026-09-29T02:00:00.291Z",
+    "endTime": "2026-09-29T03:00:00.291Z",
+    "sourceUrl": "https://voguemovies.com/calendar-of-events/national-theatre-live-the-misanthrope-september-28"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "theater": "4-Star",
+    "title": "LIVE MUSIC: The Sleeves, Fred Frith",
+    "startTime": "2026-10-04T03:00:00.661Z",
+    "endTime": "2026-10-04T06:00:00.661Z",
+    "sourceUrl": "https://www.4-star-movies.com/calendar-of-events/live-music-the-sleeves",
+    "notes": "Music at"
+  },
+  {
+    "theater": "4-Star",
+    "title": "Nosferatu: A Symphony of Horror with LIVE SCORE by Dallas Acid & Paz Lenchantin (Presented by folkYEAH!)",
+    "startTime": "2026-10-24T03:00:00.847Z",
+    "endTime": "2026-10-24T05:00:00.847Z",
+    "sourceUrl": "https://www.4-star-movies.com/calendar-of-events/live-music-nosferatu",
+    "notes": "Film at"
+  },
+  {
+    "theater": "4-Star",
+    "title": "LIVE MUSIC: Resavoir, Cheflee (Presented by THROWIN' BO'S)",
+    "startTime": "2026-10-26T03:00:00.623Z",
+    "endTime": "2026-10-26T06:00:00.623Z",
+    "sourceUrl": "https://www.4-star-movies.com/calendar-of-events/live-music-resavoir",
+    "notes": "Music at"
+  },
+  {
+    "theater": "4-Star",
+    "title": "LIVE MUSIC: The Wildwoods (Presented by folkYEAH!)",
+    "startTime": "2026-10-29T03:00:00.417Z",
+    "endTime": "2026-10-29T06:00:00.417Z",
+    "sourceUrl": "https://www.4-star-movies.com/calendar-of-events/live-music-wildwoods",
+    "notes": "Music at"
+  }
+]

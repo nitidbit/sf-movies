@@ -12,4 +12,14 @@ export const theaters: Record<string, TheaterConfig> = {
 		name: "Balboa",
 		baseUrl: "https://www.balboamovies.com",
 	},
+	vogue: {
+		slug: "vogue",
+		name: "Vogue",
+		baseUrl: "https://voguemovies.com",
+	},
+	"four-star": {
+		slug: "four-star",
+		name: "4-Star",
+		baseUrl: "https://www.4-star-movies.com",
+	},
 };
