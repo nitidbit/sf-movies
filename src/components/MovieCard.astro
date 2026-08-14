@@ -1,0 +1,70 @@
+---
+import type { Event } from "../lib/events/event";
+import { localDayOf } from "../lib/events/query";
+
+interface Props {
+	event: Event;
+}
+
+const { event } = Astro.props;
+
+// Renders as "Sat, 15-Aug-2026 1:00 PM" per the PRD's card spec.
+const dateTimeFormatter = new Intl.DateTimeFormat("en-US", {
+	timeZone: "America/Los_Angeles",
+	weekday: "short",
+	day: "2-digit",
+	month: "short",
+	year: "numeric",
+	hour: "numeric",
+	minute: "2-digit",
+});
+
+function formatCardDateTime(date: Date): string {
+	const parts = dateTimeFormatter.formatToParts(date);
+	const get = (type: string) => parts.find((part) => part.type === type)?.value ?? "";
+	return `${get("weekday")}, ${get("day")}-${get("month")}-${get("year")} ${get("hour")}:${get("minute")} ${get("dayPeriod")}`;
+}
+---
+
+<li
+	class="movie-card"
+	data-title={event.title.toLowerCase()}
+	data-date={localDayOf(new Date(event.startTime))}
+>
+	<a class="movie-card__title" href={event.sourceUrl} target="_blank" rel="noopener">
+		{event.title}
+	</a>
+	<div class="movie-card__meta">
+		<span>{formatCardDateTime(new Date(event.startTime))}</span>
+		<span class="movie-card__theater">{event.theater}</span>
+	</div>
+	{event.notes && <p class="movie-card__notes">{event.notes}</p>}
+	{event.attribution && <small class="movie-card__attribution">({event.attribution})</small>}
+</li>
+
+<style>
+	.movie-card {
+		list-style: none;
+		background: white;
+		border-radius: 0.5rem;
+		padding: 0.75rem 1rem;
+		margin-bottom: 0.5rem;
+	}
+
+	.movie-card__title {
+		font-weight: bold;
+	}
+
+	.movie-card__meta {
+		display: flex;
+		justify-content: space-between;
+	}
+
+	.movie-card__notes {
+		margin: 0.25rem 0 0;
+	}
+
+	.movie-card__attribution {
+		color: #666;
+	}
+</style>

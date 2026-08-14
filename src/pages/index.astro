@@ -1,14 +1,33 @@
 ---
 import { join } from "node:path";
-import EventList from "../components/EventList.astro";
-import Nav from "../components/Nav.astro";
+import FilterBar from "../components/FilterBar.astro";
+import MovieCard from "../components/MovieCard.astro";
 import { loadAllEvents } from "../lib/events/loadEvents";
+import { groupByDay } from "../lib/events/query";
 
 const DATA_DIR = join(process.cwd(), "movie-data");
 
 const now = new Date().toISOString();
 const allEvents = await loadAllEvents(DATA_DIR);
 const upcoming = allEvents.filter((event) => event.startTime >= now);
+const dayGroups = groupByDay(upcoming);
+
+// dayGroup.date is already the correct America/Los_Angeles calendar day as
+// "YYYY-MM-DD" — format it at UTC noon so no timezone reinterpretation can
+// shift it to the wrong day.
+const dayHeaderFormatter = new Intl.DateTimeFormat("en-US", {
+	timeZone: "UTC",
+	weekday: "short",
+	day: "2-digit",
+	month: "short",
+	year: "numeric",
+});
+
+function formatDayHeader(date: string): string {
+	const parts = dayHeaderFormatter.formatToParts(new Date(`${date}T12:00:00Z`));
+	const get = (type: string) => parts.find((part) => part.type === type)?.value ?? "";
+	return `${get("weekday")}, ${get("day")}-${get("month")}-${get("year")}`;
+}
 ---
 
 <html lang="en">
@@ -22,7 +41,35 @@ const upcoming = allEvents.filter((event) => event.startTime >= now);
 	</head>
 	<body>
 		<h1>SF Movies</h1>
-		<Nav />
-		<EventList events={upcoming} emptyMessage="No upcoming showtimes yet." />
+		<FilterBar />
+		{
+			dayGroups.length === 0 ? (
+				<p>No upcoming showtimes yet.</p>
+			) : (
+				dayGroups.map((group) => (
+					<section class="day-group">
+						<h2>{formatDayHeader(group.date)}</h2>
+						<ul class="day-group__cards">
+							{group.events.map((event) => (
+								<MovieCard event={event} />
+							))}
+						</ul>
+					</section>
+				))
+			)
+		}
 	</body>
 </html>
+
+<style is:global>
+	body {
+		background: #f0f0f0;
+	}
+</style>
+
+<style>
+	.day-group__cards {
+		padding: 0;
+		margin: 0;
+	}
+</style>
