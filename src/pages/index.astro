@@ -1,5 +1,7 @@
 ---
 import { join } from "node:path";
+import EventList from "../components/EventList.astro";
+import Nav from "../components/Nav.astro";
 import { loadAllEvents } from "../lib/events/loadEvents";
 
 const DATA_DIR = join(process.cwd(), "movie-data");
@@ -7,15 +9,6 @@ const DATA_DIR = join(process.cwd(), "movie-data");
 const now = new Date().toISOString();
 const allEvents = await loadAllEvents(DATA_DIR);
 const upcoming = allEvents.filter((event) => event.startTime >= now);
-
-const timeFormatter = new Intl.DateTimeFormat("en-US", {
-	timeZone: "America/Los_Angeles",
-	weekday: "short",
-	month: "short",
-	day: "numeric",
-	hour: "numeric",
-	minute: "2-digit",
-});
 ---
 
 <html lang="en">
@@ -29,26 +22,7 @@ const timeFormatter = new Intl.DateTimeFormat("en-US", {
 	</head>
 	<body>
 		<h1>SF Movies</h1>
-		{
-			upcoming.length === 0 ? (
-				<p>No upcoming showtimes yet.</p>
-			) : (
-				<ul>
-					{upcoming.map((event) => (
-						<li>
-							<strong>{timeFormatter.format(new Date(event.startTime))}</strong>
-							{" — "}
-							{event.title}
-							{" ("}
-							{event.theater}
-							{")"}
-							{event.notes && <> {event.notes}</>}
-							{" — "}
-							<a href={event.sourceUrl}>details</a>
-						</li>
-					))}
-				</ul>
-			)
-		}
+		<Nav />
+		<EventList events={upcoming} emptyMessage="No upcoming showtimes yet." />
 	</body>
 </html>

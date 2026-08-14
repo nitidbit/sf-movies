@@ -2,6 +2,7 @@ export interface TheaterConfig {
 	slug: string;
 	name: string;
 	baseUrl: string;
+	source: "squarespace" | "roxie";
 }
 
 // Adding a Squarespace-based theater here (Vogue, 4-Star) is the only change
@@ -11,15 +12,24 @@ export const theaters: Record<string, TheaterConfig> = {
 		slug: "balboa",
 		name: "Balboa",
 		baseUrl: "https://www.balboamovies.com",
+		source: "squarespace",
 	},
 	vogue: {
 		slug: "vogue",
 		name: "Vogue",
 		baseUrl: "https://voguemovies.com",
+		source: "squarespace",
 	},
 	"four-star": {
 		slug: "four-star",
 		name: "4-Star",
 		baseUrl: "https://www.4-star-movies.com",
+		source: "squarespace",
+	},
+	roxie: {
+		slug: "roxie",
+		name: "Roxie",
+		baseUrl: "https://roxie.com",
+		source: "roxie",
 	},
 };

@@ -1,0 +1,42 @@
+---
+import type { Event } from "../lib/events/event";
+import { localDayOf } from "../lib/events/query";
+
+interface Props {
+	events: Event[];
+	emptyMessage: string;
+}
+
+const { events, emptyMessage } = Astro.props;
+
+const timeFormatter = new Intl.DateTimeFormat("en-US", {
+	timeZone: "America/Los_Angeles",
+	weekday: "short",
+	month: "short",
+	day: "numeric",
+	hour: "numeric",
+	minute: "2-digit",
+});
+---
+
+{
+	events.length === 0 ? (
+		<p>{emptyMessage}</p>
+	) : (
+		<ul>
+			{events.map((event) => (
+				<li data-title={event.title.toLowerCase()} data-date={localDayOf(new Date(event.startTime))}>
+					<strong>{timeFormatter.format(new Date(event.startTime))}</strong>
+					{" — "}
+					{event.title}
+					{" ("}
+					{event.theater}
+					{")"}
+					{event.notes && <> {event.notes}</>}
+					{" — "}
+					<a href={event.sourceUrl}>details</a>
+				</li>
+			))}
+		</ul>
+	)
+}
