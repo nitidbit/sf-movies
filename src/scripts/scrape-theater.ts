@@ -1,10 +1,10 @@
 import { join } from "node:path";
-import type { Event } from "../lib/events/event";
-import { writeTheaterEvents } from "../lib/events/persist";
-import { fetchRoxieEvents } from "../lib/scrapers/roxie";
-import { fetchSceneFEvents } from "../lib/scrapers/scenef";
-import { fetchSquarespaceEvents } from "../lib/scrapers/squarespace";
-import { theaters, type TheaterConfig } from "../lib/theaters";
+import type { Event } from "../shared/events/event";
+import { writeTheaterEvents } from "../shared/events/persist";
+import { fetchRoxieEvents } from "../shared/scrapers/roxie";
+import { fetchSceneFEvents } from "../shared/scrapers/scenef";
+import { fetchSquarespaceEvents } from "../shared/scrapers/squarespace";
+import { theaters, type TheaterConfig } from "../shared/theaters";
 
 const DATA_DIR = join(process.cwd(), "movie-data");
 
