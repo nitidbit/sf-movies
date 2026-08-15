@@ -13,9 +13,21 @@
   },
   {
     "theater": "Roxie",
+    "title": "American Doctor",
+    "startTime": "2026-09-02T01:00:00.000Z",
+    "sourceUrl": "https://roxie.com/film/american-doctor/#showtimes-20260901-1800"
+  },
+  {
+    "theater": "Roxie",
     "title": "Stanley Kwan’s Center Stage (4K Restoration)",
     "startTime": "2026-09-02T02:45:00.000Z",
     "sourceUrl": "https://roxie.com/film/stanley-kwans-center-stage-4k-restoration/#showtimes-20260901-1945"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Colony",
+    "startTime": "2026-09-02T03:05:00.000Z",
+    "sourceUrl": "https://roxie.com/film/colony/#showtimes-20260901-2005"
   },
   {
     "theater": "Roxie",
@@ -25,9 +37,27 @@
   },
   {
     "theater": "Roxie",
+    "title": "American Doctor",
+    "startTime": "2026-09-04T00:50:00.000Z",
+    "sourceUrl": "https://roxie.com/film/american-doctor/#showtimes-20260903-1750"
+  },
+  {
+    "theater": "Roxie",
     "title": "Fantastic Planet",
     "startTime": "2026-09-04T01:00:00.000Z",
     "sourceUrl": "https://roxie.com/film/fantastic-planet/#showtimes-20260903-1800"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Colony",
+    "startTime": "2026-09-04T02:50:00.000Z",
+    "sourceUrl": "https://roxie.com/film/colony/#showtimes-20260903-1950"
+  },
+  {
+    "theater": "Roxie",
+    "title": "The Samurai and the Prisoner",
+    "startTime": "2026-09-04T02:50:00.000Z",
+    "sourceUrl": "https://roxie.com/film/the-samurai-and-the-prisoner/#showtimes-20260903-1950"
   },
   {
     "theater": "Roxie",
