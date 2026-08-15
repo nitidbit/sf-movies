@@ -1,190 +1,190 @@
 <div class="filter-bar">
-	<span>Filter by:</span>
+  <span>Filter by:</span>
 
-	<div class="filter-control">
-		<button id="title-filter-btn" class="pill" type="button">title</button>
-		<div id="title-popover" class="popover" hidden>
-			<p>Filter where title contains:</p>
-			<label>
-				title: <input type="text" id="title-input" />
-			</label>
-			<div class="popover-actions">
-				<button id="title-clear" type="button">Clear</button>
-				<button id="title-apply" type="button">Filter</button>
-			</div>
-		</div>
-	</div>
+  <div class="filter-control">
+    <button id="title-filter-btn" class="pill" type="button">title</button>
+    <div id="title-popover" class="popover" hidden>
+      <p>Filter where title contains:</p>
+      <label>
+        title: <input type="text" id="title-input" />
+      </label>
+      <div class="popover-actions">
+        <button id="title-clear" type="button">Clear</button>
+        <button id="title-apply" type="button">Filter</button>
+      </div>
+    </div>
+  </div>
 
-	<div class="filter-control">
-		<button id="day-filter-btn" class="pill" type="button">day</button>
-		<div id="day-popover" class="popover" hidden>
-			<p>Filter by days:</p>
-			<label>
-				From: <input type="date" id="day-from" />
-			</label>
-			<label>
-				To: <input type="date" id="day-to" />
-			</label>
-			<div class="popover-actions">
-				<button id="day-clear" type="button">Clear</button>
-				<button id="day-apply" type="button">Filter</button>
-			</div>
-		</div>
-	</div>
+  <div class="filter-control">
+    <button id="day-filter-btn" class="pill" type="button">day</button>
+    <div id="day-popover" class="popover" hidden>
+      <p>Filter by days:</p>
+      <label>
+        From: <input type="date" id="day-from" />
+      </label>
+      <label>
+        To: <input type="date" id="day-to" />
+      </label>
+      <div class="popover-actions">
+        <button id="day-clear" type="button">Clear</button>
+        <button id="day-apply" type="button">Filter</button>
+      </div>
+    </div>
+  </div>
 </div>
 
 <p id="no-matches" hidden>No matching showtimes.</p>
 
 <style>
-	.filter-bar {
-		display: flex;
-		align-items: center;
-		gap: 0.5rem;
-		margin-bottom: 1rem;
-	}
+  .filter-bar {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin-bottom: 1rem;
+  }
 
-	.filter-control {
-		position: relative;
-	}
+  .filter-control {
+    position: relative;
+  }
 
-	.pill {
-		border-radius: 999px;
-		padding: 0.4rem 1rem;
-		border: 1px solid #ccc;
-		background: white;
-		cursor: pointer;
-	}
+  .pill {
+    border-radius: 999px;
+    padding: 0.4rem 1rem;
+    border: 1px solid #ccc;
+    background: white;
+    cursor: pointer;
+  }
 
-	.popover {
-		position: absolute;
-		top: 100%;
-		left: 0;
-		margin-top: 0.25rem;
-		background: white;
-		border: 1px solid #ccc;
-		border-radius: 0.5rem;
-		padding: 0.75rem;
-		min-width: 16rem;
-		z-index: 1;
-	}
+  .popover {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    margin-top: 0.25rem;
+    background: white;
+    border: 1px solid #ccc;
+    border-radius: 0.5rem;
+    padding: 0.75rem;
+    min-width: 16rem;
+    z-index: 1;
+  }
 
-	.popover-actions {
-		display: flex;
-		justify-content: flex-end;
-		gap: 0.5rem;
-		margin-top: 0.5rem;
-	}
+  .popover-actions {
+    display: flex;
+    justify-content: flex-end;
+    gap: 0.5rem;
+    margin-top: 0.5rem;
+  }
 </style>
 
 <script>
-	const titleFilterBtn = document.getElementById("title-filter-btn") as HTMLButtonElement;
-	const titlePopover = document.getElementById("title-popover") as HTMLElement;
-	const titleInput = document.getElementById("title-input") as HTMLInputElement;
-	const titleClear = document.getElementById("title-clear") as HTMLButtonElement;
-	const titleApply = document.getElementById("title-apply") as HTMLButtonElement;
+  const titleFilterBtn = document.getElementById("title-filter-btn") as HTMLButtonElement;
+  const titlePopover = document.getElementById("title-popover") as HTMLElement;
+  const titleInput = document.getElementById("title-input") as HTMLInputElement;
+  const titleClear = document.getElementById("title-clear") as HTMLButtonElement;
+  const titleApply = document.getElementById("title-apply") as HTMLButtonElement;
 
-	const dayFilterBtn = document.getElementById("day-filter-btn") as HTMLButtonElement;
-	const dayPopover = document.getElementById("day-popover") as HTMLElement;
-	const dayFrom = document.getElementById("day-from") as HTMLInputElement;
-	const dayTo = document.getElementById("day-to") as HTMLInputElement;
-	const dayClear = document.getElementById("day-clear") as HTMLButtonElement;
-	const dayApply = document.getElementById("day-apply") as HTMLButtonElement;
+  const dayFilterBtn = document.getElementById("day-filter-btn") as HTMLButtonElement;
+  const dayPopover = document.getElementById("day-popover") as HTMLElement;
+  const dayFrom = document.getElementById("day-from") as HTMLInputElement;
+  const dayTo = document.getElementById("day-to") as HTMLInputElement;
+  const dayClear = document.getElementById("day-clear") as HTMLButtonElement;
+  const dayApply = document.getElementById("day-apply") as HTMLButtonElement;
 
-	const noMatches = document.getElementById("no-matches") as HTMLElement;
+  const noMatches = document.getElementById("no-matches") as HTMLElement;
 
-	// The day filter only takes effect on Filter/Clear (not live), so its
-	// committed range is tracked separately from the raw input values. The
-	// title filter has no equivalent — it's read live from titleInput.value
-	// every time applyFilters runs.
-	let activeDayFrom = "";
-	let activeDayTo = "";
+  // The day filter only takes effect on Filter/Clear (not live), so its
+  // committed range is tracked separately from the raw input values. The
+  // title filter has no equivalent — it's read live from titleInput.value
+  // every time applyFilters runs.
+  let activeDayFrom = "";
+  let activeDayTo = "";
 
-	// The single source of truth for visibility: every card is shown only
-	// if it satisfies BOTH the live title filter and the committed day
-	// filter (AND). Every place either filter can change calls this same
-	// function, so there's exactly one path that ever sets `hidden`.
-	function applyFilters() {
-		const titleNeedle = titleInput.value.trim().toLowerCase();
-		const cards = document.querySelectorAll<HTMLLIElement>(".movie-card");
-		let visibleCount = 0;
+  // The single source of truth for visibility: every card is shown only
+  // if it satisfies BOTH the live title filter and the committed day
+  // filter (AND). Every place either filter can change calls this same
+  // function, so there's exactly one path that ever sets `hidden`.
+  function applyFilters() {
+    const titleNeedle = titleInput.value.trim().toLowerCase();
+    const cards = document.querySelectorAll<HTMLLIElement>(".movie-card");
+    let visibleCount = 0;
 
-		for (const card of cards) {
-			const titleMatches = titleNeedle === "" || (card.dataset.title ?? "").includes(titleNeedle);
-			const date = card.dataset.date ?? "";
-			const dayMatches = activeDayFrom === "" || (date >= activeDayFrom && date <= activeDayTo);
-			const matches = titleMatches && dayMatches;
-			card.hidden = !matches;
-			if (matches) visibleCount += 1;
-		}
+    for (const card of cards) {
+      const titleMatches = titleNeedle === "" || (card.dataset.title ?? "").includes(titleNeedle);
+      const date = card.dataset.date ?? "";
+      const dayMatches = activeDayFrom === "" || (date >= activeDayFrom && date <= activeDayTo);
+      const matches = titleMatches && dayMatches;
+      card.hidden = !matches;
+      if (matches) visibleCount += 1;
+    }
 
-		for (const group of document.querySelectorAll<HTMLElement>(".day-group")) {
-			const hasVisibleCard = group.querySelector(".movie-card:not([hidden])") !== null;
-			group.hidden = !hasVisibleCard;
-		}
+    for (const group of document.querySelectorAll<HTMLElement>(".day-group")) {
+      const hasVisibleCard = group.querySelector(".movie-card:not([hidden])") !== null;
+      group.hidden = !hasVisibleCard;
+    }
 
-		noMatches.hidden = visibleCount > 0;
-	}
+    noMatches.hidden = visibleCount > 0;
+  }
 
-	function openPopover(popover: HTMLElement) {
-		popover.hidden = false;
-	}
+  function openPopover(popover: HTMLElement) {
+    popover.hidden = false;
+  }
 
-	function closePopover(popover: HTMLElement) {
-		popover.hidden = true;
-	}
+  function closePopover(popover: HTMLElement) {
+    popover.hidden = true;
+  }
 
-	titleFilterBtn.addEventListener("click", (event) => {
-		event.stopPropagation();
-		titlePopover.hidden ? openPopover(titlePopover) : closePopover(titlePopover);
-	});
+  titleFilterBtn.addEventListener("click", (event) => {
+    event.stopPropagation();
+    titlePopover.hidden ? openPopover(titlePopover) : closePopover(titlePopover);
+  });
 
-	titleInput.addEventListener("input", applyFilters);
+  titleInput.addEventListener("input", applyFilters);
 
-	titleClear.addEventListener("click", () => {
-		titleInput.value = "";
-		applyFilters();
-		closePopover(titlePopover);
-	});
+  titleClear.addEventListener("click", () => {
+    titleInput.value = "";
+    applyFilters();
+    closePopover(titlePopover);
+  });
 
-	// Filter is a no-op on the filter state — the title filter is already
-	// live — it only closes the popover. Clicking outside the popover does
-	// the same (see the document click listener below), so both behave
-	// identically: the current live-typed value stays applied either way.
-	titleApply.addEventListener("click", () => closePopover(titlePopover));
+  // Filter is a no-op on the filter state — the title filter is already
+  // live — it only closes the popover. Clicking outside the popover does
+  // the same (see the document click listener below), so both behave
+  // identically: the current live-typed value stays applied either way.
+  titleApply.addEventListener("click", () => closePopover(titlePopover));
 
-	document.addEventListener("click", (event) => {
-		if (!titlePopover.hidden && !titlePopover.contains(event.target as Node) && event.target !== titleFilterBtn) {
-			closePopover(titlePopover);
-		}
-	});
+  document.addEventListener("click", (event) => {
+    if (!titlePopover.hidden && !titlePopover.contains(event.target as Node) && event.target !== titleFilterBtn) {
+      closePopover(titlePopover);
+    }
+  });
 
-	dayFilterBtn.addEventListener("click", (event) => {
-		event.stopPropagation();
-		dayPopover.hidden ? openPopover(dayPopover) : closePopover(dayPopover);
-	});
+  dayFilterBtn.addEventListener("click", (event) => {
+    event.stopPropagation();
+    dayPopover.hidden ? openPopover(dayPopover) : closePopover(dayPopover);
+  });
 
-	dayClear.addEventListener("click", () => {
-		dayFrom.value = "";
-		dayTo.value = "";
-		activeDayFrom = "";
-		activeDayTo = "";
-		applyFilters();
-		closePopover(dayPopover);
-	});
+  dayClear.addEventListener("click", () => {
+    dayFrom.value = "";
+    dayTo.value = "";
+    activeDayFrom = "";
+    activeDayTo = "";
+    applyFilters();
+    closePopover(dayPopover);
+  });
 
-	dayApply.addEventListener("click", () => {
-		activeDayFrom = dayFrom.value;
-		activeDayTo = dayTo.value || dayFrom.value;
-		applyFilters();
-		closePopover(dayPopover);
-	});
+  dayApply.addEventListener("click", () => {
+    activeDayFrom = dayFrom.value;
+    activeDayTo = dayTo.value || dayFrom.value;
+    applyFilters();
+    closePopover(dayPopover);
+  });
 
-	// Unlike the title popover, closing without pressing Filter does NOT
-	// apply the pending from/to values — the day filter only ever changes
-	// on an explicit Filter press.
-	document.addEventListener("click", (event) => {
-		if (!dayPopover.hidden && !dayPopover.contains(event.target as Node) && event.target !== dayFilterBtn) {
-			closePopover(dayPopover);
-		}
-	});
+  // Unlike the title popover, closing without pressing Filter does NOT
+  // apply the pending from/to values — the day filter only ever changes
+  // on an explicit Filter press.
+  document.addEventListener("click", (event) => {
+    if (!dayPopover.hidden && !dayPopover.contains(event.target as Node) && event.target !== dayFilterBtn) {
+      closePopover(dayPopover);
+    }
+  });
 </script>

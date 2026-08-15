@@ -16,60 +16,60 @@ const dayGroups = groupByDay(upcoming);
 // "YYYY-MM-DD" — format it at UTC noon so no timezone reinterpretation can
 // shift it to the wrong day.
 const dayHeaderFormatter = new Intl.DateTimeFormat("en-US", {
-	timeZone: "UTC",
-	weekday: "short",
-	day: "2-digit",
-	month: "short",
-	year: "numeric",
+  timeZone: "UTC",
+  weekday: "short",
+  day: "2-digit",
+  month: "short",
+  year: "numeric",
 });
 
 function formatDayHeader(date: string): string {
-	const parts = dayHeaderFormatter.formatToParts(new Date(`${date}T12:00:00Z`));
-	const get = (type: string) => parts.find((part) => part.type === type)?.value ?? "";
-	return `${get("weekday")}, ${get("day")}-${get("month")}-${get("year")}`;
+  const parts = dayHeaderFormatter.formatToParts(new Date(`${date}T12:00:00Z`));
+  const get = (type: string) => parts.find((part) => part.type === type)?.value ?? "";
+  return `${get("weekday")}, ${get("day")}-${get("month")}-${get("year")}`;
 }
 ---
 
 <html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href={`${import.meta.env.BASE_URL}favicon.svg`} />
-		<link rel="icon" href={`${import.meta.env.BASE_URL}favicon.ico`} />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<title>SF Movies</title>
-	</head>
-	<body>
-		<h1>SF Movies</h1>
-		<FilterBar />
-		{
-			dayGroups.length === 0 ? (
-				<p>No upcoming showtimes yet.</p>
-			) : (
-				dayGroups.map((group) => (
-					<section class="day-group">
-						<h2>{formatDayHeader(group.date)}</h2>
-						<ul class="day-group__cards">
-							{group.events.map((event) => (
-								<MovieCard event={event} />
-							))}
-						</ul>
-					</section>
-				))
-			)
-		}
-	</body>
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" type="image/svg+xml" href={`${import.meta.env.BASE_URL}favicon.svg`} />
+    <link rel="icon" href={`${import.meta.env.BASE_URL}favicon.ico`} />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="generator" content={Astro.generator} />
+    <title>SF Movies</title>
+  </head>
+  <body>
+    <h1>SF Movies</h1>
+    <FilterBar />
+    {
+      dayGroups.length === 0 ? (
+        <p>No upcoming showtimes yet.</p>
+      ) : (
+        dayGroups.map((group) => (
+          <section class="day-group">
+            <h2>{formatDayHeader(group.date)}</h2>
+            <ul class="day-group__cards">
+              {group.events.map((event) => (
+                <MovieCard event={event} />
+              ))}
+            </ul>
+          </section>
+        ))
+      )
+    }
+  </body>
 </html>
 
 <style is:global>
-	body {
-		background: #f0f0f0;
-	}
+  body {
+    background: #f0f0f0;
+  }
 </style>
 
 <style>
-	.day-group__cards {
-		padding: 0;
-		margin: 0;
-	}
+  .day-group__cards {
+    padding: 0;
+    margin: 0;
+  }
 </style>

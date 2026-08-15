@@ -5,15 +5,19 @@ Scratch Pad / Notes from Last Session
 
 ## Convert code to using 2 spaces for indentation
 
-## move to subdomain sf-movies.nitid.co
 
 ## Improve appearance
+  - change font to Lato
 
 ## Default to next 2 weeks of movies
 ## Filter by subset of movies
 ## Filter by Ratings
 ## Show de-duped list of movies playing during date range
 
+
+## move to subdomain sf-movies.nitid.co
+
+# Let's go to a Movie! page
 ## I can make a pile/list of movies I'm considering for comparing or sharing later
 ## I can share my movie picks with my friends and they can vote on their preference
 
