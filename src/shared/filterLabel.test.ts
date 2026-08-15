@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { dayFilterLabel, titleFilterLabel } from "./filterLabel";
+import { dayFilterLabel, theaterFilterLabel, titleFilterLabel } from "./filterLabel";
 
 describe("titleFilterLabel", () => {
   it("returns the plain label when the value is empty", () => {
@@ -26,5 +26,19 @@ describe("dayFilterLabel", () => {
 
   it("returns a dashed range when from and to differ", () => {
     expect(dayFilterLabel("2026-08-15", "2026-08-22")).toEqual("day: Aug 15–Aug 22");
+  });
+});
+
+describe("theaterFilterLabel", () => {
+  it("returns the plain label when nothing is selected", () => {
+    expect(theaterFilterLabel(0)).toEqual("theaters");
+  });
+
+  it("returns the count when one theater is selected", () => {
+    expect(theaterFilterLabel(1)).toEqual("theaters: 1");
+  });
+
+  it("returns the count when multiple theaters are selected", () => {
+    expect(theaterFilterLabel(3)).toEqual("theaters: 3");
   });
 });

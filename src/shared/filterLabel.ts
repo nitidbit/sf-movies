@@ -20,3 +20,7 @@ export function dayFilterLabel(from: string, to: string): string {
   if (from === to) return `day: ${formatDay(from)}`;
   return `day: ${formatDay(from)}–${formatDay(to)}`;
 }
+
+export function theaterFilterLabel(selectedCount: number): string {
+  return selectedCount === 0 ? "theaters" : `theaters: ${selectedCount}`;
+}

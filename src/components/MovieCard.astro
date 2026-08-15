@@ -24,6 +24,7 @@ const dateTimeFormatter = new Intl.DateTimeFormat("en-US", {
   class="movie-card"
   data-title={event.title.toLowerCase()}
   data-date={localDayOf(new Date(event.startTime))}
+  data-theater={event.theater}
 >
   <div class="movie-card__title">
     <a href={event.sourceUrl} target="_blank" rel="noopener">

@@ -14,8 +14,12 @@ theaters.
 - similar to other filters, when I'm filtering, the number of theaters I have
   chosen is listed. E.g. "theaters: 2"
 
-## Filter by subset of movies
+## show genre
+## show rating
+## better scraping of description if possible.
+
 ## Filter by Ratings
+## filter by genre
 
 ## Show de-duped list of movies playing during date range
 

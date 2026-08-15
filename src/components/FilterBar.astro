@@ -1,3 +1,9 @@
+---
+import { theaters } from "../shared/theaters";
+
+const sortedTheaters = Object.values(theaters).sort((a, b) => (a.name < b.name ? -1 : 1));
+---
+
 <div class="filter-bar">
   <span>Filter by:</span>
 
@@ -28,6 +34,25 @@
       <div class="popover-actions">
         <button id="day-clear" type="button">Clear</button>
         <button id="day-apply" type="button">Filter</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="filter-control">
+    <button id="theater-filter-btn" class="pill" type="button">theaters</button>
+    <div id="theater-popover" class="popover" hidden>
+      <p>Filter by theater:</p>
+      {
+        sortedTheaters.map((theater) => (
+          <label class="theater-option">
+            <input type="checkbox" class="theater-checkbox" value={theater.name} />
+            {theater.name}
+          </label>
+        ))
+      }
+      <div class="popover-actions">
+        <button id="theater-clear" type="button">Clear</button>
+        <button id="theater-apply" type="button">Filter</button>
       </div>
     </div>
   </div>
@@ -68,6 +93,11 @@
     z-index: 1;
   }
 
+  .theater-option {
+    display: block;
+    margin: 0.25rem 0;
+  }
+
   .popover-actions {
     display: flex;
     justify-content: flex-end;
@@ -77,7 +107,7 @@
 </style>
 
 <script>
-  import { dayFilterLabel, titleFilterLabel } from "../shared/filterLabel";
+  import { dayFilterLabel, theaterFilterLabel, titleFilterLabel } from "../shared/filterLabel";
   import { localDayOf } from "../shared/events/query";
 
   const titleFilterBtn = document.getElementById("title-filter-btn") as HTMLButtonElement;
@@ -92,6 +122,12 @@
   const dayTo = document.getElementById("day-to") as HTMLInputElement;
   const dayClear = document.getElementById("day-clear") as HTMLButtonElement;
   const dayApply = document.getElementById("day-apply") as HTMLButtonElement;
+
+  const theaterFilterBtn = document.getElementById("theater-filter-btn") as HTMLButtonElement;
+  const theaterPopover = document.getElementById("theater-popover") as HTMLElement;
+  const theaterCheckboxes = document.querySelectorAll<HTMLInputElement>(".theater-checkbox");
+  const theaterClear = document.getElementById("theater-clear") as HTMLButtonElement;
+  const theaterApply = document.getElementById("theater-apply") as HTMLButtonElement;
 
   const noMatches = document.getElementById("no-matches") as HTMLElement;
 
@@ -116,6 +152,17 @@
 
   updateDayLabel();
 
+  // Checked theaters apply live, same as the title filter — there's no
+  // in-progress state to protect against with a checkbox toggle. An empty
+  // set means "no theater filter," not "no theaters."
+  const checkedTheaters = new Set<string>();
+
+  function updateTheaterLabel() {
+    theaterFilterBtn.textContent = theaterFilterLabel(checkedTheaters.size);
+  }
+
+  updateTheaterLabel();
+
   // The single source of truth for visibility: every card is shown only
   // if it satisfies BOTH the live title filter and the committed day
   // filter (AND). Every place either filter can change calls this same
@@ -131,7 +178,8 @@
       const titleMatches = titleNeedle === "" || (card.dataset.title ?? "").includes(titleNeedle);
       const date = card.dataset.date ?? "";
       const dayMatches = activeDayFrom === "" || (date >= activeDayFrom && date <= activeDayTo);
-      const matches = titleMatches && dayMatches;
+      const theaterMatches = checkedTheaters.size === 0 || checkedTheaters.has(card.dataset.theater ?? "");
+      const matches = titleMatches && dayMatches && theaterMatches;
       card.hidden = !matches;
       if (matches) visibleCount += 1;
     }
@@ -206,6 +254,48 @@
   document.addEventListener("click", (event) => {
     if (!dayPopover.hidden && !dayPopover.contains(event.target as Node) && event.target !== dayFilterBtn) {
       closePopover(dayPopover);
+    }
+  });
+
+  theaterFilterBtn.addEventListener("click", (event) => {
+    event.stopPropagation();
+    theaterPopover.hidden ? openPopover(theaterPopover) : closePopover(theaterPopover);
+  });
+
+  for (const checkbox of theaterCheckboxes) {
+    checkbox.addEventListener("change", () => {
+      if (checkbox.checked) {
+        checkedTheaters.add(checkbox.value);
+      } else {
+        checkedTheaters.delete(checkbox.value);
+      }
+      updateTheaterLabel();
+      applyFilters();
+    });
+  }
+
+  theaterClear.addEventListener("click", () => {
+    for (const checkbox of theaterCheckboxes) {
+      checkbox.checked = false;
+    }
+    checkedTheaters.clear();
+    updateTheaterLabel();
+    applyFilters();
+    closePopover(theaterPopover);
+  });
+
+  // Filter is a no-op on the filter state — checking a box already
+  // applies live — it only closes the popover, matching the title panel's
+  // Filter button.
+  theaterApply.addEventListener("click", () => closePopover(theaterPopover));
+
+  document.addEventListener("click", (event) => {
+    if (
+      !theaterPopover.hidden &&
+      !theaterPopover.contains(event.target as Node) &&
+      event.target !== theaterFilterBtn
+    ) {
+      closePopover(theaterPopover);
     }
   });
 
