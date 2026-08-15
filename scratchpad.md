@@ -3,17 +3,6 @@ Scratch Pad / Notes from Last Session
 
 # Stories
 
-## Filter by Theater
-As user, I want to narrow down the theaters I'm looking at because some theaters
-I don't want to go to. I can choose to filter by theater, and click a few
-theaters.
-- Similar to other filters, there is a pop-up filter panel
-- on the filter panel, each theater is listed in alpha order with a checkbox to
-  the left. When I click on the checkbox, then movies from that theater are
-  shown.
-- similar to other filters, when I'm filtering, the number of theaters I have
-  chosen is listed. E.g. "theaters: 2"
-
 ## show genre
 ## show rating
 ## better scraping of description if possible.
@@ -28,6 +17,13 @@ theaters.
 
 # Let's go to a Movie! page
 ## I can make a pile/list of movies I'm considering for comparing or sharing later
+  On desktop, the view will have left and right half. When I click a star icon,
+  a copy of the card appears to move to the right 1/4 of the way. Then the copy
+  appears in the right half of the screen.
+
+  On mobile, we keep the left/right screen concept, but we only see one at a
+  time. We can swipe left or right to see the two halves.
+
 ## I can share my movie picks with my friends and they can vote on their preference
 
 ## I can click a button next to a movie to save the movie to my calendar

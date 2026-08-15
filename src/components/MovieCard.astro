@@ -5,9 +5,10 @@ import { localDayOf } from "../shared/events/query";
 
 interface Props {
   event: Event;
+  hidden?: boolean;
 }
 
-const { event } = Astro.props;
+const { event, hidden = false } = Astro.props;
 
 const dateTimeFormatter = new Intl.DateTimeFormat("en-US", {
   timeZone: "America/Los_Angeles",
@@ -25,11 +26,18 @@ const dateTimeFormatter = new Intl.DateTimeFormat("en-US", {
   data-title={event.title.toLowerCase()}
   data-date={localDayOf(new Date(event.startTime))}
   data-theater={event.theater}
+  data-source-url={event.sourceUrl}
+  hidden={hidden}
 >
-  <div class="movie-card__title">
-    <a href={event.sourceUrl} target="_blank" rel="noopener">
-      {event.title}
-    </a>
+  <div class="movie-card__header">
+    <div class="movie-card__title">
+      <a href={event.sourceUrl} target="_blank" rel="noopener">
+        {event.title}
+      </a>
+    </div>
+    <button class="star-toggle" type="button" aria-label="Add to shortlist" aria-pressed="false">
+      ☆
+    </button>
   </div>
   { event.notes &&
     <p class="movie-card__notes">{event.notes}</p>
@@ -57,9 +65,46 @@ const dateTimeFormatter = new Intl.DateTimeFormat("en-US", {
     margin-bottom: 2px;
   }
 
+  .movie-card__header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 0.5rem;
+    margin-bottom: 0.6rem;
+  }
+
   .movie-card__title {
     font-weight: bold;
-    margin-bottom: 0.6rem;
+  }
+
+  .star-toggle {
+    flex-shrink: 0;
+    background: none;
+    border: none;
+    padding: 0;
+    font-size: 1.1rem;
+    line-height: 1;
+    cursor: pointer;
+    color: #999;
+  }
+
+  .star-toggle[aria-pressed="true"] {
+    color: #e0a800;
+  }
+
+  @keyframes shortlist-reveal {
+    from {
+      opacity: 0;
+      transform: translateY(-4px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  .movie-card--revealed {
+    animation: shortlist-reveal 0.3s ease-out;
   }
 
   .movie-card__meta {

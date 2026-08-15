@@ -48,36 +48,181 @@ function formatDayHeader(date: string): string {
   <body>
     <main class="content">
       <h1>SF Movies</h1>
-      <FilterBar />
-      {
-        dayGroups.length === 0 ? (
-          <p>No upcoming showtimes yet.</p>
-        ) : (
-          dayGroups.map((group) => (
-            <section class="day-group">
-              <h2>{formatDayHeader(group.date)}</h2>
-              <ul class="day-group__cards">
-                {group.events.map((event) => (
-                  <MovieCard event={event} />
-                ))}
-              </ul>
-            </section>
-          ))
-        )
-      }
+      <div class="panes">
+        <section class="pane browse-pane">
+          <FilterBar />
+          {
+            dayGroups.length === 0 ? (
+              <p>No upcoming showtimes yet.</p>
+            ) : (
+              dayGroups.map((group) => (
+                <section class="day-group">
+                  <h2>{formatDayHeader(group.date)}</h2>
+                  <ul class="day-group__cards">
+                    {group.events.map((event) => (
+                      <MovieCard event={event} />
+                    ))}
+                  </ul>
+                </section>
+              ))
+            )
+          }
+        </section>
+
+        <section class="pane shortlist-pane">
+          <h2 class="shortlist-pane__heading">My Shortlist</h2>
+          <p id="shortlist-empty" class="shortlist-empty">
+            Nothing starred yet — click ☆ on a showing to add it here.
+          </p>
+          {
+            dayGroups.map((group) => (
+              <section class="day-group" hidden>
+                <h2>{formatDayHeader(group.date)}</h2>
+                <ul class="day-group__cards">
+                  {group.events.map((event) => (
+                    <MovieCard event={event} hidden />
+                  ))}
+                </ul>
+              </section>
+            ))
+          }
+        </section>
+      </div>
     </main>
   </body>
 </html>
 
 <style>
   .content {
-    max-width: 900px;
+    max-width: 1400px;
     margin: 0 auto;
-    padding: 0;
+    padding: 0 1rem;
+  }
+
+  .panes {
+    display: flex;
+    align-items: flex-start;
+    gap: 2rem;
+  }
+
+  .pane {
+    flex: 1 1 50%;
+    min-width: 0;
+    max-height: calc(100vh - 6rem);
+    overflow-y: auto;
+  }
+
+  .shortlist-pane__heading {
+    margin-top: 0;
+  }
+
+  .shortlist-empty {
+    opacity: 0.7;
   }
 
   .day-group__cards {
     padding: 0;
     margin: 0;
   }
+
+  /* Below this width, the two panes become full-width, swipeable via
+     native scroll-snap instead of sitting side by side. */
+  @media (max-width: 768px) {
+    .panes {
+      gap: 0;
+      overflow-x: auto;
+      scroll-snap-type: x mandatory;
+    }
+
+    .pane {
+      flex: 0 0 100%;
+      scroll-snap-align: start;
+    }
+  }
 </style>
+
+<script>
+  import { loadShortlist, saveShortlist } from "../shared/shortlist";
+
+  interface CardRefs {
+    starButtons: HTMLButtonElement[];
+    shortlistCard: HTMLLIElement | null;
+  }
+
+  const shortlistEmpty = document.getElementById("shortlist-empty") as HTMLElement;
+  const shortlistedIds = new Set(loadShortlist());
+
+  // One pass over every card (both panes) builds a sourceUrl -> refs map,
+  // so toggling a star is an O(1) lookup instead of re-querying the DOM
+  // on every click.
+  const cardsBySourceUrl = new Map<string, CardRefs>();
+
+  for (const card of document.querySelectorAll<HTMLLIElement>(".movie-card")) {
+    const sourceUrl = card.dataset.sourceUrl;
+    if (!sourceUrl) continue;
+
+    const refs = cardsBySourceUrl.get(sourceUrl) ?? { starButtons: [], shortlistCard: null };
+    const button = card.querySelector<HTMLButtonElement>(".star-toggle");
+    if (button) refs.starButtons.push(button);
+    if (card.closest(".shortlist-pane")) refs.shortlistCard = card;
+
+    cardsBySourceUrl.set(sourceUrl, refs);
+  }
+
+  function updateShortlistDayGroups() {
+    for (const group of document.querySelectorAll<HTMLElement>(".shortlist-pane .day-group")) {
+      const hasVisibleCard = group.querySelector(".movie-card:not([hidden])") !== null;
+      group.hidden = !hasVisibleCard;
+    }
+    shortlistEmpty.hidden = shortlistedIds.size > 0;
+  }
+
+  // The single source of truth for a showing's starred state: updates both
+  // star buttons (browse + shortlist twin), the shortlist twin's
+  // visibility, and persistence. `animate` is false when restoring saved
+  // state on load — only a user's own click should trigger the reveal
+  // transition.
+  function setStarred(sourceUrl: string, starred: boolean, animate: boolean) {
+    const refs = cardsBySourceUrl.get(sourceUrl);
+    if (!refs) return;
+
+    for (const button of refs.starButtons) {
+      button.textContent = starred ? "★" : "☆";
+      button.setAttribute("aria-pressed", String(starred));
+    }
+
+    if (refs.shortlistCard) {
+      refs.shortlistCard.hidden = !starred;
+      if (starred && animate) {
+        refs.shortlistCard.classList.add("movie-card--revealed");
+        refs.shortlistCard.addEventListener(
+          "animationend",
+          () => refs.shortlistCard?.classList.remove("movie-card--revealed"),
+          { once: true },
+        );
+      }
+    }
+
+    updateShortlistDayGroups();
+  }
+
+  for (const sourceUrl of shortlistedIds) {
+    setStarred(sourceUrl, true, false);
+  }
+  updateShortlistDayGroups();
+
+  for (const [sourceUrl, refs] of cardsBySourceUrl) {
+    for (const button of refs.starButtons) {
+      button.addEventListener("click", () => {
+        const starred = !shortlistedIds.has(sourceUrl);
+        if (starred) {
+          shortlistedIds.add(sourceUrl);
+        } else {
+          shortlistedIds.delete(sourceUrl);
+        }
+        setStarred(sourceUrl, starred, true);
+        saveShortlist(Array.from(shortlistedIds));
+      });
+    }
+  }
+</script>
