@@ -77,6 +77,9 @@
 </style>
 
 <script>
+  import { dayFilterLabel, titleFilterLabel } from "../shared/filterLabel";
+  import { localDayOf } from "../shared/events/query";
+
   const titleFilterBtn = document.getElementById("title-filter-btn") as HTMLButtonElement;
   const titlePopover = document.getElementById("title-popover") as HTMLElement;
   const titleInput = document.getElementById("title-input") as HTMLInputElement;
@@ -96,14 +99,30 @@
   // committed range is tracked separately from the raw input values. The
   // title filter has no equivalent — it's read live from titleInput.value
   // every time applyFilters runs.
-  let activeDayFrom = "";
-  let activeDayTo = "";
+  //
+  // Defaults to "now through 7 days out" so the page opens showing the
+  // near-term schedule rather than every future showtime.
+  const today = localDayOf(new Date());
+  const oneWeekOut = localDayOf(new Date(Date.now() + 7 * 24 * 60 * 60 * 1000));
+
+  let activeDayFrom = today;
+  let activeDayTo = oneWeekOut;
+  dayFrom.value = today;
+  dayTo.value = oneWeekOut;
+
+  function updateDayLabel() {
+    dayFilterBtn.textContent = dayFilterLabel(activeDayFrom, activeDayTo);
+  }
+
+  updateDayLabel();
 
   // The single source of truth for visibility: every card is shown only
   // if it satisfies BOTH the live title filter and the committed day
   // filter (AND). Every place either filter can change calls this same
   // function, so there's exactly one path that ever sets `hidden`.
   function applyFilters() {
+    titleFilterBtn.textContent = titleFilterLabel(titleInput.value);
+
     const titleNeedle = titleInput.value.trim().toLowerCase();
     const cards = document.querySelectorAll<HTMLLIElement>(".movie-card");
     let visibleCount = 0;
@@ -168,6 +187,7 @@
     dayTo.value = "";
     activeDayFrom = "";
     activeDayTo = "";
+    updateDayLabel();
     applyFilters();
     closePopover(dayPopover);
   });
@@ -175,6 +195,7 @@
   dayApply.addEventListener("click", () => {
     activeDayFrom = dayFrom.value;
     activeDayTo = dayTo.value || dayFrom.value;
+    updateDayLabel();
     applyFilters();
     closePopover(dayPopover);
   });
@@ -187,4 +208,6 @@
       closePopover(dayPopover);
     }
   });
+
+  applyFilters();
 </script>
