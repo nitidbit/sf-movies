@@ -36,7 +36,7 @@ export const theaters: Record<string, TheaterConfig> = {
   },
   alamo: {
     slug: "alamo",
-    name: "Alamo Drafthouse New Mission",
+    name: "Alamo",
     baseUrl: "https://drafthouse.com/sf",
     source: "scenef",
     venueId: "alamo-new-mission",
