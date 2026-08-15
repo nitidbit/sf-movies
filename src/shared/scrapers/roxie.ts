@@ -1,6 +1,6 @@
 import * as cheerio from "cheerio";
 import type { Event } from "../events/event";
-import { zonedTimeToUtc } from "../timezone";
+import { zonedIsoString, zonedTimeToUtc } from "../timezone";
 
 const LA_TIME_ZONE = "America/Los_Angeles";
 const DAY_ID_PATTERN = /^day-(\d{4})-(\d{2})-(\d{2})$/;
@@ -60,7 +60,7 @@ export function parseRoxieCalendar(html: string, theater: string): Event[] {
             events.push({
               theater,
               title,
-              startTime: startTime.toISOString(),
+              startTime: zonedIsoString(startTime, LA_TIME_ZONE),
               sourceUrl: sourceUrlFor(filmUrl, year, month, day, hour, minute),
             });
           });

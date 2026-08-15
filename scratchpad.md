@@ -5,13 +5,17 @@ Scratch Pad / Notes from Last Session
 ## better scraping of description if possible.
 
 ## Filter by title and description
-## in movie-data, store movie times in local time zone.
 
+Fix size of start button--it should be 20px high.
+- Can the hot spot extend past it's rendered dimensions?
 
 ## Show de-duped list of movies playing during date range
   - This is a "movie list" compared to the current "showtime" list.
   - It shows each movee, and then an expanding card beneath for each showtime/theater
 
+* `/write-a-prd`
+* `/prd-to-issues`
+* `/review-architecture` — Review code with "Characteristics of Good Code" in
 
 
 ## move to subdomain sf-movies.nitid.co

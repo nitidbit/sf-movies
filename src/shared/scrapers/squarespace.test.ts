@@ -1,5 +1,8 @@
 import { describe, expect, it, vi } from "vitest";
 import { fetchSquarespaceEvents, parseSquarespaceEvent } from "./squarespace";
+import { zonedIsoString } from "../timezone";
+
+const LA_TIME_ZONE = "America/Los_Angeles";
 
 describe("parseSquarespaceEvent", () => {
   it("normalizes a plain showtime with no extra notes", () => {
@@ -13,8 +16,8 @@ describe("parseSquarespaceEvent", () => {
     expect(parseSquarespaceEvent(raw, "Balboa", "https://www.balboamovies.com")).toEqual({
       theater: "Balboa",
       title: "The Handmaiden",
-      startTime: new Date(1786764600529).toISOString(),
-      endTime: new Date(1786774200529).toISOString(),
+      startTime: zonedIsoString(new Date(1786764600529), LA_TIME_ZONE),
+      endTime: zonedIsoString(new Date(1786774200529), LA_TIME_ZONE),
       sourceUrl: "https://www.balboamovies.com/calendar-of-events/the-handmaiden-august-13",
     });
   });

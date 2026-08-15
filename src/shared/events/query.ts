@@ -10,11 +10,19 @@ export function localDayOf(date: Date): string {
   return laDateFormatter.format(date);
 }
 
+// Chronological order by instant, not by string — startTime strings carry
+// their own local UTC offset (see Event), so plain string comparison isn't
+// reliable across a DST change. Every startTime sort in this codebase goes
+// through this one function.
+export function compareByStartTime(a: Pick<Event, "startTime">, b: Pick<Event, "startTime">): number {
+  return new Date(a.startTime).getTime() - new Date(b.startTime).getTime();
+}
+
 export function findByTitle(events: Event[], query: string): Event[] {
   const needle = query.toLowerCase();
   return events
     .filter((event) => event.title.toLowerCase().includes(needle))
-    .sort((a, b) => a.startTime.localeCompare(b.startTime));
+    .sort(compareByStartTime);
 }
 
 // startDate/endDate are inclusive "YYYY-MM-DD" strings in
@@ -25,7 +33,7 @@ export function findByDateRange(events: Event[], startDate: string, endDate: str
       const day = localDayOf(new Date(event.startTime));
       return day >= startDate && day <= endDate;
     })
-    .sort((a, b) => a.startTime.localeCompare(b.startTime));
+    .sort(compareByStartTime);
 }
 
 export interface DayGroup {

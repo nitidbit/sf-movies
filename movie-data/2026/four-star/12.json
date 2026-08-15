@@ -2,16 +2,16 @@
   {
     "theater": "4-Star",
     "title": "LIVE MUSIC: Dagmar Zuniga (Presented by THROWIN' BO'S)",
-    "startTime": "2026-12-06T04:00:00.206Z",
-    "endTime": "2026-12-06T07:00:00.206Z",
+    "startTime": "2026-12-05T20:00:00-08:00",
+    "endTime": "2026-12-05T23:00:00-08:00",
     "sourceUrl": "https://www.4-star-movies.com/calendar-of-events/live-music-dagmar-zuniga",
     "notes": "Music at"
   },
   {
     "theater": "4-Star",
     "title": "LIVE MUSIC: June McDoom (Presented by THROWIN' BO'S)",
-    "startTime": "2026-12-13T04:00:00.985Z",
-    "endTime": "2026-12-13T07:00:00.985Z",
+    "startTime": "2026-12-12T20:00:00-08:00",
+    "endTime": "2026-12-12T23:00:00-08:00",
     "sourceUrl": "https://www.4-star-movies.com/calendar-of-events/live-music-june-mcdoom",
     "notes": "Music at"
   }

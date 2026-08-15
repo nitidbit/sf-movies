@@ -1,6 +1,7 @@
 import { readdir, readFile } from "node:fs/promises";
 import { join } from "node:path";
 import type { Event } from "./event";
+import { compareByStartTime } from "./query";
 
 async function findJsonFiles(dir: string): Promise<string[]> {
   const entries = await readdir(dir, { withFileTypes: true });
@@ -30,5 +31,5 @@ export async function loadAllEvents(dataDir: string): Promise<Event[]> {
     await Promise.all(files.map(async (file) => JSON.parse(await readFile(file, "utf-8")) as Event[]))
   ).flat();
 
-  return events.sort((a, b) => a.startTime.localeCompare(b.startTime));
+  return events.sort(compareByStartTime);
 }

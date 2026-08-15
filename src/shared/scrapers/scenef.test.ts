@@ -29,14 +29,14 @@ describe("parseSceneFListings", () => {
       {
         theater: "Alamo Drafthouse New Mission",
         title: "The Odyssey",
-        startTime: "2026-08-13T23:45:00.000Z",
+        startTime: "2026-08-13T16:45:00-07:00",
         sourceUrl: "https://scenef.com/go/1f708f4cec96",
         attribution: "Showtimes via SceneF.com",
       },
       {
         theater: "Alamo Drafthouse New Mission",
         title: "Teenage Sex and Death at Camp Miasma",
-        startTime: "2026-08-14T00:00:00.000Z",
+        startTime: "2026-08-13T17:00:00-07:00",
         sourceUrl: "https://scenef.com/go/bfc1113620df",
         attribution: "Showtimes via SceneF.com",
         notes: "sold-out",

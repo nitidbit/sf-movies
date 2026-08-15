@@ -44,13 +44,8 @@ const dateTimeFormatter = new Intl.DateTimeFormat("en-US", {
     <p class="movie-card__notes">{event.notes}</p>
   }
   <div class="movie-card__meta">
-    <span>
+    <span title={event.attribution}>
       {preferredDateTimeFmt(dateTimeFormatter, new Date(event.startTime))}
-    </span>
-    <span>
-      { event.attribution &&
-        <small class="movie-card__attribution">({event.attribution})</small>
-      }
     </span>
     <span class="movie-card__theater">{event.theater}</span>
   </div>
@@ -114,11 +109,6 @@ const dateTimeFormatter = new Intl.DateTimeFormat("en-US", {
 
   .movie-card__notes {
     margin: 0.25rem 0 0;
-    font-size: var(--font-size-sm);
-  }
-
-  .movie-card__attribution {
-    opacity: 0.75;
     font-size: var(--font-size-sm);
   }
 </style>

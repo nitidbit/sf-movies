@@ -2,57 +2,57 @@
   {
     "theater": "Vogue",
     "title": "Bullitt",
-    "startTime": "2026-09-01T23:30:00.567Z",
-    "endTime": "2026-09-02T04:40:00.567Z",
+    "startTime": "2026-09-01T16:30:00-07:00",
+    "endTime": "2026-09-01T21:40:00-07:00",
     "sourceUrl": "https://voguemovies.com/calendar-of-events/bullitt-september-1"
   },
   {
     "theater": "Vogue",
     "title": "Bullitt",
-    "startTime": "2026-09-02T23:30:00.555Z",
-    "endTime": "2026-09-03T04:40:00.555Z",
+    "startTime": "2026-09-02T16:30:00-07:00",
+    "endTime": "2026-09-02T21:40:00-07:00",
     "sourceUrl": "https://voguemovies.com/calendar-of-events/bullitt-september-2"
   },
   {
     "theater": "Vogue",
     "title": "The Game",
-    "startTime": "2026-09-03T23:30:00.555Z",
-    "endTime": "2026-09-04T04:55:00.555Z",
+    "startTime": "2026-09-03T16:30:00-07:00",
+    "endTime": "2026-09-03T21:55:00-07:00",
     "sourceUrl": "https://voguemovies.com/calendar-of-events/the-game-september-3"
   },
   {
     "theater": "Vogue",
     "title": "The Game",
-    "startTime": "2026-09-04T23:30:00.748Z",
-    "endTime": "2026-09-05T04:55:00.748Z",
+    "startTime": "2026-09-04T16:30:00-07:00",
+    "endTime": "2026-09-04T21:55:00-07:00",
     "sourceUrl": "https://voguemovies.com/calendar-of-events/the-game-september-4"
   },
   {
     "theater": "Vogue",
     "title": "Zodiac",
-    "startTime": "2026-09-05T20:30:00.039Z",
-    "endTime": "2026-09-06T05:25:00.039Z",
+    "startTime": "2026-09-05T13:30:00-07:00",
+    "endTime": "2026-09-05T22:25:00-07:00",
     "sourceUrl": "https://voguemovies.com/calendar-of-events/zodiac-september-5"
   },
   {
     "theater": "Vogue",
     "title": "Zodiac",
-    "startTime": "2026-09-06T20:30:00.295Z",
-    "endTime": "2026-09-07T05:25:00.295Z",
+    "startTime": "2026-09-06T13:30:00-07:00",
+    "endTime": "2026-09-06T22:25:00-07:00",
     "sourceUrl": "https://voguemovies.com/calendar-of-events/zodiac-september-6"
   },
   {
     "theater": "Vogue",
     "title": "National Theatre Live: The Playboy of the Western World",
-    "startTime": "2026-09-15T02:00:00.362Z",
-    "endTime": "2026-09-15T04:55:00.362Z",
+    "startTime": "2026-09-14T19:00:00-07:00",
+    "endTime": "2026-09-14T21:55:00-07:00",
     "sourceUrl": "https://voguemovies.com/calendar-of-events/national-theatre-live-the-playboy-of-the-western-world-september-14"
   },
   {
     "theater": "Vogue",
     "title": "National Theatre Live: The Misanthrope",
-    "startTime": "2026-09-29T02:00:00.291Z",
-    "endTime": "2026-09-29T03:00:00.291Z",
+    "startTime": "2026-09-28T19:00:00-07:00",
+    "endTime": "2026-09-28T20:00:00-07:00",
     "sourceUrl": "https://voguemovies.com/calendar-of-events/national-theatre-live-the-misanthrope-september-28"
   }
 ]

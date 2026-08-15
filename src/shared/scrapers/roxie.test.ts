@@ -16,7 +16,7 @@ describe("parseRoxieCalendar", () => {
     expect(roxieFirstLooks).toEqual({
       theater: "Roxie",
       title: "Roxie First Looks #12",
-      startTime: "2026-08-13T23:15:00.000Z", // Aug 13, 4:15pm PDT
+      startTime: "2026-08-13T16:15:00-07:00",
       sourceUrl:
         "https://roxie.com/film/roxie-first-looks-12/#showtimes-20260813-1615",
     });
@@ -30,14 +30,14 @@ describe("parseRoxieCalendar", () => {
       {
         theater: "Roxie",
         title: "The Samurai and the Prisoner",
-        startTime: "2026-08-16T22:10:00.000Z", // Aug 16, 3:10pm PDT
+        startTime: "2026-08-16T15:10:00-07:00",
         sourceUrl:
           "https://roxie.com/film/the-samurai-and-the-prisoner/#showtimes-20260816-1510",
       },
       {
         theater: "Roxie",
         title: "The Samurai and the Prisoner",
-        startTime: "2026-08-17T02:10:00.000Z", // Aug 16, 7:10pm PDT
+        startTime: "2026-08-16T19:10:00-07:00",
         sourceUrl:
           "https://roxie.com/film/the-samurai-and-the-prisoner/#showtimes-20260816-1910",
       },

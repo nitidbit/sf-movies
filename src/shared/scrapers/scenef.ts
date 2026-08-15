@@ -1,6 +1,8 @@
 import type { Event } from "../events/event";
+import { zonedIsoString } from "../timezone";
 
 const ATTRIBUTION = "Showtimes via SceneF.com";
+const LA_TIME_ZONE = "America/Los_Angeles";
 
 interface SceneFFilm {
   key: string;
@@ -26,7 +28,7 @@ export function parseSceneFListings(data: SceneFListingsResponse, theater: strin
   return data.screenings.map((screening) => ({
     theater,
     title: titleByFilmKey.get(screening.filmKey) ?? "Unknown film",
-    startTime: new Date(screening.startsAt).toISOString(),
+    startTime: zonedIsoString(new Date(screening.startsAt), LA_TIME_ZONE),
     sourceUrl: screening.ticketUrl,
     attribution: ATTRIBUTION,
     ...(screening.tags && screening.tags.length > 0 && { notes: screening.tags.join(", ") }),

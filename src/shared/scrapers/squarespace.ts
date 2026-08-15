@@ -1,4 +1,7 @@
 import type { Event } from "../events/event";
+import { zonedIsoString } from "../timezone";
+
+const LA_TIME_ZONE = "America/Los_Angeles";
 
 interface RawSquarespaceEvent {
   title: string;
@@ -50,8 +53,8 @@ export function parseSquarespaceEvent(
   return {
     theater,
     title,
-    startTime: new Date(raw.startDate).toISOString(),
-    ...(raw.endDate !== undefined && { endTime: new Date(raw.endDate).toISOString() }),
+    startTime: zonedIsoString(new Date(raw.startDate), LA_TIME_ZONE),
+    ...(raw.endDate !== undefined && { endTime: zonedIsoString(new Date(raw.endDate), LA_TIME_ZONE) }),
     sourceUrl: `${baseUrl}${raw.fullUrl}`,
     ...(notes !== undefined && { notes }),
   };

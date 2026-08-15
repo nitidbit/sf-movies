@@ -1,6 +1,19 @@
 import { describe, expect, it } from "vitest";
-import { findByDateRange, findByTitle, groupByDay } from "./query";
+import { compareByStartTime, findByDateRange, findByTitle, groupByDay } from "./query";
 import { sampleEvents } from "./sampleEvents";
+
+describe("compareByStartTime", () => {
+  it("orders by instant, not by string, across a DST fall-back where the local hour repeats", () => {
+    // 2026-11-01 is when PDT (-07:00) falls back to PST (-08:00): 1:15 AM PST
+    // is a later instant than 1:30 AM PDT, even though "01:15" sorts before
+    // "01:30" as a string.
+    const later = { startTime: "2026-11-01T01:15:00-08:00" } as const;
+    const earlier = { startTime: "2026-11-01T01:30:00-07:00" } as const;
+
+    expect(compareByStartTime(earlier, later)).toBeLessThan(0);
+    expect(compareByStartTime(later, earlier)).toBeGreaterThan(0);
+  });
+});
 
 describe("findByTitle", () => {
   it("matches an exact title", () => {
