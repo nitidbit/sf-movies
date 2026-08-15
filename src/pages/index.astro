@@ -1,4 +1,5 @@
 ---
+import "../styles/global.css";
 import { join } from "node:path";
 import FilterBar from "../components/FilterBar.astro";
 import MovieCard from "../components/MovieCard.astro";
@@ -37,37 +38,45 @@ function formatDayHeader(date: string): string {
     <link rel="icon" href={`${import.meta.env.BASE_URL}favicon.ico`} />
     <meta name="viewport" content="width=device-width" />
     <meta name="generator" content={Astro.generator} />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
     <title>SF Movies</title>
   </head>
   <body>
-    <h1>SF Movies</h1>
-    <FilterBar />
-    {
-      dayGroups.length === 0 ? (
-        <p>No upcoming showtimes yet.</p>
-      ) : (
-        dayGroups.map((group) => (
-          <section class="day-group">
-            <h2>{formatDayHeader(group.date)}</h2>
-            <ul class="day-group__cards">
-              {group.events.map((event) => (
-                <MovieCard event={event} />
-              ))}
-            </ul>
-          </section>
-        ))
-      )
-    }
+    <main class="content">
+      <h1>SF Movies</h1>
+      <FilterBar />
+      {
+        dayGroups.length === 0 ? (
+          <p>No upcoming showtimes yet.</p>
+        ) : (
+          dayGroups.map((group) => (
+            <section class="day-group">
+              <h2>{formatDayHeader(group.date)}</h2>
+              <ul class="day-group__cards">
+                {group.events.map((event) => (
+                  <MovieCard event={event} />
+                ))}
+              </ul>
+            </section>
+          ))
+        )
+      }
+    </main>
   </body>
 </html>
 
-<style is:global>
-  body {
-    background: #f0f0f0;
-  }
-</style>
-
 <style>
+  .content {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0;
+  }
+
   .day-group__cards {
     padding: 0;
     margin: 0;

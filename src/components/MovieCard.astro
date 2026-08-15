@@ -8,7 +8,6 @@ interface Props {
 
 const { event } = Astro.props;
 
-// Renders as "Sat, 15-Aug-2026 1:00 PM" per the PRD's card spec.
 const dateTimeFormatter = new Intl.DateTimeFormat("en-US", {
   timeZone: "America/Los_Angeles",
   weekday: "short",
@@ -22,7 +21,7 @@ const dateTimeFormatter = new Intl.DateTimeFormat("en-US", {
 function formatCardDateTime(date: Date): string {
   const parts = dateTimeFormatter.formatToParts(date);
   const get = (type: string) => parts.find((part) => part.type === type)?.value ?? "";
-  return `${get("weekday")}, ${get("day")}-${get("month")}-${get("year")} ${get("hour")}:${get("minute")} ${get("dayPeriod")}`;
+  return `${get("weekday")}, ${get("month")} ${get("day")}, ${get("hour")}:${get("minute")} ${get("dayPeriod").toLowerCase()}`;
 }
 ---
 
@@ -34,21 +33,30 @@ function formatCardDateTime(date: Date): string {
   <a class="movie-card__title" href={event.sourceUrl} target="_blank" rel="noopener">
     {event.title}
   </a>
+  { event.notes &&
+    <p class="movie-card__notes">{event.notes}</p>
+  }
   <div class="movie-card__meta">
-    <span>{formatCardDateTime(new Date(event.startTime))}</span>
+    <span>
+      {formatCardDateTime(new Date(event.startTime))}
+    </span>
+    <span>
+      { event.attribution &&
+        <small class="movie-card__attribution">({event.attribution})</small>
+      }
+    </span>
     <span class="movie-card__theater">{event.theater}</span>
   </div>
-  {event.notes && <p class="movie-card__notes">{event.notes}</p>}
-  {event.attribution && <small class="movie-card__attribution">({event.attribution})</small>}
 </li>
 
 <style>
   .movie-card {
     list-style: none;
     background: white;
-    border-radius: 0.5rem;
-    padding: 0.75rem 1rem;
-    margin-bottom: 0.5rem;
+    border-radius: 0.35rem;
+    padding: 0.3rem 1rem;
+    line-height: 1.6rem;
+    margin-bottom: 2px;
   }
 
   .movie-card__title {
@@ -58,13 +66,16 @@ function formatCardDateTime(date: Date): string {
   .movie-card__meta {
     display: flex;
     justify-content: space-between;
+    font-size: var(--font-size-sm);
   }
 
   .movie-card__notes {
     margin: 0.25rem 0 0;
+    font-size: var(--font-size-sm);
   }
 
   .movie-card__attribution {
-    color: #666;
+    opacity: 0.75;
+    font-size: var(--font-size-sm);
   }
 </style>
