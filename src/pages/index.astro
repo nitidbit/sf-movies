@@ -3,6 +3,7 @@ import "../styles/global.css";
 import { join } from "node:path";
 import FilterBar from "../components/FilterBar.astro";
 import MovieCard from "../components/MovieCard.astro";
+import StarIcon from "../components/StarIcon.astro";
 import { preferredDateFmt } from "../shared/dateFormat";
 import { loadAllEvents } from "../shared/events/loadEvents";
 import { groupByDay } from "../shared/events/query";
@@ -48,45 +49,55 @@ function formatDayHeader(date: string): string {
   <body>
     <main class="content">
       <h1>SF Movies</h1>
+      <div class="mobile-tabs">
+        <button type="button" class="mobile-tab" data-mode="browse" aria-pressed="true">
+          Browsing
+        </button>
+        <button type="button" class="mobile-tab" data-mode="shortlist" aria-pressed="false">
+          <StarIcon class="mobile-tab__star" /> My Shortlist
+        </button>
+      </div>
       <div class="panes">
-        <section class="pane browse-pane">
-          <FilterBar />
-          {
-            dayGroups.length === 0 ? (
-              <p>No upcoming showtimes yet.</p>
-            ) : (
+        <div class="panes-track">
+          <section class="pane browse-pane">
+            <FilterBar />
+            {
+              dayGroups.length === 0 ? (
+                <p>No upcoming showtimes yet.</p>
+              ) : (
+                dayGroups.map((group) => (
+                  <section class="day-group">
+                    <h2>{formatDayHeader(group.date)}</h2>
+                    <ul class="day-group__cards">
+                      {group.events.map((event) => (
+                        <MovieCard event={event} />
+                      ))}
+                    </ul>
+                  </section>
+                ))
+              )
+            }
+          </section>
+
+          <section class="pane shortlist-pane">
+            <h2 class="shortlist-pane__heading">My Shortlist</h2>
+            <p id="shortlist-empty" class="shortlist-empty">
+              Nothing starred yet — click ★ on a showing to add it here.
+            </p>
+            {
               dayGroups.map((group) => (
-                <section class="day-group">
+                <section class="day-group" hidden>
                   <h2>{formatDayHeader(group.date)}</h2>
                   <ul class="day-group__cards">
                     {group.events.map((event) => (
-                      <MovieCard event={event} />
+                      <MovieCard event={event} hidden />
                     ))}
                   </ul>
                 </section>
               ))
-            )
-          }
-        </section>
-
-        <section class="pane shortlist-pane">
-          <h2 class="shortlist-pane__heading">My Shortlist</h2>
-          <p id="shortlist-empty" class="shortlist-empty">
-            Nothing starred yet — click ☆ on a showing to add it here.
-          </p>
-          {
-            dayGroups.map((group) => (
-              <section class="day-group" hidden>
-                <h2>{formatDayHeader(group.date)}</h2>
-                <ul class="day-group__cards">
-                  {group.events.map((event) => (
-                    <MovieCard event={event} hidden />
-                  ))}
-                </ul>
-              </section>
-            ))
-          }
-        </section>
+            }
+          </section>
+        </div>
       </div>
     </main>
   </body>
@@ -99,7 +110,17 @@ function formatDayHeader(date: string): string {
     padding: 0 1rem;
   }
 
+  .mobile-tabs {
+    display: none;
+  }
+
   .panes {
+    /* On mobile this becomes the clipping viewport for the sliding track;
+       harmless as a plain wrapper at desktop widths. */
+    overflow: hidden;
+  }
+
+  .panes-track {
     display: flex;
     align-items: flex-start;
     gap: 2rem;
@@ -125,18 +146,52 @@ function formatDayHeader(date: string): string {
     margin: 0;
   }
 
-  /* Below this width, the two panes become full-width, swipeable via
-     native scroll-snap instead of sitting side by side. */
+  /* Below this width, the two panes become full-width "modes" switched by
+     the sticky tab bar — a JS-driven slide to a definite end state, not a
+     native scroll gesture, so it can't ever land half-transitioned. */
   @media (max-width: 768px) {
-    .panes {
+    .mobile-tabs {
+      display: flex;
+      position: sticky;
+      top: 0;
+      z-index: 2;
+      background: #ddd;
+      border-bottom: 1px solid #ccc;
+    }
+
+    .mobile-tab {
+      flex: 1 1 50%;
+      padding: 0.75rem;
+      border: none;
+      background: none;
+      font: inherit;
+      cursor: pointer;
+      opacity: 0.6;
+      touch-action: manipulation;
+    }
+
+    .mobile-tab__star {
+      color: #e0a800;
+    }
+
+    .mobile-tab[aria-pressed="true"] {
+      opacity: 1;
+      font-weight: bold;
+      border-bottom: 2px solid #333;
+    }
+
+    .panes-track {
+      width: 200%;
       gap: 0;
-      overflow-x: auto;
-      scroll-snap-type: x mandatory;
+      transition: transform 150ms ease-out;
+    }
+
+    .panes-track.mode-shortlist {
+      transform: translateX(-50%);
     }
 
     .pane {
-      flex: 0 0 100%;
-      scroll-snap-align: start;
+      flex: 0 0 50%;
     }
   }
 </style>
@@ -187,7 +242,6 @@ function formatDayHeader(date: string): string {
     if (!refs) return;
 
     for (const button of refs.starButtons) {
-      button.textContent = starred ? "★" : "☆";
       button.setAttribute("aria-pressed", String(starred));
     }
 
@@ -224,5 +278,21 @@ function formatDayHeader(date: string): string {
         saveShortlist(Array.from(shortlistedIds));
       });
     }
+  }
+
+  // Mobile-only mode switch: tapping a tab slides the track to a definite
+  // end position (0% or -50%) via CSS transition, rather than relying on
+  // touch-scroll physics to land on the right spot.
+  const panesTrack = document.querySelector<HTMLElement>(".panes-track");
+  const mobileTabs = document.querySelectorAll<HTMLButtonElement>(".mobile-tab");
+
+  for (const tab of mobileTabs) {
+    tab.addEventListener("click", () => {
+      const mode = tab.dataset.mode;
+      panesTrack?.classList.toggle("mode-shortlist", mode === "shortlist");
+      for (const otherTab of mobileTabs) {
+        otherTab.setAttribute("aria-pressed", String(otherTab === tab));
+      }
+    });
   }
 </script>

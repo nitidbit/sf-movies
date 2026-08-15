@@ -1,4 +1,5 @@
 ---
+import StarIcon from "./StarIcon.astro";
 import { preferredDateTimeFmt } from "../shared/dateFormat";
 import type { Event } from "../shared/events/event";
 import { localDayOf } from "../shared/events/query";
@@ -36,7 +37,7 @@ const dateTimeFormatter = new Intl.DateTimeFormat("en-US", {
       </a>
     </div>
     <button class="star-toggle" type="button" aria-label="Add to shortlist" aria-pressed="false">
-      ☆
+      <StarIcon />
     </button>
   </div>
   { event.notes &&
@@ -82,8 +83,6 @@ const dateTimeFormatter = new Intl.DateTimeFormat("en-US", {
     background: none;
     border: none;
     padding: 0;
-    font-size: 1.1rem;
-    line-height: 1;
     cursor: pointer;
     color: #999;
   }

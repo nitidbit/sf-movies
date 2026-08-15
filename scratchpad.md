@@ -1,16 +1,17 @@
 Scratch Pad / Notes from Last Session
 =====================================
 
-# Stories
 
-## show genre
-## show rating
 ## better scraping of description if possible.
 
-## Filter by Ratings
-## filter by genre
+## Filter by title and description
+## in movie-data, store movie times in local time zone.
+
 
 ## Show de-duped list of movies playing during date range
+  - This is a "movie list" compared to the current "showtime" list.
+  - It shows each movee, and then an expanding card beneath for each showtime/theater
+
 
 
 ## move to subdomain sf-movies.nitid.co
