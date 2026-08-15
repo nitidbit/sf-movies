@@ -9,6 +9,11 @@ Scratch Pad / Notes from Last Session
 Fix size of start button--it should be 20px high.
 - Can the hot spot extend past it's rendered dimensions?
 
+## Fix filter panels
+- They go off the screen on mobile
+- They are cramped on mobile--make inputs larger
+- close one input before opening the next one.
+
 ## Show de-duped list of movies playing during date range
   - This is a "movie list" compared to the current "showtime" list.
   - It shows each movee, and then an expanding card beneath for each showtime/theater

@@ -1,4 +1,4 @@
-import type { Event } from "./event";
+import type { Event } from "./events/event";
 
 const LA_TIME_ZONE = "America/Los_Angeles";
 const laDateFormatter = new Intl.DateTimeFormat("en-CA", { timeZone: LA_TIME_ZONE });
@@ -18,21 +18,34 @@ export function compareByStartTime(a: Pick<Event, "startTime">, b: Pick<Event, "
   return new Date(a.startTime).getTime() - new Date(b.startTime).getTime();
 }
 
+// Case-insensitive substring match. An empty needle matches every title —
+// no special-casing needed, since every string includes "".
+export function matchesTitle(title: string, needle: string): boolean {
+  return title.toLowerCase().includes(needle.toLowerCase());
+}
+
+// day/from/to are "YYYY-MM-DD" strings in America/Los_Angeles. An empty
+// `from` means "no day filter" (matches every day) — the day-filter's
+// "off" state.
+export function matchesDayRange(day: string, from: string, to: string): boolean {
+  return from === "" || (day >= from && day <= to);
+}
+
+// An empty `theaters` set means "no theater filter" (matches every
+// theater) — the theater-filter's "off" state.
+export function matchesTheater(theater: string, theaters: ReadonlySet<string>): boolean {
+  return theaters.size === 0 || theaters.has(theater);
+}
+
 export function findByTitle(events: Event[], query: string): Event[] {
-  const needle = query.toLowerCase();
-  return events
-    .filter((event) => event.title.toLowerCase().includes(needle))
-    .sort(compareByStartTime);
+  return events.filter((event) => matchesTitle(event.title, query)).sort(compareByStartTime);
 }
 
 // startDate/endDate are inclusive "YYYY-MM-DD" strings in
 // America/Los_Angeles, e.g. from the day-filter's DayRangeSelection.
 export function findByDateRange(events: Event[], startDate: string, endDate: string): Event[] {
   return events
-    .filter((event) => {
-      const day = localDayOf(new Date(event.startTime));
-      return day >= startDate && day <= endDate;
-    })
+    .filter((event) => matchesDayRange(localDayOf(new Date(event.startTime)), startDate, endDate))
     .sort(compareByStartTime);
 }
 

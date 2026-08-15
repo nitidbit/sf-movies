@@ -108,7 +108,7 @@ const sortedTheaters = Object.values(theaters).sort((a, b) => (a.name < b.name ?
 
 <script>
   import { dayFilterLabel, theaterFilterLabel, titleFilterLabel } from "../shared/filterLabel";
-  import { localDayOf } from "../shared/events/query";
+  import { localDayOf, matchesDayRange, matchesTheater, matchesTitle } from "../shared/filter";
 
   const titleFilterBtn = document.getElementById("title-filter-btn") as HTMLButtonElement;
   const titlePopover = document.getElementById("title-popover") as HTMLElement;
@@ -170,15 +170,14 @@ const sortedTheaters = Object.values(theaters).sort((a, b) => (a.name < b.name ?
   function applyFilters() {
     titleFilterBtn.textContent = titleFilterLabel(titleInput.value);
 
-    const titleNeedle = titleInput.value.trim().toLowerCase();
+    const titleNeedle = titleInput.value.trim();
     const cards = document.querySelectorAll<HTMLLIElement>(".browse-pane .movie-card");
     let visibleCount = 0;
 
     for (const card of cards) {
-      const titleMatches = titleNeedle === "" || (card.dataset.title ?? "").includes(titleNeedle);
-      const date = card.dataset.date ?? "";
-      const dayMatches = activeDayFrom === "" || (date >= activeDayFrom && date <= activeDayTo);
-      const theaterMatches = checkedTheaters.size === 0 || checkedTheaters.has(card.dataset.theater ?? "");
+      const titleMatches = matchesTitle(card.dataset.title ?? "", titleNeedle);
+      const dayMatches = matchesDayRange(card.dataset.date ?? "", activeDayFrom, activeDayTo);
+      const theaterMatches = matchesTheater(card.dataset.theater ?? "", checkedTheaters);
       const matches = titleMatches && dayMatches && theaterMatches;
       card.hidden = !matches;
       if (matches) visibleCount += 1;

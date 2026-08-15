@@ -6,7 +6,7 @@ import MovieCard from "../components/MovieCard.astro";
 import StarIcon from "../components/StarIcon.astro";
 import { preferredDateFmt } from "../shared/dateFormat";
 import { loadAllEvents } from "../shared/events/loadEvents";
-import { groupByDay } from "../shared/events/query";
+import { groupByDay } from "../shared/filter";
 
 const DATA_DIR = join(process.cwd(), "movie-data");
 
