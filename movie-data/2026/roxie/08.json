@@ -259,6 +259,12 @@
   },
   {
     "theater": "Roxie",
+    "title": "Union County",
+    "startTime": "2026-08-22T01:25:00.000Z",
+    "sourceUrl": "https://roxie.com/film/union-county/#showtimes-20260821-1825"
+  },
+  {
+    "theater": "Roxie",
     "title": "Barrio triste",
     "startTime": "2026-08-22T03:40:00.000Z",
     "sourceUrl": "https://roxie.com/film/barrio-triste/#showtimes-20260821-2040"
@@ -373,6 +379,12 @@
   },
   {
     "theater": "Roxie",
+    "title": "The Samurai and the Prisoner",
+    "startTime": "2026-08-24T01:30:00.000Z",
+    "sourceUrl": "https://roxie.com/film/the-samurai-and-the-prisoner/#showtimes-20260823-1830"
+  },
+  {
+    "theater": "Roxie",
     "title": "Mary Oliver: Saved by the Beauty of the World",
     "startTime": "2026-08-25T01:00:00.000Z",
     "sourceUrl": "https://roxie.com/film/mary-oliver-saved-by-the-beauty-of-the-world/#showtimes-20260824-1800"
@@ -445,6 +457,12 @@
   },
   {
     "theater": "Roxie",
+    "title": "Barrio triste",
+    "startTime": "2026-08-29T01:10:00.000Z",
+    "sourceUrl": "https://roxie.com/film/barrio-triste/#showtimes-20260828-1810"
+  },
+  {
+    "theater": "Roxie",
     "title": "Colony",
     "startTime": "2026-08-29T03:10:00.000Z",
     "sourceUrl": "https://roxie.com/film/colony/#showtimes-20260828-2010"
@@ -487,6 +505,12 @@
   },
   {
     "theater": "Roxie",
+    "title": "American Doctor",
+    "startTime": "2026-08-30T19:50:00.000Z",
+    "sourceUrl": "https://roxie.com/film/american-doctor/#showtimes-20260830-1250"
+  },
+  {
+    "theater": "Roxie",
     "title": "Revolutions Per Movie presents: URGH! A MUSIC WAR",
     "startTime": "2026-08-30T22:00:00.000Z",
     "sourceUrl": "https://roxie.com/film/revolutions-per-movie-presents-urgh-a-music-war/#showtimes-20260830-1500"
@@ -499,8 +523,20 @@
   },
   {
     "theater": "Roxie",
+    "title": "Colony",
+    "startTime": "2026-08-31T00:30:00.000Z",
+    "sourceUrl": "https://roxie.com/film/colony/#showtimes-20260830-1730"
+  },
+  {
+    "theater": "Roxie",
     "title": "Roxie First Looks #13",
     "startTime": "2026-08-31T23:10:00.000Z",
     "sourceUrl": "https://roxie.com/film/roxie-first-looks-13/#showtimes-20260831-1610"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Colony",
+    "startTime": "2026-09-01T03:30:00.000Z",
+    "sourceUrl": "https://roxie.com/film/colony/#showtimes-20260831-2030"
   }
 ]

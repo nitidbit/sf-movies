@@ -22,6 +22,13 @@
   },
   {
     "theater": "Alamo",
+    "title": "Cavalluna - Welt der Fantasie",
+    "startTime": "2026-09-09T04:30:00.000Z",
+    "sourceUrl": "https://scenef.com/go/21d07ffe8b4b",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
     "title": "Practical Magic 2",
     "startTime": "2026-09-11T01:00:00.000Z",
     "sourceUrl": "https://scenef.com/go/1903bae840eb",
@@ -60,6 +67,13 @@
     "title": "The Twilight Saga: New Moon",
     "startTime": "2026-09-21T02:00:00.000Z",
     "sourceUrl": "https://scenef.com/go/f09ba3c7a0f8",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Event Horizon",
+    "startTime": "2026-09-23T04:30:00.000Z",
+    "sourceUrl": "https://scenef.com/go/71f034fae444",
     "attribution": "Showtimes via SceneF.com"
   },
   {
