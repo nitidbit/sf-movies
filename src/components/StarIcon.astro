@@ -6,15 +6,18 @@ interface Props {
 const { class: className } = Astro.props;
 ---
 
-<span class:list={["star-icon", className]}>★</span>
+<div class:list={["star-icon", className]}>★</div>
 
 <style>
   .star-icon {
-    /* Hardcoded, not inherited: form elements like <button> don't inherit
-       font-family from the page by default, so this must stay self-
-       contained regardless of what wraps it. */
     font-family: "Lato", sans-serif;
-    font-size: 2rem;
-    line-height: 1;
+    /* Calibrated so the glyph's rendered ink height (not the font-size
+       itself, which is always taller than a glyph's visible bounds) is
+       ~20px at the default root font-size. */
+    font-size: 1.7rem;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    line-height: 15px;
   }
 </style>

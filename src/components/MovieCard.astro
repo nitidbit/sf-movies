@@ -77,9 +77,14 @@ const dateTimeFormatter = new Intl.DateTimeFormat("en-US", {
     flex-shrink: 0;
     background: none;
     border: none;
-    padding: 0;
     cursor: pointer;
     color: #999;
+    /* Padding grows the tap target to ~32px; the equal, opposite margin
+       cancels it back out for layout purposes, so the header row's height
+       is still driven only by the icon and title text, never by this
+       padding. */
+    padding: 10px;
+    margin: -10px;
   }
 
   .star-toggle[aria-pressed="true"] {
