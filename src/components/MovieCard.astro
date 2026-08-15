@@ -25,9 +25,11 @@ const dateTimeFormatter = new Intl.DateTimeFormat("en-US", {
   data-title={event.title.toLowerCase()}
   data-date={localDayOf(new Date(event.startTime))}
 >
-  <a class="movie-card__title" href={event.sourceUrl} target="_blank" rel="noopener">
-    {event.title}
-  </a>
+  <div class="movie-card__title">
+    <a href={event.sourceUrl} target="_blank" rel="noopener">
+      {event.title}
+    </a>
+  </div>
   { event.notes &&
     <p class="movie-card__notes">{event.notes}</p>
   }
@@ -49,13 +51,14 @@ const dateTimeFormatter = new Intl.DateTimeFormat("en-US", {
     list-style: none;
     background: white;
     border-radius: 0.35rem;
-    padding: 0.3rem 1rem;
-    line-height: 1.6rem;
+    padding: 0.6rem 1rem;
+    line-height: 1.2rem;
     margin-bottom: 2px;
   }
 
   .movie-card__title {
     font-weight: bold;
+    margin-bottom: 0.6rem;
   }
 
   .movie-card__meta {
