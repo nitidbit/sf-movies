@@ -90,7 +90,17 @@ const sortedTheaters = Object.values(theaters).sort((a, b) => (a.name < b.name ?
     border-radius: 0.5rem;
     padding: 0.75rem;
     min-width: 16rem;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
     z-index: 1;
+  }
+
+  /* The rightmost pill's popover is the one at risk of running past the
+     viewport's right edge on a narrower desktop window. Anchoring it to
+     its own pill's right edge instead of left edge guarantees it never
+     extends further right than the (always on-screen) pill itself. */
+  #theater-popover {
+    left: auto;
+    right: 0;
   }
 
   .theater-option {
@@ -103,6 +113,46 @@ const sortedTheaters = Object.values(theaters).sort((a, b) => (a.name < b.name ?
     justify-content: flex-end;
     gap: 0.5rem;
     margin-top: 0.5rem;
+  }
+
+  /* Below this width, popovers stop anchoring to their individual pill
+     and instead center under the whole filter-bar row, at a fixed width
+     — reliably on-screen regardless of which pill was tapped. Controls
+     inside also grow for comfortable tapping. */
+  @media (max-width: 768px) {
+    .filter-bar {
+      position: relative;
+    }
+
+    .filter-control {
+      position: static;
+    }
+
+    .popover,
+    #theater-popover {
+      left: 50%;
+      right: auto;
+      transform: translateX(-50%);
+      width: 300px;
+      min-width: 0;
+    }
+
+    #title-input,
+    #day-from,
+    #day-to {
+      font-size: 1.05rem;
+      padding: 0.6rem;
+    }
+
+    .theater-checkbox {
+      transform: scale(1.5);
+      margin-right: 0.4rem;
+    }
+
+    .popover-actions button {
+      font-size: 1rem;
+      padding: 0.6rem 1.2rem;
+    }
   }
 </style>
 
@@ -191,7 +241,17 @@ const sortedTheaters = Object.values(theaters).sort((a, b) => (a.name < b.name ?
     noMatches.hidden = visibleCount > 0;
   }
 
+  const allPopovers = [titlePopover, dayPopover, theaterPopover];
+
+  // Only one popover open at a time: opening one closes the other two
+  // first. Each pill's click handler calls stopPropagation(), which
+  // otherwise prevents that click from ever reaching the document-level
+  // "click outside closes it" listeners the other popovers rely on — so
+  // without this, a second popover could open while a first stayed open.
   function openPopover(popover: HTMLElement) {
+    for (const other of allPopovers) {
+      if (other !== popover) other.hidden = true;
+    }
     popover.hidden = false;
   }
 

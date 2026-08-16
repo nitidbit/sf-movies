@@ -6,9 +6,6 @@ Scratch Pad / Notes from Last Session
 
 ## Filter by title and description
 
-Fix size of start button--it should be 20px high.
-- Can the hot spot extend past it's rendered dimensions?
-
 ## Fix filter panels
 - They go off the screen on mobile
 - They are cramped on mobile--make inputs larger
