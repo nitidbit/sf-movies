@@ -1,23 +1,43 @@
 Scratch Pad / Notes from Last Session
 =====================================
 
+NAMES
+=====
+- films with friends
+- film buds
+- film friends
+
+* `/write-a-prd`
+* `/prd-to-issues`
+* `/review-architecture` — Review code with "Characteristics of Good Code" in
+
+
+NOW
+===
+
+## Short List
+- Move to left side
+- have empty state descdribe what the site is about
+  - find movies in the bay area
+  - make a wish list
+  - share wish list with friends--they vote and pick.
+- 
+
+
+
+## I have an about page - blurb about Nitid and link to main site
+## Sources / Attribution page
+## Feedback page
 
 ## better scraping of description if possible.
 
 ## Filter by title and description
 
-## Fix filter panels
-- They go off the screen on mobile
-- They are cramped on mobile--make inputs larger
-- close one input before opening the next one.
-
+LATER
+=====
 ## Show de-duped list of movies playing during date range
   - This is a "movie list" compared to the current "showtime" list.
   - It shows each movee, and then an expanding card beneath for each showtime/theater
-
-* `/write-a-prd`
-* `/prd-to-issues`
-* `/review-architecture` — Review code with "Characteristics of Good Code" in
 
 
 ## move to subdomain sf-movies.nitid.co
@@ -35,6 +55,3 @@ Scratch Pad / Notes from Last Session
 
 ## I can click a button next to a movie to save the movie to my calendar
 
-## I have an about page - blurb about Nitid and link to main site
-## Sources / Attribution page
-## Feedback page
