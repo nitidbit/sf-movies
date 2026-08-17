@@ -52,7 +52,7 @@ function formatDayHeader(date: string): string {
         <button type="button" class="mobile-tab" data-mode="browse" aria-pressed="true">
           Browsing
         </button>
-        <button type="button" class="mobile-tab" data-mode="shortlist" aria-pressed="false">
+        <button type="button" class="mobile-tab" data-mode="wishlist" aria-pressed="false">
           <StarIcon class="mobile-tab__star" /> Wish List
         </button>
       </div>
@@ -78,9 +78,9 @@ function formatDayHeader(date: string): string {
             }
           </section>
 
-          <section class="pane shortlist-pane">
-            <h2 class="shortlist-pane__heading">Wish List</h2>
-            <div id="shortlist-empty" class="shortlist-empty">
+          <section class="pane wishlist-pane">
+            <h2 class="wishlist-pane__heading">Wish List</h2>
+            <div id="wishlist-empty" class="wishlist-empty">
               <p>SF Movies pulls together showtimes from Bay Area indie theaters, all in one place.</p>
               <p>Click the ★ on any showing to start your wish list — starred showings will show up here.</p>
             </div>
@@ -133,15 +133,15 @@ function formatDayHeader(date: string): string {
     overflow-y: auto;
   }
 
-  .shortlist-pane__heading {
+  .wishlist-pane__heading {
     margin-top: 0;
   }
 
-  .shortlist-empty {
+  .wishlist-empty {
     opacity: 0.7;
   }
 
-  .shortlist-empty p + p {
+  .wishlist-empty p + p {
     margin-top: 0.75rem;
   }
 
@@ -190,7 +190,7 @@ function formatDayHeader(date: string): string {
       transition: transform 150ms ease-out;
     }
 
-    .panes-track.mode-shortlist {
+    .panes-track.mode-wishlist {
       transform: translateX(-50%);
     }
 
@@ -201,15 +201,15 @@ function formatDayHeader(date: string): string {
 </style>
 
 <script>
-  import { loadShortlist, saveShortlist } from "../shared/shortlist";
+  import { loadWishlist, saveWishlist } from "../shared/wishlist";
 
   interface CardRefs {
     starButtons: HTMLButtonElement[];
-    shortlistCard: HTMLLIElement | null;
+    wishlistCard: HTMLLIElement | null;
   }
 
-  const shortlistEmpty = document.getElementById("shortlist-empty") as HTMLElement;
-  const shortlistedIds = new Set(loadShortlist());
+  const wishlistEmpty = document.getElementById("wishlist-empty") as HTMLElement;
+  const wishlistedIds = new Set(loadWishlist());
 
   // One pass over every card (both panes) builds a sourceUrl -> refs map,
   // so toggling a star is an O(1) lookup instead of re-querying the DOM
@@ -220,27 +220,27 @@ function formatDayHeader(date: string): string {
     const sourceUrl = card.dataset.sourceUrl;
     if (!sourceUrl) continue;
 
-    const refs = cardsBySourceUrl.get(sourceUrl) ?? { starButtons: [], shortlistCard: null };
+    const refs = cardsBySourceUrl.get(sourceUrl) ?? { starButtons: [], wishlistCard: null };
     const button = card.querySelector<HTMLButtonElement>(".star-toggle");
     if (button) refs.starButtons.push(button);
-    if (card.closest(".shortlist-pane")) refs.shortlistCard = card;
+    if (card.closest(".wishlist-pane")) refs.wishlistCard = card;
 
     cardsBySourceUrl.set(sourceUrl, refs);
   }
 
-  function updateShortlistDayGroups() {
-    for (const group of document.querySelectorAll<HTMLElement>(".shortlist-pane .day-group")) {
+  function updateWishlistDayGroups() {
+    for (const group of document.querySelectorAll<HTMLElement>(".wishlist-pane .day-group")) {
       const hasVisibleCard = group.querySelector(".movie-card:not([hidden])") !== null;
       group.hidden = !hasVisibleCard;
     }
-    // Based on what's actually rendered, not shortlistedIds.size — a saved
+    // Based on what's actually rendered, not wishlistedIds.size — a saved
     // id whose event has since aged off the list would otherwise leave the
     // pane blank (empty state hidden, but no card to show either).
-    shortlistEmpty.hidden = document.querySelector(".shortlist-pane .movie-card:not([hidden])") !== null;
+    wishlistEmpty.hidden = document.querySelector(".wishlist-pane .movie-card:not([hidden])") !== null;
   }
 
   // The single source of truth for a showing's starred state: updates both
-  // star buttons (browse + shortlist twin), the shortlist twin's
+  // star buttons (browse + wishlist twin), the wishlist twin's
   // visibility, and persistence. `animate` is false when restoring saved
   // state on load — only a user's own click should trigger the reveal
   // transition.
@@ -252,37 +252,37 @@ function formatDayHeader(date: string): string {
       button.setAttribute("aria-pressed", String(starred));
     }
 
-    if (refs.shortlistCard) {
-      refs.shortlistCard.hidden = !starred;
+    if (refs.wishlistCard) {
+      refs.wishlistCard.hidden = !starred;
       if (starred && animate) {
-        refs.shortlistCard.classList.add("movie-card--revealed");
-        refs.shortlistCard.addEventListener(
+        refs.wishlistCard.classList.add("movie-card--revealed");
+        refs.wishlistCard.addEventListener(
           "animationend",
-          () => refs.shortlistCard?.classList.remove("movie-card--revealed"),
+          () => refs.wishlistCard?.classList.remove("movie-card--revealed"),
           { once: true },
         );
       }
     }
 
-    updateShortlistDayGroups();
+    updateWishlistDayGroups();
   }
 
-  for (const sourceUrl of shortlistedIds) {
+  for (const sourceUrl of wishlistedIds) {
     setStarred(sourceUrl, true, false);
   }
-  updateShortlistDayGroups();
+  updateWishlistDayGroups();
 
   for (const [sourceUrl, refs] of cardsBySourceUrl) {
     for (const button of refs.starButtons) {
       button.addEventListener("click", () => {
-        const starred = !shortlistedIds.has(sourceUrl);
+        const starred = !wishlistedIds.has(sourceUrl);
         if (starred) {
-          shortlistedIds.add(sourceUrl);
+          wishlistedIds.add(sourceUrl);
         } else {
-          shortlistedIds.delete(sourceUrl);
+          wishlistedIds.delete(sourceUrl);
         }
         setStarred(sourceUrl, starred, true);
-        saveShortlist(Array.from(shortlistedIds));
+        saveWishlist(Array.from(wishlistedIds));
       });
     }
   }
@@ -296,7 +296,7 @@ function formatDayHeader(date: string): string {
   for (const tab of mobileTabs) {
     tab.addEventListener("click", () => {
       const mode = tab.dataset.mode;
-      panesTrack?.classList.toggle("mode-shortlist", mode === "shortlist");
+      panesTrack?.classList.toggle("mode-wishlist", mode === "wishlist");
       for (const otherTab of mobileTabs) {
         otherTab.setAttribute("aria-pressed", String(otherTab === tab));
       }
