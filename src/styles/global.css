@@ -4,10 +4,15 @@
   --font-size-lg: 1.25rem;
   --font-size-xl: 1.5rem;
   --body-background: #e1dcd1;
+  --link-color: #8b4513;
 }
 
 body {
   background: var(--body-background);
   font-family: "Lato", sans-serif;
   font-size: var(--font-size-base);
+}
+
+a {
+  color: var(--link-color);
 }
