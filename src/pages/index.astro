@@ -62,6 +62,11 @@ function formatDayHeader(date: string): string {
             <div id="wishlist-empty" class="wishlist-empty">
               <p>Films with Friends pulls together showtimes from Bay Area indie theaters, all in one place.</p>
               <p>Click the ★ on any showing to start your wish list — starred showings will show up here.</p>
+              <img
+                class="wishlist-empty__image"
+                src={`${import.meta.env.BASE_URL}film-projector.png`}
+                alt="Vintage film projector illustration"
+              />
             </div>
             {
               dayGroups.map((group) => (
@@ -144,6 +149,12 @@ function formatDayHeader(date: string): string {
 
   .wishlist-empty p + p {
     margin-top: 0.75rem;
+  }
+
+  .wishlist-empty__image {
+    display: block;
+    width: calc(100% - 2rem);
+    margin: 2rem 1rem 0;
   }
 
   .day-group__cards {
