@@ -49,15 +49,34 @@ function formatDayHeader(date: string): string {
     <main class="content">
       <h1>Films with Friends</h1>
       <div class="mobile-tabs">
-        <button type="button" class="mobile-tab" data-mode="browse" aria-pressed="true">
-          Browsing
-        </button>
-        <button type="button" class="mobile-tab" data-mode="wishlist" aria-pressed="false">
+        <button type="button" class="mobile-tab" data-mode="wishlist" aria-pressed="true">
           <StarIcon class="mobile-tab__star" /> Wish List
+        </button>
+        <button type="button" class="mobile-tab" data-mode="browse" aria-pressed="false">
+          Browsing
         </button>
       </div>
       <div class="panes">
         <div class="panes-track">
+          <section class="pane wishlist-pane">
+            <div id="wishlist-empty" class="wishlist-empty">
+              <p>Films with Friends pulls together showtimes from Bay Area indie theaters, all in one place.</p>
+              <p>Click the ★ on any showing to start your wish list — starred showings will show up here.</p>
+            </div>
+            {
+              dayGroups.map((group) => (
+                <section class="day-group" hidden>
+                  <h2>{formatDayHeader(group.date)}</h2>
+                  <ul class="day-group__cards">
+                    {group.events.map((event) => (
+                      <MovieCard event={event} hidden />
+                    ))}
+                  </ul>
+                </section>
+              ))
+            }
+          </section>
+
           <section class="pane browse-pane">
             <FilterBar />
             {
@@ -75,26 +94,6 @@ function formatDayHeader(date: string): string {
                   </section>
                 ))
               )
-            }
-          </section>
-
-          <section class="pane wishlist-pane">
-            <h2 class="wishlist-pane__heading">Wish List</h2>
-            <div id="wishlist-empty" class="wishlist-empty">
-              <p>Films with Friends pulls together showtimes from Bay Area indie theaters, all in one place.</p>
-              <p>Click the ★ on any showing to start your wish list — starred showings will show up here.</p>
-            </div>
-            {
-              dayGroups.map((group) => (
-                <section class="day-group" hidden>
-                  <h2>{formatDayHeader(group.date)}</h2>
-                  <ul class="day-group__cards">
-                    {group.events.map((event) => (
-                      <MovieCard event={event} hidden />
-                    ))}
-                  </ul>
-                </section>
-              ))
             }
           </section>
         </div>
@@ -138,7 +137,9 @@ function formatDayHeader(date: string): string {
   }
 
   .wishlist-empty {
+    padding-top: 5rem;
     opacity: 0.7;
+    line-height: 1.5;
   }
 
   .wishlist-empty p + p {
@@ -190,7 +191,7 @@ function formatDayHeader(date: string): string {
       transition: transform 150ms ease-out;
     }
 
-    .panes-track.mode-wishlist {
+    .panes-track.mode-browse {
       transform: translateX(-50%);
     }
 
@@ -296,7 +297,7 @@ function formatDayHeader(date: string): string {
   for (const tab of mobileTabs) {
     tab.addEventListener("click", () => {
       const mode = tab.dataset.mode;
-      panesTrack?.classList.toggle("mode-wishlist", mode === "wishlist");
+      panesTrack?.classList.toggle("mode-browse", mode === "browse");
       for (const otherTab of mobileTabs) {
         otherTab.setAttribute("aria-pressed", String(otherTab === tab));
       }
