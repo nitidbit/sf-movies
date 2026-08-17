@@ -3,10 +3,11 @@
   --font-size-base: 1rem;
   --font-size-lg: 1.25rem;
   --font-size-xl: 1.5rem;
+  --body-background: #e1dcd1;
 }
 
 body {
-  background: #e1dcd1;
+  background: var(--body-background);
   font-family: "Lato", sans-serif;
   font-size: var(--font-size-base);
 }
