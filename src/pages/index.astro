@@ -60,13 +60,15 @@ function formatDayHeader(date: string): string {
         <div class="panes-track">
           <section class="pane wishlist-pane">
             <div id="wishlist-empty" class="wishlist-empty">
-              <p>Films with Friends pulls together showtimes from Bay Area indie theaters, all in one place.</p>
+              <p>Films with Friends collects showtimes from San Francisco Bay Area indie theaters, all in one place.</p>
               <p>Click the ★ on any showing to start your wish list — starred showings will show up here.</p>
               <img
                 class="wishlist-empty__image"
                 src={`${import.meta.env.BASE_URL}film-projector.png`}
                 alt="Vintage film projector illustration"
               />
+              <p>Make a version of this website for your town by <a href="https://github.com/nitidbit/sf-movies">copying the source code</a>.</p>
+              <p>Send bug reports or kudos to <strong> info@nitidbit.com </strong></p>
             </div>
             {
               dayGroups.map((group) => (
