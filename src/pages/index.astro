@@ -6,13 +6,12 @@ import MovieCard from "../components/MovieCard.astro";
 import StarIcon from "../components/StarIcon.astro";
 import { preferredDateFmt } from "../shared/dateFormat";
 import { loadAllEvents } from "../shared/events/loadEvents";
-import { groupByDay } from "../shared/filter";
+import { findUpcoming, groupByDay } from "../shared/filter";
 
 const DATA_DIR = join(process.cwd(), "movie-data");
 
-const now = new Date().toISOString();
 const allEvents = await loadAllEvents(DATA_DIR);
-const upcoming = allEvents.filter((event) => event.startTime >= now);
+const upcoming = findUpcoming(allEvents, new Date());
 const dayGroups = groupByDay(upcoming);
 
 // dayGroup.date is already the correct America/Los_Angeles calendar day as

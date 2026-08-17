@@ -3,6 +3,7 @@ import {
   compareByStartTime,
   findByDateRange,
   findByTitle,
+  findUpcoming,
   groupByDay,
   matchesDayRange,
   matchesTheater,
@@ -98,6 +99,31 @@ describe("findByDateRange", () => {
 
   it("returns an empty list for a range with no matching events", () => {
     expect(findByDateRange(sampleEvents, "2026-08-20", "2026-08-21")).toEqual([]);
+  });
+});
+
+describe("findUpcoming", () => {
+  it("includes an event from earlier the same LA calendar day, even though it already started", () => {
+    // now is 9pm PDT on Aug 14; this event was 10am PDT the same LA day.
+    const now = new Date("2026-08-15T04:00:00.000Z");
+    const earlierToday = { startTime: "2026-08-14T10:00:00-07:00" } as const;
+
+    expect(findUpcoming([earlierToday], now)).toEqual([earlierToday]);
+  });
+
+  it("excludes an event from the previous LA calendar day", () => {
+    const now = new Date("2026-08-15T04:00:00.000Z");
+    const yesterday = { startTime: "2026-08-13T22:00:00-07:00" } as const;
+
+    expect(findUpcoming([yesterday], now)).toEqual([]);
+  });
+
+  it("includes an event later the same day and later days", () => {
+    const now = new Date("2026-08-15T04:00:00.000Z");
+    const laterToday = { startTime: "2026-08-14T23:00:00-07:00" } as const;
+    const tomorrow = { startTime: "2026-08-15T19:00:00-07:00" } as const;
+
+    expect(findUpcoming([laterToday, tomorrow], now)).toEqual([laterToday, tomorrow]);
   });
 });
 

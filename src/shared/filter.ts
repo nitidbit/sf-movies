@@ -1,4 +1,5 @@
 import type { Event } from "./events/event";
+import { zonedTimeToUtc } from "./timezone";
 
 const LA_TIME_ZONE = "America/Los_Angeles";
 const laDateFormatter = new Intl.DateTimeFormat("en-CA", { timeZone: LA_TIME_ZONE });
@@ -8,6 +9,21 @@ const laDateFormatter = new Intl.DateTimeFormat("en-CA", { timeZone: LA_TIME_ZON
 // on which showtimes belong to which day.
 export function localDayOf(date: Date): string {
   return laDateFormatter.format(date);
+}
+
+// Midnight at the start of `date`'s America/Los_Angeles calendar day, as a
+// UTC instant.
+function startOfLocalDay(date: Date): Date {
+  const [year, month, day] = localDayOf(date).split("-").map(Number);
+  return zonedTimeToUtc(year, month, day, 0, 0, LA_TIME_ZONE);
+}
+
+// Events from the start of `now`'s America/Los_Angeles calendar day onward.
+// Showtimes earlier today stay on the list even after they've started —
+// only a previous LA calendar day drops off.
+export function findUpcoming<T extends Pick<Event, "startTime">>(events: T[], now: Date): T[] {
+  const cutoff = startOfLocalDay(now).getTime();
+  return events.filter((event) => new Date(event.startTime).getTime() >= cutoff);
 }
 
 // Chronological order by instant, not by string — startTime strings carry
