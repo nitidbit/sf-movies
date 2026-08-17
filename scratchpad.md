@@ -17,6 +17,7 @@ NOW
 
 ## Short List
 - Move to left side
+
 - have empty state descdribe what the site is about
   - find movies in the bay area
   - make a wish list

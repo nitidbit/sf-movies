@@ -53,7 +53,7 @@ function formatDayHeader(date: string): string {
           Browsing
         </button>
         <button type="button" class="mobile-tab" data-mode="shortlist" aria-pressed="false">
-          <StarIcon class="mobile-tab__star" /> My Shortlist
+          <StarIcon class="mobile-tab__star" /> Wish List
         </button>
       </div>
       <div class="panes">
@@ -79,10 +79,11 @@ function formatDayHeader(date: string): string {
           </section>
 
           <section class="pane shortlist-pane">
-            <h2 class="shortlist-pane__heading">My Shortlist</h2>
-            <p id="shortlist-empty" class="shortlist-empty">
-              Nothing starred yet — click ★ on a showing to add it here.
-            </p>
+            <h2 class="shortlist-pane__heading">Wish List</h2>
+            <div id="shortlist-empty" class="shortlist-empty">
+              <p>SF Movies pulls together showtimes from Bay Area indie theaters, all in one place.</p>
+              <p>Click the ★ on any showing to start your wish list — starred showings will show up here.</p>
+            </div>
             {
               dayGroups.map((group) => (
                 <section class="day-group" hidden>
@@ -138,6 +139,10 @@ function formatDayHeader(date: string): string {
 
   .shortlist-empty {
     opacity: 0.7;
+  }
+
+  .shortlist-empty p + p {
+    margin-top: 0.75rem;
   }
 
   .day-group__cards {
@@ -228,7 +233,10 @@ function formatDayHeader(date: string): string {
       const hasVisibleCard = group.querySelector(".movie-card:not([hidden])") !== null;
       group.hidden = !hasVisibleCard;
     }
-    shortlistEmpty.hidden = shortlistedIds.size > 0;
+    // Based on what's actually rendered, not shortlistedIds.size — a saved
+    // id whose event has since aged off the list would otherwise leave the
+    // pane blank (empty state hidden, but no card to show either).
+    shortlistEmpty.hidden = document.querySelector(".shortlist-pane .movie-card:not([hidden])") !== null;
   }
 
   // The single source of truth for a showing's starred state: updates both
