@@ -22,6 +22,34 @@
   },
   {
     "theater": "Alamo",
+    "title": "Star Trek II: The Wrath of Khan",
+    "startTime": "2026-09-05T15:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/a64786746e48",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Star Trek III: The Search for Spock",
+    "startTime": "2026-09-06T15:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/b1a712e72bdb",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Star Trek IV: The Voyage Home",
+    "startTime": "2026-09-07T15:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/92770b18c760",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Star Trek: The Genesis Trilogy",
+    "startTime": "2026-09-08T12:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/f600d656cba4",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
     "title": "Cavalluna - Welt der Fantasie",
     "startTime": "2026-09-08T21:30:00-07:00",
     "sourceUrl": "https://scenef.com/go/21d07ffe8b4b",
@@ -39,6 +67,13 @@
     "title": "Practical Magic 2",
     "startTime": "2026-09-11T18:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/54096ef67e57",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "First Blood",
+    "startTime": "2026-09-12T16:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/d1fc3cac0efe",
     "attribution": "Showtimes via SceneF.com"
   },
   {
@@ -81,6 +116,13 @@
     "title": "Destroy All Monsters",
     "startTime": "2026-09-27T12:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/0dfc228b9d36",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Birdcage",
+    "startTime": "2026-09-28T19:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/9520274c6cfc",
     "attribution": "Showtimes via SceneF.com"
   }
 ]
