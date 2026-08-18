@@ -75,18 +75,18 @@
   },
   {
     "theater": "Balboa",
+    "title": "The Invite",
+    "startTime": "2026-08-17T16:30:00-07:00",
+    "endTime": "2026-08-17T18:35:00-07:00",
+    "sourceUrl": "https://www.balboamovies.com/calendar-of-events/the-invite-august-17"
+  },
+  {
+    "theater": "Balboa",
     "title": "Your Name. 10th Anniversary",
     "startTime": "2026-08-17T16:30:00-07:00",
     "endTime": "2026-08-17T21:05:00-07:00",
     "sourceUrl": "https://www.balboamovies.com/calendar-of-events/your-name-10th-anniversary-august-17",
     "notes": "(Subtitled)"
-  },
-  {
-    "theater": "Balboa",
-    "title": "The Invite",
-    "startTime": "2026-08-17T16:30:00-07:00",
-    "endTime": "2026-08-17T18:35:00-07:00",
-    "sourceUrl": "https://www.balboamovies.com/calendar-of-events/the-invite-august-17"
   },
   {
     "theater": "Balboa",
