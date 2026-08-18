@@ -175,6 +175,18 @@
   },
   {
     "theater": "Roxie",
+    "title": "SFQFF26: Smash the Cis-tem",
+    "startTime": "2026-08-22T15:30:00-07:00",
+    "sourceUrl": "https://roxie.com/film/sfqff26-smash-the-cis-tem/#showtimes-20260822-1530"
+  },
+  {
+    "theater": "Roxie",
+    "title": "SFQFF26: Snow Falls on Pumpkin",
+    "startTime": "2026-08-22T18:30:00-07:00",
+    "sourceUrl": "https://roxie.com/film/sfqff26-snow-falls-on-pumpkin/#showtimes-20260822-1830"
+  },
+  {
+    "theater": "Roxie",
     "title": "My Night at Maud’s",
     "startTime": "2026-08-18T18:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/my-night-at-mauds/#showtimes-20260818-1800"
@@ -296,8 +308,8 @@
   {
     "theater": "Roxie",
     "title": "SFQFF26: Smash the Cis-tem",
-    "startTime": "2026-08-22T15:30:00-07:00",
-    "sourceUrl": "https://roxie.com/film/sfqff26-smash-the-cis-tem/#showtimes-20260822-1530"
+    "startTime": "2026-08-22T14:30:00-07:00",
+    "sourceUrl": "https://roxie.com/film/sfqff26-smash-the-cis-tem/#showtimes-20260822-1430"
   },
   {
     "theater": "Roxie",
@@ -314,8 +326,8 @@
   {
     "theater": "Roxie",
     "title": "SFQFF26: Snow Falls on Pumpkin",
-    "startTime": "2026-08-22T18:30:00-07:00",
-    "sourceUrl": "https://roxie.com/film/sfqff26-snow-falls-on-pumpkin/#showtimes-20260822-1830"
+    "startTime": "2026-08-22T18:15:00-07:00",
+    "sourceUrl": "https://roxie.com/film/sfqff26-snow-falls-on-pumpkin/#showtimes-20260822-1815"
   },
   {
     "theater": "Roxie",
@@ -416,8 +428,32 @@
   {
     "theater": "Roxie",
     "title": "The Samurai and the Prisoner",
+    "startTime": "2026-08-25T20:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/the-samurai-and-the-prisoner/#showtimes-20260825-2000"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Mary Oliver: Saved by the Beauty of the World",
+    "startTime": "2026-08-25T20:40:00-07:00",
+    "sourceUrl": "https://roxie.com/film/mary-oliver-saved-by-the-beauty-of-the-world/#showtimes-20260825-2040"
+  },
+  {
+    "theater": "Roxie",
+    "title": "The Samurai and the Prisoner",
     "startTime": "2026-08-26T18:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/the-samurai-and-the-prisoner/#showtimes-20260826-1800"
+  },
+  {
+    "theater": "Roxie",
+    "title": "CatVideoFest 2026",
+    "startTime": "2026-08-26T18:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/catvideofest-2026/#showtimes-20260826-1800"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Drunken Noodles",
+    "startTime": "2026-08-26T19:45:00-07:00",
+    "sourceUrl": "https://roxie.com/film/drunken-noodles/#showtimes-20260826-1945"
   },
   {
     "theater": "Roxie",
@@ -436,6 +472,12 @@
     "title": "The Time Masters",
     "startTime": "2026-08-27T18:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/the-time-masters/#showtimes-20260827-1800"
+  },
+  {
+    "theater": "Roxie",
+    "title": "American Pachuco: The Legend of Luis Valdez",
+    "startTime": "2026-08-27T18:20:00-07:00",
+    "sourceUrl": "https://roxie.com/film/american-pachuco-the-legend-of-luis-valdez/#showtimes-20260827-1820"
   },
   {
     "theater": "Roxie",
@@ -526,6 +568,12 @@
     "title": "Colony",
     "startTime": "2026-08-30T17:30:00-07:00",
     "sourceUrl": "https://roxie.com/film/colony/#showtimes-20260830-1730"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Toxic: A Fairy Tale For Grown-ups",
+    "startTime": "2026-08-30T18:30:00-07:00",
+    "sourceUrl": "https://roxie.com/film/toxic-a-fairy-tale-for-grown-ups/#showtimes-20260830-1830"
   },
   {
     "theater": "Roxie",
