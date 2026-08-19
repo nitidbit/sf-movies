@@ -12,22 +12,16 @@ NAMES
 * `/review-architecture` — Review code with "Characteristics of Good Code" in
 
 
-NOW
+DO NOW
 ===
 
-## Short List
-- Move to left side
-
-- have empty state descdribe what the site is about
-  - find movies in the bay area
-  - make a wish list
-  - share wish list with friends--they vote and pick.
-- 
-
-
+## Filtering bugs
+  - sometimes I till filter by theater. But they are not filtered.
 
 ## I have an about page - blurb about Nitid and link to main site
+
 ## Sources / Attribution page
+
 ## Feedback page
 
 ## better scraping of description if possible.
