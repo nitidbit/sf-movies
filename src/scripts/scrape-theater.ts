@@ -4,6 +4,7 @@ import { writeTheaterEvents } from "../shared/events/persist";
 import { fetchRoxieEvents } from "../shared/scrapers/roxie";
 import { fetchSceneFEvents } from "../shared/scrapers/scenef";
 import { fetchSquarespaceEvents } from "../shared/scrapers/squarespace";
+import { fetchTribeEvents } from "../shared/scrapers/tribeEvents";
 import { theaters, type TheaterConfig } from "../shared/theaters";
 
 const DATA_DIR = join(process.cwd(), "movie-data");
@@ -19,6 +20,8 @@ function fetchEventsFor(theater: TheaterConfig): Promise<Event[]> {
         throw new Error(`Theater "${theater.slug}" has source "scenef" but no venueId configured`);
       }
       return fetchSceneFEvents(theater.venueId, theater.name);
+    case "tribe":
+      return fetchTribeEvents(theater.baseUrl, theater.name);
   }
 }
 
