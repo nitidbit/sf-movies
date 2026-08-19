@@ -43,6 +43,14 @@
   },
   {
     "theater": "Alamo",
+    "title": "Breaking Bad Day",
+    "startTime": "2026-09-07T19:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/750f4a299440",
+    "attribution": "Showtimes via SceneF.com",
+    "notes": "sold-out"
+  },
+  {
+    "theater": "Alamo",
     "title": "Star Trek: The Genesis Trilogy",
     "startTime": "2026-09-08T12:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/f600d656cba4",
@@ -99,6 +107,27 @@
   },
   {
     "theater": "Alamo",
+    "title": "The Doors",
+    "startTime": "2026-09-14T19:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/482944698433",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Castration Movie Anthology ii. The Best of Both Worlds",
+    "startTime": "2026-09-16T18:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/9a2af4a1185f",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Spy Kids",
+    "startTime": "2026-09-19T12:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/1b8634a11a83",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
     "title": "The Twilight Saga: New Moon",
     "startTime": "2026-09-20T19:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/f09ba3c7a0f8",
@@ -113,6 +142,20 @@
   },
   {
     "theater": "Alamo",
+    "title": "Basic Instinct",
+    "startTime": "2026-09-23T18:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/863e77ce799f",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Pulp: What Do You Do for an Encore?",
+    "startTime": "2026-09-24T19:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/86d8a9e792fa",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
     "title": "Destroy All Monsters",
     "startTime": "2026-09-27T12:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/0dfc228b9d36",
@@ -120,9 +163,23 @@
   },
   {
     "theater": "Alamo",
+    "title": "Nacho Libre",
+    "startTime": "2026-09-27T14:45:00-07:00",
+    "sourceUrl": "https://scenef.com/go/c6cab68c716a",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
     "title": "The Birdcage",
     "startTime": "2026-09-28T19:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/9520274c6cfc",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Deathgasm 2: Goremageddon",
+    "startTime": "2026-09-29T19:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/1e943beb2774",
     "attribution": "Showtimes via SceneF.com"
   }
 ]

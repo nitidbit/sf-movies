@@ -1766,6 +1766,13 @@
   },
   {
     "theater": "Alamo",
+    "title": "Toxic: A Fairy Tale for Grown-ups",
+    "startTime": "2026-08-26T17:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/8470c8541283",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
     "title": "Teenage Sex and Death at Camp Miasma",
     "startTime": "2026-08-26T18:15:00-07:00",
     "sourceUrl": "https://scenef.com/go/a42d85b94fd7",
@@ -1797,6 +1804,13 @@
     "title": "The Odyssey",
     "startTime": "2026-08-26T21:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/1c4d40bae95c",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Rookie",
+    "startTime": "2026-08-26T21:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/7943165f287e",
     "attribution": "Showtimes via SceneF.com"
   },
   {
