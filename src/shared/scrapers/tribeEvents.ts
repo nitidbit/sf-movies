@@ -1,3 +1,4 @@
+import * as cheerio from "cheerio";
 import type { Event } from "../events/event";
 import { zonedIsoString, zonedTimeToUtc } from "../timezone";
 
@@ -12,6 +13,7 @@ interface RawTribeEvent {
   end_date?: string;
   timezone: string;
   url: string;
+  description?: string;
 }
 
 const WALL_CLOCK_PATTERN = /^(\d{4})-(\d{2})-(\d{2}) (\d{2}):(\d{2}):(\d{2})$/;
@@ -26,6 +28,10 @@ function toIsoString(dateString: string, timeZone: string): string {
   return zonedIsoString(utc, timeZone);
 }
 
+function htmlToText(html: string): string {
+  return cheerio.load(html).text().trim();
+}
+
 export function parseTribeEvent(raw: RawTribeEvent, theater: string): Event {
   return {
     theater,
@@ -33,6 +39,7 @@ export function parseTribeEvent(raw: RawTribeEvent, theater: string): Event {
     startTime: toIsoString(raw.start_date, raw.timezone),
     ...(raw.end_date !== undefined && { endTime: toIsoString(raw.end_date, raw.timezone) }),
     sourceUrl: raw.url,
+    ...(raw.description !== undefined && { notes: htmlToText(raw.description) }),
   };
 }
 
