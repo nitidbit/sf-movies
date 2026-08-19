@@ -39,7 +39,7 @@ describe("parseSceneFListings", () => {
         startTime: "2026-08-13T17:00:00-07:00",
         sourceUrl: "https://scenef.com/go/bfc1113620df",
         attribution: "Showtimes via SceneF.com",
-        notes: "sold-out",
+        synopsis: "sold-out",
       },
     ]);
   });

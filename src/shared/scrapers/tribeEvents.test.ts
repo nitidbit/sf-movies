@@ -20,7 +20,7 @@ describe("parseTribeEvent", () => {
     });
   });
 
-  it("strips HTML from the description and puts it in notes", () => {
+  it("strips HTML from the description and puts it in synopsis", () => {
     const raw = {
       title: "syllabary: poetry + music",
       start_date: "2026-08-20 19:00:00",
@@ -30,7 +30,7 @@ describe("parseTribeEvent", () => {
       description: "<p><em>duo, trio &amp; quartet performances</em></p>\n<p>Free and open to the public.</p>",
     };
 
-    expect(parseTribeEvent(raw, "ATA").notes).toBe(
+    expect(parseTribeEvent(raw, "ATA").synopsis).toBe(
       "duo, trio & quartet performances\nFree and open to the public.",
     );
   });

@@ -40,8 +40,8 @@ const dateTimeFormatter = new Intl.DateTimeFormat("en-US", {
       <StarIcon />
     </button>
   </div>
-  { event.notes &&
-    <p class="movie-card__notes" title={event.notes}>{event.notes}</p>
+  { event.synopsis &&
+    <p class="movie-card__synopsis" title={event.synopsis}>{event.synopsis}</p>
   }
   <div class="movie-card__meta">
     <span title={event.attribution}>
@@ -112,7 +112,7 @@ const dateTimeFormatter = new Intl.DateTimeFormat("en-US", {
     font-size: var(--font-size-sm);
   }
 
-  .movie-card__notes {
+  .movie-card__synopsis {
     margin: 0.25rem 0;
     font-size: var(--font-size-sm);
     white-space: nowrap;

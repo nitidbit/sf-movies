@@ -39,7 +39,7 @@ export function parseTribeEvent(raw: RawTribeEvent, theater: string): Event {
     startTime: toIsoString(raw.start_date, raw.timezone),
     ...(raw.end_date !== undefined && { endTime: toIsoString(raw.end_date, raw.timezone) }),
     sourceUrl: raw.url,
-    ...(raw.description !== undefined && { notes: htmlToText(raw.description) }),
+    ...(raw.description !== undefined && { synopsis: htmlToText(raw.description) }),
   };
 }
 

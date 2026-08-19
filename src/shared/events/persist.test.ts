@@ -53,7 +53,7 @@ describe("writeTheaterEvents", () => {
 
   it("reports the file as changed when an event's data changes", async () => {
     await writeTheaterEvents(dataDir, "balboa", [augustEvent]);
-    const updated: Event = { ...augustEvent, notes: "Final Show" };
+    const updated: Event = { ...augustEvent, synopsis: "Final Show" };
     const changed = await writeTheaterEvents(dataDir, "balboa", [updated]);
 
     expect(changed).toEqual([join(dataDir, "2026", "balboa", "08.json")]);

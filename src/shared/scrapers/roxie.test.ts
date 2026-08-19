@@ -19,15 +19,15 @@ describe("parseRoxieCalendar", () => {
       startTime: "2026-08-13T16:15:00-07:00",
       sourceUrl:
         "https://roxie.com/film/roxie-first-looks-12/#showtimes-20260813-1615",
-      notes: "Shorts & features from local filmmakers […]",
+      synopsis: "Shorts & features from local filmmakers […]",
     });
   });
 
-  it("has no notes when the film has no description", () => {
+  it("has no synopsis when the film has no description", () => {
     const events = parseRoxieCalendar(fixtureHtml, "Roxie");
     const samurai = events.find((e) => e.title === "The Samurai and the Prisoner");
 
-    expect(samurai?.notes).toBeUndefined();
+    expect(samurai?.synopsis).toBeUndefined();
   });
 
   it("parses multiple showtimes for one film on one day as separate events with distinct sourceUrls", () => {

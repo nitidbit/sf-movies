@@ -34,6 +34,6 @@ export const sampleEvents: Event[] = [
     title: "My Sassy Girl",
     startTime: "2026-08-15T19:30:00-07:00",
     sourceUrl: "https://www.4-star-movies.com/calendar-of-events/my-sassy-girl-fourstar-aug15",
-    notes: "(25th Anniversary 4K)",
+    synopsis: "(25th Anniversary 4K)",
   },
 ];

@@ -55,7 +55,7 @@ export function parseSquarespaceEvent(
   theater: string,
   baseUrl: string,
 ): Event {
-  const notes = extractDescription(raw.body);
+  const synopsis = extractDescription(raw.body);
 
   return {
     theater,
@@ -63,7 +63,7 @@ export function parseSquarespaceEvent(
     startTime: zonedIsoString(new Date(raw.startDate), LA_TIME_ZONE),
     ...(raw.endDate !== undefined && { endTime: zonedIsoString(new Date(raw.endDate), LA_TIME_ZONE) }),
     sourceUrl: `${baseUrl}${raw.fullUrl}`,
-    ...(notes !== undefined && { notes }),
+    ...(synopsis !== undefined && { synopsis }),
   };
 }
 

@@ -31,7 +31,7 @@ export function parseSceneFListings(data: SceneFListingsResponse, theater: strin
     startTime: zonedIsoString(new Date(screening.startsAt), LA_TIME_ZONE),
     sourceUrl: screening.ticketUrl,
     attribution: ATTRIBUTION,
-    ...(screening.tags && screening.tags.length > 0 && { notes: screening.tags.join(", ") }),
+    ...(screening.tags && screening.tags.length > 0 && { synopsis: screening.tags.join(", ") }),
   }));
 }
 

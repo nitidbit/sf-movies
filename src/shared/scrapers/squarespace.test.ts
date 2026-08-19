@@ -5,7 +5,7 @@ import { zonedIsoString } from "../timezone";
 const LA_TIME_ZONE = "America/Los_Angeles";
 
 describe("parseSquarespaceEvent", () => {
-  it("normalizes a plain showtime with no extra notes", () => {
+  it("normalizes a plain showtime with no synopsis", () => {
     const raw = {
       title: "The Handmaiden ~ 7:30 PM",
       startDate: 1786764600529,
@@ -48,7 +48,7 @@ describe("parseSquarespaceEvent", () => {
     );
   });
 
-  it("has no notes when the raw event has no body", () => {
+  it("has no synopsis when the raw event has no body", () => {
     const raw = {
       title: "Slacker ~ 7:30 PM",
       startDate: 1786765800945,
@@ -56,10 +56,10 @@ describe("parseSquarespaceEvent", () => {
       fullUrl: "/calendar-of-events/slacker-august-14",
     };
 
-    expect(parseSquarespaceEvent(raw, "Balboa", "https://www.balboamovies.com").notes).toBeUndefined();
+    expect(parseSquarespaceEvent(raw, "Balboa", "https://www.balboamovies.com").synopsis).toBeUndefined();
   });
 
-  it("extracts the synopsis text out of the body's text blocks into notes", () => {
+  it("extracts the synopsis text out of the body's text blocks", () => {
     const raw = {
       title: "Wag the Dog ~ 7 PM",
       startDate: 1786672800164,
@@ -68,12 +68,12 @@ describe("parseSquarespaceEvent", () => {
       body: '<div class="sqs-block video-block"><div class="sqs-block-content">not this</div></div><div class="sqs-block html-block"><div class="sqs-block-content"><div class="sqs-html-content"><p>Robert De Niro &amp; Dustin Hoffman star in a tale of politics.</p></div></div></div>',
     };
 
-    expect(parseSquarespaceEvent(raw, "Balboa", "https://www.balboamovies.com").notes).toBe(
+    expect(parseSquarespaceEvent(raw, "Balboa", "https://www.balboamovies.com").synopsis).toBe(
       "Robert De Niro & Dustin Hoffman star in a tale of politics.",
     );
   });
 
-  it("has no notes when the body has no text block", () => {
+  it("has no synopsis when the body has no text block", () => {
     const raw = {
       title: "Wag the Dog ~ 7 PM",
       startDate: 1786672800164,
@@ -82,7 +82,7 @@ describe("parseSquarespaceEvent", () => {
       body: '<div class="sqs-block video-block"><div class="sqs-block-content">just a trailer embed</div></div>',
     };
 
-    expect(parseSquarespaceEvent(raw, "Balboa", "https://www.balboamovies.com").notes).toBeUndefined();
+    expect(parseSquarespaceEvent(raw, "Balboa", "https://www.balboamovies.com").synopsis).toBeUndefined();
   });
 });
 

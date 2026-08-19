@@ -63,7 +63,7 @@ export function parseRoxieCalendar(html: string, theater: string): Event[] {
               title,
               startTime: zonedIsoString(startTime, LA_TIME_ZONE),
               sourceUrl: sourceUrlFor(filmUrl, year, month, day, hour, minute),
-              ...(description.length > 0 && { notes: description }),
+              ...(description.length > 0 && { synopsis: description }),
             });
           });
       });
