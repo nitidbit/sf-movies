@@ -1,3 +1,4 @@
+import * as cheerio from "cheerio";
 import type { Event } from "../events/event";
 import { zonedIsoString } from "../timezone";
 
@@ -8,6 +9,7 @@ interface RawSquarespaceEvent {
   startDate: number;
   endDate?: number;
   fullUrl: string;
+  body?: string;
 }
 
 interface SquarespaceCalendarPage {
@@ -16,12 +18,6 @@ interface SquarespaceCalendarPage {
     nextPageUrl?: string;
   };
 }
-
-// Titles look like "Movie Name ~ 7 PM (Final Show)" or
-// "Movie ~ 4:30 PM & 7 PM (Subtitled)" — the time(s) duplicate startDate/endDate,
-// so only whatever's left after stripping every time mention is a real "note".
-const TIME_TOKEN = /\b(doors|show)\s+at\s+\d{1,2}(:\d{2})?\s*(am|pm)\b|\b\d{1,2}(:\d{2})?\s*(am|pm)\b/gi;
-const DANGLING_JOINERS = /^[\s,&/-]+|[\s,&/-]+$/g;
 
 function unescapeHtml(text: string): string {
   return text
@@ -32,15 +28,26 @@ function unescapeHtml(text: string): string {
     .replace(/&#39;/g, "'");
 }
 
-function splitTitleAndNotes(rawTitle: string): { title: string; notes?: string } {
-  const [titlePart, ...rest] = rawTitle.split("~");
-  const remainder = unescapeHtml(rest.join("~")).trim();
-  const notes = remainder.replace(TIME_TOKEN, "").replace(DANGLING_JOINERS, "").trim();
+// Titles look like "Movie Name ~ 7 PM (Final Show)" — the part before "~" is
+// the real title; the time(s) and any parenthetical duplicate startDate/endDate
+// and the body's own synopsis, so they're discarded here.
+function extractTitle(rawTitle: string): string {
+  const [titlePart] = rawTitle.split("~");
+  return unescapeHtml(titlePart).trim();
+}
 
-  return {
-    title: unescapeHtml(titlePart).trim(),
-    notes: notes.length > 0 ? notes : undefined,
-  };
+// The synopsis lives in `body`, a full Squarespace layout (video embed,
+// text block, ticket buttons) — only the ".sqs-html-content" text block(s)
+// hold prose, so pull just that out.
+function extractDescription(bodyHtml: string | undefined): string | undefined {
+  if (!bodyHtml) return undefined;
+  const $ = cheerio.load(bodyHtml);
+  const text = $(".sqs-html-content")
+    .map((_, el) => $(el).text().trim())
+    .get()
+    .join("\n")
+    .trim();
+  return text.length > 0 ? text : undefined;
 }
 
 export function parseSquarespaceEvent(
@@ -48,11 +55,11 @@ export function parseSquarespaceEvent(
   theater: string,
   baseUrl: string,
 ): Event {
-  const { title, notes } = splitTitleAndNotes(raw.title);
+  const notes = extractDescription(raw.body);
 
   return {
     theater,
-    title,
+    title: extractTitle(raw.title),
     startTime: zonedIsoString(new Date(raw.startDate), LA_TIME_ZONE),
     ...(raw.endDate !== undefined && { endTime: zonedIsoString(new Date(raw.endDate), LA_TIME_ZONE) }),
     sourceUrl: `${baseUrl}${raw.fullUrl}`,

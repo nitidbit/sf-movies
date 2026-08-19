@@ -36,6 +36,7 @@ export function parseRoxieCalendar(html: string, theater: string): Event[] {
         const titleLink = $(filmEl).find(".film-strip__title a").first();
         const title = titleLink.text().trim();
         const filmUrl = titleLink.attr("href") ?? "";
+        const description = $(filmEl).find(".film-strip__description").first().text().trim();
 
         $(filmEl)
           .find(".film-strip__showtimes p a")
@@ -62,6 +63,7 @@ export function parseRoxieCalendar(html: string, theater: string): Event[] {
               title,
               startTime: zonedIsoString(startTime, LA_TIME_ZONE),
               sourceUrl: sourceUrlFor(filmUrl, year, month, day, hour, minute),
+              ...(description.length > 0 && { notes: description }),
             });
           });
       });
