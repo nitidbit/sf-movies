@@ -303,6 +303,12 @@ function formatDayHeader(date: string): string {
     }
   }
 
+  for (const synopsis of document.querySelectorAll<HTMLButtonElement>(".movie-card__synopsis")) {
+    synopsis.addEventListener("click", () => {
+      synopsis.setAttribute("aria-expanded", String(synopsis.getAttribute("aria-expanded") !== "true"));
+    });
+  }
+
   // Mobile-only mode switch: tapping a tab slides the track to a definite
   // end position (0% or -50%) via CSS transition, rather than relying on
   // touch-scroll physics to land on the right spot.
