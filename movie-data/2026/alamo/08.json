@@ -1836,9 +1836,23 @@
   },
   {
     "theater": "Alamo",
+    "title": "Idiots",
+    "startTime": "2026-08-27T16:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/f8e12d73a940",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
     "title": "Amyl and The Sniffers Present Truth or Consequence",
     "startTime": "2026-08-27T19:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/7ec3c04665e6",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "It Ends",
+    "startTime": "2026-08-27T19:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/5e1159c745ed",
     "attribution": "Showtimes via SceneF.com"
   },
   {
@@ -1864,9 +1878,23 @@
   },
   {
     "theater": "Alamo",
+    "title": "Idiots",
+    "startTime": "2026-08-28T22:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/3a9dc787f2b1",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
     "title": "The Outsiders",
     "startTime": "2026-08-29T12:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/c1b696148b80",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Idiots",
+    "startTime": "2026-08-29T13:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/082e19a63dee",
     "attribution": "Showtimes via SceneF.com"
   },
   {
