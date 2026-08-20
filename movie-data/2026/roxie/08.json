@@ -445,14 +445,14 @@
     "title": "American Doctor",
     "startTime": "2026-08-24T20:30:00-07:00",
     "sourceUrl": "https://roxie.com/film/american-doctor/#showtimes-20260824-2030",
-    "synopsis": "Filmmaker Poh Si Teng, IN PERSON with film subjects Dr. Thaer Ahmad, and Dr. Feroze Sidhwa Mon 8/24 (Don Young moderating) & Tue 8/25 […]"
+    "synopsis": "Filmmaker Poh Si Teng IN PERSON with film subjects Dr. Thaer Ahmad and Dr. Feroze Sidhwa Mon 8/24 (Don Young moderating) & Tue 8/25 […]"
   },
   {
     "theater": "Roxie",
     "title": "American Doctor",
     "startTime": "2026-08-25T18:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/american-doctor/#showtimes-20260825-1800",
-    "synopsis": "Filmmaker Poh Si Teng, IN PERSON with film subjects Dr. Thaer Ahmad, and Dr. Feroze Sidhwa Mon 8/24 (Don Young moderating) & Tue 8/25 […]"
+    "synopsis": "Filmmaker Poh Si Teng IN PERSON with film subjects Dr. Thaer Ahmad and Dr. Feroze Sidhwa Mon 8/24 (Don Young moderating) & Tue 8/25 […]"
   },
   {
     "theater": "Roxie",
@@ -543,7 +543,7 @@
     "title": "American Doctor",
     "startTime": "2026-08-28T18:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/american-doctor/#showtimes-20260828-1800",
-    "synopsis": "Filmmaker Poh Si Teng, IN PERSON with film subjects Dr. Thaer Ahmad, and Dr. Feroze Sidhwa Mon 8/24 (Don Young moderating) & Tue 8/25 […]"
+    "synopsis": "Filmmaker Poh Si Teng IN PERSON with film subjects Dr. Thaer Ahmad and Dr. Feroze Sidhwa Mon 8/24 (Don Young moderating) & Tue 8/25 […]"
   },
   {
     "theater": "Roxie",
@@ -589,10 +589,31 @@
   },
   {
     "theater": "Roxie",
+    "title": "CatVideoFest 2026",
+    "startTime": "2026-08-29T15:05:00-07:00",
+    "sourceUrl": "https://roxie.com/film/catvideofest-2026/#showtimes-20260829-1505",
+    "synopsis": "A portion of ticket sales go to benefit San Francisco’s, heroic  Give Me Shelter Cat Rescue! The world’s #1 cat video festival is back […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "CatVideoFest 2026",
+    "startTime": "2026-08-29T16:45:00-07:00",
+    "sourceUrl": "https://roxie.com/film/catvideofest-2026/#showtimes-20260829-1645",
+    "synopsis": "A portion of ticket sales go to benefit San Francisco’s, heroic  Give Me Shelter Cat Rescue! The world’s #1 cat video festival is back […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "American Doctor",
     "startTime": "2026-08-29T18:20:00-07:00",
     "sourceUrl": "https://roxie.com/film/american-doctor/#showtimes-20260829-1820",
-    "synopsis": "Filmmaker Poh Si Teng, IN PERSON with film subjects Dr. Thaer Ahmad, and Dr. Feroze Sidhwa Mon 8/24 (Don Young moderating) & Tue 8/25 […]"
+    "synopsis": "Filmmaker Poh Si Teng IN PERSON with film subjects Dr. Thaer Ahmad and Dr. Feroze Sidhwa Mon 8/24 (Don Young moderating) & Tue 8/25 […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Union County",
+    "startTime": "2026-08-29T18:25:00-07:00",
+    "sourceUrl": "https://roxie.com/film/union-county/#showtimes-20260829-1825",
+    "synopsis": "Co-presented by Shatterproof Post-Film Panel with Judge William Orrick, (Convictions Alternative Program) & Arlene Prince, (Executive Director, Ohlhoff Recovery Programs), moderated by Shatterproof CEO, […]"
   },
   {
     "theater": "Roxie",
@@ -613,7 +634,7 @@
     "title": "American Doctor",
     "startTime": "2026-08-30T12:50:00-07:00",
     "sourceUrl": "https://roxie.com/film/american-doctor/#showtimes-20260830-1250",
-    "synopsis": "Filmmaker Poh Si Teng, IN PERSON with film subjects Dr. Thaer Ahmad, and Dr. Feroze Sidhwa Mon 8/24 (Don Young moderating) & Tue 8/25 […]"
+    "synopsis": "Filmmaker Poh Si Teng IN PERSON with film subjects Dr. Thaer Ahmad and Dr. Feroze Sidhwa Mon 8/24 (Don Young moderating) & Tue 8/25 […]"
   },
   {
     "theater": "Roxie",
@@ -649,6 +670,13 @@
     "startTime": "2026-08-31T16:10:00-07:00",
     "sourceUrl": "https://roxie.com/film/roxie-first-looks-13/#showtimes-20260831-1610",
     "synopsis": "With Filmmakers Q&A after the Sunday, August 30th screening! First Looks, the Roxie’s Oscar-Qualifying Theatrical Release program, supports filmmakers in their Academy Award quest. […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "American Doctor",
+    "startTime": "2026-08-31T18:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/american-doctor/#showtimes-20260831-1800",
+    "synopsis": "Filmmaker Poh Si Teng IN PERSON with film subjects Dr. Thaer Ahmad and Dr. Feroze Sidhwa Mon 8/24 (Don Young moderating) & Tue 8/25 […]"
   },
   {
     "theater": "Roxie",
