@@ -2,6 +2,9 @@
 
   For now, located at https://nitidbit.github.io/sf-movies/
 
+## Prior Art
+- [spiralhwy.github.io/web](https://spiralhwy.github.io/web/)
+
 ### Commands
 
 | Command                   | Action                                           |
@@ -54,7 +57,6 @@ Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page
 There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
 
 Any static assets, like images, can be placed in the `public/` directory.
-
 
 ## 👀 Want to learn more?
 
