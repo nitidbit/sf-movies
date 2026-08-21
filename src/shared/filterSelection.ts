@@ -30,14 +30,6 @@ export function defaultDayRange(now: Date): DayRange {
   };
 }
 
-export function defaultSelection(now: Date): FilterSelection {
-  return {
-    title: "",
-    dayRange: defaultDayRange(now),
-    theaters: new Set(),
-  };
-}
-
 // Case-insensitive substring match. An empty needle matches every title — no
 // special-casing needed, since every string includes "".
 function matchesTitle(title: string, needle: string): boolean {

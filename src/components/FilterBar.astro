@@ -159,9 +159,9 @@ const sortedTheaters = Object.values(theaters).sort((a, b) => (a.name < b.name ?
 <script>
   import {
     defaultDayRange,
-    defaultSelection,
     labels,
     matches,
+    type FilterSelection,
   } from "../shared/filterSelection";
 
   const titleFilterBtn = document.getElementById("title-filter-btn") as HTMLButtonElement;
@@ -185,16 +185,28 @@ const sortedTheaters = Object.values(theaters).sort((a, b) => (a.name < b.name ?
 
   const noMatches = document.getElementById("no-matches") as HTMLElement;
 
-  // Everything the browse list is filtered by. The day range is the only
-  // criterion that doesn't apply live — the date inputs hold the pending
-  // value until Filter is pressed, at which point it's folded in here.
-  let selection = defaultSelection(new Date());
-  dayFrom.value = selection.dayRange.from;
-  dayTo.value = selection.dayRange.to;
+  // The day range is the only filter state this script holds. Title and
+  // theaters are read straight off their controls instead, so there is no
+  // second copy to fall out of step — which matters because browsers restore
+  // form controls on a soft reload but re-run this script from scratch.
+  let committedDayRange = defaultDayRange(new Date());
+  dayFrom.value = committedDayRange.from;
+  dayTo.value = committedDayRange.to;
 
-  // The single source of truth for visibility: every place the selection can
+  function currentSelection(): FilterSelection {
+    return {
+      title: titleInput.value,
+      dayRange: committedDayRange,
+      theaters: new Set(
+        [...theaterCheckboxes].filter((checkbox) => checkbox.checked).map((checkbox) => checkbox.value),
+      ),
+    };
+  }
+
+  // The single source of truth for visibility: every place a filter can
   // change calls this, so there's exactly one path that ever sets `hidden`.
   function applyFilters() {
+    const selection = currentSelection();
     const pill = labels(selection);
     titleFilterBtn.textContent = pill.title;
     dayFilterBtn.textContent = pill.day;
@@ -225,10 +237,9 @@ const sortedTheaters = Object.values(theaters).sort((a, b) => (a.name < b.name ?
   // has no off state, so a hand-cleared From falls back to the default week
   // rather than committing an empty range that would match nothing.
   function commitDayRange(from: string, to: string) {
-    const range = from ? { from, to: to || from } : defaultDayRange(new Date());
-    selection = { ...selection, dayRange: range };
-    dayFrom.value = range.from;
-    dayTo.value = range.to;
+    committedDayRange = from ? { from, to: to || from } : defaultDayRange(new Date());
+    dayFrom.value = committedDayRange.from;
+    dayTo.value = committedDayRange.to;
   }
 
   const allPopovers = [titlePopover, dayPopover, theaterPopover];
@@ -254,14 +265,10 @@ const sortedTheaters = Object.values(theaters).sort((a, b) => (a.name < b.name ?
     titlePopover.hidden ? openPopover(titlePopover) : closePopover(titlePopover);
   });
 
-  titleInput.addEventListener("input", () => {
-    selection = { ...selection, title: titleInput.value };
-    applyFilters();
-  });
+  titleInput.addEventListener("input", applyFilters);
 
   titleClear.addEventListener("click", () => {
     titleInput.value = "";
-    selection = { ...selection, title: "" };
     applyFilters();
     closePopover(titlePopover);
   });
@@ -315,23 +322,13 @@ const sortedTheaters = Object.values(theaters).sort((a, b) => (a.name < b.name ?
   // Checked theaters apply live, same as the title filter — there's no
   // in-progress state to protect against with a checkbox toggle.
   for (const checkbox of theaterCheckboxes) {
-    checkbox.addEventListener("change", () => {
-      const theaters = new Set(selection.theaters);
-      if (checkbox.checked) {
-        theaters.add(checkbox.value);
-      } else {
-        theaters.delete(checkbox.value);
-      }
-      selection = { ...selection, theaters };
-      applyFilters();
-    });
+    checkbox.addEventListener("change", applyFilters);
   }
 
   theaterClear.addEventListener("click", () => {
     for (const checkbox of theaterCheckboxes) {
       checkbox.checked = false;
     }
-    selection = { ...selection, theaters: new Set() };
     applyFilters();
     closePopover(theaterPopover);
   });

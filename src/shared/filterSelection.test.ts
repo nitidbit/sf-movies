@@ -1,11 +1,5 @@
 import { describe, expect, it } from "vitest";
-import {
-  defaultDayRange,
-  defaultSelection,
-  labels,
-  matches,
-  type FilterSelection,
-} from "./filterSelection";
+import { defaultDayRange, labels, matches, type FilterSelection } from "./filterSelection";
 import { sampleEvents } from "./events/sampleEvents";
 
 // A complete selection with both optional filters at their "off" state and a
@@ -138,15 +132,5 @@ const NOW = new Date("2026-08-15T04:00:00.000Z");
 describe("defaultDayRange", () => {
   it("spans today through a week out, in LA calendar days", () => {
     expect(defaultDayRange(NOW)).toEqual({ from: "2026-08-14", to: "2026-08-21" });
-  });
-});
-
-describe("defaultSelection", () => {
-  it("opens on the next week with no title or theater filter", () => {
-    expect(defaultSelection(NOW)).toEqual({
-      title: "",
-      dayRange: { from: "2026-08-14", to: "2026-08-21" },
-      theaters: new Set(),
-    });
   });
 });
