@@ -75,5 +75,47 @@
     "startTime": "2026-12-18T21:45:00-08:00",
     "sourceUrl": "https://scenef.com/go/34e55f86dd38",
     "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Avengers: Doomsday",
+    "startTime": "2026-12-19T10:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/bc08fa17ac2d",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Dune: Part Three",
+    "startTime": "2026-12-19T14:10:00-08:00",
+    "sourceUrl": "https://scenef.com/go/563e3d24b459",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Avengers: Doomsday",
+    "startTime": "2026-12-19T14:45:00-08:00",
+    "sourceUrl": "https://scenef.com/go/3ffdb822618e",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Dune: Part Three",
+    "startTime": "2026-12-19T18:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/f141a4f30aef",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Avengers: Doomsday",
+    "startTime": "2026-12-19T18:45:00-08:00",
+    "sourceUrl": "https://scenef.com/go/f461dc93e725",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Avengers: Doomsday",
+    "startTime": "2026-12-19T21:45:00-08:00",
+    "sourceUrl": "https://scenef.com/go/8462a13baba0",
+    "attribution": "Showtimes via SceneF.com"
   }
 ]

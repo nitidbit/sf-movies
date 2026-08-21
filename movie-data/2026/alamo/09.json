@@ -1,6 +1,34 @@
 [
   {
     "theater": "Alamo",
+    "title": "Practical Magic 2",
+    "startTime": "2026-09-10T18:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/1903bae840eb",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Practical Magic 2",
+    "startTime": "2026-09-11T18:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/54096ef67e57",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Practical Magic 2",
+    "startTime": "2026-09-12T18:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/ae97954b86ae",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Practical Magic 2",
+    "startTime": "2026-09-13T18:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/58e0aff7361e",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
     "title": "Butthole Surfers: The Hole Truth and Nothing Butt",
     "startTime": "2026-09-01T18:30:00-07:00",
     "sourceUrl": "https://scenef.com/go/95441a15c7fc",
@@ -51,6 +79,13 @@
   },
   {
     "theater": "Alamo",
+    "title": "Hope",
+    "startTime": "2026-09-07T18:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/cf931f9ab3ae",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
     "title": "Breaking Bad Day",
     "startTime": "2026-09-07T19:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/a91fdfeb0f2f",
@@ -81,6 +116,13 @@
   },
   {
     "theater": "Alamo",
+    "title": "Hope",
+    "startTime": "2026-09-09T17:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/efd6c725b411",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
     "title": "Spike of Bensonhurst",
     "startTime": "2026-09-09T21:30:00-07:00",
     "sourceUrl": "https://scenef.com/go/0541312b8830",
@@ -95,37 +137,9 @@
   },
   {
     "theater": "Alamo",
-    "title": "Practical Magic 2",
-    "startTime": "2026-09-10T18:00:00-07:00",
-    "sourceUrl": "https://scenef.com/go/1903bae840eb",
-    "attribution": "Showtimes via SceneF.com"
-  },
-  {
-    "theater": "Alamo",
-    "title": "Practical Magic 2",
-    "startTime": "2026-09-11T18:00:00-07:00",
-    "sourceUrl": "https://scenef.com/go/54096ef67e57",
-    "attribution": "Showtimes via SceneF.com"
-  },
-  {
-    "theater": "Alamo",
     "title": "First Blood",
     "startTime": "2026-09-12T16:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/d1fc3cac0efe",
-    "attribution": "Showtimes via SceneF.com"
-  },
-  {
-    "theater": "Alamo",
-    "title": "Practical Magic 2",
-    "startTime": "2026-09-12T18:00:00-07:00",
-    "sourceUrl": "https://scenef.com/go/ae97954b86ae",
-    "attribution": "Showtimes via SceneF.com"
-  },
-  {
-    "theater": "Alamo",
-    "title": "Practical Magic 2",
-    "startTime": "2026-09-13T18:00:00-07:00",
-    "sourceUrl": "https://scenef.com/go/58e0aff7361e",
     "attribution": "Showtimes via SceneF.com"
   },
   {
@@ -140,6 +154,13 @@
     "title": "The Doors",
     "startTime": "2026-09-14T19:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/482944698433",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Hope",
+    "startTime": "2026-09-15T18:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/8c0f4ae8fd46",
     "attribution": "Showtimes via SceneF.com"
   },
   {

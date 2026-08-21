@@ -1057,6 +1057,13 @@
   },
   {
     "theater": "Alamo",
+    "title": "Amyl and The Sniffers Present Truth or Consequence",
+    "startTime": "2026-08-27T19:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/7ec3c04665e6",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
     "title": "Teenage Sex and Death at Camp Miasma",
     "startTime": "2026-08-21T11:45:00-07:00",
     "sourceUrl": "https://scenef.com/go/d58362aa8947",
@@ -1843,9 +1850,9 @@
   },
   {
     "theater": "Alamo",
-    "title": "Amyl and The Sniffers Present Truth or Consequence",
+    "title": "Amyl and the Sniffers Present: Truth or Consequence",
     "startTime": "2026-08-27T19:00:00-07:00",
-    "sourceUrl": "https://scenef.com/go/7ec3c04665e6",
+    "sourceUrl": "https://scenef.com/go/46485f086349",
     "attribution": "Showtimes via SceneF.com"
   },
   {
