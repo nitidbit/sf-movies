@@ -2,7 +2,6 @@
 import StarIcon from "./StarIcon.astro";
 import { preferredDateTimeFmt } from "../shared/dateFormat";
 import type { Event } from "../shared/events/event";
-import { localDayOf } from "../shared/filter";
 
 interface Props {
   event: Event;
@@ -25,7 +24,7 @@ const dateTimeFormatter = new Intl.DateTimeFormat("en-US", {
 <li
   class="movie-card"
   data-title={event.title.toLowerCase()}
-  data-date={localDayOf(new Date(event.startTime))}
+  data-start-time={event.startTime}
   data-theater={event.theater}
   data-source-url={event.sourceUrl}
   hidden={hidden}

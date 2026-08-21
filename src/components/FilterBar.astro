@@ -157,8 +157,12 @@ const sortedTheaters = Object.values(theaters).sort((a, b) => (a.name < b.name ?
 </style>
 
 <script>
-  import { dayFilterLabel, theaterFilterLabel, titleFilterLabel } from "../shared/filterLabel";
-  import { localDayOf, matchesDayRange, matchesTheater, matchesTitle } from "../shared/filter";
+  import {
+    defaultDayRange,
+    defaultSelection,
+    labels,
+    matches,
+  } from "../shared/filterSelection";
 
   const titleFilterBtn = document.getElementById("title-filter-btn") as HTMLButtonElement;
   const titlePopover = document.getElementById("title-popover") as HTMLElement;
@@ -181,56 +185,32 @@ const sortedTheaters = Object.values(theaters).sort((a, b) => (a.name < b.name ?
 
   const noMatches = document.getElementById("no-matches") as HTMLElement;
 
-  // The day filter only takes effect on Filter/Clear (not live), so its
-  // committed range is tracked separately from the raw input values. The
-  // title filter has no equivalent — it's read live from titleInput.value
-  // every time applyFilters runs.
-  //
-  // Defaults to "now through 7 days out" so the page opens showing the
-  // near-term schedule rather than every future showtime.
-  const today = localDayOf(new Date());
-  const oneWeekOut = localDayOf(new Date(Date.now() + 7 * 24 * 60 * 60 * 1000));
+  // Everything the browse list is filtered by. The day range is the only
+  // criterion that doesn't apply live — the date inputs hold the pending
+  // value until Filter is pressed, at which point it's folded in here.
+  let selection = defaultSelection(new Date());
+  dayFrom.value = selection.dayRange.from;
+  dayTo.value = selection.dayRange.to;
 
-  let activeDayFrom = today;
-  let activeDayTo = oneWeekOut;
-  dayFrom.value = today;
-  dayTo.value = oneWeekOut;
-
-  function updateDayLabel() {
-    dayFilterBtn.textContent = dayFilterLabel(activeDayFrom, activeDayTo);
-  }
-
-  updateDayLabel();
-
-  // Checked theaters apply live, same as the title filter — there's no
-  // in-progress state to protect against with a checkbox toggle. An empty
-  // set means "no theater filter," not "no theaters."
-  const checkedTheaters = new Set<string>();
-
-  function updateTheaterLabel() {
-    theaterFilterBtn.textContent = theaterFilterLabel(checkedTheaters.size);
-  }
-
-  updateTheaterLabel();
-
-  // The single source of truth for visibility: every card is shown only
-  // if it satisfies BOTH the live title filter and the committed day
-  // filter (AND). Every place either filter can change calls this same
-  // function, so there's exactly one path that ever sets `hidden`.
+  // The single source of truth for visibility: every place the selection can
+  // change calls this, so there's exactly one path that ever sets `hidden`.
   function applyFilters() {
-    titleFilterBtn.textContent = titleFilterLabel(titleInput.value);
+    const pill = labels(selection);
+    titleFilterBtn.textContent = pill.title;
+    dayFilterBtn.textContent = pill.day;
+    theaterFilterBtn.textContent = pill.theaters;
 
-    const titleNeedle = titleInput.value.trim();
     const cards = document.querySelectorAll<HTMLLIElement>(".browse-pane .movie-card");
     let visibleCount = 0;
 
     for (const card of cards) {
-      const titleMatches = matchesTitle(card.dataset.title ?? "", titleNeedle);
-      const dayMatches = matchesDayRange(card.dataset.date ?? "", activeDayFrom, activeDayTo);
-      const theaterMatches = matchesTheater(card.dataset.theater ?? "", checkedTheaters);
-      const matches = titleMatches && dayMatches && theaterMatches;
-      card.hidden = !matches;
-      if (matches) visibleCount += 1;
+      const isMatch = matches(selection, {
+        title: card.dataset.title ?? "",
+        theater: card.dataset.theater ?? "",
+        startTime: card.dataset.startTime ?? "",
+      });
+      card.hidden = !isMatch;
+      if (isMatch) visibleCount += 1;
     }
 
     for (const group of document.querySelectorAll<HTMLElement>(".browse-pane .day-group")) {
@@ -239,6 +219,16 @@ const sortedTheaters = Object.values(theaters).sort((a, b) => (a.name < b.name ?
     }
 
     noMatches.hidden = visibleCount > 0;
+  }
+
+  // Commits a day range and mirrors it back into the inputs. The day filter
+  // has no off state, so a hand-cleared From falls back to the default week
+  // rather than committing an empty range that would match nothing.
+  function commitDayRange(from: string, to: string) {
+    const range = from ? { from, to: to || from } : defaultDayRange(new Date());
+    selection = { ...selection, dayRange: range };
+    dayFrom.value = range.from;
+    dayTo.value = range.to;
   }
 
   const allPopovers = [titlePopover, dayPopover, theaterPopover];
@@ -264,10 +254,14 @@ const sortedTheaters = Object.values(theaters).sort((a, b) => (a.name < b.name ?
     titlePopover.hidden ? openPopover(titlePopover) : closePopover(titlePopover);
   });
 
-  titleInput.addEventListener("input", applyFilters);
+  titleInput.addEventListener("input", () => {
+    selection = { ...selection, title: titleInput.value };
+    applyFilters();
+  });
 
   titleClear.addEventListener("click", () => {
     titleInput.value = "";
+    selection = { ...selection, title: "" };
     applyFilters();
     closePopover(titlePopover);
   });
@@ -289,20 +283,17 @@ const sortedTheaters = Object.values(theaters).sort((a, b) => (a.name < b.name ?
     dayPopover.hidden ? openPopover(dayPopover) : closePopover(dayPopover);
   });
 
+  // Clear returns the range to the default week rather than switching the
+  // filter off — the browse list is always bounded by some range.
   dayClear.addEventListener("click", () => {
-    dayFrom.value = "";
-    dayTo.value = "";
-    activeDayFrom = "";
-    activeDayTo = "";
-    updateDayLabel();
+    const { from, to } = defaultDayRange(new Date());
+    commitDayRange(from, to);
     applyFilters();
     closePopover(dayPopover);
   });
 
   dayApply.addEventListener("click", () => {
-    activeDayFrom = dayFrom.value;
-    activeDayTo = dayTo.value || dayFrom.value;
-    updateDayLabel();
+    commitDayRange(dayFrom.value, dayTo.value);
     applyFilters();
     closePopover(dayPopover);
   });
@@ -321,14 +312,17 @@ const sortedTheaters = Object.values(theaters).sort((a, b) => (a.name < b.name ?
     theaterPopover.hidden ? openPopover(theaterPopover) : closePopover(theaterPopover);
   });
 
+  // Checked theaters apply live, same as the title filter — there's no
+  // in-progress state to protect against with a checkbox toggle.
   for (const checkbox of theaterCheckboxes) {
     checkbox.addEventListener("change", () => {
+      const theaters = new Set(selection.theaters);
       if (checkbox.checked) {
-        checkedTheaters.add(checkbox.value);
+        theaters.add(checkbox.value);
       } else {
-        checkedTheaters.delete(checkbox.value);
+        theaters.delete(checkbox.value);
       }
-      updateTheaterLabel();
+      selection = { ...selection, theaters };
       applyFilters();
     });
   }
@@ -337,8 +331,7 @@ const sortedTheaters = Object.values(theaters).sort((a, b) => (a.name < b.name ?
     for (const checkbox of theaterCheckboxes) {
       checkbox.checked = false;
     }
-    checkedTheaters.clear();
-    updateTheaterLabel();
+    selection = { ...selection, theaters: new Set() };
     applyFilters();
     closePopover(theaterPopover);
   });

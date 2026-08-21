@@ -1,7 +1,7 @@
 import { readdir, readFile } from "node:fs/promises";
 import { join } from "node:path";
 import type { Event } from "./event";
-import { compareByStartTime } from "../filter";
+import { compareByStartTime } from "./schedule";
 
 async function findJsonFiles(dir: string): Promise<string[]> {
   const entries = await readdir(dir, { withFileTypes: true });

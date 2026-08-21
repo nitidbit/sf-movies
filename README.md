@@ -5,6 +5,20 @@
 ## Prior Art
 - [spiralhwy.github.io/web](https://spiralhwy.github.io/web/)
 
+
+## Architecture as of Aug 2026
+sf-movies is a static Astro site (~2,500 lines) that lists showtimes from six San Francisco indie theaters. It has no server and no database. Two halves:
+
+(1) Scrape side (Node, runs in Github Actions). src/shared/theaters.ts is a config map of six theaters, each naming a source — one of four scrapers in src/shared/scrapers/ (squarespace, roxie, scenef, tribeEvents). src/scripts/scrape-theater.ts takes a slug, dispatches on source via a switch, and hands the results to src/shared/events/persist.ts, which groups them by LA month and merges into movie-data/<year>/<theater>/<month>.json keyed on sourceUrl (eventStore.ts). Six near-identical GitHub Actions workflows run one theater each, daily, and commit the JSON back to the repo.
+
+(2) Site side (build time). src/shared/events/loadEvents.ts flattens all 624 JSON records into one sorted list. src/pages/index.astro drops past showings, clusters the rest into day groups, and renders every showing twice — once in a "Browsing" pane, once hidden in a "Wish List" pane — as MovieCard.astro <li> elements carrying data-title / data-date / data-theater / data-source-url.
+
+Browser. Two small inline scripts, no framework. index.astro's script builds a sourceUrl → elements map so starring a card updates both copies and persists to localStorage (wishlist.ts). FilterBar.astro's script holds the filter state and hides non-matching cards by walking the DOM and reading those data attributes.
+
+Shared throughout: timezone.ts (hand-rolled, no date library) keeps everything in America/Los_Angeles — Event.startTime is stored as an ISO instant with an explicit PT offset so the JSON stays readable against a theater's own listing.
+
+Testing is vitest, pure-Node, no DOM environment. Coverage is good on the scrapers and the date logic, and absent on everything the browser actually runs.
+
 ### Commands
 
 | Command                   | Action                                           |
