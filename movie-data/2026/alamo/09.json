@@ -1,34 +1,6 @@
 [
   {
     "theater": "Alamo",
-    "title": "Practical Magic 2",
-    "startTime": "2026-09-10T18:00:00-07:00",
-    "sourceUrl": "https://scenef.com/go/1903bae840eb",
-    "attribution": "Showtimes via SceneF.com"
-  },
-  {
-    "theater": "Alamo",
-    "title": "Practical Magic 2",
-    "startTime": "2026-09-11T18:00:00-07:00",
-    "sourceUrl": "https://scenef.com/go/54096ef67e57",
-    "attribution": "Showtimes via SceneF.com"
-  },
-  {
-    "theater": "Alamo",
-    "title": "Practical Magic 2",
-    "startTime": "2026-09-12T18:00:00-07:00",
-    "sourceUrl": "https://scenef.com/go/ae97954b86ae",
-    "attribution": "Showtimes via SceneF.com"
-  },
-  {
-    "theater": "Alamo",
-    "title": "Practical Magic 2",
-    "startTime": "2026-09-13T18:00:00-07:00",
-    "sourceUrl": "https://scenef.com/go/58e0aff7361e",
-    "attribution": "Showtimes via SceneF.com"
-  },
-  {
-    "theater": "Alamo",
     "title": "Butthole Surfers: The Hole Truth and Nothing Butt",
     "startTime": "2026-09-01T18:30:00-07:00",
     "sourceUrl": "https://scenef.com/go/95441a15c7fc",
@@ -61,6 +33,13 @@
     "title": "Star Trek II: The Wrath of Khan",
     "startTime": "2026-09-05T15:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/a64786746e48",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Dire Duplicity",
+    "startTime": "2026-09-05T19:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/176bd2b5fda7",
     "attribution": "Showtimes via SceneF.com"
   },
   {
@@ -137,9 +116,44 @@
   },
   {
     "theater": "Alamo",
+    "title": "Practical Magic 2",
+    "startTime": "2026-09-10T18:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/1903bae840eb",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Dire Duplicity",
+    "startTime": "2026-09-10T19:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/d461b89b274c",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Practical Magic 2",
+    "startTime": "2026-09-11T18:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/54096ef67e57",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
     "title": "First Blood",
     "startTime": "2026-09-12T16:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/d1fc3cac0efe",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Practical Magic 2",
+    "startTime": "2026-09-12T18:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/ae97954b86ae",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Practical Magic 2",
+    "startTime": "2026-09-13T18:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/58e0aff7361e",
     "attribution": "Showtimes via SceneF.com"
   },
   {
@@ -196,6 +210,13 @@
     "title": "Crunchyroll Anime Night Sneak Peek (9/21/2026)",
     "startTime": "2026-09-21T19:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/b2e30e12775b",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Chronovisor",
+    "startTime": "2026-09-22T19:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/687baaae2b32",
     "attribution": "Showtimes via SceneF.com"
   },
   {
