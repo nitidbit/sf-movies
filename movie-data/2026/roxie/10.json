@@ -1,6 +1,27 @@
 [
   {
     "theater": "Roxie",
+    "title": "Floating Features: Jaws",
+    "startTime": "2026-10-02T19:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/floating-features-jaws-2/#showtimes-20261002-1900",
+    "synopsis": "When a gigantic great white shark begins to menace the small island community of Amity, a police chief, a marine scientist and grizzled fisherman […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Floating Features: Top Gun",
+    "startTime": "2026-10-09T19:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/floating-features-top-gun-2/#showtimes-20261009-1900",
+    "synopsis": "Two rising but reckless Naval officers – Pete “Maverick” Mitchell and Nick “Goose” Bradshaw – are recruited for Top Gun; an elite US Flying […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Floating Features: The Game",
+    "startTime": "2026-10-16T19:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/floating-features-the-game/#showtimes-20261016-1900",
+    "synopsis": "After a wealthy banker is given an opportunity to participate in a mysterious game, his life is turned upside down when he becomes unable […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "ZYZZYVA Movie Matinee with Ingrid Rojas Contreras: Amarcord (35mm)",
     "startTime": "2026-10-17T12:30:00-07:00",
     "sourceUrl": "https://roxie.com/film/zyzzyva-movie-matinee-with-ingrid-rojas-contreras-amarcord/#showtimes-20261017-1230",
@@ -12,5 +33,19 @@
     "startTime": "2026-10-20T18:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/dr-jekyll-and-mr-hyde-1931/#showtimes-20261020-1800",
     "synopsis": "Fredric March and Miriam Hopkins (Design for Living) star in Robert Lewis Stevenson‘s classic horror tale of a kind and gentle doctor looking for […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Floating Features: Hocus Pocus",
+    "startTime": "2026-10-23T19:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/floating-features-hocus-pocus-2/#showtimes-20261023-1900",
+    "synopsis": "After three centuries, three witch sisters are resurrected in Salem, Massachusetts on Halloween night, and it is up to two teenagers, a young girl, […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Floating Features: Us",
+    "startTime": "2026-10-30T19:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/floating-features-us/#showtimes-20261030-1900",
+    "synopsis": "In order to get away from their busy lives, the Wilson family takes a vacation to Santa Cruz, California. At night, four strangers break […]"
   }
 ]
