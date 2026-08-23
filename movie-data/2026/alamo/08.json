@@ -1317,6 +1317,13 @@
   },
   {
     "theater": "Alamo",
+    "title": "Remake",
+    "startTime": "2026-08-23T14:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/102938ac85bb",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
     "title": "Spider-Man: Brand New Day",
     "startTime": "2026-08-23T11:15:00-07:00",
     "sourceUrl": "https://scenef.com/go/bf5abbe6b472",
@@ -1354,7 +1361,7 @@
     "theater": "Alamo",
     "title": "Remake",
     "startTime": "2026-08-23T14:30:00-07:00",
-    "sourceUrl": "https://scenef.com/go/102938ac85bb",
+    "sourceUrl": "https://scenef.com/go/716d5885fdff",
     "attribution": "Showtimes via SceneF.com"
   },
   {
