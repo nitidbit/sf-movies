@@ -1,6 +1,9 @@
 # sf-movies.nitid.co
 
-  For now, located at https://nitidbit.github.io/sf-movies/
+For now, located at https://nitidbit.github.io/sf-movies/
+
+[Stories in Linear]( https://linear.app/butud/project/films-with-friends-cbb71adbd6f8/issues )
+
 
 ## Prior Art
 - [spiralhwy.github.io/web](https://spiralhwy.github.io/web/)
@@ -19,12 +22,18 @@ Shared throughout: timezone.ts (hand-rolled, no date library) keeps everything i
 
 Testing is vitest, pure-Node, no DOM environment. Coverage is good on the scrapers and the date logic, and absent on everything the browser actually runs.
 
+## Developer Setup
+
+* npm i
+* npm test
+* ./dev-start.sh
+
 ### Commands
 
 | Command                   | Action                                           |
 | :------------------------ | :----------------------------------------------- |
-| `./dev-start.sh`          | Run the dev server                               |
 | `npm install`             | Installs dependencies                            |
+| `./dev-start.sh`          | Run the dev server                               |
 | `npm run dev`             | Starts local dev server at `localhost:4321`      |
 | `npm run build`           | Build your production site to `./dist/`          |
 | `npm run preview`         | Preview your build locally, before deploying     |
@@ -34,43 +43,35 @@ Testing is vitest, pure-Node, no DOM environment. Coverage is good on the scrape
 
 Manage the background server with `astro dev stop`, `astro dev status`, and `astro dev logs`.
 
-## Developer Setup
 
-* npm i
-* npm test
-* ./dev-start.sh
+### AI Workflow
 
+* Write the story with requirements you can think of.
+* `/write-a-prd`
+* `/prd-to-issues`
+* `/review-architecture` — Review code with "Characteristics of Good Code" in
 
-## Astro Documentation
-
-Full documentation: https://docs.astro.build
-
-Consult these guides before working on related tasks:
-
-- [Adding pages, dynamic routes, or middleware](https://docs.astro.build/en/guides/routing/)
-- [Working with Astro components](https://docs.astro.build/en/basics/astro-components/)
-- [Using React, Vue, Svelte, or other framework components](https://docs.astro.build/en/guides/framework-components/)
-- [Adding or managing content](https://docs.astro.build/en/guides/content-collections/)
-- [Adding styles or using Tailwind](https://docs.astro.build/en/guides/styling/)
-- [Supporting multiple languages](https://docs.astro.build/en/guides/internationalization/)
 
 ## Astro Project Structure
 
 Inside of your Astro project, you'll see the following folders and files:
 
 ```text
-  public/
-  src/
-      pages/
-        index.astro
+  /public/              -- Any static assets, like images
+  /src/
+    /pages/             -- Astro looks for `.astro` or `.md` files in
+                           `src/pages/`. Each page is exposed as a
+                           route based on its file name.
+      index.astro
+    /components/        -- There's nothing special about `src/components/`, but
+                           that's where we like to put any
+                           Astro/React/Vue/Svelte/Preact components.
   package.json
 ```
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+  
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
 
-Any static assets, like images, can be placed in the `public/` directory.
 
 ## 👀 Want to learn more?
 
