@@ -1,4 +1,5 @@
-# sf-movies.nitid.co
+Films with Friends
+==================
 
 * [Production website, for now]( https://nitidbit.github.io/sf-movies/ )
 * [Stories in Linear]( https://linear.app/butud/project/films-with-friends-cbb71adbd6f8/issues )
@@ -9,7 +10,8 @@
 - [spiralhwy.github.io/web](https://spiralhwy.github.io/web/)
 
 
-## Architecture Summary as of Aug 2026
+Architecture Summary as of Aug 2026
+-----------------------------------
 sf-movies is a static Astro site (~2,500 lines) that lists showtimes from six San Francisco indie theaters. It has no server and no database. Two halves:
 
 (1) Scrape side (Node, runs in Github Actions). src/shared/theaters.ts is a config map of six theaters, each naming a source — one of four scrapers in src/shared/scrapers/ (squarespace, roxie, scenef, tribeEvents). src/scripts/scrape-theater.ts takes a slug, dispatches on source via a switch, and hands the results to src/shared/events/persist.ts, which groups them by LA month and merges into movie-data/<year>/<theater>/<month>.json keyed on sourceUrl (eventStore.ts). Six near-identical GitHub Actions workflows run one theater each, daily, and commit the JSON back to the repo.
@@ -22,7 +24,7 @@ Shared throughout: timezone.ts (hand-rolled, no date library) keeps everything i
 
 Testing is vitest, pure-Node, no DOM environment. Coverage is good on the scrapers and the date logic, and absent on everything the browser actually runs.
 
-## Folder Structure
+### Folder Structure
 
 Inside of your Astro project, you'll see the following folders and files:
 
@@ -39,7 +41,8 @@ Inside of your Astro project, you'll see the following folders and files:
   package.json
 ```
 
-## Developer Setup
+Developer Setup
+---------------
 
 * npm i
 * npm test
