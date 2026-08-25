@@ -14,6 +14,20 @@
   },
   {
     "theater": "Roxie",
+    "title": "Almost Midnights: After Hours",
+    "startTime": "2026-09-02T21:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/almost-midnights-after-hours/#showtimes-20260902-2100",
+    "synopsis": "When an uptown New Yorker innocently meets a downtown girl, he’s irresistibly drawn into a vortex of wild, malevolent, and increasingly paranoid adventures in […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Stanley Kwan’s Center Stage (4K Restoration)",
+    "startTime": "2026-09-06T17:15:00-07:00",
+    "sourceUrl": "https://roxie.com/film/stanley-kwans-center-stage-4k-restoration/#showtimes-20260906-1715",
+    "synopsis": "35th ANNIVERSARY 4K RESTORATION International superstar Maggie Cheung (In the Mood for Love) embodies tragic screen siren Ruan Lingyu, known as the “Greta Garbo […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "Roxie First Looks #13",
     "startTime": "2026-09-01T16:10:00-07:00",
     "sourceUrl": "https://roxie.com/film/roxie-first-looks-13/#showtimes-20260901-1610",
@@ -70,10 +84,10 @@
   },
   {
     "theater": "Roxie",
-    "title": "Almost Midnights: After Hours",
+    "title": "Barrio triste",
     "startTime": "2026-09-02T21:00:00-07:00",
-    "sourceUrl": "https://roxie.com/film/almost-midnights-after-hours/#showtimes-20260902-2100",
-    "synopsis": "When an uptown New Yorker innocently meets a downtown girl, he’s irresistibly drawn into a vortex of wild, malevolent, and increasingly paranoid adventures in […]"
+    "sourceUrl": "https://roxie.com/film/barrio-triste/#showtimes-20260902-2100",
+    "synopsis": "Medellin, 1987. A group of teen outcasts steals a news camera to document every detail of their dangerous lives. The first feature from acclaimed […]"
   },
   {
     "theater": "Roxie",
@@ -183,9 +197,23 @@
   {
     "theater": "Roxie",
     "title": "Stanley Kwan’s Center Stage (4K Restoration)",
-    "startTime": "2026-09-06T17:15:00-07:00",
-    "sourceUrl": "https://roxie.com/film/stanley-kwans-center-stage-4k-restoration/#showtimes-20260906-1715",
+    "startTime": "2026-09-06T17:20:00-07:00",
+    "sourceUrl": "https://roxie.com/film/stanley-kwans-center-stage-4k-restoration/#showtimes-20260906-1720",
     "synopsis": "35th ANNIVERSARY 4K RESTORATION International superstar Maggie Cheung (In the Mood for Love) embodies tragic screen siren Ruan Lingyu, known as the “Greta Garbo […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "The Samurai and the Prisoner",
+    "startTime": "2026-09-06T17:20:00-07:00",
+    "sourceUrl": "https://roxie.com/film/the-samurai-and-the-prisoner/#showtimes-20260906-1720",
+    "synopsis": "Co-presented by the Japan Society of Northern California “Kurosawa has made one of his best films, a work that feels a bit like Agatha Christie, […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Filipiñana",
+    "startTime": "2026-09-07T16:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/filipinana/#showtimes-20260907-1600",
+    "synopsis": "Director Rafael Manuel in person for Q&A on Saturday, September 5! Presented by FiliKula Amid stifling heat and pervasive drought, Isabel (Jorrybell Agoto), a 17-year-old […]"
   },
   {
     "theater": "Roxie",
@@ -203,6 +231,13 @@
   },
   {
     "theater": "Roxie",
+    "title": "Fantastic Planet",
+    "startTime": "2026-09-08T20:05:00-07:00",
+    "sourceUrl": "https://roxie.com/film/fantastic-planet/#showtimes-20260908-2005",
+    "synopsis": "A landmark of adult animation and one of the most influential animated science-fiction films ever made, Fantastic Planet remains as visually astonishing and intellectually […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "Arthouse 50: Freeway",
     "startTime": "2026-09-09T18:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/arthouse-50-freeway/#showtimes-20260909-1800",
@@ -210,10 +245,45 @@
   },
   {
     "theater": "Roxie",
+    "title": "The Cycle of Love",
+    "startTime": "2026-09-09T20:30:00-07:00",
+    "sourceUrl": "https://roxie.com/film/the-cycle-of-love/#showtimes-20260909-2030",
+    "synopsis": "Filmmaker Orlando von Einsiedel IN PERSON! In 1977, PK, a 23-year-old Delhi street artist from a poor, ‘untouchable’ family, picked up a handful of […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Fantastic Planet",
+    "startTime": "2026-09-10T16:10:00-07:00",
+    "sourceUrl": "https://roxie.com/film/fantastic-planet/#showtimes-20260910-1610",
+    "synopsis": "A landmark of adult animation and one of the most influential animated science-fiction films ever made, Fantastic Planet remains as visually astonishing and intellectually […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "Filipiñana",
     "startTime": "2026-09-10T18:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/filipinana/#showtimes-20260910-1800",
     "synopsis": "Director Rafael Manuel in person for Q&A on Saturday, September 5! Presented by FiliKula Amid stifling heat and pervasive drought, Isabel (Jorrybell Agoto), a 17-year-old […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "American Doctor",
+    "startTime": "2026-09-10T18:05:00-07:00",
+    "sourceUrl": "https://roxie.com/film/american-doctor/#showtimes-20260910-1805",
+    "synopsis": "Filmmaker Poh Si Teng IN PERSON with film subjects Dr. Thaer Ahmad and Dr. Feroze Sidhwa Mon 8/24 (Don Young moderating) & Tue 8/25 […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "The Samurai and the Prisoner",
+    "startTime": "2026-09-10T20:10:00-07:00",
+    "sourceUrl": "https://roxie.com/film/the-samurai-and-the-prisoner/#showtimes-20260910-2010",
+    "synopsis": "Co-presented by the Japan Society of Northern California “Kurosawa has made one of his best films, a work that feels a bit like Agatha Christie, […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "startTime": "2026-09-10T20:10:00-07:00",
+    "sourceUrl": "https://roxie.com/film/teenage-sex-and-death-at-camp-miasma/#showtimes-20260910-2010",
+    "synopsis": "Visionary director Jane Schoenbrun (I Saw the TV Glow) presents a new kind of horror remake in TEENAGE SEX AND DEATH AT CAMP MIASMA. […]"
   },
   {
     "theater": "Roxie",
@@ -326,6 +396,13 @@
     "startTime": "2026-09-21T18:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/batch-81/#showtimes-20260921-1800",
     "synopsis": "Presented by FiliKula. Freshman Sid Lucero (Mark Gil, in his breakout performance), desperately wants to join the Alpha Kappa Omega fraternity. Over the course of […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "The Oldest Person In The World",
+    "startTime": "2026-09-22T18:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/the-oldest-person-in-the-world/#showtimes-20260922-1800",
+    "synopsis": "Filmmaker Sam Green will be in attendance for a post screening Q&A. A decade-long global journey chronicles the ever-changing record holders of the title […]"
   },
   {
     "theater": "Roxie",

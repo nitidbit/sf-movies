@@ -8,6 +8,20 @@
   },
   {
     "theater": "Roxie",
+    "title": "Ashima",
+    "startTime": "2026-10-03T12:30:00-07:00",
+    "sourceUrl": "https://roxie.com/film/ashima/#showtimes-20261003-1230",
+    "synopsis": "Director Kenji Tsukamoto in person for Q&A! ASHIMA follows elite rock climber Ashima Shiraishi as she travels to South Africa to attempt to become […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "The Healing WELL Fundraiser: Figaro Up, Figaro Down",
+    "startTime": "2026-10-04T12:30:00-07:00",
+    "sourceUrl": "https://roxie.com/film/the-healing-well-fundraiser-figaro-up-figaro-down/#showtimes-20261004-1230",
+    "synopsis": "Celebrating The Healing WELL’s annual fundraiser at the Roxie, “The Power of the Second Act.” Featuring panel discussion after the film with director Javid […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "Floating Features: Top Gun",
     "startTime": "2026-10-09T19:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/floating-features-top-gun-2/#showtimes-20261009-1900",
@@ -40,6 +54,13 @@
     "startTime": "2026-10-23T19:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/floating-features-hocus-pocus-2/#showtimes-20261023-1900",
     "synopsis": "After three centuries, three witch sisters are resurrected in Salem, Massachusetts on Halloween night, and it is up to two teenagers, a young girl, […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Rewind Presents: The Craft",
+    "startTime": "2026-10-27T21:15:00-07:00",
+    "sourceUrl": "https://roxie.com/film/rewind-presents-the-craft/#showtimes-20261027-2115",
+    "synopsis": "With Live Drag by Mary Vice! WELCOME TO THE WITCHING HOUR. After transferring to a Los Angeles high school, Sarah (Robin Tunney) finds that her […]"
   },
   {
     "theater": "Roxie",
