@@ -1562,6 +1562,13 @@
   },
   {
     "theater": "Alamo",
+    "title": "Star Trek: The Motion Picture",
+    "startTime": "2026-08-28T14:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/56d3adb40c7c",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
     "title": "Spider-Man: Brand New Day",
     "startTime": "2026-08-25T11:15:00-07:00",
     "sourceUrl": "https://scenef.com/go/abb899897fcd",
@@ -1851,9 +1858,86 @@
   },
   {
     "theater": "Alamo",
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "startTime": "2026-08-27T12:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/26fbe59b5226",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Spider-Man: Brand New Day",
+    "startTime": "2026-08-27T12:50:00-07:00",
+    "sourceUrl": "https://scenef.com/go/e88e005c594f",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Nightborn",
+    "startTime": "2026-08-27T13:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/c254673702f7",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Tony",
+    "startTime": "2026-08-27T13:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/8fb9a5505e7f",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Rose of Nevada",
+    "startTime": "2026-08-27T13:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/fb4d3c368005",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Tony",
+    "startTime": "2026-08-27T15:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/d09e6d02e5eb",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Blow Out",
+    "startTime": "2026-08-27T15:40:00-07:00",
+    "sourceUrl": "https://scenef.com/go/2de1d892f68f",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
     "title": "Idiots",
     "startTime": "2026-08-27T16:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/f8e12d73a940",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "startTime": "2026-08-27T16:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/57d0fdbf7f89",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Spider-Man: Brand New Day",
+    "startTime": "2026-08-27T16:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/e2715d922f14",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "startTime": "2026-08-27T18:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/8528b78b179a",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Tony",
+    "startTime": "2026-08-27T18:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/a2e02cfb9998",
     "attribution": "Showtimes via SceneF.com"
   },
   {
@@ -1872,6 +1956,48 @@
   },
   {
     "theater": "Alamo",
+    "title": "Spider-Man: Brand New Day",
+    "startTime": "2026-08-27T19:50:00-07:00",
+    "sourceUrl": "https://scenef.com/go/6aa54e95d192",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Spider-Man: Brand New Day",
+    "startTime": "2026-08-27T21:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/bbdbed498df1",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "It Ends",
+    "startTime": "2026-08-27T21:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/e8e0726215a4",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "startTime": "2026-08-27T21:45:00-07:00",
+    "sourceUrl": "https://scenef.com/go/ed0c08dfaace",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Tony",
+    "startTime": "2026-08-27T21:50:00-07:00",
+    "sourceUrl": "https://scenef.com/go/5b5466b3cf3b",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Tony",
+    "startTime": "2026-08-28T11:50:00-07:00",
+    "sourceUrl": "https://scenef.com/go/99d3b48fd136",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
     "title": "Moonrise Kingdom",
     "startTime": "2026-08-28T12:30:00-07:00",
     "sourceUrl": "https://scenef.com/go/aa8252bb085f",
@@ -1879,9 +2005,79 @@
   },
   {
     "theater": "Alamo",
-    "title": "Star Trek: The Motion Picture",
-    "startTime": "2026-08-28T14:30:00-07:00",
-    "sourceUrl": "https://scenef.com/go/56d3adb40c7c",
+    "title": "Spider-Man: Brand New Day",
+    "startTime": "2026-08-28T12:45:00-07:00",
+    "sourceUrl": "https://scenef.com/go/5365f36b03a8",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "startTime": "2026-08-28T12:50:00-07:00",
+    "sourceUrl": "https://scenef.com/go/bdb781f4382a",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "It Ends",
+    "startTime": "2026-08-28T13:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/0f277d3ab253",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "startTime": "2026-08-28T14:50:00-07:00",
+    "sourceUrl": "https://scenef.com/go/19cf2ec4b72a",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Butthole Surfers: The Hole Truth and Nothing Butt",
+    "startTime": "2026-08-28T15:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/bd1c6723eae3",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Tony",
+    "startTime": "2026-08-28T15:50:00-07:00",
+    "sourceUrl": "https://scenef.com/go/101698924dc6",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Spider-Man: Brand New Day",
+    "startTime": "2026-08-28T16:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/01001894a23f",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Mothra vs. Godzilla",
+    "startTime": "2026-08-28T16:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/27812a19b714",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "startTime": "2026-08-28T18:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/cc5a9b2c3ab5",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Tony",
+    "startTime": "2026-08-28T18:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/3ee58892da99",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "It Ends",
+    "startTime": "2026-08-28T18:45:00-07:00",
+    "sourceUrl": "https://scenef.com/go/1ac793530e95",
     "attribution": "Showtimes via SceneF.com"
   },
   {
@@ -1889,6 +2085,34 @@
     "title": "Butthole Surfers: The Hole Truth and Nothing Butt",
     "startTime": "2026-08-28T19:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/68a12066b2d1",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Spider-Man: Brand New Day",
+    "startTime": "2026-08-28T19:45:00-07:00",
+    "sourceUrl": "https://scenef.com/go/4946388160d4",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "startTime": "2026-08-28T21:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/afa0b8ab0e76",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Tony",
+    "startTime": "2026-08-28T21:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/5100f1817069",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Spider-Man: Brand New Day",
+    "startTime": "2026-08-28T21:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/b8a2242194ec",
     "attribution": "Showtimes via SceneF.com"
   },
   {
@@ -1907,6 +2131,27 @@
   },
   {
     "theater": "Alamo",
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "startTime": "2026-08-29T12:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/bdcc9496d7de",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Tony",
+    "startTime": "2026-08-29T12:40:00-07:00",
+    "sourceUrl": "https://scenef.com/go/2e0e65047c7a",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Spider-Man: Brand New Day",
+    "startTime": "2026-08-29T12:45:00-07:00",
+    "sourceUrl": "https://scenef.com/go/86b96a1399d0",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
     "title": "Idiots",
     "startTime": "2026-08-29T13:30:00-07:00",
     "sourceUrl": "https://scenef.com/go/082e19a63dee",
@@ -1921,6 +2166,27 @@
   },
   {
     "theater": "Alamo",
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "startTime": "2026-08-29T15:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/f4359fedb20b",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Tony",
+    "startTime": "2026-08-29T15:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/f8a7b545a435",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Spider-Man: Brand New Day",
+    "startTime": "2026-08-29T16:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/e51bbd4f6688",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
     "title": "The Wrong Girls",
     "startTime": "2026-08-29T16:20:00-07:00",
     "sourceUrl": "https://scenef.com/go/c4ba0d48700f",
@@ -1929,9 +2195,107 @@
   },
   {
     "theater": "Alamo",
+    "title": "Tony",
+    "startTime": "2026-08-29T18:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/30f3519e5fc4",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "It Ends",
+    "startTime": "2026-08-29T18:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/4cf5551f0a4f",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "startTime": "2026-08-29T18:40:00-07:00",
+    "sourceUrl": "https://scenef.com/go/c5d5b169927f",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Butthole Surfers: The Hole Truth and Nothing Butt",
+    "startTime": "2026-08-29T19:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/bac57f0a495f",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Spider-Man: Brand New Day",
+    "startTime": "2026-08-29T19:45:00-07:00",
+    "sourceUrl": "https://scenef.com/go/1ed50d65425b",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Spider-Man: Brand New Day",
+    "startTime": "2026-08-29T21:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/b967d6a890e3",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "startTime": "2026-08-29T21:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/6570ebd12341",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "It Ends",
+    "startTime": "2026-08-29T21:50:00-07:00",
+    "sourceUrl": "https://scenef.com/go/97c1ae5fa3d6",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Tony",
+    "startTime": "2026-08-29T22:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/23212ecccb49",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Idiots",
+    "startTime": "2026-08-30T11:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/28907b2b56a8",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Spider-Man: Brand New Day",
+    "startTime": "2026-08-30T11:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/954e907ea79b",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
     "title": "Mothra vs. Godzilla",
     "startTime": "2026-08-30T12:20:00-07:00",
     "sourceUrl": "https://scenef.com/go/6ffdcbf55811",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Tony",
+    "startTime": "2026-08-30T12:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/29f863a9f8f6",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "startTime": "2026-08-30T12:50:00-07:00",
+    "sourceUrl": "https://scenef.com/go/ee0ed671983f",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "It Ends",
+    "startTime": "2026-08-30T14:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/bcfa6401a5c2",
     "attribution": "Showtimes via SceneF.com"
   },
   {
@@ -1943,9 +2307,198 @@
   },
   {
     "theater": "Alamo",
+    "title": "Spider-Man: Brand New Day",
+    "startTime": "2026-08-30T15:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/6e0966810cd6",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "startTime": "2026-08-30T15:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/3015a5eee225",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Tony",
+    "startTime": "2026-08-30T16:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/81b437479c41",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Idiots",
+    "startTime": "2026-08-30T16:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/a586dc4bf41a",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "startTime": "2026-08-30T18:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/340ce2606bec",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Tony",
+    "startTime": "2026-08-30T18:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/1280324f42ce",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Spider-Man: Brand New Day",
+    "startTime": "2026-08-30T18:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/c985ddac6e3c",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Mothra vs. Godzilla",
+    "startTime": "2026-08-30T19:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/38a83970c877",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "It Ends",
+    "startTime": "2026-08-30T19:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/7460a18e3eb6",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Tony",
+    "startTime": "2026-08-31T12:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/6533f9fc2aa2",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "startTime": "2026-08-31T12:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/de60ff6d8508",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Spider-Man: Brand New Day",
+    "startTime": "2026-08-31T12:45:00-07:00",
+    "sourceUrl": "https://scenef.com/go/f141cb0d3fae",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Mothra vs. Godzilla",
+    "startTime": "2026-08-31T13:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/75138ef25740",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "It Ends",
+    "startTime": "2026-08-31T13:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/e929ce65ae66",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "startTime": "2026-08-31T15:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/7dba84e21a3e",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Tony",
+    "startTime": "2026-08-31T15:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/31a2a85a20d5",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Butthole Surfers: The Hole Truth and Nothing Butt",
+    "startTime": "2026-08-31T15:50:00-07:00",
+    "sourceUrl": "https://scenef.com/go/db589d4c1262",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Idiots",
+    "startTime": "2026-08-31T16:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/ec74c1a876e2",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Spider-Man: Brand New Day",
+    "startTime": "2026-08-31T16:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/5ae32564895d",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "startTime": "2026-08-31T18:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/81003d9a71d9",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
     "title": "Little Shop of Horrors",
     "startTime": "2026-08-31T18:30:00-07:00",
     "sourceUrl": "https://scenef.com/go/761e1759b9ca",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "It Ends",
+    "startTime": "2026-08-31T18:40:00-07:00",
+    "sourceUrl": "https://scenef.com/go/0784ff2563fa",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Tony",
+    "startTime": "2026-08-31T18:50:00-07:00",
+    "sourceUrl": "https://scenef.com/go/d276616295ba",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Spider-Man: Brand New Day",
+    "startTime": "2026-08-31T19:45:00-07:00",
+    "sourceUrl": "https://scenef.com/go/8f73b7c98fdb",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Tony",
+    "startTime": "2026-08-31T21:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/9f1bd1a4e937",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Spider-Man: Brand New Day",
+    "startTime": "2026-08-31T21:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/d4f4be7a058e",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "startTime": "2026-08-31T21:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/9f1481ced392",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Idiots",
+    "startTime": "2026-08-31T21:45:00-07:00",
+    "sourceUrl": "https://scenef.com/go/f135896565f6",
     "attribution": "Showtimes via SceneF.com"
   }
 ]
