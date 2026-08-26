@@ -1,6 +1,27 @@
 [
   {
     "theater": "Roxie",
+    "title": "Black Swan",
+    "startTime": "2026-10-01T18:30:00-07:00",
+    "sourceUrl": "https://roxie.com/film/black-swan/#showtimes-20261001-1830",
+    "synopsis": "Nina (Natalie Portman) is a ballerina in a New York City ballet company whose life is completely consumed by dance. When artistic director Thomas […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Black Swan + Perfect Blue",
+    "startTime": "2026-10-01T18:30:00-07:00",
+    "sourceUrl": "https://roxie.com/film/black-swan-perfect-blue/#showtimes-20261001-1830",
+    "synopsis": "Presented by Spoke Art Gallery as part of their ongoing series of curated alternative film posters. Featuring two new limited edition screen prints by […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Perfect Blue",
+    "startTime": "2026-10-01T20:50:00-07:00",
+    "sourceUrl": "https://roxie.com/film/perfect-blue/#showtimes-20261001-2050",
+    "synopsis": "“Who are…you?” Mima Kirigoe, a former pop idol, makes a bold transition into acting, but her reinvention begins to fracture her sense of identity. […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "Floating Features: Jaws",
     "startTime": "2026-10-02T19:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/floating-features-jaws-2/#showtimes-20261002-1900",
@@ -19,6 +40,13 @@
     "startTime": "2026-10-04T12:30:00-07:00",
     "sourceUrl": "https://roxie.com/film/the-healing-well-fundraiser-figaro-up-figaro-down/#showtimes-20261004-1230",
     "synopsis": "Celebrating The Healing WELL’s annual fundraiser at the Roxie, “The Power of the Second Act.” Featuring panel discussion after the film with director Javid […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Zoé Presents: Memorex + Rexsexex y Más",
+    "startTime": "2026-10-07T18:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/zoe-presents-memorex-rexsexex-y-mas/#showtimes-20261007-1800",
+    "synopsis": "6 GNP Stadiums in Mexico City. Over 380,000 souls. What happened across those six nights was farmore than an unprecedented record for Mexican rock; […]"
   },
   {
     "theater": "Roxie",

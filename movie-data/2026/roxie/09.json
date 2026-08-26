@@ -28,6 +28,20 @@
   },
   {
     "theater": "Roxie",
+    "title": "The Hole (Newly Struck 35mm Print)",
+    "startTime": "2026-09-08T18:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/the-hole-newly-struck-35mm-print/#showtimes-20260908-1800",
+    "synopsis": "Set on the eve of the 21st century, Tsai Ming-liang’s fourth feature turns a crumbling Taipei apartment block into one of cinema’s strangest and […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Fantastic Planet",
+    "startTime": "2026-09-08T20:05:00-07:00",
+    "sourceUrl": "https://roxie.com/film/fantastic-planet/#showtimes-20260908-2005",
+    "synopsis": "A landmark of adult animation and one of the most influential animated science-fiction films ever made, Fantastic Planet remains as visually astonishing and intellectually […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "Roxie First Looks #13",
     "startTime": "2026-09-01T16:10:00-07:00",
     "sourceUrl": "https://roxie.com/film/roxie-first-looks-13/#showtimes-20260901-1610",
@@ -217,24 +231,10 @@
   },
   {
     "theater": "Roxie",
-    "title": "The Hole (Newly Struck 35mm Print)",
-    "startTime": "2026-09-08T18:00:00-07:00",
-    "sourceUrl": "https://roxie.com/film/the-hole-newly-struck-35mm-print/#showtimes-20260908-1800",
-    "synopsis": "Set on the eve of the 21st century, Tsai Ming-liang’s fourth feature turns a crumbling Taipei apartment block into one of cinema’s strangest and […]"
-  },
-  {
-    "theater": "Roxie",
     "title": "Filipiñana",
     "startTime": "2026-09-08T18:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/filipinana/#showtimes-20260908-1800",
     "synopsis": "Director Rafael Manuel in person for Q&A on Saturday, September 5! Presented by FiliKula Amid stifling heat and pervasive drought, Isabel (Jorrybell Agoto), a 17-year-old […]"
-  },
-  {
-    "theater": "Roxie",
-    "title": "Fantastic Planet",
-    "startTime": "2026-09-08T20:05:00-07:00",
-    "sourceUrl": "https://roxie.com/film/fantastic-planet/#showtimes-20260908-2005",
-    "synopsis": "A landmark of adult animation and one of the most influential animated science-fiction films ever made, Fantastic Planet remains as visually astonishing and intellectually […]"
   },
   {
     "theater": "Roxie",
@@ -301,10 +301,24 @@
   },
   {
     "theater": "Roxie",
+    "title": "Gandahar (4K Restoration)",
+    "startTime": "2026-09-12T18:10:00-07:00",
+    "sourceUrl": "https://roxie.com/film/gandahar-4k-restoration/#showtimes-20260912-1810",
+    "synopsis": "The long-awaited 4K restoration of René Laloux’s final masterpiece reveals one of animation’s most astonishing science-fiction visions. An entire civilization must confront its destiny […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Mysterious Skin (4K Restoration)",
+    "startTime": "2026-09-12T20:15:00-07:00",
+    "sourceUrl": "https://roxie.com/film/mysterious-skin-4k-restoration/#showtimes-20260912-2015",
+    "synopsis": "At the age of eight, Kansas youngsters Neil and Brian played on the same little league baseball team. Now, ten years later, the two […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "The Big Cheese",
     "startTime": "2026-09-13T12:45:00-07:00",
     "sourceUrl": "https://roxie.com/film/the-big-cheese/#showtimes-20260913-1245",
-    "synopsis": "Co-presented by Bi-Rite Market. What is a “cheesemonger?”  It’s sort of like a sommelier, but for cheese — with less pretension and more punk […]"
+    "synopsis": "Co-presented by Bi-Rite Market What is a “cheesemonger?”  It’s sort of like a sommelier, but for cheese — with less pretension and more punk […]"
   },
   {
     "theater": "Roxie",
@@ -350,6 +364,13 @@
   },
   {
     "theater": "Roxie",
+    "title": "Ghost in the Shell: 30th Anniversary Remaster",
+    "startTime": "2026-09-18T21:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/ghost-in-the-shell-30th-anniversary-remaster/#showtimes-20260918-2100",
+    "synopsis": "“My codename is Project 2501, and I am a life form that was born in a sea of information.” In the year 2029, the […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "SF Lost Neon Landscapes: Chinatown",
     "startTime": "2026-09-19T16:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/sf-lost-neon-landscapes-chinatown/#showtimes-20260919-1600",
@@ -364,6 +385,20 @@
   },
   {
     "theater": "Roxie",
+    "title": "Ghost in the Shell: 30th Anniversary Remaster",
+    "startTime": "2026-09-19T18:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/ghost-in-the-shell-30th-anniversary-remaster/#showtimes-20260919-1800",
+    "synopsis": "“My codename is Project 2501, and I am a life form that was born in a sea of information.” In the year 2029, the […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Kwaidan (4K Restoration)",
+    "startTime": "2026-09-19T20:05:00-07:00",
+    "sourceUrl": "https://roxie.com/film/kwaidan-4k-restoration/#showtimes-20260919-2005",
+    "synopsis": "Taking its title from an archaic Japanese word meaning “ghost story,” this anthology adapts four folk tales. A penniless samurai marries for money with […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "Brailled It",
     "startTime": "2026-09-20T12:30:00-07:00",
     "sourceUrl": "https://roxie.com/film/brailled-it/#showtimes-20260920-1230",
@@ -371,17 +406,24 @@
   },
   {
     "theater": "Roxie",
-    "title": "Barbara Forever",
-    "startTime": "2026-09-20T15:00:00-07:00",
-    "sourceUrl": "https://roxie.com/film/barbara-forever/#showtimes-20260920-1500",
-    "synopsis": "EXECUTIVE PRODUCED BY KRISTEN STEWART WINNER, TEDDY AWARD FOR BEST DOCUMENTARY, 2026 BERLIN FILM FESTIVAL   Director Brydie O’Connor IN PERSON for Q&A on Friday, […]"
+    "title": "The Oldest Person In The World",
+    "startTime": "2026-09-20T12:30:00-07:00",
+    "sourceUrl": "https://roxie.com/film/the-oldest-person-in-the-world/#showtimes-20260920-1230",
+    "synopsis": "Filmmaker Sam Green will be in attendance for a post screening Q&A! A decade-long global journey chronicles the ever-changing record holders of the title […]"
   },
   {
     "theater": "Roxie",
     "title": "The Oldest Person In The World",
     "startTime": "2026-09-20T15:10:00-07:00",
     "sourceUrl": "https://roxie.com/film/the-oldest-person-in-the-world/#showtimes-20260920-1510",
-    "synopsis": "Filmmaker Sam Green will be in attendance for a post screening Q&A. A decade-long global journey chronicles the ever-changing record holders of the title […]"
+    "synopsis": "Filmmaker Sam Green will be in attendance for a post screening Q&A! A decade-long global journey chronicles the ever-changing record holders of the title […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Barbara Forever",
+    "startTime": "2026-09-20T15:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/barbara-forever/#showtimes-20260920-1500",
+    "synopsis": "EXECUTIVE PRODUCED BY KRISTEN STEWART WINNER, TEDDY AWARD FOR BEST DOCUMENTARY, 2026 BERLIN FILM FESTIVAL   Director Brydie O’Connor IN PERSON for Q&A on Friday, […]"
   },
   {
     "theater": "Roxie",
@@ -402,7 +444,7 @@
     "title": "The Oldest Person In The World",
     "startTime": "2026-09-22T18:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/the-oldest-person-in-the-world/#showtimes-20260922-1800",
-    "synopsis": "Filmmaker Sam Green will be in attendance for a post screening Q&A. A decade-long global journey chronicles the ever-changing record holders of the title […]"
+    "synopsis": "Filmmaker Sam Green will be in attendance for a post screening Q&A! A decade-long global journey chronicles the ever-changing record holders of the title […]"
   },
   {
     "theater": "Roxie",
