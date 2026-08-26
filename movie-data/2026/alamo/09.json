@@ -275,6 +275,13 @@
   },
   {
     "theater": "Alamo",
+    "title": "Boorman and the Devil",
+    "startTime": "2026-09-05T12:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/6b395869dcb6",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
     "title": "Star Trek II: The Wrath of Khan",
     "startTime": "2026-09-05T15:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/a64786746e48",
@@ -329,6 +336,13 @@
     "title": "Star Trek: The Genesis Trilogy",
     "startTime": "2026-09-08T12:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/f600d656cba4",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Boorman and the Devil",
+    "startTime": "2026-09-08T18:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/3887d77494e6",
     "attribution": "Showtimes via SceneF.com"
   },
   {
