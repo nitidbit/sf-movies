@@ -275,6 +275,14 @@
   },
   {
     "theater": "Alamo",
+    "title": "The Fog",
+    "startTime": "2026-09-04T21:45:00-07:00",
+    "sourceUrl": "https://scenef.com/go/f45b9d03b6d4",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "repertory"
+  },
+  {
+    "theater": "Alamo",
     "title": "Boorman and the Devil",
     "startTime": "2026-09-05T12:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/6b395869dcb6",
