@@ -43,11 +43,11 @@ function formatDayHeader(date: string): string {
       href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap"
       rel="stylesheet"
     />
-    <title>Films with Friends</title>
+    <title>Picture Show with Friends</title>
   </head>
   <body>
     <main class="content">
-      <h1>Films with Friends</h1>
+      <h1>A Picture Show with Friends</h1>
       <div class="mobile-tabs">
         <button type="button" class="mobile-tab" data-mode="wishlist" aria-pressed="true">
           <StarIcon class="mobile-tab__star" /> Wish List
@@ -60,17 +60,18 @@ function formatDayHeader(date: string): string {
         <div class="panes-track">
           <section class="pane wishlist-pane">
             <div id="wishlist-empty" class="wishlist-empty">
-              <p>Films with Friends collects showtimes from San Francisco Bay Area indie theaters, all in one place.</p>
-              <p>The Browsing list shows local movie showings. Click the ★ on
-              any showing to start your wish list — starred showings will show
-              up in your Wish List. Then send your list to friends to arrange a movie night out, IRL!</p>
+              <p>The indie theaters of San Francisco each keep their own showtimes. We put them in one place.</p>
+              <p>Look through the Browsing list. When you find a showing you
+              want, click the ★. It goes to your Wish List. Send the list to
+              your friends and go.</p>
               <img
                 class="wishlist-empty__image"
                 src={`${import.meta.env.BASE_URL}film-projector.png`}
                 alt="Vintage film projector illustration"
               />
-              <p>Make a version of this website for your town by <a href="https://github.com/nitidbit/sf-movies">forking the git repo</a>.</p>
-              <p>Send bug reports or kudos to <strong> winston at nitidbit dot com </strong></p>
+              <p>Take <a href="https://github.com/nitidbit/sf-movies">the code</a> and make one for your own town.</p>
+              <p>Write to <strong>winston at nitidbit dot com</strong>. Bugs or kudos, both are good.</p>
+              <p>Also, please send me suggestions for this site. Thing's I'm considering: "Films with Friends", "A Picture Show with Friends", "Flicks with Friends", "Peliculas con Amigos"</p>
             </div>
             {
               dayGroups.map((group) => (
