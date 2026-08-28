@@ -2,7 +2,7 @@ import type { Event } from "../events/event";
 import type { TheaterConfig } from "../theaters";
 import { fetchRoxieEvents } from "./roxie";
 import { fetchSceneFEvents } from "./scenef";
-import { fetchSquarespaceEvents } from "./squarespace";
+import { fetchCinemaSfEvents } from "./cinemaSf";
 import { fetchTribeEvents } from "./tribeEvents";
 
 // The one entry point for "fetch this theater's upcoming events, live".
@@ -10,8 +10,8 @@ import { fetchTribeEvents } from "./tribeEvents";
 // they can never disagree about how a theater is scraped.
 export function fetchEventsFor(theater: TheaterConfig): Promise<Event[]> {
   switch (theater.source) {
-    case "squarespace":
-      return fetchSquarespaceEvents(theater.baseUrl, theater.name);
+    case "cinema-sf":
+      return fetchCinemaSfEvents(theater.baseUrl, theater.name);
     case "roxie":
       return fetchRoxieEvents(theater.baseUrl, theater.name);
     case "scenef":

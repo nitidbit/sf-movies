@@ -2,31 +2,32 @@ export interface TheaterConfig {
   slug: string;
   name: string;
   baseUrl: string;
-  source: "squarespace" | "roxie" | "scenef" | "tribe";
+  source: "cinema-sf" | "roxie" | "scenef" | "tribe";
   // Required when source is "scenef" — the venue id in SceneF's feed.
   venueId?: string;
 }
 
-// Adding a Squarespace-based theater here (Vogue, 4-Star) is the only change
-// scrape-theater.ts needs to pick it up — no code changes required.
+// Cinema SF operates the Balboa, Vogue, and 4-Star on Squarespace sites that
+// share one calendar format. Adding another of their venues here is the only
+// change scrape-theater.ts needs to pick it up — no code changes required.
 export const theaters: Record<string, TheaterConfig> = {
   balboa: {
     slug: "balboa",
     name: "Balboa",
     baseUrl: "https://www.balboamovies.com",
-    source: "squarespace",
+    source: "cinema-sf",
   },
   vogue: {
     slug: "vogue",
     name: "Vogue",
     baseUrl: "https://voguemovies.com",
-    source: "squarespace",
+    source: "cinema-sf",
   },
   "four-star": {
     slug: "four-star",
     name: "4-Star",
     baseUrl: "https://www.4-star-movies.com",
-    source: "squarespace",
+    source: "cinema-sf",
   },
   roxie: {
     slug: "roxie",

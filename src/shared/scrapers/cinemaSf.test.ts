@@ -1,10 +1,10 @@
 import { describe, expect, it, vi } from "vitest";
-import { fetchSquarespaceEvents, parseSquarespaceEvents } from "./squarespace";
+import { fetchCinemaSfEvents, parseCinemaSfEvents } from "./cinemaSf";
 import { zonedIsoString } from "../timezone";
 
 const LA_TIME_ZONE = "America/Los_Angeles";
 
-describe("parseSquarespaceEvents", () => {
+describe("parseCinemaSfEvents", () => {
   it("normalizes a plain showtime with no synopsis", () => {
     const raw = {
       title: "The Handmaiden ~ 7:30 PM",
@@ -13,7 +13,7 @@ describe("parseSquarespaceEvents", () => {
       fullUrl: "/calendar-of-events/the-handmaiden-august-13",
     };
 
-    expect(parseSquarespaceEvents(raw, "Balboa", "https://www.balboamovies.com")).toEqual([{
+    expect(parseCinemaSfEvents(raw, "Balboa", "https://www.balboamovies.com")).toEqual([{
       theater: "Balboa",
       title: "The Handmaiden",
       startTime: zonedIsoString(new Date(1786764600529), LA_TIME_ZONE),
@@ -30,7 +30,7 @@ describe("parseSquarespaceEvents", () => {
       fullUrl: "/calendar-of-events/the-odyssey-august-13",
     };
 
-    expect(parseSquarespaceEvents(raw, "Balboa", "https://www.balboamovies.com")[0].title).toBe(
+    expect(parseCinemaSfEvents(raw, "Balboa", "https://www.balboamovies.com")[0].title).toBe(
       "The Odyssey",
     );
   });
@@ -43,7 +43,7 @@ describe("parseSquarespaceEvents", () => {
       fullUrl: "/calendar-of-events/your-name-10th-anniversary-august-14",
     };
 
-    const events = parseSquarespaceEvents(raw, "Vogue", "https://voguemovies.com");
+    const events = parseCinemaSfEvents(raw, "Vogue", "https://voguemovies.com");
 
     expect(events.map((event) => [event.title, event.startTime])).toEqual([
       ["Your Name. 10th Anniversary", "2026-08-14T16:30:00-07:00"],
@@ -63,7 +63,7 @@ describe("parseSquarespaceEvents", () => {
       fullUrl: "/calendar-of-events/southland-tales-august-29",
     };
 
-    expect(parseSquarespaceEvents(raw, "Balboa", "https://www.balboamovies.com")).toEqual([
+    expect(parseCinemaSfEvents(raw, "Balboa", "https://www.balboamovies.com")).toEqual([
       {
         theater: "Balboa",
         title: "Southland Tales",
@@ -89,7 +89,7 @@ describe("parseSquarespaceEvents", () => {
       fullUrl: "/calendar-of-events/the-tale-of-zatoichi-august-30",
     };
 
-    const events = parseSquarespaceEvents(raw, "Balboa", "https://www.balboamovies.com");
+    const events = parseCinemaSfEvents(raw, "Balboa", "https://www.balboamovies.com");
 
     expect(events.map((event) => event.startTime)).toEqual([
       "2026-08-30T14:30:00-07:00",
@@ -106,7 +106,7 @@ describe("parseSquarespaceEvents", () => {
       fullUrl: "/calendar-of-events/the-rocky-horror-picture-show-august-29",
     };
 
-    const events = parseSquarespaceEvents(raw, "Balboa", "https://www.balboamovies.com");
+    const events = parseCinemaSfEvents(raw, "Balboa", "https://www.balboamovies.com");
 
     expect(events.map((event) => event.startTime)).toEqual([
       "2026-08-29T19:30:00-07:00",
@@ -124,7 +124,7 @@ describe("parseSquarespaceEvents", () => {
       fullUrl: "/calendar-of-events/messy-bitch-cinema-august-27",
     };
 
-    expect(parseSquarespaceEvents(raw, "4-Star", "https://www.4-star-movies.com")).toEqual([
+    expect(parseCinemaSfEvents(raw, "4-Star", "https://www.4-star-movies.com")).toEqual([
       {
         theater: "4-Star",
         title:
@@ -148,7 +148,7 @@ describe("parseSquarespaceEvents", () => {
       fullUrl: "/calendar-of-events/slacker-august-14",
     };
 
-    expect(parseSquarespaceEvents(raw, "Balboa", "https://www.balboamovies.com")).toEqual([
+    expect(parseCinemaSfEvents(raw, "Balboa", "https://www.balboamovies.com")).toEqual([
       {
         theater: "Balboa",
         title: "Slacker",
@@ -170,7 +170,7 @@ describe("parseSquarespaceEvents", () => {
       fullUrl: "/calendar-of-events/slacker-august-14",
     };
 
-    expect(parseSquarespaceEvents(raw, "Balboa", "https://www.balboamovies.com")[0].synopsis).toBeUndefined();
+    expect(parseCinemaSfEvents(raw, "Balboa", "https://www.balboamovies.com")[0].synopsis).toBeUndefined();
   });
 
   it("extracts the synopsis text out of the body's text blocks", () => {
@@ -182,7 +182,7 @@ describe("parseSquarespaceEvents", () => {
       body: '<div class="sqs-block video-block"><div class="sqs-block-content">not this</div></div><div class="sqs-block html-block"><div class="sqs-block-content"><div class="sqs-html-content"><p>Robert De Niro &amp; Dustin Hoffman star in a tale of politics.</p></div></div></div>',
     };
 
-    expect(parseSquarespaceEvents(raw, "Balboa", "https://www.balboamovies.com")[0].synopsis).toBe(
+    expect(parseCinemaSfEvents(raw, "Balboa", "https://www.balboamovies.com")[0].synopsis).toBe(
       "Robert De Niro & Dustin Hoffman star in a tale of politics.",
     );
   });
@@ -196,11 +196,11 @@ describe("parseSquarespaceEvents", () => {
       body: '<div class="sqs-block video-block"><div class="sqs-block-content">just a trailer embed</div></div>',
     };
 
-    expect(parseSquarespaceEvents(raw, "Balboa", "https://www.balboamovies.com")[0].synopsis).toBeUndefined();
+    expect(parseCinemaSfEvents(raw, "Balboa", "https://www.balboamovies.com")[0].synopsis).toBeUndefined();
   });
 });
 
-describe("fetchSquarespaceEvents", () => {
+describe("fetchCinemaSfEvents", () => {
   it("follows pagination and normalizes every page's events", async () => {
     const page1 = {
       upcoming: [
@@ -237,13 +237,13 @@ describe("fetchSquarespaceEvents", () => {
       return { json: async () => body } as Response;
     });
 
-    const events = await fetchSquarespaceEvents("https://www.balboamovies.com", "Balboa", fetchFn);
+    const events = await fetchCinemaSfEvents("https://www.balboamovies.com", "Balboa", fetchFn);
 
     expect(fetchFn).toHaveBeenCalledTimes(2);
     expect(events).toEqual([
-      ...parseSquarespaceEvents(page1.upcoming[0], "Balboa", "https://www.balboamovies.com"),
-      ...parseSquarespaceEvents(page2.upcoming[0], "Balboa", "https://www.balboamovies.com"),
-      ...parseSquarespaceEvents(page2.upcoming[1], "Balboa", "https://www.balboamovies.com"),
+      ...parseCinemaSfEvents(page1.upcoming[0], "Balboa", "https://www.balboamovies.com"),
+      ...parseCinemaSfEvents(page2.upcoming[0], "Balboa", "https://www.balboamovies.com"),
+      ...parseCinemaSfEvents(page2.upcoming[1], "Balboa", "https://www.balboamovies.com"),
     ]);
   });
 });

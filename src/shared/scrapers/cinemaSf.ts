@@ -4,7 +4,7 @@ import { zonedIsoString, zonedTimeToUtc } from "../timezone";
 
 const LA_TIME_ZONE = "America/Los_Angeles";
 
-interface RawSquarespaceEvent {
+interface RawCinemaSfEvent {
   title: string;
   startDate: number;
   endDate?: number;
@@ -12,8 +12,8 @@ interface RawSquarespaceEvent {
   body?: string;
 }
 
-interface SquarespaceCalendarPage {
-  upcoming: RawSquarespaceEvent[];
+interface CinemaSfCalendarPage {
+  upcoming: RawCinemaSfEvent[];
   pagination?: {
     nextPageUrl?: string;
   };
@@ -85,7 +85,7 @@ function extractDescription(bodyHtml: string | undefined): string | undefined {
 // startDate describes. If the first listed time disagrees with startDate's
 // wall clock, something is mistyped — trust the structured data over our
 // text parsing, and warn so the scrape logs surface the inconsistency.
-function anchoredShowtimes(raw: RawSquarespaceEvent): { hour: number; minute: number }[] | undefined {
+function anchoredShowtimes(raw: RawCinemaSfEvent): { hour: number; minute: number }[] | undefined {
   const showtimes = extractShowtimes(raw.title);
   if (showtimes === undefined) return undefined;
 
@@ -93,15 +93,15 @@ function anchoredShowtimes(raw: RawSquarespaceEvent): { hour: number; minute: nu
   const firstListed = `${String(showtimes[0].hour).padStart(2, "0")}:${String(showtimes[0].minute).padStart(2, "0")}`;
   if (firstListed !== startWallClock) {
     console.warn(
-      `Squarespace event "${raw.title.trim()}" lists showtimes starting ${firstListed} but its startDate is ${startWallClock} — keeping the single structured event`,
+      `Cinema SF event "${raw.title.trim()}" lists showtimes starting ${firstListed} but its startDate is ${startWallClock} — keeping the single structured event`,
     );
     return undefined;
   }
   return showtimes;
 }
 
-export function parseSquarespaceEvents(
-  raw: RawSquarespaceEvent,
+export function parseCinemaSfEvents(
+  raw: RawCinemaSfEvent,
   theater: string,
   baseUrl: string,
 ): Event[] {
@@ -147,7 +147,7 @@ export function parseSquarespaceEvents(
   ];
 }
 
-export async function fetchSquarespaceEvents(
+export async function fetchCinemaSfEvents(
   baseUrl: string,
   theater: string,
   fetchFn: (url: string) => Promise<Response> = fetch,
@@ -157,10 +157,10 @@ export async function fetchSquarespaceEvents(
 
   while (url) {
     const response = await fetchFn(url);
-    const page: SquarespaceCalendarPage = await response.json();
+    const page: CinemaSfCalendarPage = await response.json();
 
     for (const raw of page.upcoming) {
-      events.push(...parseSquarespaceEvents(raw, theater, baseUrl));
+      events.push(...parseCinemaSfEvents(raw, theater, baseUrl));
     }
 
     const nextPageUrl = page.pagination?.nextPageUrl;
