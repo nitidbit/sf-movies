@@ -8,6 +8,7 @@ Films with Friends
 
 ## Prior Art
 - [spiralhwy.github.io/web](https://spiralhwy.github.io/web/)
+- [Fandango](https://www.fandango.com)
 
 
 Architecture Summary as of Aug 2026
@@ -26,8 +27,7 @@ Testing is vitest, pure-Node, no DOM environment. Coverage is good on the scrape
 
 ### Folder Structure
 
-Inside of your Astro project, you'll see the following folders and files:
-
+Where to put things?
 ```text
   public/              -- Any static assets, like images
   src/
