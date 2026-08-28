@@ -39,23 +39,18 @@ import { Content } from "../../CHANGELOG.md";
     padding: 1rem;
   }
 
+  /* A journal is written in one hand. Nothing here is a headline — the date
+     is just the line that starts the entry, and blank space separates one
+     day from the next. */
   .changelog :global(h1) {
-    margin-bottom: 0.25rem;
-  }
-
-  /* Each dated release is a section break; the headings below it are the
-     individual changes. */
-  .changelog :global(h2) {
-    margin-top: 2.5rem;
-    padding-top: 0.75rem;
-    border-top: 1px solid rgba(0, 0, 0, 0.2);
-    font-size: var(--font-size-xl);
-  }
-
-  .changelog :global(h3) {
-    margin-top: 1.5rem;
-    margin-bottom: 0.25rem;
     font-size: var(--font-size-lg);
+    margin-bottom: 0.25rem;
+  }
+
+  .changelog :global(h2) {
+    font-size: var(--font-size-base);
+    margin-top: 2rem;
+    margin-bottom: 0.25rem;
   }
 
   .changelog :global(p) {
