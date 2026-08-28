@@ -1,6 +1,14 @@
 [
   {
     "theater": "Alamo",
+    "title": "The Silence of the Lambs",
+    "startTime": "2026-10-06T21:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/1891f7d3360e",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Clarice Starling is a top student at the FBI's training academy.  Jack Crawford wants Clarice to interview Dr. Hannibal Lecter, a brilliant psychiatrist who is also a violent psychopath, serving life behind bars for various acts of murder and cannibalism.  Crawford believes that Lecter may have insight into a case and that Starling, as an attractive young woman, may be just the bait to draw him out."
+  },
+  {
+    "theater": "Alamo",
     "title": "The Devils",
     "startTime": "2026-10-15T19:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/405295ba17ed",
