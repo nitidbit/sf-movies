@@ -4,7 +4,12 @@ import { fetchSceneFEvents, parseSceneFListings } from "./scenef";
 const sampleResponse = {
   films: [
     { key: "tmdb-1368337", title: "The Odyssey" },
-    { key: "tmdb-1240889", title: "Teenage Sex and Death at Camp Miasma" },
+    {
+      key: "tmdb-1240889",
+      title: "Teenage Sex and Death at Camp Miasma",
+      overview:
+        "After years of slapdash sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection.",
+    },
   ],
   screenings: [
     {
@@ -24,7 +29,9 @@ const sampleResponse = {
 };
 
 describe("parseSceneFListings", () => {
-  it("joins screenings to films and normalizes into events with attribution", () => {
+  // The second screening carries tags ["sold-out"] — screening attributes,
+  // not prose — which must stay out of the synopsis.
+  it("joins screenings to films, taking the synopsis from the film's overview", () => {
     expect(parseSceneFListings(sampleResponse, "Alamo Drafthouse New Mission")).toEqual([
       {
         theater: "Alamo Drafthouse New Mission",
@@ -39,7 +46,8 @@ describe("parseSceneFListings", () => {
         startTime: "2026-08-13T17:00:00-07:00",
         sourceUrl: "https://scenef.com/go/bfc1113620df",
         attribution: "Showtimes via SceneF.com",
-        synopsis: "sold-out",
+        synopsis:
+          "After years of slapdash sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection.",
       },
     ]);
   });
@@ -51,8 +59,9 @@ describe("fetchSceneFEvents", () => {
 
     const events = await fetchSceneFEvents("alamo-new-mission", "Alamo Drafthouse New Mission", fetchFn);
 
+    // Not the compact feed: film overviews only come in the full one.
     expect(fetchFn).toHaveBeenCalledWith(
-      "https://scenef.com/api/listings?venue=alamo-new-mission&compact=1",
+      "https://scenef.com/api/listings?venue=alamo-new-mission",
     );
     expect(events).toEqual(parseSceneFListings(sampleResponse, "Alamo Drafthouse New Mission"));
   });

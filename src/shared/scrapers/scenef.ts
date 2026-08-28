@@ -7,6 +7,7 @@ const LA_TIME_ZONE = "America/Los_Angeles";
 export interface SceneFFilm {
   key: string;
   title: string;
+  overview?: string;
 }
 
 export interface SceneFScreening {
@@ -14,7 +15,6 @@ export interface SceneFScreening {
   filmKey: string;
   startsAt: string;
   ticketUrl: string;
-  tags?: string[];
 }
 
 export interface SceneFListingsResponse {
@@ -23,16 +23,21 @@ export interface SceneFListingsResponse {
 }
 
 export function parseSceneFListings(data: SceneFListingsResponse, theater: string): Event[] {
-  const titleByFilmKey = new Map(data.films.map((film) => [film.key, film.title]));
+  const filmByKey = new Map(data.films.map((film) => [film.key, film]));
 
-  return data.screenings.map((screening) => ({
-    theater,
-    title: titleByFilmKey.get(screening.filmKey) ?? "Unknown film",
-    startTime: zonedIsoString(new Date(screening.startsAt), LA_TIME_ZONE),
-    sourceUrl: screening.ticketUrl,
-    attribution: ATTRIBUTION,
-    ...(screening.tags && screening.tags.length > 0 && { synopsis: screening.tags.join(", ") }),
-  }));
+  return data.screenings.map((screening) => {
+    const film = filmByKey.get(screening.filmKey);
+    const synopsis = film?.overview;
+
+    return {
+      theater,
+      title: film?.title ?? "Unknown film",
+      startTime: zonedIsoString(new Date(screening.startsAt), LA_TIME_ZONE),
+      sourceUrl: screening.ticketUrl,
+      attribution: ATTRIBUTION,
+      ...(synopsis !== undefined && synopsis.length > 0 && { synopsis }),
+    };
+  });
 }
 
 // Alamo Drafthouse's own site is a Cloudflare-protected SPA with no public
@@ -45,7 +50,9 @@ export async function fetchSceneFEvents(
   theater: string,
   fetchFn: (url: string) => Promise<Response> = fetch,
 ): Promise<Event[]> {
-  const response = await fetchFn(`https://scenef.com/api/listings?venue=${venueId}&compact=1`);
+  // The full feed, not "compact=1": film overviews (our synopsis) are only
+  // in this one.
+  const response = await fetchFn(`https://scenef.com/api/listings?venue=${venueId}`);
   const data: SceneFListingsResponse = await response.json();
   return parseSceneFListings(data, theater);
 }
