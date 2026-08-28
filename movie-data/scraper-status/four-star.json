@@ -1,10 +1,10 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-08-28T05:22:31.703Z",
+  "generatedAt": "2026-08-28T17:40:31.930Z",
   "status": "discrepancies",
   "report": {
-    "matched": 19,
+    "matched": 18,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -59,10 +59,6 @@
       }
     ],
     "oursOnly": [
-      {
-        "title": "LOOP (Bay Area Short Film Premiere with Filmmaker Q&A)",
-        "startTime": "2026-08-28T19:00:00-07:00"
-      },
       {
         "title": "The Secret of NIMH",
         "startTime": "2026-08-29T10:00:00-07:00"
@@ -198,8 +194,9 @@
         "startTime": "2026-09-27T15:00:00-07:00"
       }
     ],
+    "collapsedDuplicates": 0,
     "excluded": {
-      "ours": 4,
+      "ours": 6,
       "scenef": 0
     }
   }
