@@ -1,9 +1,11 @@
 import { join } from "node:path";
 import { writeTheaterEvents } from "../shared/events/persist";
+import { recordScraperStatus, STATUS_DIR_NAME } from "../shared/scraperStatus";
 import { fetchEventsFor } from "../shared/scrapers/fetchEvents";
 import { theaters } from "../shared/theaters";
 
 const DATA_DIR = join(process.cwd(), "movie-data");
+const STATUS_DIR = join(DATA_DIR, STATUS_DIR_NAME);
 
 async function main() {
   const slug = process.argv[2];
@@ -22,6 +24,8 @@ async function main() {
       ? `Updated: ${changedFiles.join(", ")}`
       : "No changes — data already up to date",
   );
+
+  await recordScraperStatus(STATUS_DIR, theater, events);
 }
 
 main().catch((error) => {

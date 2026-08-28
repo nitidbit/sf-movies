@@ -37,7 +37,7 @@ describe("compareWithSceneF", () => {
   it("counts a showing with the same start instant and title as matched", () => {
     expect(compareWithSceneF([sampleOurEvent()], sampleListings())).toEqual({
       matched: 1,
-      timeDrifts: [],
+      timeMismatches: [],
       titleMismatches: [],
       oursOnly: [],
       scenefOnly: [],
@@ -67,7 +67,7 @@ describe("compareWithSceneF", () => {
 
     expect(compareWithSceneF(ours, scenef)).toEqual({
       matched: 1,
-      timeDrifts: [],
+      timeMismatches: [],
       titleMismatches: [],
       oursOnly: [],
       scenefOnly: [
@@ -88,7 +88,7 @@ describe("compareWithSceneF", () => {
 
     expect(compareWithSceneF(ours, sampleListings())).toEqual({
       matched: 1,
-      timeDrifts: [],
+      timeMismatches: [],
       titleMismatches: [],
       oursOnly: [],
       scenefOnly: [],
@@ -96,12 +96,12 @@ describe("compareWithSceneF", () => {
     });
   });
 
-  it("reports the same film a few minutes apart as time drift, with both times", () => {
+  it("reports the same film a few minutes apart as time mismatch, with both times", () => {
     const ours = [sampleOurEvent({ startTime: "2026-08-30T14:35:00-07:00" })];
 
     expect(compareWithSceneF(ours, sampleListings())).toEqual({
       matched: 0,
-      timeDrifts: [
+      timeMismatches: [
         {
           title: "The Tale of Zatoichi",
           ourStartTime: "2026-08-30T14:35:00-07:00",
@@ -120,7 +120,7 @@ describe("compareWithSceneF", () => {
 
     expect(compareWithSceneF(ours, sampleListings())).toEqual({
       matched: 0,
-      timeDrifts: [],
+      timeMismatches: [],
       titleMismatches: [
         {
           startTime: "2026-08-30T14:30:00-07:00",
@@ -144,7 +144,7 @@ describe("compareWithSceneF", () => {
 
     expect(compareWithSceneF([sampleOurEvent()], scenef)).toEqual({
       matched: 1,
-      timeDrifts: [],
+      timeMismatches: [],
       titleMismatches: [],
       oursOnly: [],
       scenefOnly: [],

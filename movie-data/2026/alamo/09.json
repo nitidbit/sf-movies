@@ -376,6 +376,13 @@
   },
   {
     "theater": "Alamo",
+    "title": "Hope",
+    "startTime": "2026-09-10T14:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/2b65c157e900",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
     "title": "Oasis: Don't Look Back in Anger",
     "startTime": "2026-09-10T15:40:00-07:00",
     "sourceUrl": "https://scenef.com/go/e33189227b95",
@@ -397,9 +404,58 @@
   },
   {
     "theater": "Alamo",
+    "title": "Hope",
+    "startTime": "2026-09-10T21:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/d26acf3e6807",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Oasis: Don't Look Back in Anger",
+    "startTime": "2026-09-11T12:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/95add7b3cc15",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Hope",
+    "startTime": "2026-09-11T14:05:00-07:00",
+    "sourceUrl": "https://scenef.com/go/1b2ef9f17867",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Oasis: Don't Look Back in Anger",
+    "startTime": "2026-09-11T15:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/7ce41645bbfb",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
     "title": "Practical Magic 2",
     "startTime": "2026-09-11T18:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/54096ef67e57",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Oasis: Don't Look Back in Anger",
+    "startTime": "2026-09-11T18:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/701b1fa0a93c",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Hope",
+    "startTime": "2026-09-11T21:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/2d8dd13ef562",
+    "attribution": "Showtimes via SceneF.com"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Oasis: Don't Look Back in Anger",
+    "startTime": "2026-09-11T21:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/6a3e664fb0da",
     "attribution": "Showtimes via SceneF.com"
   },
   {

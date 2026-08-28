@@ -1,21 +1,7 @@
-import { compareWithSceneF, type ShowingRow } from "../shared/scenefCompare";
+import type { ShowingRow } from "../shared/scenefCompare";
+import { runSceneFComparison, scenefVenueIdFor } from "../shared/scraperStatus";
 import { fetchEventsFor } from "../shared/scrapers/fetchEvents";
-import type { SceneFListingsResponse } from "../shared/scrapers/scenef";
 import { theaters } from "../shared/theaters";
-
-// Our slug -> SceneF venue id. A diagnostic concern, deliberately kept out
-// of the production theater config.
-const SCENEF_VENUE_IDS: Record<string, string> = {
-  balboa: "balboa",
-  vogue: "vogue",
-  "four-star": "4star",
-  roxie: "roxie",
-  ata: "ata",
-};
-
-function venueIdFor(slug: string): string | undefined {
-  return theaters[slug]?.venueId ?? SCENEF_VENUE_IDS[slug];
-}
 
 function printRows(label: string, rows: ShowingRow[]) {
   if (rows.length === 0) return;
@@ -27,29 +13,24 @@ function printRows(label: string, rows: ShowingRow[]) {
 
 async function compareTheater(slug: string) {
   const theater = theaters[slug];
-  const venueId = venueIdFor(slug);
+  const venueId = theater && scenefVenueIdFor(theater);
   if (!theater || !venueId) throw new Error(`No SceneF venue mapping for "${slug}"`);
 
-  const [ours, response] = await Promise.all([
-    fetchEventsFor(theater),
-    fetch(`https://scenef.com/api/listings?venue=${venueId}&compact=1`),
-  ]);
-  const scenef: SceneFListingsResponse = await response.json();
-
-  const report = compareWithSceneF(ours, scenef);
+  const ours = await fetchEventsFor(theater);
+  const report = await runSceneFComparison(theater, ours);
   const selfComparison =
     theater.source === "scenef" ? " — self-comparison, SceneF is our source" : "";
   console.log(`== ${theater.name} (vs SceneF venue "${venueId}"${selfComparison})`);
   console.log(
-    `  matched: ${report.matched}   time-drift: ${report.timeDrifts.length}   title-mismatch: ${report.titleMismatches.length}` +
+    `  matched: ${report.matched}   time-mismatch: ${report.timeMismatches.length}   title-mismatch: ${report.titleMismatches.length}` +
       `   ours-only: ${report.oursOnly.length}   scenef-only: ${report.scenefOnly.length}` +
       `   excluded: ours ${report.excluded.ours} / scenef ${report.excluded.scenef}`,
   );
-  if (report.timeDrifts.length > 0) {
-    console.log("  time-drift:");
-    for (const drift of report.timeDrifts) {
+  if (report.timeMismatches.length > 0) {
+    console.log("  time-mismatch:");
+    for (const mismatch of report.timeMismatches) {
       console.log(
-        `    ${drift.ourStartTime.slice(0, 10)}  ours ${drift.ourStartTime.slice(11, 16)} vs scenef ${drift.scenefStartTime.slice(11, 16)}  ${drift.title}`,
+        `    ${mismatch.ourStartTime.slice(0, 10)}  ours ${mismatch.ourStartTime.slice(11, 16)} vs scenef ${mismatch.scenefStartTime.slice(11, 16)}  ${mismatch.title}`,
       );
     }
   }

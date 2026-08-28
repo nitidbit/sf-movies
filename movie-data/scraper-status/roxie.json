@@ -1,0 +1,59 @@
+{
+  "slug": "roxie",
+  "theater": "Roxie",
+  "generatedAt": "2026-08-28T05:22:33.105Z",
+  "status": "discrepancies",
+  "report": {
+    "matched": 131,
+    "timeMismatches": [],
+    "titleMismatches": [],
+    "oursOnly": [
+      {
+        "title": "CatVideoFest 2026",
+        "startTime": "2026-08-29T16:55:00-07:00"
+      },
+      {
+        "title": "Filipiñana",
+        "startTime": "2026-09-04T18:00:00-07:00"
+      },
+      {
+        "title": "Floating Features: The Rock",
+        "startTime": "2026-09-18T19:00:00-07:00"
+      },
+      {
+        "title": "Larry Reed: A Life in Light and Shadow",
+        "startTime": "2026-09-19T13:15:00-07:00"
+      },
+      {
+        "title": "Floating Features: Bullitt",
+        "startTime": "2026-09-25T19:00:00-07:00"
+      },
+      {
+        "title": "Floating Features: Jaws",
+        "startTime": "2026-10-02T19:00:00-07:00"
+      },
+      {
+        "title": "Floating Features: Top Gun",
+        "startTime": "2026-10-09T19:00:00-07:00"
+      },
+      {
+        "title": "Floating Features: The Game",
+        "startTime": "2026-10-16T19:00:00-07:00"
+      },
+      {
+        "title": "Floating Features: Hocus Pocus",
+        "startTime": "2026-10-23T19:00:00-07:00"
+      }
+    ],
+    "scenefOnly": [
+      {
+        "title": "Kwaidan",
+        "startTime": "2026-09-23T20:00:00-07:00"
+      }
+    ],
+    "excluded": {
+      "ours": 5,
+      "scenef": 0
+    }
+  }
+}

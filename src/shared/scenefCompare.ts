@@ -14,7 +14,7 @@ export interface ShowingRow {
 
 // The same film paired across feeds at nearly-but-not-exactly the same
 // time — the "are our scraped times right" signal.
-export interface TimeDriftRow {
+export interface TimeMismatchRow {
   title: string;
   ourStartTime: string;
   scenefStartTime: string;
@@ -30,14 +30,26 @@ export interface TitleMismatchRow {
 
 export interface ComparisonReport {
   matched: number;
-  timeDrifts: TimeDriftRow[];
+  timeMismatches: TimeMismatchRow[];
   titleMismatches: TitleMismatchRow[];
   oursOnly: ShowingRow[];
   scenefOnly: ShowingRow[];
   excluded: { ours: number; scenef: number };
 }
 
-const DRIFT_TOLERANCE_MS = 15 * 60 * 1000;
+const TIME_MISMATCH_TOLERANCE_MS = 15 * 60 * 1000;
+
+// The strict agreement rule: the feeds agree only when every discrepancy
+// class is empty. (Excluded showings are outside the comparable window and
+// don't count against agreement.)
+export function hasDiscrepancies(report: ComparisonReport): boolean {
+  return (
+    report.timeMismatches.length > 0 ||
+    report.titleMismatches.length > 0 ||
+    report.oursOnly.length > 0 ||
+    report.scenefOnly.length > 0
+  );
+}
 
 // "Akira 4K" and "Akira" are the same film: titles are compatible when,
 // lowercased and stripped to alphanumerics, one contains the other.
@@ -85,10 +97,10 @@ export function compareWithSceneF(ours: Event[], scenef: SceneFListingsResponse)
   const comparableTheirs = theirs.filter((row) => inWindow(row.startTime));
 
   // Greedy, stable pairing: exact-instant matches claim their partner first,
-  // then near-miss (drift) pairs form from what's left, and only true
+  // then near-miss pairs form from what's left, and only true
   // leftovers land in the one-sided buckets.
   let matched = 0;
-  const timeDrifts: TimeDriftRow[] = [];
+  const timeMismatches: TimeMismatchRow[] = [];
   let unpairedOurs = [...comparableOurs];
   const unpairedTheirs = [...comparableTheirs];
 
@@ -108,12 +120,12 @@ export function compareWithSceneF(ours: Event[], scenef: SceneFListingsResponse)
     const pairIndex = unpairedTheirs.findIndex(
       (row) =>
         laDate(row.startTime) === laDate(event.startTime) &&
-        Math.abs(Date.parse(row.startTime) - Date.parse(event.startTime)) <= DRIFT_TOLERANCE_MS &&
+        Math.abs(Date.parse(row.startTime) - Date.parse(event.startTime)) <= TIME_MISMATCH_TOLERANCE_MS &&
         titlesCompatible(row.title, event.title),
     );
     if (pairIndex < 0) return true;
     const [row] = unpairedTheirs.splice(pairIndex, 1);
-    timeDrifts.push({
+    timeMismatches.push({
       title: event.title,
       ourStartTime: event.startTime,
       scenefStartTime: row.startTime,
@@ -138,7 +150,7 @@ export function compareWithSceneF(ours: Event[], scenef: SceneFListingsResponse)
 
   return {
     matched,
-    timeDrifts,
+    timeMismatches,
     titleMismatches,
     oursOnly: unpairedOurs.map((event) => ({ title: event.title, startTime: event.startTime })),
     scenefOnly: unpairedTheirs,

@@ -1,0 +1,237 @@
+---
+import "../styles/global.css";
+import { join } from "node:path";
+import { loadStatusBlocks, STATUS_DIR_NAME, type ScraperStatusBlock } from "../shared/scraperStatus";
+import { deriveStatus, type StatusView } from "../shared/statusView";
+import { theaters } from "../shared/theaters";
+
+const STATUS_DIR = join(process.cwd(), "movie-data", STATUS_DIR_NAME);
+
+const blocks = await loadStatusBlocks(STATUS_DIR);
+const blockBySlug = new Map(blocks.map((block) => [block.slug, block]));
+
+// Theaters sourced from SceneF (the Alamo) never appear: comparing SceneF
+// to itself is circular, so no block exists and no row is rendered.
+interface TheaterRow {
+  name: string;
+  block?: ScraperStatusBlock;
+  view?: StatusView;
+}
+
+const rows: TheaterRow[] = Object.values(theaters)
+  .filter((theater) => theater.source !== "scenef")
+  .map((theater) => {
+    const block = blockBySlug.get(theater.slug);
+    return {
+      name: theater.name,
+      block,
+      view: block && deriveStatus(block, new Date()),
+    };
+  });
+
+const showingFormatter = new Intl.DateTimeFormat("en-US", {
+  timeZone: "America/Los_Angeles",
+  weekday: "short",
+  month: "short",
+  day: "numeric",
+});
+const timeFormatter = new Intl.DateTimeFormat("en-US", {
+  timeZone: "America/Los_Angeles",
+  hour: "numeric",
+  minute: "2-digit",
+});
+
+function formatDay(isoInstant: string): string {
+  return showingFormatter.format(new Date(isoInstant));
+}
+function formatTime(isoInstant: string): string {
+  return timeFormatter.format(new Date(isoInstant));
+}
+
+function badge(view: StatusView | undefined): string {
+  if (!view) return "—";
+  if (view.stale) return "🕰";
+  if (view.verdict === "green") return "✅";
+  if (view.verdict === "unavailable") return "⚠️";
+  return "❌";
+}
+
+// The one-line verdict shown beside the theater name in the summary strip.
+function summarize(view: StatusView | undefined): string {
+  if (!view) return "no data yet";
+  const suffix = view.stale ? " · STALE — daily scrape may be broken" : "";
+  if (view.verdict === "unavailable") return `comparison unavailable (${view.error})${suffix}`;
+  const counts = view.counts!;
+  if (view.verdict === "green") return `100% · ${counts.matched} showings verified${suffix}`;
+  const parts = [`${counts.matched} matched`];
+  if (counts.timeMismatches > 0) parts.push(`${counts.timeMismatches} time-mismatch`);
+  if (counts.titleMismatches > 0) parts.push(`${counts.titleMismatches} title-mismatch`);
+  if (counts.oursOnly > 0) parts.push(`${counts.oursOnly} ours-only`);
+  if (counts.scenefOnly > 0) parts.push(`${counts.scenefOnly} scenef-only`);
+  return parts.join(" · ") + suffix;
+}
+---
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" type="image/svg+xml" href={`${import.meta.env.BASE_URL}favicon.svg`} />
+    <link rel="icon" href={`${import.meta.env.BASE_URL}favicon.ico`} />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="generator" content={Astro.generator} />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+    <title>Scraper Status — Films with Friends</title>
+  </head>
+  <body>
+    <main class="content">
+      <h1>Scraper Status</h1>
+      <p class="attribution">
+        Each theater's scraped showtimes, checked against an independent source.
+        Showtimes via <a href="https://scenef.com">SceneF.com</a>.
+      </p>
+
+      <ul class="strip">
+        {
+          rows.map((row) => (
+            <li>
+              <span class="badge">{badge(row.view)}</span>
+              <strong>{row.name}</strong>
+              <span class="summary">{summarize(row.view)}</span>
+            </li>
+          ))
+        }
+      </ul>
+
+      {
+        rows.map((row) => (
+          <details open={row.view?.verdict === "red"}>
+            <summary>
+              {badge(row.view)} {row.name}
+            </summary>
+            {!row.view && <p>No comparison has run yet for this theater.</p>}
+            {row.view?.stale && (
+              <p>
+                Stale: no comparison since this block was generated — the daily scrape workflow may
+                be broken.
+              </p>
+            )}
+            {row.view?.verdict === "unavailable" && (
+              <p>
+                Comparison unavailable: {row.view.error}. Showtimes were still scraped and published
+                normally.
+              </p>
+            )}
+            {row.block?.report && (
+              <>
+                <p>
+                  {row.block.report.matched} showings matched (excluded from comparison: ours{" "}
+                  {row.block.report.excluded.ours} / scenef {row.block.report.excluded.scenef})
+                </p>
+                {row.block.report.timeMismatches.length > 0 && (
+                  <section>
+                    <h3>Time mismatch — same film, different times</h3>
+                    <ul>
+                      {row.block.report.timeMismatches.map((mismatch) => (
+                        <li>
+                          {formatDay(mismatch.ourStartTime)} · {mismatch.title} · ours{" "}
+                          {formatTime(mismatch.ourStartTime)} vs scenef{" "}
+                          {formatTime(mismatch.scenefStartTime)}
+                        </li>
+                      ))}
+                    </ul>
+                  </section>
+                )}
+                {row.block.report.titleMismatches.length > 0 && (
+                  <section>
+                    <h3>Title mismatch — same time slot, different names</h3>
+                    <ul>
+                      {row.block.report.titleMismatches.map((mismatch) => (
+                        <li>
+                          {formatDay(mismatch.startTime)} {formatTime(mismatch.startTime)} · ours
+                          "{mismatch.ourTitle}" vs scenef "{mismatch.scenefTitle}"
+                        </li>
+                      ))}
+                    </ul>
+                  </section>
+                )}
+                {row.block.report.oursOnly.length > 0 && (
+                  <section>
+                    <h3>Ours only — we list these, SceneF doesn't</h3>
+                    <ul>
+                      {row.block.report.oursOnly.map((showing) => (
+                        <li>
+                          {formatDay(showing.startTime)} {formatTime(showing.startTime)} ·{" "}
+                          {showing.title}
+                        </li>
+                      ))}
+                    </ul>
+                  </section>
+                )}
+                {row.block.report.scenefOnly.length > 0 && (
+                  <section>
+                    <h3>SceneF only — SceneF lists these, we don't</h3>
+                    <ul>
+                      {row.block.report.scenefOnly.map((showing) => (
+                        <li>
+                          {formatDay(showing.startTime)} {formatTime(showing.startTime)} ·{" "}
+                          {showing.title}
+                        </li>
+                      ))}
+                    </ul>
+                  </section>
+                )}
+              </>
+            )}
+          </details>
+        ))
+      }
+    </main>
+  </body>
+</html>
+
+<style>
+  .content {
+    max-width: 46rem;
+    margin: 0 auto;
+    padding: 1rem;
+  }
+  .attribution {
+    font-size: var(--font-size-sm);
+  }
+  .strip {
+    list-style: none;
+    padding: 1rem;
+    margin: 1.5rem 0;
+    background: rgba(255, 255, 255, 0.5);
+    border-radius: 0.5rem;
+  }
+  .strip li {
+    display: flex;
+    gap: 0.5rem;
+    align-items: baseline;
+    padding: 0.25rem 0;
+  }
+  .strip .summary {
+    font-size: var(--font-size-sm);
+  }
+  details {
+    margin: 0.75rem 0;
+  }
+  summary {
+    cursor: pointer;
+    font-weight: 700;
+  }
+  details section h3 {
+    font-size: var(--font-size-base);
+    margin: 0.75rem 0 0.25rem;
+  }
+  details ul {
+    margin: 0;
+    font-size: var(--font-size-sm);
+  }
+</style>

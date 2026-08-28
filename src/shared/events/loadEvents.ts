@@ -1,12 +1,19 @@
 import { readdir, readFile } from "node:fs/promises";
 import { join } from "node:path";
+import { STATUS_DIR_NAME } from "../scraperStatus";
 import type { Event } from "./event";
 import { compareByStartTime } from "./schedule";
+
+// The scraper-status directory holds per-theater comparison blocks — scrape
+// by-products that share movie-data (so the workflows commit them) but are
+// not events.
+const NON_EVENT_DIRS = new Set([STATUS_DIR_NAME]);
 
 async function findJsonFiles(dir: string): Promise<string[]> {
   const entries = await readdir(dir, { withFileTypes: true });
   const files = await Promise.all(
     entries.map(async (entry) => {
+      if (NON_EVENT_DIRS.has(entry.name)) return [];
       const path = join(dir, entry.name);
       if (entry.isDirectory()) return findJsonFiles(path);
       return entry.name.endsWith(".json") ? [path] : [];

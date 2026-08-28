@@ -1,0 +1,173 @@
+{
+  "slug": "balboa",
+  "theater": "Balboa",
+  "generatedAt": "2026-08-28T05:16:44.029Z",
+  "status": "discrepancies",
+  "report": {
+    "matched": 79,
+    "timeMismatches": [],
+    "titleMismatches": [
+      {
+        "startTime": "2026-10-23T20:00:00-07:00",
+        "ourTitle": "LIVE  MUSIC:  Izaak Opatz, Joe Kaplow",
+        "scenefTitle": "LIVE MUSIC: Izaak Opatz and Joe Kaplow"
+      }
+    ],
+    "oursOnly": [
+      {
+        "title": "Southland Tales",
+        "startTime": "2026-08-29T19:30:00-07:00"
+      },
+      {
+        "title": "The Rocky Horror Picture Show",
+        "startTime": "2026-08-29T23:00:00-07:00"
+      }
+    ],
+    "scenefOnly": [
+      {
+        "title": "The Room",
+        "startTime": "2026-09-05T23:00:00-07:00"
+      },
+      {
+        "title": "Akira",
+        "startTime": "2026-09-11T16:30:00-07:00"
+      },
+      {
+        "title": "Twin Peaks: SEASON 1, EP. 1 (Northwest Passage)",
+        "startTime": "2026-09-11T18:00:00-07:00"
+      },
+      {
+        "title": "Twin Peaks: The Return, EP. 1 & 2",
+        "startTime": "2026-09-11T19:00:00-07:00"
+      },
+      {
+        "title": "Twin Peaks: SEASON 1, EP. 2 & 3",
+        "startTime": "2026-09-11T20:00:00-07:00"
+      },
+      {
+        "title": "Twin Peaks Fest (Fri. Pass)",
+        "startTime": "2026-09-11T22:00:00-07:00"
+      },
+      {
+        "title": "Akira",
+        "startTime": "2026-09-12T12:00:00-07:00"
+      },
+      {
+        "title": "Twin Peaks: SEASON 1, EP. 4 & 5",
+        "startTime": "2026-09-12T13:00:00-07:00"
+      },
+      {
+        "title": "Twin Peaks: SEASON 1, EP. 1 (Northwest Passage)",
+        "startTime": "2026-09-12T14:45:00-07:00"
+      },
+      {
+        "title": "Twin Peaks: SEASON 1, EP. 6, 7, & 8",
+        "startTime": "2026-09-12T15:00:00-07:00"
+      },
+      {
+        "title": "Twin Peaks: The Return, EP. 1 & 2",
+        "startTime": "2026-09-12T16:45:00-07:00"
+      },
+      {
+        "title": "Twin Peaks: SEASON 2, EP. 1",
+        "startTime": "2026-09-12T18:00:00-07:00"
+      },
+      {
+        "title": "TWIN PEAKS FEST: Music of the Red Room (Performed by Marc Capelle)",
+        "startTime": "2026-09-12T19:00:00-07:00"
+      },
+      {
+        "title": "Twin Peaks: Fire Walk with Me",
+        "startTime": "2026-09-12T20:00:00-07:00"
+      },
+      {
+        "title": "Twin Peaks: The Return, EP. 8 (Gotta Light)",
+        "startTime": "2026-09-12T20:00:00-07:00"
+      },
+      {
+        "title": "Twin Peaks Fest (Sat. Pass)",
+        "startTime": "2026-09-12T22:00:00-07:00"
+      },
+      {
+        "title": "Twin Peaks: SEASON 2, EP. 6 & 7",
+        "startTime": "2026-09-13T14:00:00-07:00"
+      },
+      {
+        "title": "Akira",
+        "startTime": "2026-09-13T15:00:00-07:00"
+      },
+      {
+        "title": "Twin Peaks: SEASON 2, EP. 8 & 9",
+        "startTime": "2026-09-13T16:00:00-07:00"
+      },
+      {
+        "title": "Twin Peaks: Fire Walk with Me",
+        "startTime": "2026-09-13T18:00:00-07:00"
+      },
+      {
+        "title": "Twin Peaks: The Return, EP. 1, 2, & 8",
+        "startTime": "2026-09-13T18:00:00-07:00"
+      },
+      {
+        "title": "Twin Peaks: SEASON 2, EP. 22",
+        "startTime": "2026-09-13T20:45:00-07:00"
+      },
+      {
+        "title": "Twin Peaks Fest (Sun. Pass)",
+        "startTime": "2026-09-13T22:00:00-07:00"
+      },
+      {
+        "title": "Twin Peaks Fest (Weekend Pass)",
+        "startTime": "2026-09-13T23:00:00-07:00"
+      },
+      {
+        "title": "Akira",
+        "startTime": "2026-09-14T17:00:00-07:00"
+      },
+      {
+        "title": "Twin Peaks: SEASON 1, EP. 1 (Northwest Passage)",
+        "startTime": "2026-09-14T17:00:00-07:00"
+      },
+      {
+        "title": "McQueen",
+        "startTime": "2026-09-14T19:30:00-07:00"
+      },
+      {
+        "title": "Streetwise",
+        "startTime": "2026-09-14T20:00:00-07:00"
+      },
+      {
+        "title": "The Legend of the Stardust Brothers",
+        "startTime": "2026-09-15T19:30:00-07:00"
+      },
+      {
+        "title": "Ghost Dog: Way of the Samurai",
+        "startTime": "2026-09-22T19:00:00-07:00"
+      },
+      {
+        "title": "The Rocky Horror Picture Show",
+        "startTime": "2026-09-26T23:00:00-07:00"
+      },
+      {
+        "title": "Samurai Rebellion",
+        "startTime": "2026-09-27T19:00:00-07:00"
+      },
+      {
+        "title": "House on Haunted Hill",
+        "startTime": "2026-09-29T19:30:00-07:00"
+      },
+      {
+        "title": "Queen Budapest",
+        "startTime": "2026-10-07T19:00:00-07:00"
+      },
+      {
+        "title": "Queen Budapest",
+        "startTime": "2026-10-10T19:00:00-07:00"
+      }
+    ],
+    "excluded": {
+      "ours": 0,
+      "scenef": 0
+    }
+  }
+}

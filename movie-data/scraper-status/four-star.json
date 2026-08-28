@@ -1,0 +1,206 @@
+{
+  "slug": "four-star",
+  "theater": "4-Star",
+  "generatedAt": "2026-08-28T05:22:31.703Z",
+  "status": "discrepancies",
+  "report": {
+    "matched": 19,
+    "timeMismatches": [],
+    "titleMismatches": [
+      {
+        "startTime": "2026-09-03T20:00:00-07:00",
+        "ourTitle": "OCEAN BEACH SURF FILM FESTIVAL: An Evening of Music, Conversation, and Film with Ray Barbee and Thomas Campbell",
+        "scenefTitle": "LIVE MUSIC: Ray Barbee & Thomas Campbell"
+      },
+      {
+        "startTime": "2026-09-05T20:00:00-07:00",
+        "ourTitle": "OCEAN BEACH SURF FILM FESTIVAL: Chris Malloy presents Excerpts from Thicker Than Water, 180 South & Earth to Meekus with LIVE MUSIC (plus Q&A)",
+        "scenefTitle": "Chris Malloy Films with LIVE SCORE and Q&A"
+      },
+      {
+        "startTime": "2026-09-10T19:30:00-07:00",
+        "ourTitle": "FUGS FILM! with LIVE MUSIC from Special Guests and Filmmaker Q&A (Presented by TRASH & TREASURES)",
+        "scenefTitle": "FUGS FILM! with Live Fugs Tribute Set and Q&A"
+      },
+      {
+        "startTime": "2026-09-16T20:00:00-07:00",
+        "ourTitle": "LIVE MUSIC: Croz Boyce (Avey Tare and Geologist of Animal Collective), Jas Stade (Presented by folkYEAH!)",
+        "scenefTitle": "LIVE MUSIC: Croz Boyce, Jas Stade"
+      },
+      {
+        "startTime": "2026-09-18T20:00:00-07:00",
+        "ourTitle": "LIVE MUSIC: Spencer Noble (Record Release), Peña, Cilantro",
+        "scenefTitle": "LIVE MUSIC: Spencer Noble, Peña, Cilantro"
+      },
+      {
+        "startTime": "2026-09-19T20:00:00-07:00",
+        "ourTitle": "I LOST IT OVER: Body Heat (with LIVE IMPROV hosted by Alice Wu plus special guest Joan Chen)",
+        "scenefTitle": "I Lost it Over: Body Heat (with Joan Chen)"
+      },
+      {
+        "startTime": "2026-09-20T19:30:00-07:00",
+        "ourTitle": "Ace Attorney (Presented by MEDIA MELTDOWN MOVIE MADHOUSE)",
+        "scenefTitle": "Media Meltdown Movie Madhouse: Ace Attorney"
+      },
+      {
+        "startTime": "2026-09-24T20:00:00-07:00",
+        "ourTitle": "LIVE MUSIC: Tom Conneely & the Birds of Paradise, My Dog Jack",
+        "scenefTitle": "LIVE MUSIC: Tom Conneely & BoP, My Dog Jack"
+      },
+      {
+        "startTime": "2026-10-03T20:00:00-07:00",
+        "ourTitle": "LIVE MUSIC: The Sleeves, Fred Frith",
+        "scenefTitle": "LIVE MUSIC: Fred Frith, The Sleeves"
+      },
+      {
+        "startTime": "2026-10-23T20:00:00-07:00",
+        "ourTitle": "Nosferatu: A Symphony of Horror with LIVE SCORE by Dallas Acid & Paz Lenchantin (Presented by folkYEAH!)",
+        "scenefTitle": "MUSIC: Nosferatu with Paz Lenchantin & Dallas Acid"
+      }
+    ],
+    "oursOnly": [
+      {
+        "title": "LOOP (Bay Area Short Film Premiere with Filmmaker Q&A)",
+        "startTime": "2026-08-28T19:00:00-07:00"
+      },
+      {
+        "title": "The Secret of NIMH",
+        "startTime": "2026-08-29T10:00:00-07:00"
+      },
+      {
+        "title": "LIVE MUSIC: Microwave Buddha (Los Microwaves), Diesel Dudes, Pink Stiletto, Tropisphere (Cinematic Synchronisms presented by Synth News & Nada Sound)",
+        "startTime": "2026-08-29T19:30:00-07:00"
+      },
+      {
+        "title": "The Secret of NIMH",
+        "startTime": "2026-08-30T10:00:00-07:00"
+      },
+      {
+        "title": "CatVideoFest 2026",
+        "startTime": "2026-09-05T10:00:00-07:00"
+      },
+      {
+        "title": "CatVideoFest 2026",
+        "startTime": "2026-09-06T10:00:00-07:00"
+      },
+      {
+        "title": "Closed for a Private Event",
+        "startTime": "2026-09-06T12:30:00-07:00"
+      },
+      {
+        "title": "OCEAN BEACH SURF FILM FESTIVAL: Sachi Cunningham presents Big Wave Women (A Work in Progress Screening)",
+        "startTime": "2026-09-06T19:00:00-07:00"
+      },
+      {
+        "title": "FOGCUTTER FILM SERIES and DJ GRAMPAPHONE BIRTHDAY PARTY: VOLUME 25 - Stop Making Sense (Dance Party - Hosted by Robert Mailer Anderson)",
+        "startTime": "2026-09-09T18:00:00-07:00"
+      },
+      {
+        "title": "LIVE MUSIC: Gordi, Gracie and Rachel (Presented by THROWIN' BO'S)",
+        "startTime": "2026-09-11T20:00:00-07:00"
+      },
+      {
+        "title": "KEXP'S VINELANDS LIVE: Mild Universe, Camellia Boutros",
+        "startTime": "2026-09-12T18:30:00-07:00"
+      },
+      {
+        "title": "The Lego Movie",
+        "startTime": "2026-09-13T10:00:00-07:00"
+      },
+      {
+        "title": "SF CRITTERFEST: Second Nature (with Ducks)",
+        "startTime": "2026-09-17T18:15:00-07:00"
+      },
+      {
+        "title": "COMEDY: Honey Pluton & Spike Einbinder",
+        "startTime": "2026-09-17T21:00:00-07:00"
+      },
+      {
+        "title": "4 Star Pokemon Cartoon Block",
+        "startTime": "2026-09-19T10:00:00-07:00"
+      },
+      {
+        "title": "SF CRITTERFEST: Flamingos: Life After the Meteorite (with Talking to Owls)",
+        "startTime": "2026-09-19T12:00:00-07:00"
+      },
+      {
+        "title": "SF CRITTERFEST: Better Call Babs (with Other Shorts)",
+        "startTime": "2026-09-19T14:00:00-07:00"
+      },
+      {
+        "title": "4 Star Pokemon Cartoon Block",
+        "startTime": "2026-09-20T10:00:00-07:00"
+      },
+      {
+        "title": "SF CRITTERFEST: Wild Asia: Life at Extremes (with Other Shorts)",
+        "startTime": "2026-09-20T12:00:00-07:00"
+      },
+      {
+        "title": "SF CRITTERFEST: The Ark",
+        "startTime": "2026-09-20T14:00:00-07:00"
+      },
+      {
+        "title": "SF CRITTERFEST: Unspoken Bond (with Gianna & Anne)",
+        "startTime": "2026-09-20T16:00:00-07:00"
+      },
+      {
+        "title": "My Neighbor Totoro",
+        "startTime": "2026-09-26T10:00:00-07:00"
+      },
+      {
+        "title": "Closed for a Private Event",
+        "startTime": "2026-09-26T14:00:00-07:00"
+      },
+      {
+        "title": "LIVE MUSIC: Mildred, Charlie Bishop (Presented by THROWIN' BO'S)",
+        "startTime": "2026-09-26T20:00:00-07:00"
+      },
+      {
+        "title": "My Neighbor Totoro",
+        "startTime": "2026-09-27T10:00:00-07:00"
+      },
+      {
+        "title": "LIVE MUSIC: Resavoir, Cheflee (Presented by THROWIN' BO'S)",
+        "startTime": "2026-10-25T20:00:00-07:00"
+      }
+    ],
+    "scenefOnly": [
+      {
+        "title": "LIVE MUSIC: Microwave Buddha, Diesel Dudes & more",
+        "startTime": "2026-08-29T20:00:00-07:00"
+      },
+      {
+        "title": "Basement VHS Fest: All-Day Pass",
+        "startTime": "2026-08-30T14:30:00-07:00"
+      },
+      {
+        "title": "Stop Making Sense",
+        "startTime": "2026-09-09T19:00:00-07:00"
+      },
+      {
+        "title": "KEXP VINELANDS LIVE: Mild Universe & more",
+        "startTime": "2026-09-12T20:00:00-07:00"
+      },
+      {
+        "title": "COMEDY: Honey Pluton & Spike Einbinder",
+        "startTime": "2026-09-17T20:30:00-07:00"
+      },
+      {
+        "title": "My Neighbor Totoro",
+        "startTime": "2026-09-26T12:15:00-07:00"
+      },
+      {
+        "title": "My Neighbor Totoro",
+        "startTime": "2026-09-27T12:30:00-07:00"
+      },
+      {
+        "title": "My Neighbor Totoro",
+        "startTime": "2026-09-27T15:00:00-07:00"
+      }
+    ],
+    "excluded": {
+      "ours": 4,
+      "scenef": 0
+    }
+  }
+}
