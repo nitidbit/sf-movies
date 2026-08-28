@@ -35,7 +35,9 @@ export async function runSceneFComparison(
   const venueId = scenefVenueIdFor(theater);
   if (!venueId) throw new Error(`No SceneF venue mapping for "${theater.slug}"`);
 
-  const response = await fetchFn(`https://scenef.com/api/listings?venue=${venueId}&compact=1`);
+  // The full feed, not "compact=1": per-screening `sources` exists only
+  // there, and the comparison needs it to spot SceneF's duplicate listings.
+  const response = await fetchFn(`https://scenef.com/api/listings?venue=${venueId}`);
   const scenef: SceneFListingsResponse = await response.json();
   return compareWithSceneF(ours, scenef);
 }

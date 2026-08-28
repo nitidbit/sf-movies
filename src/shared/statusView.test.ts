@@ -16,6 +16,7 @@ function sampleBlock(overrides: Partial<ScraperStatusBlock> = {}): ScraperStatus
       titleMismatches: [],
       oursOnly: [],
       scenefOnly: [],
+      collapsedDuplicates: 0,
       excluded: { ours: 3, scenef: 0 },
     },
     ...overrides,

@@ -34,6 +34,9 @@ export interface ComparisonReport {
   titleMismatches: TitleMismatchRow[];
   oursOnly: ShowingRow[];
   scenefOnly: ShowingRow[];
+  // How many screenings SceneF published twice and we counted once. Context,
+  // not a discrepancy — see collapseDuplicates.
+  collapsedDuplicates: number;
   excluded: { ours: number; scenef: number };
 }
 
@@ -49,6 +52,81 @@ export function hasDiscrepancies(report: ComparisonReport): boolean {
     report.oursOnly.length > 0 ||
     report.scenefOnly.length > 0
   );
+}
+
+// A SceneF screening with its film title resolved, still carrying the
+// provenance that deduplication needs.
+interface SceneFShowing extends ShowingRow {
+  sources?: string[];
+}
+
+// Two SceneF titles naming the same show. Deliberately looser than
+// titlesCompatible: the duplicates differ by a word inserted mid-title
+// ("TWIN PEAKS FEST: Season 1…" vs "Twin Peaks: SEASON 1…"), which
+// substring containment misses but a word-set subset catches.
+function titlesNameSameShow(a: string, b: string): boolean {
+  const tokens = (title: string) =>
+    new Set(title.toLowerCase().split(/[^a-z0-9]+/).filter((token) => token.length > 0));
+  const [smaller, larger] = [tokens(a), tokens(b)].sort((x, y) => x.size - y.size);
+  return smaller.size > 0 && [...smaller].every((token) => larger.has(token));
+}
+
+// SceneF reads some venues from two places at once. Screenings reported by
+// entirely different sources are candidates for being one show seen twice;
+// two screenings from the SAME source are two real shows on two screens.
+// Without source information there is no evidence either way, so no.
+function sourcesDisjoint(a: string[] | undefined, b: string[] | undefined): boolean {
+  if (a === undefined || b === undefined || a.length === 0 || b.length === 0) return false;
+  return !a.some((source) => b.includes(source));
+}
+
+// SceneF names a venue's own web calendar by host ("www.balboamovies.com/…")
+// and its internal systems with a scheme ("veezi:sessions").
+function fromVenueCalendar(showing: SceneFShowing): boolean {
+  return (showing.sources ?? []).some((source) => source.includes(".") && !source.includes(":"));
+}
+
+// For screenings that don't resolve to a known film, SceneF derives its film
+// key from the source's title text — so the same show read from two sources
+// with different titling is published twice. Collapse those back into one
+// before comparing, or every such screening looks like one we're missing.
+function collapseDuplicates(showings: SceneFShowing[]): {
+  kept: SceneFShowing[];
+  collapsed: number;
+} {
+  const byInstant = new Map<number, SceneFShowing[]>();
+  for (const showing of showings) {
+    const instant = Date.parse(showing.startTime);
+    byInstant.set(instant, [...(byInstant.get(instant) ?? []), showing]);
+  }
+
+  const kept: SceneFShowing[] = [];
+  let collapsed = 0;
+
+  for (const group of byInstant.values()) {
+    const survivors: SceneFShowing[] = [];
+    for (const showing of group) {
+      const twinIndex = survivors.findIndex(
+        (survivor) =>
+          sourcesDisjoint(survivor.sources, showing.sources) &&
+          titlesNameSameShow(survivor.title, showing.title),
+      );
+      if (twinIndex < 0) {
+        survivors.push(showing);
+        continue;
+      }
+      // Keep whichever copy came from the venue's own calendar: that's the
+      // titling our scrapers read, so reported rows stay recognizable
+      // against the theater's listing.
+      if (fromVenueCalendar(showing) && !fromVenueCalendar(survivors[twinIndex])) {
+        survivors[twinIndex] = showing;
+      }
+      collapsed += 1;
+    }
+    kept.push(...survivors);
+  }
+
+  return { kept, collapsed };
 }
 
 // "Akira 4K" and "Akira" are the same film: titles are compatible when,
@@ -84,10 +162,13 @@ function overlapWindow(oursDates: string[], theirsDates: string[]): { first: str
 
 export function compareWithSceneF(ours: Event[], scenef: SceneFListingsResponse): ComparisonReport {
   const titleByFilmKey = new Map(scenef.films.map((film) => [film.key, film.title]));
-  const theirs: ShowingRow[] = scenef.screenings.map((screening) => ({
-    title: titleByFilmKey.get(screening.filmKey) ?? "Unknown film",
-    startTime: screening.startsAt,
-  }));
+  const { kept: theirs, collapsed: collapsedDuplicates } = collapseDuplicates(
+    scenef.screenings.map((screening) => ({
+      title: titleByFilmKey.get(screening.filmKey) ?? "Unknown film",
+      startTime: screening.startsAt,
+      sources: screening.sources,
+    })),
+  );
 
   const window = overlapWindow(ours.map((e) => laDate(e.startTime)), theirs.map((r) => laDate(r.startTime)));
   const inWindow = (isoInstant: string) =>
@@ -153,7 +234,11 @@ export function compareWithSceneF(ours: Event[], scenef: SceneFListingsResponse)
     timeMismatches,
     titleMismatches,
     oursOnly: unpairedOurs.map((event) => ({ title: event.title, startTime: event.startTime })),
-    scenefOnly: unpairedTheirs,
+    scenefOnly: unpairedTheirs.map((showing) => ({
+      title: showing.title,
+      startTime: showing.startTime,
+    })),
+    collapsedDuplicates,
     excluded: {
       ours: ours.length - comparableOurs.length,
       scenef: theirs.length - comparableTheirs.length,

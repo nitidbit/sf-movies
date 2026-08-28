@@ -24,7 +24,8 @@ async function compareTheater(slug: string) {
   console.log(
     `  matched: ${report.matched}   time-mismatch: ${report.timeMismatches.length}   title-mismatch: ${report.titleMismatches.length}` +
       `   ours-only: ${report.oursOnly.length}   scenef-only: ${report.scenefOnly.length}` +
-      `   excluded: ours ${report.excluded.ours} / scenef ${report.excluded.scenef}`,
+      `   excluded: ours ${report.excluded.ours} / scenef ${report.excluded.scenef}` +
+      `   scenef-duplicates collapsed: ${report.collapsedDuplicates}`,
   );
   if (report.timeMismatches.length > 0) {
     console.log("  time-mismatch:");

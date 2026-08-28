@@ -15,6 +15,9 @@ export interface SceneFScreening {
   filmKey: string;
   startsAt: string;
   ticketUrl: string;
+  // Where SceneF got this screening. Absent from their compact feed; the
+  // comparison uses it to spot the same show published twice.
+  sources?: string[];
 }
 
 export interface SceneFListingsResponse {

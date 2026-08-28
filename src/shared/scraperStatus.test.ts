@@ -71,6 +71,7 @@ describe("recordScraperStatus", () => {
         titleMismatches: [],
         oursOnly: [],
         scenefOnly: [],
+        collapsedDuplicates: 0,
         excluded: { ours: 0, scenef: 0 },
       },
     });
