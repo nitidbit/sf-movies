@@ -4,12 +4,12 @@ import { zonedIsoString } from "../timezone";
 const ATTRIBUTION = "Showtimes via SceneF.com";
 const LA_TIME_ZONE = "America/Los_Angeles";
 
-interface SceneFFilm {
+export interface SceneFFilm {
   key: string;
   title: string;
 }
 
-interface SceneFScreening {
+export interface SceneFScreening {
   id: string;
   filmKey: string;
   startsAt: string;
@@ -17,7 +17,7 @@ interface SceneFScreening {
   tags?: string[];
 }
 
-interface SceneFListingsResponse {
+export interface SceneFListingsResponse {
   films: SceneFFilm[];
   screenings: SceneFScreening[];
 }

@@ -1,29 +1,9 @@
 import { join } from "node:path";
-import type { Event } from "../shared/events/event";
 import { writeTheaterEvents } from "../shared/events/persist";
-import { fetchRoxieEvents } from "../shared/scrapers/roxie";
-import { fetchSceneFEvents } from "../shared/scrapers/scenef";
-import { fetchSquarespaceEvents } from "../shared/scrapers/squarespace";
-import { fetchTribeEvents } from "../shared/scrapers/tribeEvents";
-import { theaters, type TheaterConfig } from "../shared/theaters";
+import { fetchEventsFor } from "../shared/scrapers/fetchEvents";
+import { theaters } from "../shared/theaters";
 
 const DATA_DIR = join(process.cwd(), "movie-data");
-
-function fetchEventsFor(theater: TheaterConfig): Promise<Event[]> {
-  switch (theater.source) {
-    case "squarespace":
-      return fetchSquarespaceEvents(theater.baseUrl, theater.name);
-    case "roxie":
-      return fetchRoxieEvents(theater.baseUrl, theater.name);
-    case "scenef":
-      if (!theater.venueId) {
-        throw new Error(`Theater "${theater.slug}" has source "scenef" but no venueId configured`);
-      }
-      return fetchSceneFEvents(theater.venueId, theater.name);
-    case "tribe":
-      return fetchTribeEvents(theater.baseUrl, theater.name);
-  }
-}
 
 async function main() {
   const slug = process.argv[2];

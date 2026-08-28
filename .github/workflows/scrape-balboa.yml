@@ -21,7 +21,7 @@ jobs:
 
       - run: npm ci
 
-      - run: npm run scrape -- balboa
+      - run: npm run scrape -- balboanpm run scrape -- balboa
 
       - name: Commit and push if data changed
         run: |

@@ -12,7 +12,8 @@
     "astro": "astro",
     "test": "vitest run",
     "check": "astro check",
-    "scrape": "tsx src/scripts/scrape-theater.ts"
+    "scrape": "tsx src/scripts/scrape-theater.ts",
+    "compare": "tsx src/scripts/compare-scenef.ts"
   },
   "dependencies": {
     "astro": "^7.2.2",
