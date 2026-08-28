@@ -15,6 +15,13 @@ Made a new page, [/status](/sf-movies/status). It sets our showtimes against
 another man's list, theater by theater, and shows where the two disagree. It
 had been counting some screenings twice. It does not now.
 
+Started this diary. Rewrote the words on the front page. They were long and
+now they are short.
+
+The site is called A Picture Show with Friends today. It has been called other
+things and may be called another tomorrow. There is a list on the front page.
+Send your choice.
+
 ## 21 de agosto de 2026
 
 The filters and the list of films disagreed after a reload. We fixed it.
