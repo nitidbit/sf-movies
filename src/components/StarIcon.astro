@@ -6,18 +6,27 @@ interface Props {
 const { class: className } = Astro.props;
 ---
 
-<div class:list={["star-icon", className]}>★</div>
+<!-- Drawn rather than typed: U+2605 is absent from every Lato subset we
+     load, so the glyph came from whichever font the OS fell back to, and
+     macOS and iOS do not choose the same one or give it the same width. -->
+<svg
+  class:list={["star-icon", className]}
+  viewBox="0 0 24 24"
+  fill="currentColor"
+  aria-hidden="true"
+  focusable="false"
+>
+  <path
+    d="M12 17.27 18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"
+  ></path>
+</svg>
 
 <style>
   .star-icon {
-    font-family: "Lato", sans-serif;
-    /* Calibrated so the glyph's rendered ink height (not the font-size
-       itself, which is always taller than a glyph's visible bounds) is
-       ~20px at the default root font-size. */
-    font-size: 1.7rem;
     display: inline-block;
     width: 20px;
     height: 20px;
-    line-height: 15px;
+    /* Sits the star on the text baseline where it runs beside a word. */
+    vertical-align: -0.25em;
   }
 </style>

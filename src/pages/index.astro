@@ -62,14 +62,12 @@ function formatDayHeader(date: string): string {
                display:none on mobile, and a hidden label is read with the
                decorative star included. -->
           <section class="pane wishlist-pane" aria-label="Wish List">
-            <h2 class="pane-heading">
-              <span aria-hidden="true"><StarIcon /></span> Wish List
-            </h2>
+            <h2 class="pane-heading"><StarIcon /> Wish List</h2>
             <div id="wishlist-empty" class="wishlist-empty">
-              <p>The indie theaters of San Francisco each keep their own showtimes. We put them in one place.</p>
+              <p>The indie theaters of San Francisco each list their own showtimes. We gather them here.</p>
               <p>Look through the Browsing list. When you find a showing you
               want, click the ★. It goes to your Wish List. Send the list to
-              your friends and go.</p>
+              your friends and go. Together.</p>
               <img
                 class="wishlist-empty__image"
                 src={`${import.meta.env.BASE_URL}film-projector.png`}
@@ -172,13 +170,6 @@ function formatDayHeader(date: string): string {
     gap: 0.4rem;
     padding-bottom: 0.5rem;
     border-bottom: 1px solid #888;
-  }
-
-  /* The star's box is sized to line up with the one on a card. Here it only
-     has to sit beside a word, and the fixed width crops the glyph into the
-     gap. */
-  .pane-heading :global(.star-icon) {
-    width: auto;
   }
 
   .wishlist-empty {
