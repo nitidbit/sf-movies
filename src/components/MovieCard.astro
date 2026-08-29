@@ -41,7 +41,14 @@ const dateTimeFormatter = new Intl.DateTimeFormat("en-US", {
   </div>
   { event.synopsis &&
     <button class="movie-card__synopsis" type="button" aria-expanded="false">
-      <span class="movie-card__synopsis-triangle" aria-hidden="true">▶</span>
+      <svg
+        class="movie-card__synopsis-triangle"
+        viewBox="0 0 10 12"
+        aria-hidden="true"
+        focusable="false"
+      >
+        <polygon points="0,0 10,6 0,12"></polygon>
+      </svg>
       <span class="movie-card__synopsis-text">{event.synopsis}</span>
     </button>
   }
@@ -132,7 +139,14 @@ const dateTimeFormatter = new Intl.DateTimeFormat("en-US", {
 
   .movie-card__synopsis-triangle {
     flex-shrink: 0;
-    display: inline-block;
+    /* Sized to the ink of the ▶ this replaced, so the cards look the same:
+       10.2 x 11.8px against the synopsis' 14px text. The box matches the
+       viewBox ratio, so the polygon fills it rather than letterboxing. */
+    width: 0.7em;
+    height: 0.84em;
+    /* Centres it on the first line rather than the top of the flex row. */
+    margin-top: 0.26em;
+    fill: rgb(88, 83, 69);
     transition: transform 150ms ease-out;
   }
 
