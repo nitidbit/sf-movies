@@ -58,8 +58,13 @@ function formatDayHeader(date: string): string {
       </div>
       <div class="panes">
         <div class="panes-track">
-          <section class="pane wishlist-pane">
-            <h2 class="pane-heading"><StarIcon /> Wish List</h2>
+          <!-- Named explicitly rather than by the heading: the heading is
+               display:none on mobile, and a hidden label is read with the
+               decorative star included. -->
+          <section class="pane wishlist-pane" aria-label="Wish List">
+            <h2 class="pane-heading">
+              <span aria-hidden="true"><StarIcon /></span> Wish List
+            </h2>
             <div id="wishlist-empty" class="wishlist-empty">
               <p>The indie theaters of San Francisco each keep their own showtimes. We put them in one place.</p>
               <p>Look through the Browsing list. When you find a showing you
@@ -79,7 +84,7 @@ function formatDayHeader(date: string): string {
             {
               dayGroups.map((group) => (
                 <section class="day-group" hidden>
-                  <h2>{formatDayHeader(group.date)}</h2>
+                  <h3>{formatDayHeader(group.date)}</h3>
                   <ul class="day-group__cards">
                     {group.events.map((event) => (
                       <MovieCard event={event} hidden />
@@ -90,7 +95,7 @@ function formatDayHeader(date: string): string {
             }
           </section>
 
-          <section class="pane browse-pane">
+          <section class="pane browse-pane" aria-label="Browsing">
             <h2 class="pane-heading">Browsing</h2>
             <FilterBar />
             {
@@ -99,7 +104,7 @@ function formatDayHeader(date: string): string {
               ) : (
                 dayGroups.map((group) => (
                   <section class="day-group">
-                    <h2>{formatDayHeader(group.date)}</h2>
+                    <h3>{formatDayHeader(group.date)}</h3>
                     <ul class="day-group__cards">
                       {group.events.map((event) => (
                         <MovieCard event={event} />
@@ -166,7 +171,7 @@ function formatDayHeader(date: string): string {
     align-items: center;
     gap: 0.4rem;
     padding-bottom: 0.5rem;
-    border-bottom: 1px solid #ccc;
+    border-bottom: 1px solid #888;
   }
 
   /* The star's box is sized to line up with the one on a card. Here it only
@@ -207,7 +212,7 @@ function formatDayHeader(date: string): string {
       top: 0;
       z-index: 2;
       background: var(--body-background);
-      border-bottom: 1px solid #ccc;
+      border-bottom: 1px solid #888;
     }
 
     .mobile-tab {
@@ -228,7 +233,7 @@ function formatDayHeader(date: string): string {
     .mobile-tab[aria-pressed="true"] {
       opacity: 1;
       font-weight: bold;
-      border-bottom: 2px solid #333;
+      border-bottom: 3px solid #333;
     }
 
     .panes-track {
