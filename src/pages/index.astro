@@ -59,6 +59,7 @@ function formatDayHeader(date: string): string {
       <div class="panes">
         <div class="panes-track">
           <section class="pane wishlist-pane">
+            <h2 class="pane-heading"><StarIcon /> Wish List</h2>
             <div id="wishlist-empty" class="wishlist-empty">
               <p>The indie theaters of San Francisco each keep their own showtimes. We put them in one place.</p>
               <p>Look through the Browsing list. When you find a showing you
@@ -90,6 +91,7 @@ function formatDayHeader(date: string): string {
           </section>
 
           <section class="pane browse-pane">
+            <h2 class="pane-heading">Browsing</h2>
             <FilterBar />
             {
               dayGroups.length === 0 ? (
@@ -155,8 +157,23 @@ function formatDayHeader(date: string): string {
     overflow-y: auto;
   }
 
-  .wishlist-pane__heading {
+  /* Names the list each pane holds. On mobile the tab bar already does this,
+     so these are hidden below the breakpoint. The rule underneath echoes the
+     one under the tabs, but it is only decoration here — nothing to tap. */
+  .pane-heading {
     margin-top: 0;
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid #ccc;
+  }
+
+  /* The star's box is sized to line up with the one on a card. Here it only
+     has to sit beside a word, and the fixed width crops the glyph into the
+     gap. */
+  .pane-heading :global(.star-icon) {
+    width: auto;
   }
 
   .wishlist-empty {
@@ -226,6 +243,10 @@ function formatDayHeader(date: string): string {
 
     .pane {
       flex: 0 0 50%;
+    }
+
+    .pane-heading {
+      display: none;
     }
   }
 </style>
