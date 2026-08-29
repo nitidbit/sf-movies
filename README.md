@@ -25,9 +25,7 @@ Shared throughout: timezone.ts (hand-rolled, no date library) keeps everything i
 
 Testing is vitest, pure-Node, no DOM environment. Coverage is good on the scrapers and the date logic, and absent on everything the browser actually runs.
 
-### Folder Structure
-
-Where to put things?
+### Folder Structure — Where to put things?
 ```text
   public/              -- Any static assets, like images
   src/
