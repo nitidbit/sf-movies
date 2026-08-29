@@ -1,12 +1,17 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-08-28T17:40:31.930Z",
+  "generatedAt": "2026-08-29T13:40:16.023Z",
   "status": "discrepancies",
   "report": {
     "matched": 18,
     "timeMismatches": [],
     "titleMismatches": [
+      {
+        "startTime": "2026-08-29T19:30:00-07:00",
+        "ourTitle": "LIVE MUSIC: Microwave Buddha (Los Microwaves), Diesel Dudes, Pink Stiletto, Tropisphere (Cinematic Synchronisms presented by Synth News & Nada Sound)",
+        "scenefTitle": "LIVE MUSIC: Microwave Buddha, Diesel Dudes & more"
+      },
       {
         "startTime": "2026-09-03T20:00:00-07:00",
         "ourTitle": "OCEAN BEACH SURF FILM FESTIVAL: An Evening of Music, Conversation, and Film with Ray Barbee and Thomas Campbell",
@@ -44,7 +49,7 @@
       },
       {
         "startTime": "2026-09-24T20:00:00-07:00",
-        "ourTitle": "LIVE MUSIC: Tom Conneely & the Birds of Paradise, My Dog Jack",
+        "ourTitle": "LIVE MUSIC: Tom Conneely & the Birds of Paradise, My Dog Jack, Eliza Dewar",
         "scenefTitle": "LIVE MUSIC: Tom Conneely & BoP, My Dog Jack"
       },
       {
@@ -62,10 +67,6 @@
       {
         "title": "The Secret of NIMH",
         "startTime": "2026-08-29T10:00:00-07:00"
-      },
-      {
-        "title": "LIVE MUSIC: Microwave Buddha (Los Microwaves), Diesel Dudes, Pink Stiletto, Tropisphere (Cinematic Synchronisms presented by Synth News & Nada Sound)",
-        "startTime": "2026-08-29T19:30:00-07:00"
       },
       {
         "title": "The Secret of NIMH",
@@ -162,10 +163,6 @@
     ],
     "scenefOnly": [
       {
-        "title": "LIVE MUSIC: Microwave Buddha, Diesel Dudes & more",
-        "startTime": "2026-08-29T20:00:00-07:00"
-      },
-      {
         "title": "Basement VHS Fest: All-Day Pass",
         "startTime": "2026-08-30T14:30:00-07:00"
       },
@@ -196,7 +193,7 @@
     ],
     "collapsedDuplicates": 0,
     "excluded": {
-      "ours": 6,
+      "ours": 4,
       "scenef": 0
     }
   }
