@@ -4,6 +4,7 @@ import { join } from "node:path";
 import FilterBar from "../components/FilterBar.astro";
 import MovieCard from "../components/MovieCard.astro";
 import StarIcon from "../components/StarIcon.astro";
+import SiteFooter from "../components/SiteFooter.astro";
 import { preferredDateFmt } from "../shared/dateFormat";
 import { loadAllEvents } from "../shared/events/loadEvents";
 import { findUpcoming, groupByDay } from "../shared/events/schedule";
@@ -115,12 +116,8 @@ function formatDayHeader(date: string): string {
           </section>
         </div>
       </div>
-      <footer class="site-footer">
-        <a href={`${import.meta.env.BASE_URL}change_log`}>Change log</a>
-        <span aria-hidden="true"> · </span>
-        <a href={`${import.meta.env.BASE_URL}status`}>Scraper status</a>
-      </footer>
     </main>
+    <SiteFooter />
   </body>
 </html>
 
@@ -129,12 +126,6 @@ function formatDayHeader(date: string): string {
     max-width: 1400px;
     margin: 0 auto;
     padding: 0 1rem;
-  }
-
-  .site-footer {
-    margin: 2rem 0 1rem;
-    font-size: var(--font-size-sm);
-    text-align: center;
   }
 
   .mobile-tabs {

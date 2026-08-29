@@ -1,5 +1,6 @@
 ---
 import "../styles/global.css";
+import SiteFooter from "../components/SiteFooter.astro";
 // The rendered page and the repo's CHANGELOG.md are the same file — editing
 // the markdown is the only step to publish a change log entry.
 import { Content } from "../../CHANGELOG.md";
@@ -25,10 +26,8 @@ import { Content } from "../../CHANGELOG.md";
       <article class="changelog">
         <Content />
       </article>
-      <footer class="page-footer">
-        <a href={import.meta.env.BASE_URL}>Back to showtimes</a>
-      </footer>
     </main>
+    <SiteFooter />
   </body>
 </html>
 
@@ -56,11 +55,5 @@ import { Content } from "../../CHANGELOG.md";
   .changelog :global(p) {
     margin: 0.5rem 0;
     line-height: 1.5;
-  }
-
-  .page-footer {
-    margin: 2.5rem 0 1rem;
-    font-size: var(--font-size-sm);
-    text-align: center;
   }
 </style>

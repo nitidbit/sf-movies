@@ -1,5 +1,6 @@
 ---
 import "../styles/global.css";
+import SiteFooter from "../components/SiteFooter.astro";
 import { join } from "node:path";
 import { loadStatusBlocks, STATUS_DIR_NAME, type ScraperStatusBlock } from "../shared/scraperStatus";
 import { deriveStatus, type StatusView } from "../shared/statusView";
@@ -191,6 +192,7 @@ function summarize(view: StatusView | undefined): string {
         ))
       }
     </main>
+    <SiteFooter />
   </body>
 </html>
 
