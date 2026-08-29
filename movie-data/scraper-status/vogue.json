@@ -1,30 +1,14 @@
 {
   "slug": "vogue",
   "theater": "Vogue",
-  "generatedAt": "2026-08-28T05:22:24.030Z",
+  "generatedAt": "2026-08-29T13:28:17.335Z",
   "status": "discrepancies",
   "report": {
-    "matched": 43,
+    "matched": 39,
     "timeMismatches": [],
     "titleMismatches": [],
     "oursOnly": [],
     "scenefOnly": [
-      {
-        "title": "State Fair",
-        "startTime": "2026-08-27T16:30:00-07:00"
-      },
-      {
-        "title": "State Fair",
-        "startTime": "2026-08-28T16:30:00-07:00"
-      },
-      {
-        "title": "The Playboy of the Western World",
-        "startTime": "2026-08-31T19:00:00-07:00"
-      },
-      {
-        "title": "The Playboy of the Western World",
-        "startTime": "2026-09-14T19:00:00-07:00"
-      },
       {
         "title": "Late Fame",
         "startTime": "2026-09-18T17:00:00-07:00"
@@ -62,8 +46,9 @@
         "startTime": "2026-09-23T17:00:00-07:00"
       }
     ],
+    "collapsedDuplicates": 2,
     "excluded": {
-      "ours": 0,
+      "ours": 2,
       "scenef": 0
     }
   }
