@@ -4,6 +4,7 @@ set -euo pipefail
 cd "$(dirname "$0")"
 
 npm run dev &
+# npm run dev -- --host &
 DEV_PID=$!
 
 # Maybe open page in browser
