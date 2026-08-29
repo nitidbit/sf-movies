@@ -1,7 +1,7 @@
 {
   "slug": "balboa",
   "theater": "Balboa",
-  "generatedAt": "2026-08-28T06:20:03.725Z",
+  "generatedAt": "2026-08-29T03:50:52.359Z",
   "status": "discrepancies",
   "report": {
     "matched": 79,
@@ -14,10 +14,6 @@
       }
     ],
     "oursOnly": [
-      {
-        "title": "Southland Tales",
-        "startTime": "2026-08-29T19:30:00-07:00"
-      },
       {
         "title": "The Rocky Horror Picture Show",
         "startTime": "2026-08-29T23:00:00-07:00"
@@ -65,14 +61,6 @@
         "startTime": "2026-09-14T17:00:00-07:00"
       },
       {
-        "title": "McQueen",
-        "startTime": "2026-09-14T19:30:00-07:00"
-      },
-      {
-        "title": "Streetwise",
-        "startTime": "2026-09-14T20:00:00-07:00"
-      },
-      {
         "title": "Ghost Dog: Way of the Samurai",
         "startTime": "2026-09-22T19:00:00-07:00"
       },
@@ -97,7 +85,7 @@
         "startTime": "2026-10-10T19:00:00-07:00"
       }
     ],
-    "collapsedDuplicates": 17,
+    "collapsedDuplicates": 16,
     "excluded": {
       "ours": 0,
       "scenef": 0
