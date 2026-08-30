@@ -1,10 +1,10 @@
 {
   "slug": "balboa",
   "theater": "Balboa",
-  "generatedAt": "2026-08-29T13:22:09.593Z",
+  "generatedAt": "2026-08-30T13:22:53.692Z",
   "status": "discrepancies",
   "report": {
-    "matched": 77,
+    "matched": 72,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -13,12 +13,7 @@
         "scenefTitle": "LIVE MUSIC: Izaak Opatz and Joe Kaplow"
       }
     ],
-    "oursOnly": [
-      {
-        "title": "The Rocky Horror Picture Show",
-        "startTime": "2026-08-29T23:00:00-07:00"
-      }
-    ],
+    "oursOnly": [],
     "scenefOnly": [
       {
         "title": "The Room",
@@ -61,6 +56,10 @@
         "startTime": "2026-09-14T17:00:00-07:00"
       },
       {
+        "title": "Comedy At The Balboa: Scott Capurro",
+        "startTime": "2026-09-19T20:00:00-07:00"
+      },
+      {
         "title": "Ghost Dog: Way of the Samurai",
         "startTime": "2026-09-22T19:00:00-07:00"
       },
@@ -87,7 +86,7 @@
     ],
     "collapsedDuplicates": 16,
     "excluded": {
-      "ours": 0,
+      "ours": 6,
       "scenef": 0
     }
   }
