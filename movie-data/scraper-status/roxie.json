@@ -1,17 +1,13 @@
 {
   "slug": "roxie",
   "theater": "Roxie",
-  "generatedAt": "2026-08-29T13:51:34.406Z",
+  "generatedAt": "2026-08-30T13:51:07.605Z",
   "status": "discrepancies",
   "report": {
-    "matched": 119,
+    "matched": 112,
     "timeMismatches": [],
     "titleMismatches": [],
     "oursOnly": [
-      {
-        "title": "CatVideoFest 2026",
-        "startTime": "2026-08-29T16:55:00-07:00"
-      },
       {
         "title": "Revolutions Per Movie presents: URGH! A MUSIC WAR",
         "startTime": "2026-08-30T15:00:00-07:00"
@@ -23,10 +19,6 @@
       {
         "title": "Filipiñana",
         "startTime": "2026-09-05T18:10:00-07:00"
-      },
-      {
-        "title": "Filipiñana",
-        "startTime": "2026-09-06T15:00:00-07:00"
       },
       {
         "title": "Floating Features: The Rock",
@@ -58,6 +50,10 @@
       }
     ],
     "scenefOnly": [
+      {
+        "title": "Ghost in the Shell",
+        "startTime": "2026-09-23T18:00:00-07:00"
+      },
       {
         "title": "Kwaidan",
         "startTime": "2026-09-23T20:00:00-07:00"
