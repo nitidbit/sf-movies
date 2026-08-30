@@ -1,17 +1,12 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-08-29T13:40:16.023Z",
+  "generatedAt": "2026-08-30T13:40:14.716Z",
   "status": "discrepancies",
   "report": {
-    "matched": 18,
+    "matched": 16,
     "timeMismatches": [],
     "titleMismatches": [
-      {
-        "startTime": "2026-08-29T19:30:00-07:00",
-        "ourTitle": "LIVE MUSIC: Microwave Buddha (Los Microwaves), Diesel Dudes, Pink Stiletto, Tropisphere (Cinematic Synchronisms presented by Synth News & Nada Sound)",
-        "scenefTitle": "LIVE MUSIC: Microwave Buddha, Diesel Dudes & more"
-      },
       {
         "startTime": "2026-09-03T20:00:00-07:00",
         "ourTitle": "OCEAN BEACH SURF FILM FESTIVAL: An Evening of Music, Conversation, and Film with Ray Barbee and Thomas Campbell",
@@ -64,10 +59,6 @@
       }
     ],
     "oursOnly": [
-      {
-        "title": "The Secret of NIMH",
-        "startTime": "2026-08-29T10:00:00-07:00"
-      },
       {
         "title": "The Secret of NIMH",
         "startTime": "2026-08-30T10:00:00-07:00"
@@ -193,7 +184,7 @@
     ],
     "collapsedDuplicates": 0,
     "excluded": {
-      "ours": 4,
+      "ours": 8,
       "scenef": 0
     }
   }
