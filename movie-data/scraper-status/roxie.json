@@ -1,17 +1,13 @@
 {
   "slug": "roxie",
   "theater": "Roxie",
-  "generatedAt": "2026-08-30T13:51:07.605Z",
+  "generatedAt": "2026-08-31T13:51:32.176Z",
   "status": "discrepancies",
   "report": {
-    "matched": 112,
+    "matched": 106,
     "timeMismatches": [],
     "titleMismatches": [],
     "oursOnly": [
-      {
-        "title": "Revolutions Per Movie presents: URGH! A MUSIC WAR",
-        "startTime": "2026-08-30T15:00:00-07:00"
-      },
       {
         "title": "Filipiñana",
         "startTime": "2026-09-04T18:00:00-07:00"
@@ -19,6 +15,10 @@
       {
         "title": "Filipiñana",
         "startTime": "2026-09-05T18:10:00-07:00"
+      },
+      {
+        "title": "Filipiñana",
+        "startTime": "2026-09-06T15:00:00-07:00"
       },
       {
         "title": "Floating Features: The Rock",
