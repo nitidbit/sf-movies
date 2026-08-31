@@ -1,10 +1,10 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-08-30T13:40:14.716Z",
+  "generatedAt": "2026-08-31T13:42:33.759Z",
   "status": "discrepancies",
   "report": {
-    "matched": 16,
+    "matched": 12,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -59,10 +59,6 @@
       }
     ],
     "oursOnly": [
-      {
-        "title": "The Secret of NIMH",
-        "startTime": "2026-08-30T10:00:00-07:00"
-      },
       {
         "title": "CatVideoFest 2026",
         "startTime": "2026-09-05T10:00:00-07:00"
@@ -154,10 +150,6 @@
     ],
     "scenefOnly": [
       {
-        "title": "Basement VHS Fest: All-Day Pass",
-        "startTime": "2026-08-30T14:30:00-07:00"
-      },
-      {
         "title": "Stop Making Sense",
         "startTime": "2026-09-09T19:00:00-07:00"
       },
@@ -184,7 +176,7 @@
     ],
     "collapsedDuplicates": 0,
     "excluded": {
-      "ours": 8,
+      "ours": 5,
       "scenef": 0
     }
   }
