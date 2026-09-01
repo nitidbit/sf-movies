@@ -1,13 +1,21 @@
 {
   "slug": "roxie",
   "theater": "Roxie",
-  "generatedAt": "2026-08-31T13:51:32.176Z",
+  "generatedAt": "2026-09-01T13:51:43.453Z",
   "status": "discrepancies",
   "report": {
-    "matched": 106,
+    "matched": 118,
     "timeMismatches": [],
     "titleMismatches": [],
     "oursOnly": [
+      {
+        "title": "American Doctor",
+        "startTime": "2026-09-01T18:00:00-07:00"
+      },
+      {
+        "title": "American Doctor",
+        "startTime": "2026-09-03T17:50:00-07:00"
+      },
       {
         "title": "Filipiñana",
         "startTime": "2026-09-04T18:00:00-07:00"
@@ -49,16 +57,7 @@
         "startTime": "2026-10-23T19:00:00-07:00"
       }
     ],
-    "scenefOnly": [
-      {
-        "title": "Ghost in the Shell",
-        "startTime": "2026-09-23T18:00:00-07:00"
-      },
-      {
-        "title": "Kwaidan",
-        "startTime": "2026-09-23T20:00:00-07:00"
-      }
-    ],
+    "scenefOnly": [],
     "collapsedDuplicates": 0,
     "excluded": {
       "ours": 5,
