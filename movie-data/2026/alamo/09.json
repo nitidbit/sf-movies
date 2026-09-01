@@ -321,11 +321,291 @@
   },
   {
     "theater": "Alamo",
+    "title": "It Ends",
+    "startTime": "2026-09-03T12:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/593369d235ea",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A group of recent grads head out on a late night drive for grub, hoping to enjoy one final hangout before their paths diverge. Instead, they accidentally turn onto a never-ending, two-lane hellscape surrounded by untold horrors and cosmic forces beyond their understanding. Cramped together inside a Jeep Cherokee and with the miles stretching infinitely ahead, they face a choice: embrace their new existence or fight to escape it."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "startTime": "2026-09-03T12:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/7fc36d4e1f0b",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "After years of slapdash sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original's star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Tony",
+    "startTime": "2026-09-03T12:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/cc78af5c93c6",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Spider-Man: Brand New Day",
+    "startTime": "2026-09-03T12:45:00-07:00",
+    "sourceUrl": "https://scenef.com/go/e92179198a49",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Butthole Surfers: The Hole Truth and Nothing Butt",
+    "startTime": "2026-09-03T13:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/7196e3caebf7",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Follows the story of the groundbreaking Texas-based art-punk band founded by frontman Gibby Haynes and guitarist Paul Leary."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Butthole Surfers: The Hole Truth and Nothing Butt",
+    "startTime": "2026-09-03T15:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/dc5a960df02d",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Follows the story of the groundbreaking Texas-based art-punk band founded by frontman Gibby Haynes and guitarist Paul Leary."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Tony",
+    "startTime": "2026-09-03T15:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/ca9854c5b7a5",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "startTime": "2026-09-03T15:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/3e8964ca43df",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "After years of slapdash sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original's star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Onslaught",
+    "startTime": "2026-09-03T16:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/1ea92af4e65a",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "When a rogue squad of genetically engineered super soldiers break loose in the desert, a badass Army sniper must unleash hell to protect her young daughter."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Spider-Man: Brand New Day",
+    "startTime": "2026-09-03T16:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/39c7de8d0bbe",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Idiots",
+    "startTime": "2026-09-03T18:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/6bbebc711f48",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "When two unqualified bozos are hired to transfer a rich teen to rehab, their straightforward gig quickly spirals into dangerous mayhem."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Tony",
+    "startTime": "2026-09-03T18:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/02078ad272c8",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "startTime": "2026-09-03T18:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/c79d19e818b8",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "After years of slapdash sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original's star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Onslaught",
+    "startTime": "2026-09-03T18:50:00-07:00",
+    "sourceUrl": "https://scenef.com/go/395b3d0439e8",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "When a rogue squad of genetically engineered super soldiers break loose in the desert, a badass Army sniper must unleash hell to protect her young daughter."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Spider-Man: Brand New Day",
+    "startTime": "2026-09-03T20:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/ddf5188ae1e3",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see."
+  },
+  {
+    "theater": "Alamo",
+    "title": "It Ends",
+    "startTime": "2026-09-03T20:50:00-07:00",
+    "sourceUrl": "https://scenef.com/go/eb62c7689153",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A group of recent grads head out on a late night drive for grub, hoping to enjoy one final hangout before their paths diverge. Instead, they accidentally turn onto a never-ending, two-lane hellscape surrounded by untold horrors and cosmic forces beyond their understanding. Cramped together inside a Jeep Cherokee and with the miles stretching infinitely ahead, they face a choice: embrace their new existence or fight to escape it."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Tony",
+    "startTime": "2026-09-03T21:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/521274b08a6a",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "startTime": "2026-09-03T21:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/edbb947324ac",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "After years of slapdash sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original's star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Onslaught",
+    "startTime": "2026-09-03T21:40:00-07:00",
+    "sourceUrl": "https://scenef.com/go/0b7c50d7681e",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "When a rogue squad of genetically engineered super soldiers break loose in the desert, a badass Army sniper must unleash hell to protect her young daughter."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Onslaught",
+    "startTime": "2026-09-04T12:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/ccfe1a7c2114",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "When a rogue squad of genetically engineered super soldiers break loose in the desert, a badass Army sniper must unleash hell to protect her young daughter."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "startTime": "2026-09-04T12:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/9e1208ae3a0b",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "After years of slapdash sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original's star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Spider-Man: Brand New Day",
+    "startTime": "2026-09-04T12:45:00-07:00",
+    "sourceUrl": "https://scenef.com/go/72a0e1e89292",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Tony",
+    "startTime": "2026-09-04T12:50:00-07:00",
+    "sourceUrl": "https://scenef.com/go/f621edba1422",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life."
+  },
+  {
+    "theater": "Alamo",
     "title": "Star Trek: The Motion Picture",
     "startTime": "2026-09-04T14:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/eae36666caa1",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "When an unidentified alien destroys three powerful Klingon cruisers, Captain James T. Kirk returns to the newly transformed U.S.S. Enterprise to take command."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Onslaught",
+    "startTime": "2026-09-04T15:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/d24724b80b68",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "When a rogue squad of genetically engineered super soldiers break loose in the desert, a badass Army sniper must unleash hell to protect her young daughter."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "startTime": "2026-09-04T15:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/99426f50a563",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "After years of slapdash sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original's star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Tony",
+    "startTime": "2026-09-04T15:40:00-07:00",
+    "sourceUrl": "https://scenef.com/go/895cbfeda98d",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Spider-Man: Brand New Day",
+    "startTime": "2026-09-04T16:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/8e9d7b5db2b1",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Onslaught",
+    "startTime": "2026-09-04T18:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/a4844b4c12c5",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "When a rogue squad of genetically engineered super soldiers break loose in the desert, a badass Army sniper must unleash hell to protect her young daughter."
+  },
+  {
+    "theater": "Alamo",
+    "title": "It Ends",
+    "startTime": "2026-09-04T18:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/23333a33ee67",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A group of recent grads head out on a late night drive for grub, hoping to enjoy one final hangout before their paths diverge. Instead, they accidentally turn onto a never-ending, two-lane hellscape surrounded by untold horrors and cosmic forces beyond their understanding. Cramped together inside a Jeep Cherokee and with the miles stretching infinitely ahead, they face a choice: embrace their new existence or fight to escape it."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Tony",
+    "startTime": "2026-09-04T18:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/61f75e43f5e8",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "startTime": "2026-09-04T18:40:00-07:00",
+    "sourceUrl": "https://scenef.com/go/e3d06af052e0",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "After years of slapdash sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original's star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Spider-Man: Brand New Day",
+    "startTime": "2026-09-04T20:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/289e55ea66be",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "startTime": "2026-09-04T20:45:00-07:00",
+    "sourceUrl": "https://scenef.com/go/058d025fcacb",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "After years of slapdash sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original's star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Onslaught",
+    "startTime": "2026-09-04T20:50:00-07:00",
+    "sourceUrl": "https://scenef.com/go/12d3319daf31",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "When a rogue squad of genetically engineered super soldiers break loose in the desert, a badass Army sniper must unleash hell to protect her young daughter."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Tony",
+    "startTime": "2026-09-04T21:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/81b552d1af17",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life."
   },
   {
     "theater": "Alamo",
@@ -345,11 +625,107 @@
   },
   {
     "theater": "Alamo",
+    "title": "The Fog",
+    "startTime": "2026-09-05T12:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/e6eba936db84",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Strange things begin to occur as a tiny California coastal town prepares to commemorate its centenary. Inanimate objects spring eerily to life; Rev. Malone stumbles upon a dark secret about the town's founding; radio announcer Stevie witnesses a mystical fire; and hitchhiker Elizabeth discovers the mutilated corpse of a fisherman. Then a mysterious iridescent fog descends upon the village, and more people start to die."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Onslaught",
+    "startTime": "2026-09-05T12:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/580f2531154f",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "When a rogue squad of genetically engineered super soldiers break loose in the desert, a badass Army sniper must unleash hell to protect her young daughter."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "startTime": "2026-09-05T12:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/477af14d96cc",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "After years of slapdash sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original's star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Tony",
+    "startTime": "2026-09-05T13:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/13c051606111",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life."
+  },
+  {
+    "theater": "Alamo",
     "title": "Star Trek II: The Wrath of Khan",
     "startTime": "2026-09-05T15:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/a64786746e48",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "The starship Enterprise and its crew is pulled back into action when old nemesis, Khan, steals a top secret device called Project Genesis."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Spider-Man: Brand New Day",
+    "startTime": "2026-09-05T15:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/13aad490e36f",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Onslaught",
+    "startTime": "2026-09-05T15:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/801342a98971",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "When a rogue squad of genetically engineered super soldiers break loose in the desert, a badass Army sniper must unleash hell to protect her young daughter."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "startTime": "2026-09-05T15:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/58d29df2e982",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "After years of slapdash sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original's star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Tony",
+    "startTime": "2026-09-05T16:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/789f57ab26ec",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Onslaught",
+    "startTime": "2026-09-05T18:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/7bbc591be7a7",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "When a rogue squad of genetically engineered super soldiers break loose in the desert, a badass Army sniper must unleash hell to protect her young daughter."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "startTime": "2026-09-05T18:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/658bf5d0af53",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "After years of slapdash sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original's star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Spider-Man: Brand New Day",
+    "startTime": "2026-09-05T18:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/02518919e030",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Tony",
+    "startTime": "2026-09-05T18:50:00-07:00",
+    "sourceUrl": "https://scenef.com/go/844899962636",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life."
   },
   {
     "theater": "Alamo",
@@ -361,11 +737,235 @@
   },
   {
     "theater": "Alamo",
+    "title": "Onslaught",
+    "startTime": "2026-09-05T20:50:00-07:00",
+    "sourceUrl": "https://scenef.com/go/00b4dae4fe8f",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "When a rogue squad of genetically engineered super soldiers break loose in the desert, a badass Army sniper must unleash hell to protect her young daughter."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Spider-Man: Brand New Day",
+    "startTime": "2026-09-05T21:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/0784d6cd686c",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see."
+  },
+  {
+    "theater": "Alamo",
+    "title": "It Ends",
+    "startTime": "2026-09-05T21:40:00-07:00",
+    "sourceUrl": "https://scenef.com/go/bf3140619692",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A group of recent grads head out on a late night drive for grub, hoping to enjoy one final hangout before their paths diverge. Instead, they accidentally turn onto a never-ending, two-lane hellscape surrounded by untold horrors and cosmic forces beyond their understanding. Cramped together inside a Jeep Cherokee and with the miles stretching infinitely ahead, they face a choice: embrace their new existence or fight to escape it."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Tony",
+    "startTime": "2026-09-05T21:45:00-07:00",
+    "sourceUrl": "https://scenef.com/go/4541bb2073f6",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "startTime": "2026-09-05T22:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/b8963120bc1b",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "After years of slapdash sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original's star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Butthole Surfers: The Hole Truth and Nothing Butt",
+    "startTime": "2026-09-06T12:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/46f9fa6ed893",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Follows the story of the groundbreaking Texas-based art-punk band founded by frontman Gibby Haynes and guitarist Paul Leary."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Tony",
+    "startTime": "2026-09-06T12:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/a7ecb678303f",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Onslaught",
+    "startTime": "2026-09-06T12:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/32335bff731e",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "When a rogue squad of genetically engineered super soldiers break loose in the desert, a badass Army sniper must unleash hell to protect her young daughter."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "startTime": "2026-09-06T12:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/88ff2b1f49dc",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "After years of slapdash sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original's star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Spider-Man: Brand New Day",
+    "startTime": "2026-09-06T13:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/3eab7cd2c88b",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see."
+  },
+  {
+    "theater": "Alamo",
     "title": "Star Trek III: The Search for Spock",
     "startTime": "2026-09-06T15:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/b1a712e72bdb",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "A surprise visit from Spock's father provides a startling revelation: McCoy is harboring Spock's living essence."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Tony",
+    "startTime": "2026-09-06T15:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/246130a16f57",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Onslaught",
+    "startTime": "2026-09-06T15:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/e6afd47a95ea",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "When a rogue squad of genetically engineered super soldiers break loose in the desert, a badass Army sniper must unleash hell to protect her young daughter."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "startTime": "2026-09-06T15:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/89b9cca7b75c",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "After years of slapdash sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original's star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Spider-Man: Brand New Day",
+    "startTime": "2026-09-06T16:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/8d6465c98c15",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "startTime": "2026-09-06T18:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/3c88bf2064b6",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "After years of slapdash sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original's star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Onslaught",
+    "startTime": "2026-09-06T18:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/e8be933de524",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "When a rogue squad of genetically engineered super soldiers break loose in the desert, a badass Army sniper must unleash hell to protect her young daughter."
+  },
+  {
+    "theater": "Alamo",
+    "title": "It Ends",
+    "startTime": "2026-09-06T18:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/75f4332994b1",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A group of recent grads head out on a late night drive for grub, hoping to enjoy one final hangout before their paths diverge. Instead, they accidentally turn onto a never-ending, two-lane hellscape surrounded by untold horrors and cosmic forces beyond their understanding. Cramped together inside a Jeep Cherokee and with the miles stretching infinitely ahead, they face a choice: embrace their new existence or fight to escape it."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Tony",
+    "startTime": "2026-09-06T18:50:00-07:00",
+    "sourceUrl": "https://scenef.com/go/8930d94a372a",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Spider-Man: Brand New Day",
+    "startTime": "2026-09-06T20:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/f8488f061050",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Onslaught",
+    "startTime": "2026-09-06T21:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/16d23fcc4c87",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "When a rogue squad of genetically engineered super soldiers break loose in the desert, a badass Army sniper must unleash hell to protect her young daughter."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Star Trek III: The Search for Spock",
+    "startTime": "2026-09-06T21:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/c794e1754053",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A surprise visit from Spock's father provides a startling revelation: McCoy is harboring Spock's living essence."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Tony",
+    "startTime": "2026-09-06T21:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/636c516f9991",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "startTime": "2026-09-06T21:40:00-07:00",
+    "sourceUrl": "https://scenef.com/go/028ae3411e28",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "After years of slapdash sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original's star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Spider-Man: Brand New Day",
+    "startTime": "2026-09-07T12:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/5dbcdf295b30",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "startTime": "2026-09-07T12:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/f8da7bca4b10",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "After years of slapdash sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original's star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Onslaught",
+    "startTime": "2026-09-07T12:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/7c7e6c49ab0f",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "When a rogue squad of genetically engineered super soldiers break loose in the desert, a badass Army sniper must unleash hell to protect her young daughter."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Tony",
+    "startTime": "2026-09-07T12:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/36fbe9c8cfec",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life."
+  },
+  {
+    "theater": "Alamo",
+    "title": "It Ends",
+    "startTime": "2026-09-07T12:45:00-07:00",
+    "sourceUrl": "https://scenef.com/go/244ebbdde432",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A group of recent grads head out on a late night drive for grub, hoping to enjoy one final hangout before their paths diverge. Instead, they accidentally turn onto a never-ending, two-lane hellscape surrounded by untold horrors and cosmic forces beyond their understanding. Cramped together inside a Jeep Cherokee and with the miles stretching infinitely ahead, they face a choice: embrace their new existence or fight to escape it."
   },
   {
     "theater": "Alamo",
@@ -377,11 +977,59 @@
   },
   {
     "theater": "Alamo",
+    "title": "Onslaught",
+    "startTime": "2026-09-07T15:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/0cee3d558a7e",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "When a rogue squad of genetically engineered super soldiers break loose in the desert, a badass Army sniper must unleash hell to protect her young daughter."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "startTime": "2026-09-07T15:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/46e81310bad4",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "After years of slapdash sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original's star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Tony",
+    "startTime": "2026-09-07T15:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/4287bd8e370f",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Spider-Man: Brand New Day",
+    "startTime": "2026-09-07T15:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/185cc6757a52",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see."
+  },
+  {
+    "theater": "Alamo",
     "title": "Hope",
     "startTime": "2026-09-07T18:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/cf931f9ab3ae",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Tony",
+    "startTime": "2026-09-07T18:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/439be38a2c02",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Onslaught",
+    "startTime": "2026-09-07T18:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/31f192c04845",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "When a rogue squad of genetically engineered super soldiers break loose in the desert, a badass Army sniper must unleash hell to protect her young daughter."
   },
   {
     "theater": "Alamo",
@@ -401,11 +1049,131 @@
   },
   {
     "theater": "Alamo",
+    "title": "Star Trek IV: The Voyage Home",
+    "startTime": "2026-09-07T20:50:00-07:00",
+    "sourceUrl": "https://scenef.com/go/c2bed28438a3",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "When a huge alien probe enters the galaxy and begins to vaporize Earth's oceans, Kirk and his crew must travel back in time in order to bring back whales and save the planet."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Spider-Man: Brand New Day",
+    "startTime": "2026-09-07T21:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/53a9a8f12f0d",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "startTime": "2026-09-07T21:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/943e85fb85da",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "After years of slapdash sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original's star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Tony",
+    "startTime": "2026-09-07T21:25:00-07:00",
+    "sourceUrl": "https://scenef.com/go/e2c2ed89d3a9",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Onslaught",
+    "startTime": "2026-09-07T21:55:00-07:00",
+    "sourceUrl": "https://scenef.com/go/dd3ebf7bf8e9",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "When a rogue squad of genetically engineered super soldiers break loose in the desert, a badass Army sniper must unleash hell to protect her young daughter."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Spider-Man: Brand New Day",
+    "startTime": "2026-09-08T11:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/32090163c27f",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see."
+  },
+  {
+    "theater": "Alamo",
     "title": "Star Trek: The Genesis Trilogy",
     "startTime": "2026-09-08T12:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/f600d656cba4",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "One of the greatest sci-fi movie trilogies of all time"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "startTime": "2026-09-08T12:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/f8203627e580",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "After years of slapdash sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original's star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Tony",
+    "startTime": "2026-09-08T12:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/ba99778f7429",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Onslaught",
+    "startTime": "2026-09-08T12:50:00-07:00",
+    "sourceUrl": "https://scenef.com/go/ef1433edd428",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "When a rogue squad of genetically engineered super soldiers break loose in the desert, a badass Army sniper must unleash hell to protect her young daughter."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Spider-Man: Brand New Day",
+    "startTime": "2026-09-08T15:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/86ae5edfafd7",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "startTime": "2026-09-08T15:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/6e9f64ec26dd",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "After years of slapdash sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original's star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Tony",
+    "startTime": "2026-09-08T15:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/8fb87af7e163",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Onslaught",
+    "startTime": "2026-09-08T15:40:00-07:00",
+    "sourceUrl": "https://scenef.com/go/62579d4e79e0",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "When a rogue squad of genetically engineered super soldiers break loose in the desert, a badass Army sniper must unleash hell to protect her young daughter."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "startTime": "2026-09-08T18:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/776c8b9a7a00",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "After years of slapdash sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original's star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Tony",
+    "startTime": "2026-09-08T18:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/c87185c458a1",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life."
   },
   {
     "theater": "Alamo",
@@ -417,6 +1185,46 @@
   },
   {
     "theater": "Alamo",
+    "title": "Onslaught",
+    "startTime": "2026-09-08T18:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/49e8a6516340",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "When a rogue squad of genetically engineered super soldiers break loose in the desert, a badass Army sniper must unleash hell to protect her young daughter."
+  },
+  {
+    "theater": "Alamo",
+    "title": "It Ends",
+    "startTime": "2026-09-08T19:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/0338a4696277",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A group of recent grads head out on a late night drive for grub, hoping to enjoy one final hangout before their paths diverge. Instead, they accidentally turn onto a never-ending, two-lane hellscape surrounded by untold horrors and cosmic forces beyond their understanding. Cramped together inside a Jeep Cherokee and with the miles stretching infinitely ahead, they face a choice: embrace their new existence or fight to escape it."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Spider-Man: Brand New Day",
+    "startTime": "2026-09-08T21:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/83bb61cdd730",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Tony",
+    "startTime": "2026-09-08T21:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/83282ae6949a",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "startTime": "2026-09-08T21:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/c99441a9e3c9",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "After years of slapdash sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original's star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium."
+  },
+  {
+    "theater": "Alamo",
     "title": "Cavalluna - Welt der Fantasie",
     "startTime": "2026-09-08T21:30:00-07:00",
     "sourceUrl": "https://scenef.com/go/21d07ffe8b4b",
@@ -425,11 +1233,139 @@
   },
   {
     "theater": "Alamo",
+    "title": "Onslaught",
+    "startTime": "2026-09-08T21:35:00-07:00",
+    "sourceUrl": "https://scenef.com/go/9086bedc1c66",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "When a rogue squad of genetically engineered super soldiers break loose in the desert, a badass Army sniper must unleash hell to protect her young daughter."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "startTime": "2026-09-09T12:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/ac0ba6fea61c",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "After years of slapdash sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original's star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium."
+  },
+  {
+    "theater": "Alamo",
+    "title": "It Ends",
+    "startTime": "2026-09-09T12:45:00-07:00",
+    "sourceUrl": "https://scenef.com/go/171af7f546aa",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A group of recent grads head out on a late night drive for grub, hoping to enjoy one final hangout before their paths diverge. Instead, they accidentally turn onto a never-ending, two-lane hellscape surrounded by untold horrors and cosmic forces beyond their understanding. Cramped together inside a Jeep Cherokee and with the miles stretching infinitely ahead, they face a choice: embrace their new existence or fight to escape it."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Onslaught",
+    "startTime": "2026-09-09T12:50:00-07:00",
+    "sourceUrl": "https://scenef.com/go/eb38e08fa11d",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "When a rogue squad of genetically engineered super soldiers break loose in the desert, a badass Army sniper must unleash hell to protect her young daughter."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Tony",
+    "startTime": "2026-09-09T13:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/343bdf0b17f1",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Hope",
+    "startTime": "2026-09-09T13:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/f5d4bb7b216f",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "startTime": "2026-09-09T15:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/1c843c1c9f82",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "After years of slapdash sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original's star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Onslaught",
+    "startTime": "2026-09-09T15:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/5b45a1fc267a",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "When a rogue squad of genetically engineered super soldiers break loose in the desert, a badass Army sniper must unleash hell to protect her young daughter."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Tony",
+    "startTime": "2026-09-09T15:50:00-07:00",
+    "sourceUrl": "https://scenef.com/go/f73a085803fc",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life."
+  },
+  {
+    "theater": "Alamo",
     "title": "Hope",
     "startTime": "2026-09-09T17:30:00-07:00",
     "sourceUrl": "https://scenef.com/go/efd6c725b411",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Onslaught",
+    "startTime": "2026-09-09T18:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/4fdd40f5be78",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "When a rogue squad of genetically engineered super soldiers break loose in the desert, a badass Army sniper must unleash hell to protect her young daughter."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "startTime": "2026-09-09T18:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/293bef6ff237",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "After years of slapdash sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original's star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Tony",
+    "startTime": "2026-09-09T18:40:00-07:00",
+    "sourceUrl": "https://scenef.com/go/371973b40101",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Hope",
+    "startTime": "2026-09-09T20:40:00-07:00",
+    "sourceUrl": "https://scenef.com/go/cd7e7b5d5818",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Onslaught",
+    "startTime": "2026-09-09T20:40:00-07:00",
+    "sourceUrl": "https://scenef.com/go/f287916f8481",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "When a rogue squad of genetically engineered super soldiers break loose in the desert, a badass Army sniper must unleash hell to protect her young daughter."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "startTime": "2026-09-09T21:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/c74ab516b2b7",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "After years of slapdash sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original's star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Tony",
+    "startTime": "2026-09-09T21:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/51fcb9254ceb",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life."
   },
   {
     "theater": "Alamo",
