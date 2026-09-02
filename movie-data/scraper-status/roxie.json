@@ -1,17 +1,13 @@
 {
   "slug": "roxie",
   "theater": "Roxie",
-  "generatedAt": "2026-09-01T13:51:43.453Z",
+  "generatedAt": "2026-09-02T13:51:41.010Z",
   "status": "discrepancies",
   "report": {
-    "matched": 118,
+    "matched": 114,
     "timeMismatches": [],
     "titleMismatches": [],
     "oursOnly": [
-      {
-        "title": "American Doctor",
-        "startTime": "2026-09-01T18:00:00-07:00"
-      },
       {
         "title": "American Doctor",
         "startTime": "2026-09-03T17:50:00-07:00"
