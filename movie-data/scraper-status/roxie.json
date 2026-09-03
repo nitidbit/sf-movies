@@ -1,10 +1,10 @@
 {
   "slug": "roxie",
   "theater": "Roxie",
-  "generatedAt": "2026-09-02T13:51:41.010Z",
+  "generatedAt": "2026-09-03T13:51:23.107Z",
   "status": "discrepancies",
   "report": {
-    "matched": 114,
+    "matched": 111,
     "timeMismatches": [],
     "titleMismatches": [],
     "oursOnly": [
@@ -18,11 +18,11 @@
       },
       {
         "title": "Filipiñana",
-        "startTime": "2026-09-05T18:10:00-07:00"
+        "startTime": "2026-09-06T15:00:00-07:00"
       },
       {
-        "title": "Filipiñana",
-        "startTime": "2026-09-06T15:00:00-07:00"
+        "title": "ZYZZYVA Movie Night with Ingrid Rojas Contreras: Songs of Earth",
+        "startTime": "2026-09-17T18:00:00-07:00"
       },
       {
         "title": "Floating Features: The Rock",
