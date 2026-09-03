@@ -1,10 +1,10 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-09-02T13:43:04.630Z",
+  "generatedAt": "2026-09-03T13:42:36.611Z",
   "status": "discrepancies",
   "report": {
-    "matched": 12,
+    "matched": 11,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -19,7 +19,7 @@
       },
       {
         "startTime": "2026-09-10T19:30:00-07:00",
-        "ourTitle": "FUGS FILM! with LIVE MUSIC from Special Guests and Filmmaker Q&A (Presented by TRASH & TREASURES)",
+        "ourTitle": "FUGS FILM! with LIVE MUSIC from Michael Mouse and Filmmaker Q&A (Presented by TRASH & TREASURES)",
         "scenefTitle": "FUGS FILM! with Live Fugs Tribute Set and Q&A"
       },
       {
@@ -160,6 +160,10 @@
       {
         "title": "COMEDY: Honey Pluton & Spike Einbinder",
         "startTime": "2026-09-17T20:30:00-07:00"
+      },
+      {
+        "title": "LIVE MUSIC: Marlon Magnée (La Femme), Future Twin",
+        "startTime": "2026-09-21T20:00:00-07:00"
       },
       {
         "title": "My Neighbor Totoro",
