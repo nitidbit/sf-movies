@@ -1,10 +1,10 @@
 {
   "slug": "balboa",
   "theater": "Balboa",
-  "generatedAt": "2026-09-02T13:28:36.009Z",
+  "generatedAt": "2026-09-03T13:28:05.056Z",
   "status": "discrepancies",
   "report": {
-    "matched": 69,
+    "matched": 66,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -18,7 +18,12 @@
         "scenefTitle": "LIVE MUSIC: Izaak Opatz and Joe Kaplow"
       }
     ],
-    "oursOnly": [],
+    "oursOnly": [
+      {
+        "title": "Twilight (1999)",
+        "startTime": "2026-09-16T19:30:00-07:00"
+      }
+    ],
     "scenefOnly": [
       {
         "title": "The Room",
@@ -43,6 +48,10 @@
       {
         "title": "Twin Peaks: SEASON 1, EP. 1 (Northwest Passage)",
         "startTime": "2026-09-14T17:00:00-07:00"
+      },
+      {
+        "title": "Twilight",
+        "startTime": "2026-09-16T16:30:00-07:00"
       },
       {
         "title": "Resident Evil",
@@ -155,7 +164,7 @@
     ],
     "collapsedDuplicates": 16,
     "excluded": {
-      "ours": 2,
+      "ours": 0,
       "scenef": 0
     }
   }
