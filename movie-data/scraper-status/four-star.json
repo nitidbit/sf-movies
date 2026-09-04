@@ -1,17 +1,12 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-09-03T13:42:36.611Z",
+  "generatedAt": "2026-09-04T13:42:01.671Z",
   "status": "discrepancies",
   "report": {
-    "matched": 11,
+    "matched": 12,
     "timeMismatches": [],
     "titleMismatches": [
-      {
-        "startTime": "2026-09-03T20:00:00-07:00",
-        "ourTitle": "OCEAN BEACH SURF FILM FESTIVAL: An Evening of Music, Conversation, and Film with Ray Barbee and Thomas Campbell",
-        "scenefTitle": "LIVE MUSIC: Ray Barbee & Thomas Campbell"
-      },
       {
         "startTime": "2026-09-05T20:00:00-07:00",
         "ourTitle": "OCEAN BEACH SURF FILM FESTIVAL: Chris Malloy presents Excerpts from Thicker Than Water, 180 South & Earth to Meekus with LIVE MUSIC (plus Q&A)",
@@ -21,6 +16,11 @@
         "startTime": "2026-09-10T19:30:00-07:00",
         "ourTitle": "FUGS FILM! with LIVE MUSIC from Michael Mouse and Filmmaker Q&A (Presented by TRASH & TREASURES)",
         "scenefTitle": "FUGS FILM! with Live Fugs Tribute Set and Q&A"
+      },
+      {
+        "startTime": "2026-09-12T18:30:00-07:00",
+        "ourTitle": "KEXP'S VINELANDS LIVE: Mild Universe, Camellia Boutros",
+        "scenefTitle": "KEXP VINELANDS LIVE: Mild Universe & more"
       },
       {
         "startTime": "2026-09-16T20:00:00-07:00",
@@ -33,14 +33,9 @@
         "scenefTitle": "LIVE MUSIC: Spencer Noble, Peña, Cilantro"
       },
       {
-        "startTime": "2026-09-19T20:00:00-07:00",
-        "ourTitle": "I LOST IT OVER: Body Heat (with LIVE IMPROV hosted by Alice Wu plus special guest Joan Chen)",
-        "scenefTitle": "I Lost it Over: Body Heat (with Joan Chen)"
-      },
-      {
-        "startTime": "2026-09-20T19:30:00-07:00",
-        "ourTitle": "Ace Attorney (Presented by MEDIA MELTDOWN MOVIE MADHOUSE)",
-        "scenefTitle": "Media Meltdown Movie Madhouse: Ace Attorney"
+        "startTime": "2026-09-21T20:00:00-07:00",
+        "ourTitle": "LIVE MUSIC: Marlon Magnée (of La Femme), Future Twin",
+        "scenefTitle": "LIVE MUSIC: Marlon Magnée (La Femme), Future Twin"
       },
       {
         "startTime": "2026-09-24T20:00:00-07:00",
@@ -82,10 +77,6 @@
       {
         "title": "LIVE MUSIC: Gordi, Gracie and Rachel (Presented by THROWIN' BO'S)",
         "startTime": "2026-09-11T20:00:00-07:00"
-      },
-      {
-        "title": "KEXP'S VINELANDS LIVE: Mild Universe, Camellia Boutros",
-        "startTime": "2026-09-12T18:30:00-07:00"
       },
       {
         "title": "The Lego Movie",
@@ -154,16 +145,8 @@
         "startTime": "2026-09-09T19:00:00-07:00"
       },
       {
-        "title": "KEXP VINELANDS LIVE: Mild Universe & more",
-        "startTime": "2026-09-12T20:00:00-07:00"
-      },
-      {
         "title": "COMEDY: Honey Pluton & Spike Einbinder",
         "startTime": "2026-09-17T20:30:00-07:00"
-      },
-      {
-        "title": "LIVE MUSIC: Marlon Magnée (La Femme), Future Twin",
-        "startTime": "2026-09-21T20:00:00-07:00"
       },
       {
         "title": "My Neighbor Totoro",
@@ -180,7 +163,7 @@
     ],
     "collapsedDuplicates": 0,
     "excluded": {
-      "ours": 4,
+      "ours": 5,
       "scenef": 0
     }
   }
