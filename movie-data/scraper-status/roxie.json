@@ -1,24 +1,34 @@
 {
   "slug": "roxie",
   "theater": "Roxie",
-  "generatedAt": "2026-09-03T13:51:23.107Z",
+  "generatedAt": "2026-09-04T13:51:37.091Z",
   "status": "discrepancies",
   "report": {
-    "matched": 111,
+    "matched": 113,
     "timeMismatches": [],
-    "titleMismatches": [],
-    "oursOnly": [
+    "titleMismatches": [
       {
-        "title": "American Doctor",
-        "startTime": "2026-09-03T17:50:00-07:00"
-      },
+        "startTime": "2026-09-12T15:45:00-07:00",
+        "ourTitle": "MAQUILÁPOLIS",
+        "scenefTitle": "Maquilapolis"
+      }
+    ],
+    "oursOnly": [
       {
         "title": "Filipiñana",
         "startTime": "2026-09-04T18:00:00-07:00"
       },
       {
         "title": "Filipiñana",
+        "startTime": "2026-09-05T18:10:00-07:00"
+      },
+      {
+        "title": "Filipiñana",
         "startTime": "2026-09-06T15:00:00-07:00"
+      },
+      {
+        "title": "Filipiñana",
+        "startTime": "2026-09-07T16:00:00-07:00"
       },
       {
         "title": "ZYZZYVA Movie Night with Ingrid Rojas Contreras: Songs of Earth",
