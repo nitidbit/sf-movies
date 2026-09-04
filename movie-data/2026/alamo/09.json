@@ -473,6 +473,30 @@
   },
   {
     "theater": "Alamo",
+    "title": "Star Trek: The Motion Picture",
+    "startTime": "2026-09-04T14:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/eae36666caa1",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "When an unidentified alien destroys three powerful Klingon cruisers, Captain James T. Kirk returns to the newly transformed U.S.S. Enterprise to take command."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Onslaught",
+    "startTime": "2026-09-07T21:55:00-07:00",
+    "sourceUrl": "https://scenef.com/go/dd3ebf7bf8e9",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "When a rogue squad of genetically engineered super soldiers break loose in the desert, a badass Army sniper must unleash hell to protect her young daughter."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Cavalluna - Welt der Fantasie",
+    "startTime": "2026-09-08T21:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/21d07ffe8b4b",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "An obsession gone mad"
+  },
+  {
+    "theater": "Alamo",
     "title": "Onslaught",
     "startTime": "2026-09-04T12:20:00-07:00",
     "sourceUrl": "https://scenef.com/go/ccfe1a7c2114",
@@ -505,11 +529,11 @@
   },
   {
     "theater": "Alamo",
-    "title": "Star Trek: The Motion Picture",
+    "title": "Star Trek: The Motion Picture - The Director's Edition",
     "startTime": "2026-09-04T14:00:00-07:00",
-    "sourceUrl": "https://scenef.com/go/eae36666caa1",
+    "sourceUrl": "https://scenef.com/go/51ded1cc1499",
     "attribution": "Showtimes via SceneF.com",
-    "synopsis": "When an unidentified alien destroys three powerful Klingon cruisers, Captain James T. Kirk returns to the newly transformed U.S.S. Enterprise to take command."
+    "synopsis": "The cinematic maiden voyage of the Starship Enterprise"
   },
   {
     "theater": "Alamo",
@@ -1082,8 +1106,8 @@
   {
     "theater": "Alamo",
     "title": "Onslaught",
-    "startTime": "2026-09-07T21:55:00-07:00",
-    "sourceUrl": "https://scenef.com/go/dd3ebf7bf8e9",
+    "startTime": "2026-09-07T22:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/ceb3fe6a352b",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "When a rogue squad of genetically engineered super soldiers break loose in the desert, a badass Army sniper must unleash hell to protect her young daughter."
   },
@@ -1225,9 +1249,9 @@
   },
   {
     "theater": "Alamo",
-    "title": "Cavalluna - Welt der Fantasie",
+    "title": "Der Fan",
     "startTime": "2026-09-08T21:30:00-07:00",
-    "sourceUrl": "https://scenef.com/go/21d07ffe8b4b",
+    "sourceUrl": "https://scenef.com/go/a225367dfc94",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "An obsession gone mad"
   },
