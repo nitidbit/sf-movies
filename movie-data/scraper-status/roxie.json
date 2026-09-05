@@ -1,10 +1,10 @@
 {
   "slug": "roxie",
   "theater": "Roxie",
-  "generatedAt": "2026-09-04T13:51:37.091Z",
+  "generatedAt": "2026-09-05T13:51:22.069Z",
   "status": "discrepancies",
   "report": {
-    "matched": 113,
+    "matched": 110,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -15,16 +15,12 @@
     ],
     "oursOnly": [
       {
-        "title": "Filipiñana",
-        "startTime": "2026-09-04T18:00:00-07:00"
+        "title": "American Doctor",
+        "startTime": "2026-09-05T17:35:00-07:00"
       },
       {
-        "title": "Filipiñana",
-        "startTime": "2026-09-05T18:10:00-07:00"
-      },
-      {
-        "title": "Filipiñana",
-        "startTime": "2026-09-06T15:00:00-07:00"
+        "title": "Mary Oliver: Saved by the Beauty of the World",
+        "startTime": "2026-09-05T15:30:00-07:00"
       },
       {
         "title": "Filipiñana",
