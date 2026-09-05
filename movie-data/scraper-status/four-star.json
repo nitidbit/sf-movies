@@ -1,17 +1,12 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-09-04T13:42:01.671Z",
+  "generatedAt": "2026-09-05T13:40:09.670Z",
   "status": "discrepancies",
   "report": {
-    "matched": 12,
+    "matched": 11,
     "timeMismatches": [],
     "titleMismatches": [
-      {
-        "startTime": "2026-09-05T20:00:00-07:00",
-        "ourTitle": "OCEAN BEACH SURF FILM FESTIVAL: Chris Malloy presents Excerpts from Thicker Than Water, 180 South & Earth to Meekus with LIVE MUSIC (plus Q&A)",
-        "scenefTitle": "Chris Malloy Films with LIVE SCORE and Q&A"
-      },
       {
         "startTime": "2026-09-10T19:30:00-07:00",
         "ourTitle": "FUGS FILM! with LIVE MUSIC from Michael Mouse and Filmmaker Q&A (Presented by TRASH & TREASURES)",
@@ -57,6 +52,14 @@
       {
         "title": "CatVideoFest 2026",
         "startTime": "2026-09-05T10:00:00-07:00"
+      },
+      {
+        "title": "OCEAN BEACH SURF FILM FESTIVAL: Jack Johnson: SURFILMUSIC",
+        "startTime": "2026-09-05T13:00:00-07:00"
+      },
+      {
+        "title": "OCEAN BEACH SURF FILM FESTIVAL: Chris Malloy presents Excerpts from Thicker Than Water, 180 South & Earth to Meekus with LIVE MUSIC (plus Q&A)",
+        "startTime": "2026-09-05T20:00:00-07:00"
       },
       {
         "title": "CatVideoFest 2026",
