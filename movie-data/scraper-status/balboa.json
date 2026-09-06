@@ -1,16 +1,21 @@
 {
   "slug": "balboa",
   "theater": "Balboa",
-  "generatedAt": "2026-09-05T13:22:56.163Z",
+  "generatedAt": "2026-09-06T13:22:56.383Z",
   "status": "discrepancies",
   "report": {
-    "matched": 85,
+    "matched": 80,
     "timeMismatches": [],
     "titleMismatches": [
       {
         "startTime": "2026-09-19T20:00:00-07:00",
         "ourTitle": "Comedy Night at the Balboa (Headliner Scott Capurro)",
         "scenefTitle": "Comedy At The Balboa: Scott Capurro"
+      },
+      {
+        "startTime": "2026-09-22T19:00:00-07:00",
+        "ourTitle": "Ghost Dog: Way of the Samurai",
+        "scenefTitle": "Ghost Dog: The Way of the Samurai"
       },
       {
         "startTime": "2026-10-23T20:00:00-07:00",
@@ -25,10 +30,6 @@
       }
     ],
     "scenefOnly": [
-      {
-        "title": "The Room",
-        "startTime": "2026-09-05T23:00:00-07:00"
-      },
       {
         "title": "Twin Peaks Fest (Fri. Pass)",
         "startTime": "2026-09-11T22:00:00-07:00"
@@ -112,7 +113,7 @@
     ],
     "collapsedDuplicates": 16,
     "excluded": {
-      "ours": 4,
+      "ours": 0,
       "scenef": 0
     }
   }
