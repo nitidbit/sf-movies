@@ -1,10 +1,10 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-09-05T13:40:09.670Z",
+  "generatedAt": "2026-09-06T13:40:08.021Z",
   "status": "discrepancies",
   "report": {
-    "matched": 11,
+    "matched": 10,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -49,30 +49,6 @@
       }
     ],
     "oursOnly": [
-      {
-        "title": "CatVideoFest 2026",
-        "startTime": "2026-09-05T10:00:00-07:00"
-      },
-      {
-        "title": "OCEAN BEACH SURF FILM FESTIVAL: Jack Johnson: SURFILMUSIC",
-        "startTime": "2026-09-05T13:00:00-07:00"
-      },
-      {
-        "title": "OCEAN BEACH SURF FILM FESTIVAL: Chris Malloy presents Excerpts from Thicker Than Water, 180 South & Earth to Meekus with LIVE MUSIC (plus Q&A)",
-        "startTime": "2026-09-05T20:00:00-07:00"
-      },
-      {
-        "title": "CatVideoFest 2026",
-        "startTime": "2026-09-06T10:00:00-07:00"
-      },
-      {
-        "title": "Closed for a Private Event",
-        "startTime": "2026-09-06T12:30:00-07:00"
-      },
-      {
-        "title": "OCEAN BEACH SURF FILM FESTIVAL: Sachi Cunningham presents Big Wave Women (A Work in Progress Screening)",
-        "startTime": "2026-09-06T19:00:00-07:00"
-      },
       {
         "title": "FOGCUTTER FILM SERIES and DJ GRAMPAPHONE BIRTHDAY PARTY: VOLUME 25 - Stop Making Sense (Dance Party - Hosted by Robert Mailer Anderson)",
         "startTime": "2026-09-09T18:00:00-07:00"
@@ -166,7 +142,7 @@
     ],
     "collapsedDuplicates": 0,
     "excluded": {
-      "ours": 5,
+      "ours": 7,
       "scenef": 0
     }
   }
