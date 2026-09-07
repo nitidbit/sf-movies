@@ -1,22 +1,13 @@
 {
   "slug": "vogue",
   "theater": "Vogue",
-  "generatedAt": "2026-09-06T13:28:20.963Z",
+  "generatedAt": "2026-09-07T13:32:36.630Z",
   "status": "discrepancies",
   "report": {
-    "matched": 21,
+    "matched": 18,
     "timeMismatches": [],
     "titleMismatches": [],
-    "oursOnly": [
-      {
-        "title": "Late Fame",
-        "startTime": "2026-09-09T19:30:00-07:00"
-      },
-      {
-        "title": "Late Fame",
-        "startTime": "2026-09-10T19:30:00-07:00"
-      }
-    ],
+    "oursOnly": [],
     "scenefOnly": [
       {
         "title": "The Playboy of the Western World",
@@ -97,7 +88,7 @@
     ],
     "collapsedDuplicates": 0,
     "excluded": {
-      "ours": 0,
+      "ours": 3,
       "scenef": 0
     }
   }
