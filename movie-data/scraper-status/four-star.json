@@ -1,7 +1,7 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-09-06T13:40:08.021Z",
+  "generatedAt": "2026-09-07T13:42:29.730Z",
   "status": "discrepancies",
   "report": {
     "matched": 10,
@@ -142,7 +142,7 @@
     ],
     "collapsedDuplicates": 0,
     "excluded": {
-      "ours": 7,
+      "ours": 4,
       "scenef": 0
     }
   }
