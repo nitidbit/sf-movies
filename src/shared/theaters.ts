@@ -2,7 +2,7 @@ export interface TheaterConfig {
   slug: string;
   name: string;
   baseUrl: string;
-  source: "cinema-sf" | "roxie" | "scenef" | "tribe";
+  source: "cinema-sf" | "roxie" | "scenef" | "tribe" | "bottom-of-the-hill";
   // Required when source is "scenef" — the venue id in SceneF's feed.
   venueId?: string;
 }
@@ -47,5 +47,11 @@ export const theaters: Record<string, TheaterConfig> = {
     name: "ATA",
     baseUrl: "https://artiststelevisionaccess.org",
     source: "tribe",
+  },
+  "bottom-of-the-hill": {
+    slug: "bottom-of-the-hill",
+    name: "Bottom of the Hill",
+    baseUrl: "https://bottomofthehill.com",
+    source: "bottom-of-the-hill",
   },
 };
