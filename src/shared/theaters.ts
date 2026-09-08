@@ -48,6 +48,12 @@ export const theaters: Record<string, TheaterConfig> = {
     baseUrl: "https://artiststelevisionaccess.org",
     source: "tribe",
   },
+  "madrone-art-bar": {
+    slug: "madrone-art-bar",
+    name: "Madrone Art Bar",
+    baseUrl: "https://madroneartbar.com",
+    source: "tribe",
+  },
   "bottom-of-the-hill": {
     slug: "bottom-of-the-hill",
     name: "Bottom of the Hill",

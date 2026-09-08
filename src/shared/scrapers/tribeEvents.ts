@@ -48,8 +48,12 @@ export async function fetchTribeEvents(
   theater: string,
   fetchFn: (url: string) => Promise<Response> = fetch,
 ): Promise<Event[]> {
+  const sixMonthsOut = new Date();
+  sixMonthsOut.setMonth(sixMonthsOut.getMonth() + 6);
+  const endDate = sixMonthsOut.toISOString().slice(0, 10);
+
   const events: Event[] = [];
-  let url: string | undefined = `${baseUrl}/wp-json/tribe/events/v1/events?per_page=50`;
+  let url: string | undefined = `${baseUrl}/wp-json/tribe/events/v1/events?per_page=50&end_date=${endDate}`;
 
   while (url) {
     const response = await fetchFn(url);
