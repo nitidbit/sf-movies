@@ -1,10 +1,10 @@
 {
   "slug": "roxie",
   "theater": "Roxie",
-  "generatedAt": "2026-09-07T13:51:28.586Z",
+  "generatedAt": "2026-09-08T13:51:39.530Z",
   "status": "discrepancies",
   "report": {
-    "matched": 97,
+    "matched": 95,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -14,10 +14,6 @@
       }
     ],
     "oursOnly": [
-      {
-        "title": "Filipiñana",
-        "startTime": "2026-09-07T16:00:00-07:00"
-      },
       {
         "title": "ZYZZYVA Movie Night with Ingrid Rojas Contreras: Songs of Earth",
         "startTime": "2026-09-17T18:00:00-07:00"
@@ -29,6 +25,10 @@
       {
         "title": "Larry Reed: A Life in Light and Shadow",
         "startTime": "2026-09-19T13:15:00-07:00"
+      },
+      {
+        "title": "Filipiñana",
+        "startTime": "2026-09-19T15:10:00-07:00"
       },
       {
         "title": "Mysterious Skin (4K Restoration)",
