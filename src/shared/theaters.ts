@@ -2,7 +2,7 @@ export interface TheaterConfig {
   slug: string;
   name: string;
   baseUrl: string;
-  source: "cinema-sf" | "roxie" | "scenef" | "tribe" | "bottom-of-the-hill";
+  source: "cinema-sf" | "roxie" | "scenef" | "tribe" | "bottom-of-the-hill" | "the-independent";
   // Required when source is "scenef" — the venue id in SceneF's feed.
   venueId?: string;
 }
@@ -47,6 +47,12 @@ export const theaters: Record<string, TheaterConfig> = {
     name: "ATA",
     baseUrl: "https://artiststelevisionaccess.org",
     source: "tribe",
+  },
+  "the-independent": {
+    slug: "the-independent",
+    name: "The Independent",
+    baseUrl: "https://www.theindependentsf.com",
+    source: "the-independent",
   },
   "madrone-art-bar": {
     slug: "madrone-art-bar",
