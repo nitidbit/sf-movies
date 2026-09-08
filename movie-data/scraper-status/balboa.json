@@ -1,10 +1,10 @@
 {
   "slug": "balboa",
   "theater": "Balboa",
-  "generatedAt": "2026-09-07T13:28:52.448Z",
+  "generatedAt": "2026-09-08T13:28:31.550Z",
   "status": "discrepancies",
   "report": {
-    "matched": 74,
+    "matched": 75,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -109,6 +109,10 @@
       {
         "title": "Queen: Budapest",
         "startTime": "2026-10-10T19:00:00-07:00"
+      },
+      {
+        "title": "The International Vampire Film Fest",
+        "startTime": "2026-10-17T22:30:00-07:00"
       }
     ],
     "collapsedDuplicates": 16,
