@@ -71,11 +71,13 @@ export async function fetchBottomOfTheHillEvents(
   const calendarHtml = await calendarResponse.text();
   const $ = cheerio.load(calendarHtml);
 
+  const currentYear = new Date().getFullYear();
   const detailUrls = new Set<string>();
   $("a").each((_, el) => {
     const href = $(el).attr("href") ?? "";
     const url = href.startsWith("http") ? href : `${baseUrl}${href}`;
-    if (DATE_URL_PATTERN.test(url)) {
+    const match = url.match(DATE_URL_PATTERN);
+    if (match && Number(match[1]) >= currentYear) {
       detailUrls.add(url);
     }
   });
