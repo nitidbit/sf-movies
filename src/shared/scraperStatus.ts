@@ -97,6 +97,10 @@ async function buildBlock(
     generatedAt: new Date().toISOString(),
   };
 
+  if (!scenefVenueIdFor(theater)) {
+    return { ...identity, status: "ok" };
+  }
+
   try {
     const report = await runSceneFComparison(theater, events, fetchFn);
     return { ...identity, status: hasDiscrepancies(report) ? "discrepancies" : "ok", report };

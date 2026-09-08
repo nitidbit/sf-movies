@@ -12,8 +12,9 @@ function to24Hour(hour12: number, minute: number, meridiem: string): { hour: num
 }
 
 // Parses a single show detail page (e.g. bottomofthehill.com/20260909.html).
-// Date is extracted from the URL; bands come from <h4> tags; music start time
-// from the "music at X:XXpm" line in the page text.
+// Date is extracted from the URL; bands come from <big class="band"> elements
+// (deduplicated — they appear twice in the page); music start time is spread
+// across multiple <span class="time"> fragments, so we match against full body text.
 export function parseBottomOfTheHillDetail(html: string, url: string, theater: string): Event | null {
   const dateMatch = url.match(DATE_URL_PATTERN);
   if (!dateMatch) return null;
@@ -21,26 +22,27 @@ export function parseBottomOfTheHillDetail(html: string, url: string, theater: s
 
   const $ = cheerio.load(html);
 
-  let musicHour = 20;
-  let musicMinute = 30;
-  $("p").each((_, el) => {
-    const match = $(el).text().match(MUSIC_TIME_PATTERN);
-    if (match) {
-      ({ hour: musicHour, minute: musicMinute } = to24Hour(
-        Number(match[1]),
-        Number(match[2]),
-        match[3],
-      ));
-      return false;
+  const seen = new Set<string>();
+  const bands: string[] = [];
+  $(".band").each((_, el) => {
+    const name = $(el).text().trim();
+    if (name && !seen.has(name)) {
+      seen.add(name);
+      bands.push(name);
     }
   });
-
-  const bands: string[] = [];
-  $("h4").each((_, el) => {
-    const name = $(el).text().trim();
-    if (name) bands.push(name);
-  });
   if (bands.length === 0) return null;
+
+  let musicHour = 20;
+  let musicMinute = 30;
+  const timeMatch = $("body").text().match(MUSIC_TIME_PATTERN);
+  if (timeMatch) {
+    ({ hour: musicHour, minute: musicMinute } = to24Hour(
+      Number(timeMatch[1]),
+      Number(timeMatch[2]),
+      timeMatch[3],
+    ));
+  }
 
   const startTime = zonedTimeToUtc(
     Number(yearStr),
