@@ -1,7 +1,7 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-09-08T13:43:02.930Z",
+  "generatedAt": "2026-09-09T13:43:09.012Z",
   "status": "discrepancies",
   "report": {
     "matched": 9,
@@ -16,6 +16,21 @@
         "startTime": "2026-09-12T18:30:00-07:00",
         "ourTitle": "KEXP'S VINELANDS LIVE: Mild Universe, Camellia Boutros",
         "scenefTitle": "KEXP VINELANDS LIVE: Mild Universe & more"
+      },
+      {
+        "startTime": "2026-09-13T12:45:00-07:00",
+        "ourTitle": "DOLLY PARTON CELEBRATION: 9 to 5",
+        "scenefTitle": "Dolly Parton Double: 9 to 5"
+      },
+      {
+        "startTime": "2026-09-13T15:30:00-07:00",
+        "ourTitle": "DOLLY PARTON CELEBRATION: The Best Little Whorehouse in Texas",
+        "scenefTitle": "Dolly Parton Double: Best Little Whorehouse in TX"
+      },
+      {
+        "startTime": "2026-09-13T19:00:00-07:00",
+        "ourTitle": "DOLLY PARTON CELEBRATION: 9 to 5 (with Live Tribute Set from Sadie Alan)",
+        "scenefTitle": "Dolly Parton Double: 9 to 5 with LIVE MUSIC"
       },
       {
         "startTime": "2026-09-16T20:00:00-07:00",
