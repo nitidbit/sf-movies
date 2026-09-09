@@ -33,6 +33,14 @@
   },
   {
     "theater": "Alamo",
+    "title": "The Curse of the Werewolf",
+    "startTime": "2026-10-20T21:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/59d12644bf22",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A child conceived by a mute servant girl transforms from an innocent youth to a killer beast at night with uncontrollable urges."
+  },
+  {
+    "theater": "Alamo",
     "title": "NOFX: 40 Years of Fuckin' Up",
     "startTime": "2026-10-24T21:30:00-07:00",
     "sourceUrl": "https://scenef.com/go/dd376ab2617b",
@@ -46,5 +54,13 @@
     "sourceUrl": "https://scenef.com/go/9da103581516",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "The Freelings' suburban home becomes the center of paranormal activity that opens a portal to the 'other side'. With help, they must cross over to get their daughter back."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Trick or Treat",
+    "startTime": "2026-10-31T21:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/5b374996ecc0",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Eddie Weinbauer, a metalhead teen who is bullied at school, looks to his heavy metal superstar idol, Sammi Curr, for guidance. When Curr is killed in a hotel fire, Eddie becomes the recipient of the only copy of his unreleased album, which, when played backwards, brings the rocker back to life. As Halloween approaches, Eddie begins to realize that this isn't only rock 'n roll...It's life and death."
   }
 ]
