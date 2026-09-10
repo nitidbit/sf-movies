@@ -1,7 +1,7 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-09-09T13:43:09.012Z",
+  "generatedAt": "2026-09-10T13:41:35.669Z",
   "status": "discrepancies",
   "report": {
     "matched": 9,
@@ -64,10 +64,6 @@
       }
     ],
     "oursOnly": [
-      {
-        "title": "FOGCUTTER FILM SERIES and DJ GRAMPAPHONE BIRTHDAY PARTY: VOLUME 25 - Stop Making Sense (Dance Party - Hosted by Robert Mailer Anderson)",
-        "startTime": "2026-09-09T18:00:00-07:00"
-      },
       {
         "title": "LIVE MUSIC: Gordi, Gracie and Rachel (Presented by THROWIN' BO'S)",
         "startTime": "2026-09-11T20:00:00-07:00"
@@ -135,10 +131,6 @@
     ],
     "scenefOnly": [
       {
-        "title": "Stop Making Sense",
-        "startTime": "2026-09-09T19:00:00-07:00"
-      },
-      {
         "title": "COMEDY: Honey Pluton & Spike Einbinder",
         "startTime": "2026-09-17T20:30:00-07:00"
       },
@@ -157,7 +149,7 @@
     ],
     "collapsedDuplicates": 0,
     "excluded": {
-      "ours": 4,
+      "ours": 5,
       "scenef": 0
     }
   }
