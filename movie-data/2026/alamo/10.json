@@ -9,6 +9,22 @@
   },
   {
     "theater": "Alamo",
+    "title": "Blue Velvet",
+    "startTime": "2026-10-04T12:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/ed00cc81a453",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The discovery of a severed human ear found in a field leads a young man on an investigation related to a beautiful, mysterious nightclub singer and a group of psychopathic criminals who have kidnapped her child."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Beetlejuice",
+    "startTime": "2026-10-05T21:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/49fbf4bb87f3",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A newly dead New England couple seeks help from a deranged demon exorcist to scare an affluent New York family out of their home."
+  },
+  {
+    "theater": "Alamo",
     "title": "The Silence of the Lambs",
     "startTime": "2026-10-06T21:30:00-07:00",
     "sourceUrl": "https://scenef.com/go/1891f7d3360e",
@@ -22,6 +38,38 @@
     "sourceUrl": "https://scenef.com/go/0d3b4ba39ff8",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "You'll never survive"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Showgirls",
+    "startTime": "2026-10-11T16:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/03e535f306b2",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Fresh to Las Vegas with no connections, Nomi Malone takes a job as an exotic dancer. Her talents are quickly noticed by Cristal, a headlining dancer who senses an opportunity to bolster her own act. But Nomi won’t play second fiddle and soon begins her venomous path to the top, ruthlessly backstabbing anyone who gets in her way."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Texas Chain Saw Massacre",
+    "startTime": "2026-10-12T18:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/518fab09ec34",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Five friends head out to rural Texas to visit the grave of a grandfather. On the way, they stumble across what appears to be a deserted house, only to discover something sinister within. Something armed with a chainsaw."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Repo! The Genetic Opera",
+    "startTime": "2026-10-13T19:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/ca882b396327",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "By the year 2056, an epidemic of organ failures has devastated the planet. The megacorporation GeneCo provides organ transplants on a payment plan — and those unable to fulfill their plans have their organs repossessed. In the midst of this, a sickly teenager discovers a shocking secret about herself, her father, and their connection to GeneCo."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Ginger Snaps",
+    "startTime": "2026-10-13T21:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/76bafabf4437",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The story of two outcast sisters, Ginger and Brigitte, in the mindless suburban town of Bailey Downs. On the night of Ginger's first period, she is savagely attacked by a wild creature. Ginger's wounds miraculously heal but something is not quite right. Now Brigitte must save her sister and save herself."
   },
   {
     "theater": "Alamo",
@@ -41,6 +89,22 @@
   },
   {
     "theater": "Alamo",
+    "title": "A Tale of Two Sisters",
+    "startTime": "2026-10-21T18:40:00-07:00",
+    "sourceUrl": "https://scenef.com/go/97349dcf0107",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Two sisters return home after a stay in a mental institution, only to face disturbing events and a strained relationship with their stepmother. As eerie occurrences unfold, dark family secrets begin to surface, blurring the line between reality and nightmare."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Manos: The Hands of Fate",
+    "startTime": "2026-10-21T21:50:00-07:00",
+    "sourceUrl": "https://scenef.com/go/5f507650ec12",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A family gets lost on the road and stumbles upon a hidden, underground, devil-worshiping cult led by the fearsome Master and his servant Torgo."
+  },
+  {
+    "theater": "Alamo",
     "title": "NOFX: 40 Years of Fuckin' Up",
     "startTime": "2026-10-24T21:30:00-07:00",
     "sourceUrl": "https://scenef.com/go/dd376ab2617b",
@@ -49,11 +113,27 @@
   },
   {
     "theater": "Alamo",
+    "title": "Daughters of Darkness",
+    "startTime": "2026-10-26T19:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/c7cb26bb1ed3",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Ostend, Belgium. In a decadent seaside hotel, Stefan and Valerie, a newlywed couple, meet the mysterious Countess Báthory and Ilona, her secretary."
+  },
+  {
+    "theater": "Alamo",
     "title": "Poltergeist",
     "startTime": "2026-10-27T21:30:00-07:00",
     "sourceUrl": "https://scenef.com/go/9da103581516",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "The Freelings' suburban home becomes the center of paranormal activity that opens a portal to the 'other side'. With help, they must cross over to get their daughter back."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Halloween",
+    "startTime": "2026-10-31T15:45:00-07:00",
+    "sourceUrl": "https://scenef.com/go/59d327d3e1dd",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Fifteen years after murdering his sister on Halloween Night 1963, Michael Myers escapes from a mental hospital and returns to the small town of Haddonfield, Illinois to kill again."
   },
   {
     "theater": "Alamo",
