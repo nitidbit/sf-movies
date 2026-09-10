@@ -1,7 +1,7 @@
 {
   "slug": "roxie",
   "theater": "Roxie",
-  "generatedAt": "2026-09-09T13:51:35.037Z",
+  "generatedAt": "2026-09-10T13:51:38.442Z",
   "status": "discrepancies",
   "report": {
     "matched": 94,
@@ -15,12 +15,8 @@
     ],
     "oursOnly": [
       {
-        "title": "Mary Oliver: Saved by the Beauty of the World",
-        "startTime": "2026-09-09T18:00:00-07:00"
-      },
-      {
-        "title": "ZYZZYVA Movie Night with Ingrid Rojas Contreras: Songs of Earth",
-        "startTime": "2026-09-17T18:00:00-07:00"
+        "title": "Filipiñana",
+        "startTime": "2026-09-12T19:40:00-07:00"
       },
       {
         "title": "Floating Features: The Rock",
