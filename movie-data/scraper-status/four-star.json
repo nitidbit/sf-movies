@@ -1,17 +1,12 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-09-10T13:41:35.669Z",
+  "generatedAt": "2026-09-11T13:42:31.925Z",
   "status": "discrepancies",
   "report": {
     "matched": 9,
     "timeMismatches": [],
     "titleMismatches": [
-      {
-        "startTime": "2026-09-10T19:30:00-07:00",
-        "ourTitle": "FUGS FILM! with LIVE MUSIC from Michael Mouse and Filmmaker Q&A (Presented by TRASH & TREASURES)",
-        "scenefTitle": "FUGS FILM! with Live Fugs Tribute Set and Q&A"
-      },
       {
         "startTime": "2026-09-12T18:30:00-07:00",
         "ourTitle": "KEXP'S VINELANDS LIVE: Mild Universe, Camellia Boutros",
@@ -64,10 +59,6 @@
       }
     ],
     "oursOnly": [
-      {
-        "title": "LIVE MUSIC: Gordi, Gracie and Rachel (Presented by THROWIN' BO'S)",
-        "startTime": "2026-09-11T20:00:00-07:00"
-      },
       {
         "title": "The Lego Movie",
         "startTime": "2026-09-13T10:00:00-07:00"
@@ -149,7 +140,7 @@
     ],
     "collapsedDuplicates": 0,
     "excluded": {
-      "ours": 5,
+      "ours": 6,
       "scenef": 0
     }
   }
