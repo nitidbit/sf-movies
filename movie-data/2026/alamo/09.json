@@ -1121,22 +1121,6 @@
   },
   {
     "theater": "Alamo",
-    "title": "Ghost in the Shell",
-    "startTime": "2026-09-20T16:20:00-07:00",
-    "sourceUrl": "https://scenef.com/go/763375fabe8b",
-    "attribution": "Showtimes via SceneF.com",
-    "synopsis": "In the near future, Major is the first of her kind: a human saved from a terrible crash, then cyber-enhanced to be a perfect soldier devoted to stopping the world's most dangerous criminals."
-  },
-  {
-    "theater": "Alamo",
-    "title": "Ghost in the Shell",
-    "startTime": "2026-09-22T15:00:00-07:00",
-    "sourceUrl": "https://scenef.com/go/a8ccb0ec5c5f",
-    "attribution": "Showtimes via SceneF.com",
-    "synopsis": "In the near future, Major is the first of her kind: a human saved from a terrible crash, then cyber-enhanced to be a perfect soldier devoted to stopping the world's most dangerous criminals."
-  },
-  {
-    "theater": "Alamo",
     "title": "Spider-Man: Brand New Day",
     "startTime": "2026-09-08T11:30:00-07:00",
     "sourceUrl": "https://scenef.com/go/32090163c27f",
@@ -1689,6 +1673,22 @@
   },
   {
     "theater": "Alamo",
+    "title": "Ghost in the Shell",
+    "startTime": "2026-09-20T16:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/105780e7b03e",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as 'The Puppetmaster' begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Ghost in the Shell",
+    "startTime": "2026-09-22T15:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/5a909bd6e2a0",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as 'The Puppetmaster' begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster."
+  },
+  {
+    "theater": "Alamo",
     "title": "Practical Magic 2",
     "startTime": "2026-09-12T11:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/e62c65e6cd22",
@@ -1917,7 +1917,7 @@
     "startTime": "2026-09-13T15:40:00-07:00",
     "sourceUrl": "https://scenef.com/go/5b6e388106d7",
     "attribution": "Showtimes via SceneF.com",
-    "synopsis": "After an abrupt layoff, Z embarks on a trip across the Midwestern United States in search of a friend who has seemingly disappeared off the grid. Traveling with her two closest friends, these three queer black femmes find their priorities tested as shapeshifting threats in each city expose (inter)personal and ideological fractures."
+    "synopsis": "Following an abrupt layoff, a queer Black woman embarks on a Midwestern road trip with her two best friends to find a missing companion, only for shapeshifting urban threats to expose deep ideological fractures within their group."
   },
   {
     "theater": "Alamo",
@@ -2451,9 +2451,9 @@
     "theater": "Alamo",
     "title": "Ghost in the Shell",
     "startTime": "2026-09-20T16:20:00-07:00",
-    "sourceUrl": "https://scenef.com/go/105780e7b03e",
+    "sourceUrl": "https://scenef.com/go/763375fabe8b",
     "attribution": "Showtimes via SceneF.com",
-    "synopsis": "In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as 'The Puppetmaster' begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster."
+    "synopsis": "In the near future, Major is the first of her kind: a human saved from a terrible crash, then cyber-enhanced to be a perfect soldier devoted to stopping the world's most dangerous criminals."
   },
   {
     "theater": "Alamo",
@@ -2481,6 +2481,14 @@
   },
   {
     "theater": "Alamo",
+    "title": "Ghost in the Shell",
+    "startTime": "2026-09-21T16:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/35326d4d8906",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In the near future, Major is the first of her kind: a human saved from a terrible crash, then cyber-enhanced to be a perfect soldier devoted to stopping the world's most dangerous criminals."
+  },
+  {
+    "theater": "Alamo",
     "title": "Crunchyroll Anime Night Sneak Peek (9/21/2026)",
     "startTime": "2026-09-21T19:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/b2e30e12775b",
@@ -2491,9 +2499,9 @@
     "theater": "Alamo",
     "title": "Ghost in the Shell",
     "startTime": "2026-09-22T15:00:00-07:00",
-    "sourceUrl": "https://scenef.com/go/5a909bd6e2a0",
+    "sourceUrl": "https://scenef.com/go/a8ccb0ec5c5f",
     "attribution": "Showtimes via SceneF.com",
-    "synopsis": "In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as 'The Puppetmaster' begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster."
+    "synopsis": "In the near future, Major is the first of her kind: a human saved from a terrible crash, then cyber-enhanced to be a perfect soldier devoted to stopping the world's most dangerous criminals."
   },
   {
     "theater": "Alamo",
