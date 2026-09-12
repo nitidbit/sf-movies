@@ -1,7 +1,7 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-09-11T13:42:31.925Z",
+  "generatedAt": "2026-09-12T13:40:25.009Z",
   "status": "discrepancies",
   "report": {
     "matched": 9,
@@ -46,6 +46,11 @@
         "startTime": "2026-09-24T20:00:00-07:00",
         "ourTitle": "LIVE MUSIC: Tom Conneely & the Birds of Paradise, My Dog Jack, Eliza Dewar",
         "scenefTitle": "LIVE MUSIC: Tom Conneely & BoP, My Dog Jack"
+      },
+      {
+        "startTime": "2026-09-25T19:30:00-07:00",
+        "ourTitle": "Dolphin Market with LIVE MUSIC from April Magazine & Monde UFO (Presented by Mollusk)",
+        "scenefTitle": "Dolphin Market with LIVE MUSIC (April Mag & more)"
       },
       {
         "startTime": "2026-10-03T20:00:00-07:00",
@@ -140,7 +145,7 @@
     ],
     "collapsedDuplicates": 0,
     "excluded": {
-      "ours": 6,
+      "ours": 4,
       "scenef": 0
     }
   }
