@@ -1,10 +1,10 @@
 {
   "slug": "balboa",
   "theater": "Balboa",
-  "generatedAt": "2026-09-11T13:27:12.314Z",
+  "generatedAt": "2026-09-13T13:23:31.045Z",
   "status": "discrepancies",
   "report": {
-    "matched": 69,
+    "matched": 58,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -30,18 +30,6 @@
       }
     ],
     "scenefOnly": [
-      {
-        "title": "Twin Peaks: SEASON 1, EP. 1 (Northwest Passage)",
-        "startTime": "2026-09-11T18:00:00-07:00"
-      },
-      {
-        "title": "Twin Peaks Fest (Fri. Pass)",
-        "startTime": "2026-09-11T22:00:00-07:00"
-      },
-      {
-        "title": "Twin Peaks Fest (Sat. Pass)",
-        "startTime": "2026-09-12T22:00:00-07:00"
-      },
       {
         "title": "Twin Peaks Fest (Sun. Pass)",
         "startTime": "2026-09-13T22:00:00-07:00"
@@ -75,10 +63,6 @@
         "startTime": "2026-09-26T20:00:00-07:00"
       },
       {
-        "title": "The Rocky Horror Picture Show",
-        "startTime": "2026-09-26T23:00:00-07:00"
-      },
-      {
         "title": "Resident Evil",
         "startTime": "2026-09-27T14:30:00-07:00"
       },
@@ -107,9 +91,9 @@
         "startTime": "2026-10-17T22:30:00-07:00"
       }
     ],
-    "collapsedDuplicates": 16,
+    "collapsedDuplicates": 6,
     "excluded": {
-      "ours": 2,
+      "ours": 0,
       "scenef": 0
     }
   }
