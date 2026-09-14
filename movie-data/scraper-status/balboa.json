@@ -1,10 +1,10 @@
 {
   "slug": "balboa",
   "theater": "Balboa",
-  "generatedAt": "2026-09-13T13:23:31.045Z",
+  "generatedAt": "2026-09-14T13:29:18.315Z",
   "status": "discrepancies",
   "report": {
-    "matched": 58,
+    "matched": 52,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -30,14 +30,6 @@
       }
     ],
     "scenefOnly": [
-      {
-        "title": "Twin Peaks Fest (Sun. Pass)",
-        "startTime": "2026-09-13T22:00:00-07:00"
-      },
-      {
-        "title": "Twin Peaks Fest (Weekend Pass)",
-        "startTime": "2026-09-13T23:00:00-07:00"
-      },
       {
         "title": "Twilight",
         "startTime": "2026-09-16T16:30:00-07:00"
@@ -91,7 +83,7 @@
         "startTime": "2026-10-17T22:30:00-07:00"
       }
     ],
-    "collapsedDuplicates": 6,
+    "collapsedDuplicates": 1,
     "excluded": {
       "ours": 0,
       "scenef": 0
