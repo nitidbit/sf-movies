@@ -1,10 +1,10 @@
 {
   "slug": "vogue",
   "theater": "Vogue",
-  "generatedAt": "2026-09-13T13:28:31.050Z",
+  "generatedAt": "2026-09-14T13:33:08.388Z",
   "status": "discrepancies",
   "report": {
-    "matched": 39,
+    "matched": 36,
     "timeMismatches": [],
     "titleMismatches": [],
     "oursOnly": [],
@@ -16,7 +16,7 @@
     ],
     "collapsedDuplicates": 0,
     "excluded": {
-      "ours": 0,
+      "ours": 3,
       "scenef": 4
     }
   }
