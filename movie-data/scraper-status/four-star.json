@@ -1,27 +1,12 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-09-13T13:40:20.831Z",
+  "generatedAt": "2026-09-14T13:43:29.191Z",
   "status": "discrepancies",
   "report": {
-    "matched": 9,
+    "matched": 10,
     "timeMismatches": [],
     "titleMismatches": [
-      {
-        "startTime": "2026-09-13T12:45:00-07:00",
-        "ourTitle": "DOLLY PARTON CELEBRATION: 9 to 5",
-        "scenefTitle": "Dolly Parton Double: 9 to 5"
-      },
-      {
-        "startTime": "2026-09-13T15:30:00-07:00",
-        "ourTitle": "DOLLY PARTON CELEBRATION: The Best Little Whorehouse in Texas",
-        "scenefTitle": "Dolly Parton Double: Best Little Whorehouse in TX"
-      },
-      {
-        "startTime": "2026-09-13T19:00:00-07:00",
-        "ourTitle": "DOLLY PARTON CELEBRATION: 9 to 5 (with Live Tribute Set from Sadie Alan)",
-        "scenefTitle": "Dolly Parton Double: 9 to 5 with LIVE MUSIC"
-      },
       {
         "startTime": "2026-09-16T20:00:00-07:00",
         "ourTitle": "LIVE MUSIC: Croz Boyce (Avey Tare and Geologist of Animal Collective), Jas Stade (Presented by folkYEAH!)",
@@ -59,10 +44,6 @@
       }
     ],
     "oursOnly": [
-      {
-        "title": "The Lego Movie",
-        "startTime": "2026-09-13T10:00:00-07:00"
-      },
       {
         "title": "SF CRITTERFEST: Second Nature (with Ducks)",
         "startTime": "2026-09-17T18:15:00-07:00"
