@@ -1,21 +1,13 @@
 {
   "slug": "roxie",
   "theater": "Roxie",
-  "generatedAt": "2026-09-13T13:51:29.709Z",
+  "generatedAt": "2026-09-14T13:51:14.735Z",
   "status": "discrepancies",
   "report": {
-    "matched": 89,
+    "matched": 86,
     "timeMismatches": [],
     "titleMismatches": [],
     "oursOnly": [
-      {
-        "title": "The Cycle of Love",
-        "startTime": "2026-09-13T15:10:00-07:00"
-      },
-      {
-        "title": "The Samurai and the Prisoner",
-        "startTime": "2026-09-13T17:20:00-07:00"
-      },
       {
         "title": "ZYZZYVA Movie Night with Ingrid Rojas Contreras: Songs of Earth",
         "startTime": "2026-09-17T18:00:00-07:00"
@@ -31,6 +23,10 @@
       {
         "title": "Filipiñana",
         "startTime": "2026-09-19T15:10:00-07:00"
+      },
+      {
+        "title": "Teenage Sex and Death at Camp Miasma",
+        "startTime": "2026-09-20T19:20:00-07:00"
       },
       {
         "title": "Floating Features: Bullitt",
@@ -61,12 +57,7 @@
         "startTime": "2026-10-30T19:00:00-07:00"
       }
     ],
-    "scenefOnly": [
-      {
-        "title": "Dead Souls",
-        "startTime": "2026-09-27T15:10:00-07:00"
-      }
-    ],
+    "scenefOnly": [],
     "collapsedDuplicates": 0,
     "excluded": {
       "ours": 4,
