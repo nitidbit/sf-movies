@@ -2097,6 +2097,14 @@
   },
   {
     "theater": "Alamo",
+    "title": "Ghost in the Shell",
+    "startTime": "2026-09-22T15:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/5a909bd6e2a0",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as 'The Puppetmaster' begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster."
+  },
+  {
+    "theater": "Alamo",
     "title": "Hope",
     "startTime": "2026-09-15T14:20:00-07:00",
     "sourceUrl": "https://scenef.com/go/249ea6a29140",
@@ -2329,11 +2337,51 @@
   },
   {
     "theater": "Alamo",
+    "title": "Tony",
+    "startTime": "2026-09-17T14:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/c737ef60adc6",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Hope",
+    "startTime": "2026-09-17T14:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/e62677467235",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Practical Magic 2",
+    "startTime": "2026-09-17T14:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/44a7e43f27f6",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Oasis: Don't Look Back in Anger",
+    "startTime": "2026-09-17T15:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/ae2c1519de82",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Experience the meteoric rise of Oasis through rare footage and untold stories as the band reunites for Oasis Live '25, chronicling their journey from Manchester streets to global rock stardom."
+  },
+  {
+    "theater": "Alamo",
     "title": "Resident Evil",
     "startTime": "2026-09-17T15:45:00-07:00",
     "sourceUrl": "https://scenef.com/go/d07842ac4ec3",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Tony",
+    "startTime": "2026-09-17T17:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/98c76b59ac0b",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life."
   },
   {
     "theater": "Alamo",
@@ -2345,11 +2393,51 @@
   },
   {
     "theater": "Alamo",
+    "title": "Practical Magic 2",
+    "startTime": "2026-09-17T18:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/cf3f8acf3ffd",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Oasis: Don't Look Back in Anger",
+    "startTime": "2026-09-17T18:40:00-07:00",
+    "sourceUrl": "https://scenef.com/go/85775c2e1a6d",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Experience the meteoric rise of Oasis through rare footage and untold stories as the band reunites for Oasis Live '25, chronicling their journey from Manchester streets to global rock stardom."
+  },
+  {
+    "theater": "Alamo",
     "title": "Resident Evil",
     "startTime": "2026-09-17T18:45:00-07:00",
     "sourceUrl": "https://scenef.com/go/63766d69651e",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Hope",
+    "startTime": "2026-09-17T19:50:00-07:00",
+    "sourceUrl": "https://scenef.com/go/b533b941f81c",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Practical Magic 2",
+    "startTime": "2026-09-17T21:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/39f05cf34846",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Hope",
+    "startTime": "2026-09-17T21:40:00-07:00",
+    "sourceUrl": "https://scenef.com/go/7b5f527109a8",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions."
   },
   {
     "theater": "Alamo",
@@ -2361,11 +2449,51 @@
   },
   {
     "theater": "Alamo",
+    "title": "Oasis: Don't Look Back in Anger",
+    "startTime": "2026-09-17T21:50:00-07:00",
+    "sourceUrl": "https://scenef.com/go/58e7a1951e95",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Experience the meteoric rise of Oasis through rare footage and untold stories as the band reunites for Oasis Live '25, chronicling their journey from Manchester streets to global rock stardom."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Practical Magic 2",
+    "startTime": "2026-09-18T11:50:00-07:00",
+    "sourceUrl": "https://scenef.com/go/d7346ff71f1c",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all."
+  },
+  {
+    "theater": "Alamo",
     "title": "Resident Evil",
     "startTime": "2026-09-18T12:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/445dd4ee3fb6",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Chronovisor",
+    "startTime": "2026-09-18T13:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/0fc9389e8cb4",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A French academic is seduced into a world of untold histories in her scholarly quest to uncover the mystery of a history-capturing camera-like machine created by clandestine Benedictine monks. An academic-noir, armchair mystery in the lineage of Jorge Luis Borges and Umberto Eco."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Basic Instinct",
+    "startTime": "2026-09-18T13:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/0d5e0759ae6e",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Catherine, a novelist with an insatiable sexual appetite, becomes a prime suspect when her boyfriend is brutally murdered -- a crime she had described in her latest story."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Hope",
+    "startTime": "2026-09-18T13:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/d8f858fe1c2d",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions."
   },
   {
     "theater": "Alamo",
@@ -2377,6 +2505,38 @@
   },
   {
     "theater": "Alamo",
+    "title": "Practical Magic 2",
+    "startTime": "2026-09-18T15:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/b0d95ce8dae1",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Ghost in the Shell",
+    "startTime": "2026-09-18T15:45:00-07:00",
+    "sourceUrl": "https://scenef.com/go/8e4dfe415fa6",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as 'The Puppetmaster' begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Welcome Space Brothers",
+    "startTime": "2026-09-18T16:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/1071c5edba43",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The true story of The Unarius Academy of Science, a long-running extraterrestrial-channeling spiritual school in El Cajon, California that in the late 1970s became a wildly prolific filmmaking and art collective under the direction of outlandish spiritual leader and visionary filmmaker Ruth E. Norman, AKA “Archangel Uriel.”"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Hope",
+    "startTime": "2026-09-18T17:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/57354598c0d2",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions."
+  },
+  {
+    "theater": "Alamo",
     "title": "Resident Evil",
     "startTime": "2026-09-18T18:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/9a99d2bf1150",
@@ -2385,11 +2545,83 @@
   },
   {
     "theater": "Alamo",
+    "title": "Oasis: Don't Look Back in Anger",
+    "startTime": "2026-09-18T18:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/cf573db234d4",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Experience the meteoric rise of Oasis through rare footage and untold stories as the band reunites for Oasis Live '25, chronicling their journey from Manchester streets to global rock stardom."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Practical Magic 2",
+    "startTime": "2026-09-18T18:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/5d491f618e82",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Tony",
+    "startTime": "2026-09-18T19:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/4a8158ef8b26",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Hope",
+    "startTime": "2026-09-18T21:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/2b720accfe60",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions."
+  },
+  {
+    "theater": "Alamo",
     "title": "Resident Evil",
     "startTime": "2026-09-18T21:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/35e56ba1c0d8",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Oasis: Don't Look Back in Anger",
+    "startTime": "2026-09-18T21:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/c4fc4422d1de",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Experience the meteoric rise of Oasis through rare footage and untold stories as the band reunites for Oasis Live '25, chronicling their journey from Manchester streets to global rock stardom."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Practical Magic 2",
+    "startTime": "2026-09-18T21:50:00-07:00",
+    "sourceUrl": "https://scenef.com/go/2c67c7a0d9fe",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Chronovisor",
+    "startTime": "2026-09-18T22:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/2786570320e1",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A French academic is seduced into a world of untold histories in her scholarly quest to uncover the mystery of a history-capturing camera-like machine created by clandestine Benedictine monks. An academic-noir, armchair mystery in the lineage of Jorge Luis Borges and Umberto Eco."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Practical Magic 2",
+    "startTime": "2026-09-19T11:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/f75ca7189f90",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Tony",
+    "startTime": "2026-09-19T11:40:00-07:00",
+    "sourceUrl": "https://scenef.com/go/90941bc006b4",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life."
   },
   {
     "theater": "Alamo",
@@ -2409,11 +2641,35 @@
   },
   {
     "theater": "Alamo",
+    "title": "Hope",
+    "startTime": "2026-09-19T13:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/70a8bd706982",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Oasis: Don't Look Back in Anger",
+    "startTime": "2026-09-19T14:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/3e30d1635ab0",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Experience the meteoric rise of Oasis through rare footage and untold stories as the band reunites for Oasis Live '25, chronicling their journey from Manchester streets to global rock stardom."
+  },
+  {
+    "theater": "Alamo",
     "title": "Welcome Space Brothers",
     "startTime": "2026-09-19T14:45:00-07:00",
     "sourceUrl": "https://scenef.com/go/4212da58b338",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "The true story of The Unarius Academy of Science, a long-running extraterrestrial-channeling spiritual school in El Cajon, California that in the late 1970s became a wildly prolific filmmaking and art collective under the direction of outlandish spiritual leader and visionary filmmaker Ruth E. Norman, AKA “Archangel Uriel.”"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Practical Magic 2",
+    "startTime": "2026-09-19T15:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/ff82b86bf0ad",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all."
   },
   {
     "theater": "Alamo",
@@ -2425,11 +2681,59 @@
   },
   {
     "theater": "Alamo",
+    "title": "Hope",
+    "startTime": "2026-09-19T17:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/9cd2d3b1fcef",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Oasis: Don't Look Back in Anger",
+    "startTime": "2026-09-19T17:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/8537ebce827a",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Experience the meteoric rise of Oasis through rare footage and untold stories as the band reunites for Oasis Live '25, chronicling their journey from Manchester streets to global rock stardom."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Basic Instinct",
+    "startTime": "2026-09-19T17:45:00-07:00",
+    "sourceUrl": "https://scenef.com/go/34a6f2ac1fbb",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Catherine, a novelist with an insatiable sexual appetite, becomes a prime suspect when her boyfriend is brutally murdered -- a crime she had described in her latest story."
+  },
+  {
+    "theater": "Alamo",
     "title": "Resident Evil",
     "startTime": "2026-09-19T18:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/90ee064ad2c3",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Practical Magic 2",
+    "startTime": "2026-09-19T18:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/9c407b5a8f16",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Oasis: Don't Look Back in Anger",
+    "startTime": "2026-09-19T20:40:00-07:00",
+    "sourceUrl": "https://scenef.com/go/9ca20979586d",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Experience the meteoric rise of Oasis through rare footage and untold stories as the band reunites for Oasis Live '25, chronicling their journey from Manchester streets to global rock stardom."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Hope",
+    "startTime": "2026-09-19T20:45:00-07:00",
+    "sourceUrl": "https://scenef.com/go/8e26bbe63df3",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions."
   },
   {
     "theater": "Alamo",
@@ -2441,11 +2745,51 @@
   },
   {
     "theater": "Alamo",
+    "title": "The Twilight Saga: New Moon",
+    "startTime": "2026-09-19T21:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/2e4cec3ce655",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Forks, Washington resident Bella Swan is reeling from the departure of her vampire love, Edward Cullen, and finds comfort in her friendship with Jacob Black, a werewolf. But before she knows it, she's thrust into a centuries-old conflict, and her desire to be with Edward at any cost leads her to take greater and greater risks."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Practical Magic 2",
+    "startTime": "2026-09-19T21:40:00-07:00",
+    "sourceUrl": "https://scenef.com/go/2bc3bea703cc",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Hope",
+    "startTime": "2026-09-20T11:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/8d63d4209f57",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions."
+  },
+  {
+    "theater": "Alamo",
     "title": "Resident Evil",
     "startTime": "2026-09-20T12:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/6192c969d627",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Oasis: Don't Look Back in Anger",
+    "startTime": "2026-09-20T12:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/df137fd84ef3",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Experience the meteoric rise of Oasis through rare footage and untold stories as the band reunites for Oasis Live '25, chronicling their journey from Manchester streets to global rock stardom."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Practical Magic 2",
+    "startTime": "2026-09-20T13:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/51fd522904b2",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all."
   },
   {
     "theater": "Alamo",
@@ -2457,11 +2801,35 @@
   },
   {
     "theater": "Alamo",
+    "title": "Hope",
+    "startTime": "2026-09-20T15:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/6e9b1e572d4e",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Practical Magic 2",
+    "startTime": "2026-09-20T15:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/df495cc04496",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all."
+  },
+  {
+    "theater": "Alamo",
     "title": "Ghost in the Shell",
     "startTime": "2026-09-20T16:20:00-07:00",
     "sourceUrl": "https://scenef.com/go/105780e7b03e",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as 'The Puppetmaster' begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Oasis: Don't Look Back in Anger",
+    "startTime": "2026-09-20T16:50:00-07:00",
+    "sourceUrl": "https://scenef.com/go/f2cb39506faf",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Experience the meteoric rise of Oasis through rare footage and untold stories as the band reunites for Oasis Live '25, chronicling their journey from Manchester streets to global rock stardom."
   },
   {
     "theater": "Alamo",
@@ -2473,11 +2841,67 @@
   },
   {
     "theater": "Alamo",
+    "title": "Practical Magic 2",
+    "startTime": "2026-09-20T18:45:00-07:00",
+    "sourceUrl": "https://scenef.com/go/58d679bd3afd",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Hope",
+    "startTime": "2026-09-20T19:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/aee971bb1f24",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions."
+  },
+  {
+    "theater": "Alamo",
     "title": "The Twilight Saga: New Moon",
     "startTime": "2026-09-20T19:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/f09ba3c7a0f8",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "Forks, Washington resident Bella Swan is reeling from the departure of her vampire love, Edward Cullen, and finds comfort in her friendship with Jacob Black, a werewolf. But before she knows it, she's thrust into a centuries-old conflict, and her desire to be with Edward at any cost leads her to take greater and greater risks."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Tony",
+    "startTime": "2026-09-20T20:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/afc6aa04d3a3",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Chronovisor",
+    "startTime": "2026-09-21T13:40:00-07:00",
+    "sourceUrl": "https://scenef.com/go/556922df9ad5",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A French academic is seduced into a world of untold histories in her scholarly quest to uncover the mystery of a history-capturing camera-like machine created by clandestine Benedictine monks. An academic-noir, armchair mystery in the lineage of Jorge Luis Borges and Umberto Eco."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Practical Magic 2",
+    "startTime": "2026-09-21T14:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/7608de48677c",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Hope",
+    "startTime": "2026-09-21T14:45:00-07:00",
+    "sourceUrl": "https://scenef.com/go/418866ebb0ca",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Resident Evil",
+    "startTime": "2026-09-21T15:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/80af4e8592d4",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos."
   },
   {
     "theater": "Alamo",
@@ -2497,6 +2921,38 @@
   },
   {
     "theater": "Alamo",
+    "title": "Hope",
+    "startTime": "2026-09-21T17:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/786c6186d5ae",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Resident Evil",
+    "startTime": "2026-09-21T18:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/dcde20aa6ea0",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Oasis: Don't Look Back in Anger",
+    "startTime": "2026-09-21T18:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/95e70b7360d2",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Experience the meteoric rise of Oasis through rare footage and untold stories as the band reunites for Oasis Live '25, chronicling their journey from Manchester streets to global rock stardom."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Practical Magic 2",
+    "startTime": "2026-09-21T18:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/2e3135c298b2",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all."
+  },
+  {
+    "theater": "Alamo",
     "title": "Crunchyroll Anime Night Sneak Peek (9/21/2026)",
     "startTime": "2026-09-21T19:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/b2e30e12775b",
@@ -2505,11 +2961,115 @@
   },
   {
     "theater": "Alamo",
-    "title": "Ghost in the Shell",
+    "title": "Hope",
+    "startTime": "2026-09-21T21:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/f32ca487a7e1",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Resident Evil",
+    "startTime": "2026-09-21T21:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/e763649daf6a",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Oasis: Don't Look Back in Anger",
+    "startTime": "2026-09-21T21:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/0c3e96dbcb29",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Experience the meteoric rise of Oasis through rare footage and untold stories as the band reunites for Oasis Live '25, chronicling their journey from Manchester streets to global rock stardom."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Tony",
+    "startTime": "2026-09-21T21:50:00-07:00",
+    "sourceUrl": "https://scenef.com/go/1f20b8ed23e2",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Practical Magic 2",
+    "startTime": "2026-09-21T22:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/cf5b83fc19d3",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Hope",
+    "startTime": "2026-09-22T14:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/2fe2370c2749",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Practical Magic 2",
+    "startTime": "2026-09-22T14:40:00-07:00",
+    "sourceUrl": "https://scenef.com/go/8f450df04d5c",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Resident Evil",
     "startTime": "2026-09-22T15:00:00-07:00",
-    "sourceUrl": "https://scenef.com/go/5a909bd6e2a0",
+    "sourceUrl": "https://scenef.com/go/b93071fa2767",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Oasis: Don't Look Back in Anger",
+    "startTime": "2026-09-22T15:50:00-07:00",
+    "sourceUrl": "https://scenef.com/go/d49de9892c33",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Experience the meteoric rise of Oasis through rare footage and untold stories as the band reunites for Oasis Live '25, chronicling their journey from Manchester streets to global rock stardom."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Ghost in the Shell",
+    "startTime": "2026-09-22T16:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/fd84d203cf2d",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as 'The Puppetmaster' begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Hope",
+    "startTime": "2026-09-22T17:45:00-07:00",
+    "sourceUrl": "https://scenef.com/go/d506d7032538",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Practical Magic 2",
+    "startTime": "2026-09-22T18:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/b7bac49d8bdb",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Oasis: Don't Look Back in Anger",
+    "startTime": "2026-09-22T18:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/14c317cb9f7e",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Experience the meteoric rise of Oasis through rare footage and untold stories as the band reunites for Oasis Live '25, chronicling their journey from Manchester streets to global rock stardom."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Resident Evil",
+    "startTime": "2026-09-22T18:40:00-07:00",
+    "sourceUrl": "https://scenef.com/go/b9237d44b8c6",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos."
   },
   {
     "theater": "Alamo",
@@ -2521,11 +3081,83 @@
   },
   {
     "theater": "Alamo",
+    "title": "Hope",
+    "startTime": "2026-09-22T21:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/1d3b8d2ef511",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Resident Evil",
+    "startTime": "2026-09-22T21:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/0e35e0fb1d86",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Practical Magic 2",
+    "startTime": "2026-09-22T21:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/23d890dd624b",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all."
+  },
+  {
+    "theater": "Alamo",
     "title": "Event Horizon",
     "startTime": "2026-09-22T21:30:00-07:00",
     "sourceUrl": "https://scenef.com/go/71f034fae444",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "In 2047, a group of astronauts are sent to investigate and salvage the starship Event Horizon which disappeared mysteriously seven years before on its maiden voyage. However, it soon becomes evident that something sinister resides in its corridors."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Tony",
+    "startTime": "2026-09-22T21:40:00-07:00",
+    "sourceUrl": "https://scenef.com/go/58c28be42afe",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Oasis: Don't Look Back in Anger",
+    "startTime": "2026-09-23T15:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/9059eef4ec73",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Experience the meteoric rise of Oasis through rare footage and untold stories as the band reunites for Oasis Live '25, chronicling their journey from Manchester streets to global rock stardom."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Resident Evil",
+    "startTime": "2026-09-23T15:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/ca86e6bfec27",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Hope",
+    "startTime": "2026-09-23T15:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/74e8a07b416f",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Practical Magic 2",
+    "startTime": "2026-09-23T15:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/2b447548cdfd",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Tony",
+    "startTime": "2026-09-23T15:40:00-07:00",
+    "sourceUrl": "https://scenef.com/go/0465e2003df4",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life."
   },
   {
     "theater": "Alamo",
@@ -2537,11 +3169,59 @@
   },
   {
     "theater": "Alamo",
+    "title": "Oasis: Don't Look Back in Anger",
+    "startTime": "2026-09-23T18:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/c13edca899a3",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Experience the meteoric rise of Oasis through rare footage and untold stories as the band reunites for Oasis Live '25, chronicling their journey from Manchester streets to global rock stardom."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Resident Evil",
+    "startTime": "2026-09-23T18:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/b7d7643cca94",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Practical Magic 2",
+    "startTime": "2026-09-23T18:40:00-07:00",
+    "sourceUrl": "https://scenef.com/go/e026026f7204",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Practical Magic 2",
+    "startTime": "2026-09-23T21:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/4b4d5cabfcbc",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Hope",
+    "startTime": "2026-09-23T21:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/335533250667",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions."
+  },
+  {
+    "theater": "Alamo",
     "title": "Capone Cries a Lot",
     "startTime": "2026-09-23T21:30:00-07:00",
     "sourceUrl": "https://scenef.com/go/21d0d4f215a4",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "Umiemon is a naniwa-bushi singer who travels with his wife to the United States in hopes of achieving fame and fortune."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Resident Evil",
+    "startTime": "2026-09-23T22:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/da3623726788",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos."
   },
   {
     "theater": "Alamo",
@@ -2702,6 +3382,14 @@
     "sourceUrl": "https://scenef.com/go/557e6a398e43",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "Young Gregory Tudor sees his local ice cream man murdered and later grows up to inherit his business, opting to inject gruesome ingredients—including human body parts—into his frozen confections. When one of the neighborhood boys goes missing, the local kids suspect Gregory and band together to get to the bottom of things."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Terminator",
+    "startTime": "2026-09-30T18:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/1d7531f6649d",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In the post-apocalyptic future, reigning tyrannical supercomputers teleport a cyborg assassin known as the \"Terminator\" back to 1984 to kill Sarah Connor, whose unborn son is destined to lead insurgents against 21st century mechanical hegemony. Meanwhile, the human-resistance movement dispatches a lone warrior to safeguard Sarah. Can he stop the virtually indestructible killing machine?"
   },
   {
     "theater": "Alamo",
