@@ -1,16 +1,24 @@
 {
   "slug": "roxie",
   "theater": "Roxie",
-  "generatedAt": "2026-09-14T13:51:14.735Z",
+  "generatedAt": "2026-09-15T13:51:37.085Z",
   "status": "discrepancies",
   "report": {
-    "matched": 86,
+    "matched": 78,
     "timeMismatches": [],
     "titleMismatches": [],
     "oursOnly": [
       {
+        "title": "Teenage Sex and Death at Camp Miasma",
+        "startTime": "2026-09-15T20:10:00-07:00"
+      },
+      {
         "title": "ZYZZYVA Movie Night with Ingrid Rojas Contreras: Songs of Earth",
         "startTime": "2026-09-17T18:00:00-07:00"
+      },
+      {
+        "title": "Filipiñana",
+        "startTime": "2026-09-18T18:00:00-07:00"
       },
       {
         "title": "Floating Features: The Rock",
@@ -23,10 +31,6 @@
       {
         "title": "Filipiñana",
         "startTime": "2026-09-19T15:10:00-07:00"
-      },
-      {
-        "title": "Teenage Sex and Death at Camp Miasma",
-        "startTime": "2026-09-20T19:20:00-07:00"
       },
       {
         "title": "Floating Features: Bullitt",
@@ -45,6 +49,10 @@
         "startTime": "2026-10-11T15:00:00-07:00"
       },
       {
+        "title": "3rd i 2026: TechnoCats",
+        "startTime": "2026-10-11T15:00:00-07:00"
+      },
+      {
         "title": "Floating Features: The Game",
         "startTime": "2026-10-16T19:00:00-07:00"
       },
@@ -57,7 +65,32 @@
         "startTime": "2026-10-30T19:00:00-07:00"
       }
     ],
-    "scenefOnly": [],
+    "scenefOnly": [
+      {
+        "title": "3rd i 2026: Sand City",
+        "startTime": "2026-10-10T13:00:00-07:00"
+      },
+      {
+        "title": "3rd i 2026: The Great Shamsuddin Family",
+        "startTime": "2026-10-10T17:15:00-07:00"
+      },
+      {
+        "title": "3rd i 2026: Lali",
+        "startTime": "2026-10-10T19:45:00-07:00"
+      },
+      {
+        "title": "3rd i 2026: Eternal Trees, Eternal Mountains",
+        "startTime": "2026-10-11T12:15:00-07:00"
+      },
+      {
+        "title": "3rd i 2026: Ghost School",
+        "startTime": "2026-10-11T14:00:00-07:00"
+      },
+      {
+        "title": "3rd i 2026: The Loyal Man",
+        "startTime": "2026-10-11T16:00:00-07:00"
+      }
+    ],
     "collapsedDuplicates": 0,
     "excluded": {
       "ours": 4,

@@ -1,10 +1,10 @@
 [
   {
     "theater": "Roxie",
-    "title": "Black Swan",
-    "startTime": "2026-10-01T18:30:00-07:00",
-    "sourceUrl": "https://roxie.com/film/black-swan/#showtimes-20261001-1830",
-    "synopsis": "Nina (Natalie Portman) is a ballerina in a New York City ballet company whose life is completely consumed by dance. When artistic director Thomas […]"
+    "title": "SpookFest 2026",
+    "startTime": "2026-10-08T18:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/spookfest-2026/#showtimes-20261008-1800",
+    "synopsis": "Now in its tenth year, SpookFest is the film festival that goes bump in the night! We scavenged the crypts, summoned the demons, and […]"
   },
   {
     "theater": "Roxie",
@@ -12,6 +12,13 @@
     "startTime": "2026-10-01T18:30:00-07:00",
     "sourceUrl": "https://roxie.com/film/black-swan-perfect-blue/#showtimes-20261001-1830",
     "synopsis": "Presented by Spoke Art Gallery as part of their ongoing series of curated alternative film posters. Featuring two new limited edition screen prints by […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Black Swan",
+    "startTime": "2026-10-01T18:30:00-07:00",
+    "sourceUrl": "https://roxie.com/film/black-swan/#showtimes-20261001-1830",
+    "synopsis": "Nina (Natalie Portman) is a ballerina in a New York City ballet company whose life is completely consumed by dance. When artistic director Thomas […]"
   },
   {
     "theater": "Roxie",
@@ -43,6 +50,13 @@
   },
   {
     "theater": "Roxie",
+    "title": "Chronovisor",
+    "startTime": "2026-10-03T15:10:00-07:00",
+    "sourceUrl": "https://roxie.com/film/chronovisor/#showtimes-20261003-1510",
+    "synopsis": "An armchair mystery in which the life of a reclusive academic collides with the story of a clandestine technology that can photograph the past. […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "The Healing WELL Fundraiser: Figaro Up, Figaro Down",
     "startTime": "2026-10-04T12:30:00-07:00",
     "sourceUrl": "https://roxie.com/film/the-healing-well-fundraiser-figaro-up-figaro-down/#showtimes-20261004-1230",
@@ -58,9 +72,9 @@
   {
     "theater": "Roxie",
     "title": "SpookFest 2026",
-    "startTime": "2026-10-08T18:00:00-07:00",
-    "sourceUrl": "https://roxie.com/film/spookfest-2026/#showtimes-20261008-1800",
-    "synopsis": "Now in its tenth year, SpookFest is the film festival that goes bump in the night! We scavenged the crypts, summoned the demons, and […]"
+    "startTime": "2026-10-08T19:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/spookfest-2026/#showtimes-20261008-1900",
+    "synopsis": "Doors open at 6:30PM! Costume contest starts at 6:50PM! Now in its tenth year, SpookFest is the film festival that goes bump in the […]"
   },
   {
     "theater": "Roxie",
@@ -75,6 +89,13 @@
     "startTime": "2026-10-11T15:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/river-of-life-lgbtq/#showtimes-20261011-1500",
     "synopsis": "Followed by a Q&A with filmmaker Grace Walcott and cast members after the show! River of Life LGBTQ+, directed by drama therapist Grace Walcott, […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "3rd i 2026: TechnoCats",
+    "startTime": "2026-10-11T15:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/3rd-i-2026-technocats/#showtimes-20261011-1500",
+    "synopsis": "At India’s elite Indian Institutes of Technology (IIT), a “Cat” is someone who aces everything. These engineering schools have produced the CEOs of Google, […]"
   },
   {
     "theater": "Roxie",
