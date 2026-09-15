@@ -1,23 +1,24 @@
 {
   "slug": "vogue",
   "theater": "Vogue",
-  "generatedAt": "2026-09-14T13:33:08.388Z",
+  "generatedAt": "2026-09-15T13:32:34.053Z",
   "status": "discrepancies",
   "report": {
     "matched": 36,
     "timeMismatches": [],
-    "titleMismatches": [],
-    "oursOnly": [],
-    "scenefOnly": [
+    "titleMismatches": [
       {
-        "title": "The Playboy of the Western World",
-        "startTime": "2026-09-14T19:00:00-07:00"
+        "startTime": "2026-10-26T19:00:00-07:00",
+        "ourTitle": "National Theatre Live: Frankenstein",
+        "scenefTitle": "NT LIVE: FRANKENSTEIN w/ Miller as Creature"
       }
     ],
+    "oursOnly": [],
+    "scenefOnly": [],
     "collapsedDuplicates": 0,
     "excluded": {
-      "ours": 3,
-      "scenef": 4
+      "ours": 0,
+      "scenef": 1
     }
   }
 }
