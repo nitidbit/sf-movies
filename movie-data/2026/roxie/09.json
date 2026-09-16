@@ -595,13 +595,6 @@
   },
   {
     "theater": "Roxie",
-    "title": "Teenage Sex and Death at Camp Miasma",
-    "startTime": "2026-09-20T19:20:00-07:00",
-    "sourceUrl": "https://roxie.com/film/teenage-sex-and-death-at-camp-miasma/#showtimes-20260920-1920",
-    "synopsis": "Visionary director Jane Schoenbrun (I Saw the TV Glow) presents a new kind of horror remake in TEENAGE SEX AND DEATH AT CAMP MIASMA. […]"
-  },
-  {
-    "theater": "Roxie",
     "title": "Dead Souls",
     "startTime": "2026-09-25T18:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/dead-souls/#showtimes-20260925-1800",
@@ -847,6 +840,13 @@
   },
   {
     "theater": "Roxie",
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "startTime": "2026-09-20T19:20:00-07:00",
+    "sourceUrl": "https://roxie.com/film/teenage-sex-and-death-at-camp-miasma/#showtimes-20260920-1920",
+    "synopsis": "Visionary director Jane Schoenbrun (I Saw the TV Glow) presents a new kind of horror remake in TEENAGE SEX AND DEATH AT CAMP MIASMA. […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "Barbara Forever",
     "startTime": "2026-09-21T18:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/barbara-forever/#showtimes-20260921-1800",
@@ -875,17 +875,17 @@
   },
   {
     "theater": "Roxie",
-    "title": "Barbara Forever",
-    "startTime": "2026-09-22T18:00:00-07:00",
-    "sourceUrl": "https://roxie.com/film/barbara-forever/#showtimes-20260922-1800",
-    "synopsis": "EXECUTIVE PRODUCED BY KRISTEN STEWART WINNER, TEDDY AWARD FOR BEST DOCUMENTARY, 2026 BERLIN FILM FESTIVAL   Director Brydie O’Connor IN PERSON for Q&A on Friday, […]"
-  },
-  {
-    "theater": "Roxie",
     "title": "The Oldest Person In The World",
     "startTime": "2026-09-22T18:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/the-oldest-person-in-the-world/#showtimes-20260922-1800",
     "synopsis": "Filmmaker Sam Green will be in attendance for a post-screening Q&A at all three screenings! KQED’s Alexis Madrigal moderates following the Sun, 9/20, 12:30pm […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Barbara Forever",
+    "startTime": "2026-09-22T18:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/barbara-forever/#showtimes-20260922-1800",
+    "synopsis": "EXECUTIVE PRODUCED BY KRISTEN STEWART WINNER, TEDDY AWARD FOR BEST DOCUMENTARY, 2026 BERLIN FILM FESTIVAL   Director Brydie O’Connor IN PERSON for Q&A on Friday, […]"
   },
   {
     "theater": "Roxie",

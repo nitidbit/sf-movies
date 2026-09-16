@@ -8,17 +8,17 @@
   },
   {
     "theater": "Roxie",
-    "title": "Black Swan + Perfect Blue",
-    "startTime": "2026-10-01T18:30:00-07:00",
-    "sourceUrl": "https://roxie.com/film/black-swan-perfect-blue/#showtimes-20261001-1830",
-    "synopsis": "Presented by Spoke Art Gallery as part of their ongoing series of curated alternative film posters. Featuring two new limited edition screen prints by […]"
-  },
-  {
-    "theater": "Roxie",
     "title": "Black Swan",
     "startTime": "2026-10-01T18:30:00-07:00",
     "sourceUrl": "https://roxie.com/film/black-swan/#showtimes-20261001-1830",
     "synopsis": "Nina (Natalie Portman) is a ballerina in a New York City ballet company whose life is completely consumed by dance. When artistic director Thomas […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Black Swan + Perfect Blue",
+    "startTime": "2026-10-01T18:30:00-07:00",
+    "sourceUrl": "https://roxie.com/film/black-swan-perfect-blue/#showtimes-20261001-1830",
+    "synopsis": "Presented by Spoke Art Gallery as part of their ongoing series of curated alternative film posters. Featuring two new limited edition screen prints by […]"
   },
   {
     "theater": "Roxie",
@@ -36,10 +36,38 @@
   },
   {
     "theater": "Roxie",
+    "title": "Traces of Home",
+    "startTime": "2026-10-02T18:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/traces-of-home/#showtimes-20261002-1800",
+    "synopsis": "Filmmaker Colette Ghunim in person for post-screening Q&A on Friday, October 2! Filmed over five years and featuring evocative animation and archival footage, Traces […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "New People: Hausu",
+    "startTime": "2026-10-02T18:30:00-07:00",
+    "sourceUrl": "https://roxie.com/film/new-people-hausu/#showtimes-20261002-1830",
+    "synopsis": "This screening will take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. How to describe Nobuhiko Obayashi’s indescribable 1977 movie Hausu? […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "Floating Features: Jaws",
     "startTime": "2026-10-02T19:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/floating-features-jaws-2/#showtimes-20261002-1900",
     "synopsis": "When a gigantic great white shark begins to menace the small island community of Amity, a police chief, a marine scientist and grizzled fisherman […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Don’t Play With Fire",
+    "startTime": "2026-10-02T20:15:00-07:00",
+    "sourceUrl": "https://roxie.com/film/dont-play-with-fire/#showtimes-20261002-2015",
+    "synopsis": "Now presented in a new 2k restoration supervised by the director himself. Don’t Play with Fire (aka Dangerous Encounters of the First Kind), directed […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "New People: Funeral Parade Of Roses",
+    "startTime": "2026-10-02T20:30:00-07:00",
+    "sourceUrl": "https://roxie.com/film/funeral-parade-of-roses/#showtimes-20261002-2030",
+    "synopsis": "This screening will take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. One of the most subversive and intoxicating films […]"
   },
   {
     "theater": "Roxie",
@@ -78,6 +106,13 @@
   },
   {
     "theater": "Roxie",
+    "title": "New People: Never After Dark",
+    "startTime": "2026-10-09T18:15:00-07:00",
+    "sourceUrl": "https://roxie.com/film/new-people-never-after-dark/#showtimes-20261009-1815",
+    "synopsis": "This screening will take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. Never After Dark follows Airi, a wandering medium […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "Floating Features: Top Gun",
     "startTime": "2026-10-09T19:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/floating-features-top-gun-2/#showtimes-20261009-1900",
@@ -103,6 +138,13 @@
     "startTime": "2026-10-11T18:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/tenor-my-name-is-pati/#showtimes-20261011-1800",
     "synopsis": "Pene Pati & filmmaker Rebecca Tansley IN PERSON Sun, Oct 11! Tenor: My Name is Pati, a new documentary that tells the remarkable story […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "New People: Jigoku",
+    "startTime": "2026-10-16T18:15:00-07:00",
+    "sourceUrl": "https://roxie.com/film/new-people-jigoku/#showtimes-20261016-1815",
+    "synopsis": "This screening will take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. Shocking, outrageous, and poetic, Jigoku (Hell, a.k.a. The […]"
   },
   {
     "theater": "Roxie",
@@ -141,10 +183,24 @@
   },
   {
     "theater": "Roxie",
+    "title": "New People: Take Me Home",
+    "startTime": "2026-10-23T18:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/new-people-take-me-home/#showtimes-20261023-1800",
+    "synopsis": "This screening will take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. Director Liz Sargent in person for a post-screening […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "Floating Features: Hocus Pocus",
     "startTime": "2026-10-23T19:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/floating-features-hocus-pocus-2/#showtimes-20261023-1900",
     "synopsis": "After three centuries, three witch sisters are resurrected in Salem, Massachusetts on Halloween night, and it is up to two teenagers, a young girl, […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Playing with Fire: An Ecosexual Emergency",
+    "startTime": "2026-10-25T13:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/playing-with-fire-an-ecosexual-emergency/#showtimes-20261025-1300",
+    "synopsis": "Beth Stephens & Annie Sprinkle IN PERSON! Playing with Fire: An Ecosexual Emergency is a joyous ecosexual documentary born from the ashes of California’s […]"
   },
   {
     "theater": "Roxie",
@@ -173,5 +229,12 @@
     "startTime": "2026-10-31T15:30:00-07:00",
     "sourceUrl": "https://roxie.com/film/dance-thrill-fest-vi/#showtimes-20261031-1530",
     "synopsis": "Dance Thrill Fest VI is the 6th iteration of an annual dance film festival curated by REYES Dance featuring short dance film works by […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "New People: The Snake Girl and the Silver-Haired Witch",
+    "startTime": "2026-10-31T16:45:00-07:00",
+    "sourceUrl": "https://roxie.com/film/new-people-the-snake-girl-and-the-silver-haired-witch/#showtimes-20261031-1645",
+    "synopsis": "This screening will take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. This movie feels like it was dreamed into […]"
   }
 ]

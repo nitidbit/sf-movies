@@ -1,17 +1,13 @@
 {
   "slug": "roxie",
   "theater": "Roxie",
-  "generatedAt": "2026-09-15T13:51:37.085Z",
+  "generatedAt": "2026-09-16T13:52:12.839Z",
   "status": "discrepancies",
   "report": {
-    "matched": 78,
+    "matched": 76,
     "timeMismatches": [],
     "titleMismatches": [],
     "oursOnly": [
-      {
-        "title": "Teenage Sex and Death at Camp Miasma",
-        "startTime": "2026-09-15T20:10:00-07:00"
-      },
       {
         "title": "ZYZZYVA Movie Night with Ingrid Rojas Contreras: Songs of Earth",
         "startTime": "2026-09-17T18:00:00-07:00"
@@ -37,8 +33,24 @@
         "startTime": "2026-09-25T19:00:00-07:00"
       },
       {
+        "title": "New People: Hausu",
+        "startTime": "2026-10-02T18:30:00-07:00"
+      },
+      {
         "title": "Floating Features: Jaws",
         "startTime": "2026-10-02T19:00:00-07:00"
+      },
+      {
+        "title": "Don’t Play With Fire",
+        "startTime": "2026-10-02T20:15:00-07:00"
+      },
+      {
+        "title": "New People: Funeral Parade Of Roses",
+        "startTime": "2026-10-02T20:30:00-07:00"
+      },
+      {
+        "title": "New People: Never After Dark",
+        "startTime": "2026-10-09T18:15:00-07:00"
       },
       {
         "title": "Floating Features: Top Gun",
@@ -53,8 +65,16 @@
         "startTime": "2026-10-11T15:00:00-07:00"
       },
       {
+        "title": "New People: Jigoku",
+        "startTime": "2026-10-16T18:15:00-07:00"
+      },
+      {
         "title": "Floating Features: The Game",
         "startTime": "2026-10-16T19:00:00-07:00"
+      },
+      {
+        "title": "New People: Take Me Home",
+        "startTime": "2026-10-23T18:00:00-07:00"
       },
       {
         "title": "Floating Features: Hocus Pocus",
@@ -63,9 +83,21 @@
       {
         "title": "Floating Features: Us",
         "startTime": "2026-10-30T19:00:00-07:00"
+      },
+      {
+        "title": "New People: The Snake Girl and the Silver-Haired Witch",
+        "startTime": "2026-10-31T16:45:00-07:00"
       }
     ],
     "scenefOnly": [
+      {
+        "title": "Filipiñana",
+        "startTime": "2026-09-27T17:40:00-07:00"
+      },
+      {
+        "title": "Don't Play With Fire",
+        "startTime": "2026-10-02T20:45:00-07:00"
+      },
       {
         "title": "3rd i 2026: Sand City",
         "startTime": "2026-10-10T13:00:00-07:00"
@@ -93,7 +125,7 @@
     ],
     "collapsedDuplicates": 0,
     "excluded": {
-      "ours": 4,
+      "ours": 5,
       "scenef": 0
     }
   }
