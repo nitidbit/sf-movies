@@ -1,7 +1,7 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-09-15T13:43:38.479Z",
+  "generatedAt": "2026-09-16T13:43:10.919Z",
   "status": "discrepancies",
   "report": {
     "matched": 10,
@@ -97,6 +97,10 @@
         "startTime": "2026-09-27T10:00:00-07:00"
       },
       {
+        "title": "Roll Fog (Preview Screening Fundraiser with Q&A)",
+        "startTime": "2026-10-03T15:00:00-07:00"
+      },
+      {
         "title": "LIVE MUSIC: Resavoir, Cheflee (Presented by THROWIN' BO'S)",
         "startTime": "2026-10-25T20:00:00-07:00"
       }
@@ -113,6 +117,10 @@
       {
         "title": "My Neighbor Totoro",
         "startTime": "2026-09-27T15:00:00-07:00"
+      },
+      {
+        "title": "Elephant Gym: More Real Than Dreams",
+        "startTime": "2026-10-11T19:00:00-07:00"
       }
     ],
     "collapsedDuplicates": 0,
