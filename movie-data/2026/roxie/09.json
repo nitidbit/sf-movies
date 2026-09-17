@@ -595,20 +595,6 @@
   },
   {
     "theater": "Roxie",
-    "title": "Dead Souls",
-    "startTime": "2026-09-25T18:00:00-07:00",
-    "sourceUrl": "https://roxie.com/film/dead-souls/#showtimes-20260925-1800",
-    "synopsis": "For his directorial swan song, Alex Cox (Repo Man, Straight To Hell) stars in this frontier fable of American greed, playing the mysterious drifter […]"
-  },
-  {
-    "theater": "Roxie",
-    "title": "Dead Souls",
-    "startTime": "2026-09-26T18:15:00-07:00",
-    "sourceUrl": "https://roxie.com/film/dead-souls/#showtimes-20260926-1815",
-    "synopsis": "For his directorial swan song, Alex Cox (Repo Man, Straight To Hell) stars in this frontier fable of American greed, playing the mysterious drifter […]"
-  },
-  {
-    "theater": "Roxie",
     "title": "Filipiñana",
     "startTime": "2026-09-27T17:15:00-07:00",
     "sourceUrl": "https://roxie.com/film/filipinana/#showtimes-20260927-1715",
@@ -959,10 +945,24 @@
   },
   {
     "theater": "Roxie",
+    "title": "Dead Souls",
+    "startTime": "2026-09-25T18:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/dead-souls/#showtimes-20260925-1800",
+    "synopsis": "Composer Dan Wool in person to the Sunday, Sept 27 show! For his directorial swan song, Alex Cox (Repo Man, Straight To Hell) stars […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "Floating Features: Bullitt",
     "startTime": "2026-09-25T19:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/floating-features-bullitt/#showtimes-20260925-1900",
     "synopsis": "An all guts, no glory San Francisco cop becomes determined to find the underworld kingpin that killed the witness in his protection. About Floating Features […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Filipiñana",
+    "startTime": "2026-09-25T20:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/filipinana/#showtimes-20260925-2000",
+    "synopsis": "Director Rafael Manuel in person for introduction and Q&A moderated by Ali El-Sadany, editor of FilmSlop, on Saturday, September 5 (at rush). Presented by FiliKula […]"
   },
   {
     "theater": "Roxie",
@@ -1015,6 +1015,20 @@
   },
   {
     "theater": "Roxie",
+    "title": "Dead Souls",
+    "startTime": "2026-09-26T18:15:00-07:00",
+    "sourceUrl": "https://roxie.com/film/dead-souls/#showtimes-20260926-1815",
+    "synopsis": "Composer Dan Wool in person to the Sunday, Sept 27 show! For his directorial swan song, Alex Cox (Repo Man, Straight To Hell) stars […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "startTime": "2026-09-26T20:20:00-07:00",
+    "sourceUrl": "https://roxie.com/film/teenage-sex-and-death-at-camp-miasma/#showtimes-20260926-2020",
+    "synopsis": "Visionary director Jane Schoenbrun (I Saw the TV Glow) presents a new kind of horror remake in TEENAGE SEX AND DEATH AT CAMP MIASMA. […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "Re:Vision: Lepers & Sex AKA Santo vs The Riders of Terror",
     "startTime": "2026-09-26T21:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/revision-lepers-sex-aka-santo-vs-the-riders-of-terror/#showtimes-20260926-2100",
@@ -1039,7 +1053,7 @@
     "title": "Dead Souls",
     "startTime": "2026-09-27T15:10:00-07:00",
     "sourceUrl": "https://roxie.com/film/dead-souls/#showtimes-20260927-1510",
-    "synopsis": "For his directorial swan song, Alex Cox (Repo Man, Straight To Hell) stars in this frontier fable of American greed, playing the mysterious drifter […]"
+    "synopsis": "Composer Dan Wool in person to the Sunday, Sept 27 show! For his directorial swan song, Alex Cox (Repo Man, Straight To Hell) stars […]"
   },
   {
     "theater": "Roxie",
@@ -1050,10 +1064,24 @@
   },
   {
     "theater": "Roxie",
+    "title": "Filipiñana",
+    "startTime": "2026-09-27T17:40:00-07:00",
+    "sourceUrl": "https://roxie.com/film/filipinana/#showtimes-20260927-1740",
+    "synopsis": "Director Rafael Manuel in person for introduction and Q&A moderated by Ali El-Sadany, editor of FilmSlop, on Saturday, September 5 (at rush). Presented by FiliKula […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "Re:Vision: 8 Girls in a Boat",
     "startTime": "2026-09-27T18:10:00-07:00",
     "sourceUrl": "https://roxie.com/film/revision-8-girls-in-a-boat/#showtimes-20260927-1810",
     "synopsis": "Co-presented by National Film Preservation Foundation and CAFILM Introduced by David Stenn At an all-girls school in Switzerland, Christa Storm (Dorothy Wilson) is a […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "The Cycle of Love",
+    "startTime": "2026-09-27T19:50:00-07:00",
+    "sourceUrl": "https://roxie.com/film/the-cycle-of-love/#showtimes-20260927-1950",
+    "synopsis": "Director Orlando von Einsiedel IN PERSON in conversation with filmmakers Dayna Goldfine & Dan Geller, Wed, Sept 9!! In 1977, PK, a 23-year-old Delhi […]"
   },
   {
     "theater": "Roxie",
@@ -1085,9 +1113,44 @@
   },
   {
     "theater": "Roxie",
+    "title": "Gandahar (4K Restoration)",
+    "startTime": "2026-09-29T18:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/gandahar-4k-restoration/#showtimes-20260929-1800",
+    "synopsis": "The long-awaited 4K restoration of René Laloux’s final masterpiece reveals one of animation’s most astonishing science-fiction visions. An entire civilization must confront its destiny […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Ghost in the Shell: 30th Anniversary Remaster",
+    "startTime": "2026-09-29T20:15:00-07:00",
+    "sourceUrl": "https://roxie.com/film/ghost-in-the-shell-30th-anniversary-remaster/#showtimes-20260929-2015",
+    "synopsis": "“My codename is Project 2501, and I am a life form that was born in a sea of information.” In the year 2029, the […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "D.E.B.S.",
     "startTime": "2026-09-30T18:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/d-e-b-s/#showtimes-20260930-1800",
     "synopsis": "Sapphic Cinema Social Club at The Roxie. A Quarterly Showcase of Classic + New Queer Cinema, Culture, and Community. Sapphic Cinema Social Club is […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "American Doctor",
+    "startTime": "2026-09-30T18:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/american-doctor/#showtimes-20260930-1800",
+    "synopsis": "Co-presented by the Arab Film & Media Institute (AFMI) and the Jewish Film Institute From Oscar®-nominated and Emmy® Award-winning filmmaker Poh Si Teng, American Doctor follows three American […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Barbara Forever",
+    "startTime": "2026-09-30T20:05:00-07:00",
+    "sourceUrl": "https://roxie.com/film/barbara-forever/#showtimes-20260930-2005",
+    "synopsis": "EXECUTIVE PRODUCED BY KRISTEN STEWART WINNER, TEDDY AWARD FOR BEST DOCUMENTARY, 2026 BERLIN FILM FESTIVAL   Director Brydie O’Connor IN PERSON for Q&A on Friday, […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Mysterious Skin (4K Restoration)",
+    "startTime": "2026-09-30T20:20:00-07:00",
+    "sourceUrl": "https://roxie.com/film/mysterious-skin-4k-restoration/#showtimes-20260930-2020",
+    "synopsis": "Co-presented by Frameline. At the age of eight, Kansas youngsters Neil and Brian played on the same little league baseball team. Now, ten years […]"
   }
 ]

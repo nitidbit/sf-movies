@@ -1,12 +1,18 @@
 {
   "slug": "roxie",
   "theater": "Roxie",
-  "generatedAt": "2026-09-16T13:52:12.839Z",
+  "generatedAt": "2026-09-17T13:51:34.226Z",
   "status": "discrepancies",
   "report": {
-    "matched": 76,
+    "matched": 86,
     "timeMismatches": [],
-    "titleMismatches": [],
+    "titleMismatches": [
+      {
+        "startTime": "2026-10-18T12:30:00-07:00",
+        "ourTitle": "Carter Country",
+        "scenefTitle": "How to Marry a Millionaire"
+      }
+    ],
     "oursOnly": [
       {
         "title": "ZYZZYVA Movie Night with Ingrid Rojas Contreras: Songs of Earth",
@@ -29,6 +35,10 @@
         "startTime": "2026-09-19T15:10:00-07:00"
       },
       {
+        "title": "The Oldest Person In The World",
+        "startTime": "2026-09-20T12:30:00-07:00"
+      },
+      {
         "title": "Floating Features: Bullitt",
         "startTime": "2026-09-25T19:00:00-07:00"
       },
@@ -39,10 +49,6 @@
       {
         "title": "Floating Features: Jaws",
         "startTime": "2026-10-02T19:00:00-07:00"
-      },
-      {
-        "title": "Don’t Play With Fire",
-        "startTime": "2026-10-02T20:15:00-07:00"
       },
       {
         "title": "New People: Funeral Parade Of Roses",
@@ -57,6 +63,14 @@
         "startTime": "2026-10-09T19:00:00-07:00"
       },
       {
+        "title": "3rd i 2026: The Great Shamsuddin Family",
+        "startTime": "2026-10-10T17:15:00-07:00"
+      },
+      {
+        "title": "3rd i 2026: Lali",
+        "startTime": "2026-10-10T19:45:00-07:00"
+      },
+      {
         "title": "River of Life LGBTQ+",
         "startTime": "2026-10-11T15:00:00-07:00"
       },
@@ -65,7 +79,7 @@
         "startTime": "2026-10-11T15:00:00-07:00"
       },
       {
-        "title": "New People: Jigoku",
+        "title": "New People: Jigoku (4K Restoration)",
         "startTime": "2026-10-16T18:15:00-07:00"
       },
       {
@@ -89,40 +103,7 @@
         "startTime": "2026-10-31T16:45:00-07:00"
       }
     ],
-    "scenefOnly": [
-      {
-        "title": "Filipiñana",
-        "startTime": "2026-09-27T17:40:00-07:00"
-      },
-      {
-        "title": "Don't Play With Fire",
-        "startTime": "2026-10-02T20:45:00-07:00"
-      },
-      {
-        "title": "3rd i 2026: Sand City",
-        "startTime": "2026-10-10T13:00:00-07:00"
-      },
-      {
-        "title": "3rd i 2026: The Great Shamsuddin Family",
-        "startTime": "2026-10-10T17:15:00-07:00"
-      },
-      {
-        "title": "3rd i 2026: Lali",
-        "startTime": "2026-10-10T19:45:00-07:00"
-      },
-      {
-        "title": "3rd i 2026: Eternal Trees, Eternal Mountains",
-        "startTime": "2026-10-11T12:15:00-07:00"
-      },
-      {
-        "title": "3rd i 2026: Ghost School",
-        "startTime": "2026-10-11T14:00:00-07:00"
-      },
-      {
-        "title": "3rd i 2026: The Loyal Man",
-        "startTime": "2026-10-11T16:00:00-07:00"
-      }
-    ],
+    "scenefOnly": [],
     "collapsedDuplicates": 0,
     "excluded": {
       "ours": 5,

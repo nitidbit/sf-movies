@@ -8,6 +8,27 @@
   },
   {
     "theater": "Roxie",
+    "title": "Don’t Play With Fire",
+    "startTime": "2026-10-02T20:15:00-07:00",
+    "sourceUrl": "https://roxie.com/film/dont-play-with-fire/#showtimes-20261002-2015",
+    "synopsis": "Now presented in a new 2k restoration supervised by the director himself. Don’t Play with Fire (aka Dangerous Encounters of the First Kind), directed […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Dance Thrill Fest VI",
+    "startTime": "2026-10-31T15:30:00-07:00",
+    "sourceUrl": "https://roxie.com/film/dance-thrill-fest-vi/#showtimes-20261031-1530",
+    "synopsis": "Dance Thrill Fest VI is the 6th iteration of an annual dance film festival curated by REYES Dance featuring short dance film works by […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Dead Souls",
+    "startTime": "2026-10-01T18:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/dead-souls/#showtimes-20261001-1800",
+    "synopsis": "Composer Dan Wool in person to the Sunday, Sept 27 show! For his directorial swan song, Alex Cox (Repo Man, Straight To Hell) stars […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "Black Swan",
     "startTime": "2026-10-01T18:30:00-07:00",
     "sourceUrl": "https://roxie.com/film/black-swan/#showtimes-20261001-1830",
@@ -57,17 +78,17 @@
   },
   {
     "theater": "Roxie",
-    "title": "Don’t Play With Fire",
-    "startTime": "2026-10-02T20:15:00-07:00",
-    "sourceUrl": "https://roxie.com/film/dont-play-with-fire/#showtimes-20261002-2015",
-    "synopsis": "Now presented in a new 2k restoration supervised by the director himself. Don’t Play with Fire (aka Dangerous Encounters of the First Kind), directed […]"
-  },
-  {
-    "theater": "Roxie",
     "title": "New People: Funeral Parade Of Roses",
     "startTime": "2026-10-02T20:30:00-07:00",
     "sourceUrl": "https://roxie.com/film/funeral-parade-of-roses/#showtimes-20261002-2030",
     "synopsis": "This screening will take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. One of the most subversive and intoxicating films […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Don’t Play With Fire",
+    "startTime": "2026-10-02T20:45:00-07:00",
+    "sourceUrl": "https://roxie.com/film/dont-play-with-fire/#showtimes-20261002-2045",
+    "synopsis": "Now presented in a new 2k restoration supervised by the director himself. Don’t Play with Fire (aka Dangerous Encounters of the First Kind), directed […]"
   },
   {
     "theater": "Roxie",
@@ -120,6 +141,27 @@
   },
   {
     "theater": "Roxie",
+    "title": "3rd i 2026: Avie Luthra",
+    "startTime": "2026-10-09T19:30:00-07:00",
+    "sourceUrl": "https://roxie.com/film/3rd-i-2026-avie-luthra/#showtimes-20261009-1930",
+    "synopsis": "With post-screening Q&A with director Avie Luthra! For Opening Night, 3rd i Festival is thrilled to honor the creative genius of award-winning British-Indian director […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "3rd i 2026: The Great Shamsuddin Family",
+    "startTime": "2026-10-10T17:15:00-07:00",
+    "sourceUrl": "https://roxie.com/film/3rd-i-2026-the-great-shamsuddin-family/#showtimes-20261010-1715",
+    "synopsis": "A witty, razor-sharp, heartwarming social satire, acclaimed filmmaker Anusha Rizvi directs her latest tour de force (her first film, PEEPLI LIVE, was India’s offering […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "3rd i 2026: Lali",
+    "startTime": "2026-10-10T19:45:00-07:00",
+    "sourceUrl": "https://roxie.com/film/3rd-i-2026-lali/#showtimes-20261010-1945",
+    "synopsis": "Darkly comic and colorful, Sarmad Khoosat (producer, JOYLAND) directs a layered thriller in which ghosts walk among the living and prophecies weigh heavily on […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "River of Life LGBTQ+",
     "startTime": "2026-10-11T15:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/river-of-life-lgbtq/#showtimes-20261011-1500",
@@ -141,7 +183,14 @@
   },
   {
     "theater": "Roxie",
-    "title": "New People: Jigoku",
+    "title": "Hanging By A Wire",
+    "startTime": "2026-10-14T18:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/hanging-by-a-wire/#showtimes-20261014-1800",
+    "synopsis": "Director Mohammed Ali Naqvi on site for a post-screening Q&A. On the morning of August 22, 2023, eight passengers – six of them schoolboys […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "New People: Jigoku (4K Restoration)",
     "startTime": "2026-10-16T18:15:00-07:00",
     "sourceUrl": "https://roxie.com/film/new-people-jigoku/#showtimes-20261016-1815",
     "synopsis": "This screening will take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. Shocking, outrageous, and poetic, Jigoku (Hell, a.k.a. The […]"
@@ -166,6 +215,13 @@
     "startTime": "2026-10-17T12:30:00-07:00",
     "sourceUrl": "https://roxie.com/film/zyzzyva-movie-matinee-with-ingrid-rojas-contreras-amarcord/#showtimes-20261017-1230",
     "synopsis": "Co-presented by Zyzzyva Magazine and Litquake, San Francisco’s Literary Festival This year’s Litquake festival will take place October 8th-24th! For more information about Litquake’s festival and year-round […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Carter Country",
+    "startTime": "2026-10-18T12:30:00-07:00",
+    "sourceUrl": "https://roxie.com/film/carter-country/#showtimes-20261018-1230",
+    "synopsis": "Post-screening Q&A with special guests to be announced. Film Director and Writer Bobby Buccallato shares his documentary film debut of Carter Country, which follows […]"
   },
   {
     "theater": "Roxie",
@@ -226,8 +282,8 @@
   {
     "theater": "Roxie",
     "title": "Dance Thrill Fest VI",
-    "startTime": "2026-10-31T15:30:00-07:00",
-    "sourceUrl": "https://roxie.com/film/dance-thrill-fest-vi/#showtimes-20261031-1530",
+    "startTime": "2026-10-31T16:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/dance-thrill-fest-vi/#showtimes-20261031-1600",
     "synopsis": "Dance Thrill Fest VI is the 6th iteration of an annual dance film festival curated by REYES Dance featuring short dance film works by […]"
   },
   {
