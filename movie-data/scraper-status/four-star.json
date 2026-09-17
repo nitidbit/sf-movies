@@ -1,17 +1,12 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-09-16T13:43:10.919Z",
+  "generatedAt": "2026-09-17T13:43:19.920Z",
   "status": "discrepancies",
   "report": {
-    "matched": 10,
+    "matched": 13,
     "timeMismatches": [],
     "titleMismatches": [
-      {
-        "startTime": "2026-09-16T20:00:00-07:00",
-        "ourTitle": "LIVE MUSIC: Croz Boyce (Avey Tare and Geologist of Animal Collective), Jas Stade (Presented by folkYEAH!)",
-        "scenefTitle": "LIVE MUSIC: Croz Boyce, Jas Stade"
-      },
       {
         "startTime": "2026-09-18T20:00:00-07:00",
         "ourTitle": "LIVE MUSIC: Spencer Noble (Record Release), Peña, Cilantro",
@@ -44,14 +39,6 @@
       }
     ],
     "oursOnly": [
-      {
-        "title": "SF CRITTERFEST: Second Nature (with Ducks)",
-        "startTime": "2026-09-17T18:15:00-07:00"
-      },
-      {
-        "title": "COMEDY: Honey Pluton & Spike Einbinder",
-        "startTime": "2026-09-17T21:00:00-07:00"
-      },
       {
         "title": "4 Star Pokemon Cartoon Block",
         "startTime": "2026-09-19T10:00:00-07:00"
@@ -117,15 +104,11 @@
       {
         "title": "My Neighbor Totoro",
         "startTime": "2026-09-27T15:00:00-07:00"
-      },
-      {
-        "title": "Elephant Gym: More Real Than Dreams",
-        "startTime": "2026-10-11T19:00:00-07:00"
       }
     ],
     "collapsedDuplicates": 0,
     "excluded": {
-      "ours": 4,
+      "ours": 8,
       "scenef": 0
     }
   }
