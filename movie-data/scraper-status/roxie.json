@@ -1,10 +1,10 @@
 {
   "slug": "roxie",
   "theater": "Roxie",
-  "generatedAt": "2026-09-17T13:51:34.226Z",
+  "generatedAt": "2026-09-18T13:51:21.875Z",
   "status": "discrepancies",
   "report": {
-    "matched": 86,
+    "matched": 88,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -14,14 +14,6 @@
       }
     ],
     "oursOnly": [
-      {
-        "title": "ZYZZYVA Movie Night with Ingrid Rojas Contreras: Songs of Earth",
-        "startTime": "2026-09-17T18:00:00-07:00"
-      },
-      {
-        "title": "Filipiñana",
-        "startTime": "2026-09-18T18:00:00-07:00"
-      },
       {
         "title": "Floating Features: The Rock",
         "startTime": "2026-09-18T19:00:00-07:00"
@@ -55,6 +47,18 @@
         "startTime": "2026-10-02T20:30:00-07:00"
       },
       {
+        "title": "New People: Hausu",
+        "startTime": "2026-10-03T16:00:00-07:00"
+      },
+      {
+        "title": "New People: Funeral Parade Of Roses",
+        "startTime": "2026-10-03T18:10:00-07:00"
+      },
+      {
+        "title": "New People: The Last First: Winter K2",
+        "startTime": "2026-10-07T14:00:00-07:00"
+      },
+      {
         "title": "New People: Never After Dark",
         "startTime": "2026-10-09T18:15:00-07:00"
       },
@@ -63,20 +67,48 @@
         "startTime": "2026-10-09T19:00:00-07:00"
       },
       {
+        "title": "3rd i 2026: Avie Luthra",
+        "startTime": "2026-10-09T19:30:00-07:00"
+      },
+      {
+        "title": "3rd i 2026: Sand City",
+        "startTime": "2026-10-10T13:00:00-07:00"
+      },
+      {
+        "title": "3rd i 2026: TechnoCats",
+        "startTime": "2026-10-10T15:00:00-07:00"
+      },
+      {
         "title": "3rd i 2026: The Great Shamsuddin Family",
         "startTime": "2026-10-10T17:15:00-07:00"
+      },
+      {
+        "title": "New People: Never After Dark",
+        "startTime": "2026-10-10T18:00:00-07:00"
       },
       {
         "title": "3rd i 2026: Lali",
         "startTime": "2026-10-10T19:45:00-07:00"
       },
       {
+        "title": "3rd i 2026: Eternal Trees, Eternal Mountains",
+        "startTime": "2026-10-11T12:15:00-07:00"
+      },
+      {
+        "title": "3rd i 2026: Ghost School",
+        "startTime": "2026-10-11T14:00:00-07:00"
+      },
+      {
         "title": "River of Life LGBTQ+",
         "startTime": "2026-10-11T15:00:00-07:00"
       },
       {
-        "title": "3rd i 2026: TechnoCats",
-        "startTime": "2026-10-11T15:00:00-07:00"
+        "title": "3rd i 2026: The Loyal Man",
+        "startTime": "2026-10-11T16:00:00-07:00"
+      },
+      {
+        "title": "New People: Never After Dark",
+        "startTime": "2026-10-11T16:30:00-07:00"
       },
       {
         "title": "New People: Jigoku (4K Restoration)",
@@ -87,6 +119,18 @@
         "startTime": "2026-10-16T19:00:00-07:00"
       },
       {
+        "title": "New People: First They Came for My College",
+        "startTime": "2026-10-17T15:00:00-07:00"
+      },
+      {
+        "title": "New People: Jigoku (4K Restoration)",
+        "startTime": "2026-10-17T18:00:00-07:00"
+      },
+      {
+        "title": "New People: Jigoku (4K Restoration)",
+        "startTime": "2026-10-18T15:00:00-07:00"
+      },
+      {
         "title": "New People: Take Me Home",
         "startTime": "2026-10-23T18:00:00-07:00"
       },
@@ -95,18 +139,47 @@
         "startTime": "2026-10-23T19:00:00-07:00"
       },
       {
+        "title": "New People: The Great Experiment",
+        "startTime": "2026-10-29T18:00:00-07:00"
+      },
+      {
         "title": "Floating Features: Us",
         "startTime": "2026-10-30T19:00:00-07:00"
       },
       {
         "title": "New People: The Snake Girl and the Silver-Haired Witch",
         "startTime": "2026-10-31T16:45:00-07:00"
+      },
+      {
+        "title": "New People: The Gymnasts of Fisherman Colony",
+        "startTime": "2026-11-01T13:00:00-08:00"
+      },
+      {
+        "title": "An Evening with Jane Schoenbrun: Public Access Afterworld + I Saw the TV Glow",
+        "startTime": "2026-11-04T18:00:00-08:00"
+      },
+      {
+        "title": "Floating Features: Pacific Heights",
+        "startTime": "2026-11-06T19:00:00-08:00"
+      },
+      {
+        "title": "Floating Features: Friday the 13th",
+        "startTime": "2026-11-13T19:00:00-08:00"
+      },
+      {
+        "title": "New People: An Eye for an Eye",
+        "startTime": "2026-11-29T15:30:00-08:00"
       }
     ],
-    "scenefOnly": [],
+    "scenefOnly": [
+      {
+        "title": "Ha-Chan, Shake Your Booty!",
+        "startTime": "2026-10-09T18:00:00-07:00"
+      }
+    ],
     "collapsedDuplicates": 0,
     "excluded": {
-      "ours": 5,
+      "ours": 2,
       "scenef": 0
     }
   }
