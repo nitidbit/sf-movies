@@ -9,11 +9,27 @@
   },
   {
     "theater": "Alamo",
+    "title": "Dire Duplicity",
+    "startTime": "2026-10-01T21:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/379d9dc44b56",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A tormented secret agent with emotional and psychological problems attempts to stop an international cyber attack. This dark emotional mystery intensifies as he is betrayed by those he trusts and loves."
+  },
+  {
+    "theater": "Alamo",
     "title": "Blue Velvet",
     "startTime": "2026-10-04T12:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/ed00cc81a453",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "The discovery of a severed human ear found in a field leads a young man on an investigation related to a beautiful, mysterious nightclub singer and a group of psychopathic criminals who have kidnapped her child."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Ghost in the Cell",
+    "startTime": "2026-10-04T16:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/484b1e20dcd6",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In a notorious prison, an invisible force begins killing inmates brutally, compelling enemy gangs and corrupt guards to work together as they try to survive the mounting bloodshed."
   },
   {
     "theater": "Alamo",
@@ -25,11 +41,43 @@
   },
   {
     "theater": "Alamo",
+    "title": "Union County",
+    "startTime": "2026-10-06T16:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/c22c55094470",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Assigned to a county-mandated drug court program, Cody Parsons embarks on the tenuous journey toward recovery amid the opioid epidemic in rural Ohio."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The History of Concrete",
+    "startTime": "2026-10-06T19:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/367f16b0cc92",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete."
+  },
+  {
+    "theater": "Alamo",
     "title": "The Silence of the Lambs",
     "startTime": "2026-10-06T21:30:00-07:00",
     "sourceUrl": "https://scenef.com/go/1891f7d3360e",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "Clarice Starling is a top student at the FBI's training academy.  Jack Crawford wants Clarice to interview Dr. Hannibal Lecter, a brilliant psychiatrist who is also a violent psychopath, serving life behind bars for various acts of murder and cannibalism.  Crawford believes that Lecter may have insight into a case and that Starling, as an attractive young woman, may be just the bait to draw him out."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Union County",
+    "startTime": "2026-10-07T16:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/27a760d66496",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Assigned to a county-mandated drug court program, Cody Parsons embarks on the tenuous journey toward recovery amid the opioid epidemic in rural Ohio."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Ghost in the Cell",
+    "startTime": "2026-10-07T19:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/7c9dc0067242",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In a notorious prison, an invisible force begins killing inmates brutally, compelling enemy gangs and corrupt guards to work together as they try to survive the mounting bloodshed."
   },
   {
     "theater": "Alamo",
