@@ -1,10 +1,10 @@
 {
   "slug": "balboa",
   "theater": "Balboa",
-  "generatedAt": "2026-09-18T13:26:31.057Z",
+  "generatedAt": "2026-09-19T13:24:28.428Z",
   "status": "discrepancies",
   "report": {
-    "matched": 70,
+    "matched": 66,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -24,6 +24,10 @@
       }
     ],
     "oursOnly": [
+      {
+        "title": "Wildwood",
+        "startTime": "2026-10-23T18:00:00-07:00"
+      },
       {
         "title": "Wildwood",
         "startTime": "2026-10-24T13:00:00-07:00"
@@ -49,6 +53,10 @@
       {
         "title": "The International Vampire Film Fest",
         "startTime": "2026-10-17T22:30:00-07:00"
+      },
+      {
+        "title": "Wildwood",
+        "startTime": "2026-10-23T17:00:00-07:00"
       },
       {
         "title": "Wildwood",
