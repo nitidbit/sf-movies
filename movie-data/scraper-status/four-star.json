@@ -1,17 +1,12 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-09-18T13:42:48.276Z",
+  "generatedAt": "2026-09-19T13:40:18.694Z",
   "status": "discrepancies",
   "report": {
     "matched": 13,
     "timeMismatches": [],
     "titleMismatches": [
-      {
-        "startTime": "2026-09-18T20:00:00-07:00",
-        "ourTitle": "LIVE MUSIC: Spencer Noble (Record Release), Peña, Cilantro",
-        "scenefTitle": "LIVE MUSIC: Spencer Noble, Peña, Cilantro"
-      },
       {
         "startTime": "2026-09-21T20:00:00-07:00",
         "ourTitle": "LIVE MUSIC: Marlon Magnée (of La Femme), Future Twin",
@@ -117,7 +112,7 @@
     ],
     "collapsedDuplicates": 0,
     "excluded": {
-      "ours": 5,
+      "ours": 6,
       "scenef": 0
     }
   }
