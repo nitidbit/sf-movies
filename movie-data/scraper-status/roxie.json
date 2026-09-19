@@ -1,10 +1,10 @@
 {
   "slug": "roxie",
   "theater": "Roxie",
-  "generatedAt": "2026-09-18T13:51:21.875Z",
+  "generatedAt": "2026-09-19T13:51:30.813Z",
   "status": "discrepancies",
   "report": {
-    "matched": 88,
+    "matched": 85,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -14,10 +14,6 @@
       }
     ],
     "oursOnly": [
-      {
-        "title": "Floating Features: The Rock",
-        "startTime": "2026-09-18T19:00:00-07:00"
-      },
       {
         "title": "Larry Reed: A Life in Light and Shadow",
         "startTime": "2026-09-19T13:15:00-07:00"
@@ -56,11 +52,15 @@
       },
       {
         "title": "New People: The Last First: Winter K2",
-        "startTime": "2026-10-07T14:00:00-07:00"
+        "startTime": "2026-10-04T14:00:00-07:00"
       },
       {
         "title": "New People: Never After Dark",
         "startTime": "2026-10-09T18:15:00-07:00"
+      },
+      {
+        "title": "New People: NAZA",
+        "startTime": "2026-10-09T18:20:00-07:00"
       },
       {
         "title": "Floating Features: Top Gun",
@@ -77,6 +77,10 @@
       {
         "title": "3rd i 2026: TechnoCats",
         "startTime": "2026-10-10T15:00:00-07:00"
+      },
+      {
+        "title": "New People: NAZA",
+        "startTime": "2026-10-10T16:00:00-07:00"
       },
       {
         "title": "3rd i 2026: The Great Shamsuddin Family",
@@ -97,6 +101,10 @@
       {
         "title": "3rd i 2026: Ghost School",
         "startTime": "2026-10-11T14:00:00-07:00"
+      },
+      {
+        "title": "New People: NAZA",
+        "startTime": "2026-10-11T14:30:00-07:00"
       },
       {
         "title": "River of Life LGBTQ+",
@@ -169,12 +177,20 @@
       {
         "title": "New People: An Eye for an Eye",
         "startTime": "2026-11-29T15:30:00-08:00"
+      },
+      {
+        "title": "Cameron Winter at Carnegie Hall (35mm)",
+        "startTime": "2026-12-05T16:00:00-08:00"
       }
     ],
     "scenefOnly": [
       {
         "title": "Ha-Chan, Shake Your Booty!",
         "startTime": "2026-10-09T18:00:00-07:00"
+      },
+      {
+        "title": "The Piano Teacher",
+        "startTime": "2026-10-12T20:10:00-07:00"
       }
     ],
     "collapsedDuplicates": 0,
