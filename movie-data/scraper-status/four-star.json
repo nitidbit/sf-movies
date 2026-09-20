@@ -1,10 +1,10 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-09-19T13:40:18.694Z",
+  "generatedAt": "2026-09-20T13:40:57.506Z",
   "status": "discrepancies",
   "report": {
-    "matched": 13,
+    "matched": 11,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -39,18 +39,6 @@
       }
     ],
     "oursOnly": [
-      {
-        "title": "4 Star Pokemon Cartoon Block",
-        "startTime": "2026-09-19T10:00:00-07:00"
-      },
-      {
-        "title": "SF CRITTERFEST: Flamingos: Life After the Meteorite (with Talking to Owls)",
-        "startTime": "2026-09-19T12:00:00-07:00"
-      },
-      {
-        "title": "SF CRITTERFEST: Better Call Babs (with Other Shorts)",
-        "startTime": "2026-09-19T14:00:00-07:00"
-      },
       {
         "title": "4 Star Pokemon Cartoon Block",
         "startTime": "2026-09-20T10:00:00-07:00"
@@ -112,7 +100,7 @@
     ],
     "collapsedDuplicates": 0,
     "excluded": {
-      "ours": 6,
+      "ours": 5,
       "scenef": 0
     }
   }
