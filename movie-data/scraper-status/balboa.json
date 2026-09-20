@@ -1,17 +1,12 @@
 {
   "slug": "balboa",
   "theater": "Balboa",
-  "generatedAt": "2026-09-19T13:24:28.428Z",
+  "generatedAt": "2026-09-20T13:24:43.924Z",
   "status": "discrepancies",
   "report": {
-    "matched": 66,
+    "matched": 62,
     "timeMismatches": [],
     "titleMismatches": [
-      {
-        "startTime": "2026-09-19T20:00:00-07:00",
-        "ourTitle": "Comedy Night at the Balboa (Headliner Scott Capurro)",
-        "scenefTitle": "Comedy At The Balboa: Scott Capurro"
-      },
       {
         "startTime": "2026-09-22T19:00:00-07:00",
         "ourTitle": "Ghost Dog: Way of the Samurai",
@@ -43,10 +38,6 @@
     ],
     "scenefOnly": [
       {
-        "title": "Comedy Night at the Balboa (Headliner Scott Capurro)",
-        "startTime": "2026-09-19T19:30:00-07:00"
-      },
-      {
         "title": "Longlegs",
         "startTime": "2026-10-13T19:30:00-07:00"
       },
@@ -73,7 +64,7 @@
     ],
     "collapsedDuplicates": 0,
     "excluded": {
-      "ours": 3,
+      "ours": 4,
       "scenef": 0
     }
   }
