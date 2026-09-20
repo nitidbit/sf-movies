@@ -1,10 +1,10 @@
 {
   "slug": "roxie",
   "theater": "Roxie",
-  "generatedAt": "2026-09-19T13:51:30.813Z",
+  "generatedAt": "2026-09-20T13:51:39.685Z",
   "status": "discrepancies",
   "report": {
-    "matched": 85,
+    "matched": 79,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -15,20 +15,16 @@
     ],
     "oursOnly": [
       {
-        "title": "Larry Reed: A Life in Light and Shadow",
-        "startTime": "2026-09-19T13:15:00-07:00"
-      },
-      {
-        "title": "Filipiñana",
-        "startTime": "2026-09-19T15:10:00-07:00"
-      },
-      {
         "title": "The Oldest Person In The World",
         "startTime": "2026-09-20T12:30:00-07:00"
       },
       {
         "title": "Floating Features: Bullitt",
         "startTime": "2026-09-25T19:00:00-07:00"
+      },
+      {
+        "title": "The Cycle of Love",
+        "startTime": "2026-09-27T19:50:00-07:00"
       },
       {
         "title": "New People: Hausu",
