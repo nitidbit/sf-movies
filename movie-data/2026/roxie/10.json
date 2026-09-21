@@ -337,6 +337,13 @@
   },
   {
     "theater": "Roxie",
+    "title": "NAZA",
+    "startTime": "2026-10-16T19:05:00-07:00",
+    "sourceUrl": "https://roxie.com/film/naza/#showtimes-20261016-1905",
+    "synopsis": "NAZA screens at NEW PEOPLE October 9–11 before moving to The Roxie starting October 12. In secret conversations on the rooftops of Tel Aviv […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "3rd Annual Graveyard Shift",
     "startTime": "2026-10-16T21:30:00-07:00",
     "sourceUrl": "https://roxie.com/film/3rd-annual-graveyard-shift/#showtimes-20261016-2130",
