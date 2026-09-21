@@ -1,10 +1,10 @@
 {
   "slug": "balboa",
   "theater": "Balboa",
-  "generatedAt": "2026-09-20T13:24:43.924Z",
+  "generatedAt": "2026-09-21T13:28:40.482Z",
   "status": "discrepancies",
   "report": {
-    "matched": 62,
+    "matched": 57,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -19,6 +19,10 @@
       }
     ],
     "oursOnly": [
+      {
+        "title": "The History of Concrete",
+        "startTime": "2026-09-25T19:30:00-07:00"
+      },
       {
         "title": "Wildwood",
         "startTime": "2026-10-23T18:00:00-07:00"
@@ -64,7 +68,7 @@
     ],
     "collapsedDuplicates": 0,
     "excluded": {
-      "ours": 4,
+      "ours": 0,
       "scenef": 0
     }
   }
