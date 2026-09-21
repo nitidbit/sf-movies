@@ -321,6 +321,14 @@
   },
   {
     "theater": "Alamo",
+    "title": "The Cycle",
+    "startTime": "2026-10-20T19:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/90f50ffcdfd4",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A naked, blood-soaked man throws a corpse into a dimly lit basement. The cadaver lands against another body."
+  },
+  {
+    "theater": "Alamo",
     "title": "The Curse of the Werewolf",
     "startTime": "2026-10-20T21:15:00-07:00",
     "sourceUrl": "https://scenef.com/go/59d12644bf22",
