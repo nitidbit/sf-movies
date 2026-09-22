@@ -215,6 +215,14 @@
   },
   {
     "theater": "Balboa",
+    "title": "Vibeland Ep. 2",
+    "startTime": "2026-10-24T19:00:00-07:00",
+    "endTime": "2026-10-24T21:00:00-07:00",
+    "sourceUrl": "https://www.balboamovies.com/calendar-of-events/vibeland-2-october-24",
+    "synopsis": "VibelandEpisode 2Baby, Please Don’t Love Me Saturday, October 24"
+  },
+  {
+    "theater": "Balboa",
     "title": "Wildwood",
     "startTime": "2026-10-26T19:00:00-07:00",
     "endTime": "2026-10-26T21:30:00-07:00",
