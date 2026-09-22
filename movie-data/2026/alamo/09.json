@@ -3017,6 +3017,14 @@
   },
   {
     "theater": "Alamo",
+    "title": "Ghost in the Shell",
+    "startTime": "2026-09-22T16:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/fd84d203cf2d",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as 'The Puppetmaster' begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster."
+  },
+  {
+    "theater": "Alamo",
     "title": "Hope",
     "startTime": "2026-09-22T14:30:00-07:00",
     "sourceUrl": "https://scenef.com/go/2fe2370c2749",
@@ -3051,9 +3059,9 @@
     "theater": "Alamo",
     "title": "Ghost in the Shell",
     "startTime": "2026-09-22T16:00:00-07:00",
-    "sourceUrl": "https://scenef.com/go/fd84d203cf2d",
+    "sourceUrl": "https://scenef.com/go/c21b667aa740",
     "attribution": "Showtimes via SceneF.com",
-    "synopsis": "In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as 'The Puppetmaster' begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster."
+    "synopsis": "In the near future, Major is the first of her kind: a human saved from a terrible crash, then cyber-enhanced to be a perfect soldier devoted to stopping the world's most dangerous criminals."
   },
   {
     "theater": "Alamo",
@@ -3241,11 +3249,59 @@
   },
   {
     "theater": "Alamo",
+    "title": "Practical Magic 2",
+    "startTime": "2026-09-24T15:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/54d492e346ab",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all."
+  },
+  {
+    "theater": "Alamo",
+    "title": "American Doctor",
+    "startTime": "2026-09-24T15:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/a25349992c28",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "When three heroic American doctors — Palestinian, Jewish, and Zoroastrian — enter Gaza to save lives in the middle of a genocide, they find themselves caught between medicine and politics, risking everything to expose the truth."
+  },
+  {
+    "theater": "Alamo",
     "title": "Primetime",
     "startTime": "2026-09-24T16:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/3bf01845a955",
     "attribution": "Showtimes via SceneF.com",
-    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history."
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Resident Evil",
+    "startTime": "2026-09-24T16:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/8cf0c5792b89",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The History of Concrete",
+    "startTime": "2026-09-24T16:40:00-07:00",
+    "sourceUrl": "https://scenef.com/go/c32d321aeff2",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The History of Concrete",
+    "startTime": "2026-09-24T18:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/5fa4678c76e3",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Practical Magic 2",
+    "startTime": "2026-09-24T18:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/761cfaa9fbdf",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all."
   },
   {
     "theater": "Alamo",
@@ -3261,7 +3317,31 @@
     "startTime": "2026-09-24T19:10:00-07:00",
     "sourceUrl": "https://scenef.com/go/6db76fd00c00",
     "attribution": "Showtimes via SceneF.com",
-    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history."
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Resident Evil",
+    "startTime": "2026-09-24T19:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/14f63f98530f",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Hope",
+    "startTime": "2026-09-24T21:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/45b551edafc6",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Practical Magic 2",
+    "startTime": "2026-09-24T21:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/faafaa089e8f",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all."
   },
   {
     "theater": "Alamo",
@@ -3273,11 +3353,67 @@
   },
   {
     "theater": "Alamo",
+    "title": "Resident Evil",
+    "startTime": "2026-09-24T22:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/eeb255175aa8",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Primetime",
+    "startTime": "2026-09-24T22:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/13b4193f79fc",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Practical Magic 2",
+    "startTime": "2026-09-25T11:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/bbbe01aa9a0d",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all."
+  },
+  {
+    "theater": "Alamo",
     "title": "Primetime",
     "startTime": "2026-09-25T12:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/cfed59cab96c",
     "attribution": "Showtimes via SceneF.com",
-    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history."
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade."
+  },
+  {
+    "theater": "Alamo",
+    "title": "American Doctor",
+    "startTime": "2026-09-25T13:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/0105aeb3069e",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "When three heroic American doctors — Palestinian, Jewish, and Zoroastrian — enter Gaza to save lives in the middle of a genocide, they find themselves caught between medicine and politics, risking everything to expose the truth."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Resident Evil",
+    "startTime": "2026-09-25T13:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/3ff552cff335",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The History of Concrete",
+    "startTime": "2026-09-25T13:40:00-07:00",
+    "sourceUrl": "https://scenef.com/go/0e9c3b640bcc",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Practical Magic 2",
+    "startTime": "2026-09-25T14:45:00-07:00",
+    "sourceUrl": "https://scenef.com/go/51d00ca86fed",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all."
   },
   {
     "theater": "Alamo",
@@ -3285,7 +3421,47 @@
     "startTime": "2026-09-25T15:10:00-07:00",
     "sourceUrl": "https://scenef.com/go/23b87b7ba35d",
     "attribution": "Showtimes via SceneF.com",
-    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history."
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Destroy All Monsters",
+    "startTime": "2026-09-25T15:40:00-07:00",
+    "sourceUrl": "https://scenef.com/go/b97ec3e29735",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "At the turn of the century, all of the Earth's monsters have been rounded up and kept safely on Monsterland. Chaos erupts when a race of she-aliens known as the Kilaaks unleash the monsters across the world."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Resident Evil",
+    "startTime": "2026-09-25T16:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/a48f6605ed13",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The History of Concrete",
+    "startTime": "2026-09-25T16:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/f5be61a03c2f",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Practical Magic 2",
+    "startTime": "2026-09-25T18:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/afb7eb460589",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The History of Concrete",
+    "startTime": "2026-09-25T18:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/3dbe156f410a",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete."
   },
   {
     "theater": "Alamo",
@@ -3293,7 +3469,7 @@
     "startTime": "2026-09-25T18:20:00-07:00",
     "sourceUrl": "https://scenef.com/go/4c9862332abe",
     "attribution": "Showtimes via SceneF.com",
-    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history."
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade."
   },
   {
     "theater": "Alamo",
@@ -3305,6 +3481,38 @@
   },
   {
     "theater": "Alamo",
+    "title": "Resident Evil",
+    "startTime": "2026-09-25T19:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/3892d39ff546",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Hope",
+    "startTime": "2026-09-25T21:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/e064f3364d79",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Practical Magic 2",
+    "startTime": "2026-09-25T21:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/37941378f582",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Primetime",
+    "startTime": "2026-09-25T21:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/de68f8866496",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade."
+  },
+  {
+    "theater": "Alamo",
     "title": "Mystery Voyage",
     "startTime": "2026-09-25T21:45:00-07:00",
     "sourceUrl": "https://scenef.com/go/7e42e32e2616",
@@ -3313,11 +3521,51 @@
   },
   {
     "theater": "Alamo",
+    "title": "Resident Evil",
+    "startTime": "2026-09-25T22:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/f9c1ce9fa653",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos."
+  },
+  {
+    "theater": "Alamo",
     "title": "Primetime",
     "startTime": "2026-09-26T12:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/1b950b13bff3",
     "attribution": "Showtimes via SceneF.com",
-    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history."
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Practical Magic 2",
+    "startTime": "2026-09-26T12:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/51e42ddaf2b1",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The History of Concrete",
+    "startTime": "2026-09-26T12:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/f4c2f80bd462",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Resident Evil",
+    "startTime": "2026-09-26T13:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/850e5de6ab6e",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The History of Concrete",
+    "startTime": "2026-09-26T13:45:00-07:00",
+    "sourceUrl": "https://scenef.com/go/02b228f3562b",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete."
   },
   {
     "theater": "Alamo",
@@ -3325,7 +3573,23 @@
     "startTime": "2026-09-26T15:10:00-07:00",
     "sourceUrl": "https://scenef.com/go/08dc9dce5cd7",
     "attribution": "Showtimes via SceneF.com",
-    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history."
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Resident Evil",
+    "startTime": "2026-09-26T15:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/502953c1ae4c",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Practical Magic 2",
+    "startTime": "2026-09-26T15:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/9189a5ea7dd2",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all."
   },
   {
     "theater": "Alamo",
@@ -3337,11 +3601,59 @@
   },
   {
     "theater": "Alamo",
+    "title": "The History of Concrete",
+    "startTime": "2026-09-26T18:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/5a934b1297d1",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete."
+  },
+  {
+    "theater": "Alamo",
     "title": "Primetime",
     "startTime": "2026-09-26T18:20:00-07:00",
     "sourceUrl": "https://scenef.com/go/8744644bd2c3",
     "attribution": "Showtimes via SceneF.com",
-    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history."
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Practical Magic 2",
+    "startTime": "2026-09-26T18:45:00-07:00",
+    "sourceUrl": "https://scenef.com/go/880d318f5017",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Resident Evil",
+    "startTime": "2026-09-26T19:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/e012f5ae4d38",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Hope",
+    "startTime": "2026-09-26T20:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/9aa507d9b2f7",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Resident Evil",
+    "startTime": "2026-09-26T21:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/4aceffa59302",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Primetime",
+    "startTime": "2026-09-26T21:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/e55474e18a37",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade."
   },
   {
     "theater": "Alamo",
@@ -3353,6 +3665,14 @@
   },
   {
     "theater": "Alamo",
+    "title": "Practical Magic 2",
+    "startTime": "2026-09-26T22:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/211d7ab991f3",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all."
+  },
+  {
+    "theater": "Alamo",
     "title": "Destroy All Monsters",
     "startTime": "2026-09-27T12:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/0dfc228b9d36",
@@ -3361,11 +3681,35 @@
   },
   {
     "theater": "Alamo",
+    "title": "Practical Magic 2",
+    "startTime": "2026-09-27T12:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/3daa328eb2f9",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Resident Evil",
+    "startTime": "2026-09-27T12:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/02ac815bb503",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos."
+  },
+  {
+    "theater": "Alamo",
     "title": "Primetime",
     "startTime": "2026-09-27T12:30:00-07:00",
     "sourceUrl": "https://scenef.com/go/5bfbd6d3fb8f",
     "attribution": "Showtimes via SceneF.com",
-    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history."
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The History of Concrete",
+    "startTime": "2026-09-27T12:50:00-07:00",
+    "sourceUrl": "https://scenef.com/go/3adef1f8b8d7",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete."
   },
   {
     "theater": "Alamo",
@@ -3377,11 +3721,67 @@
   },
   {
     "theater": "Alamo",
+    "title": "Resident Evil",
+    "startTime": "2026-09-27T15:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/c825c1a0a45e",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Practical Magic 2",
+    "startTime": "2026-09-27T15:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/d701ffbb6a16",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all."
+  },
+  {
+    "theater": "Alamo",
     "title": "Primetime",
     "startTime": "2026-09-27T15:40:00-07:00",
     "sourceUrl": "https://scenef.com/go/82874689c529",
     "attribution": "Showtimes via SceneF.com",
-    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history."
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The History of Concrete",
+    "startTime": "2026-09-27T15:40:00-07:00",
+    "sourceUrl": "https://scenef.com/go/3fb2155fe08f",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Primetime",
+    "startTime": "2026-09-27T17:40:00-07:00",
+    "sourceUrl": "https://scenef.com/go/a8a65abac6bb",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Primetime",
+    "startTime": "2026-09-27T18:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/ca3b9d2b84e6",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Resident Evil",
+    "startTime": "2026-09-27T18:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/70324ab6929e",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Practical Magic 2",
+    "startTime": "2026-09-27T18:45:00-07:00",
+    "sourceUrl": "https://scenef.com/go/a968e4a8cb16",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all."
   },
   {
     "theater": "Alamo",
@@ -3393,11 +3793,115 @@
   },
   {
     "theater": "Alamo",
+    "title": "Primetime",
+    "startTime": "2026-09-28T14:50:00-07:00",
+    "sourceUrl": "https://scenef.com/go/38f0bf5e5ac2",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Practical Magic 2",
+    "startTime": "2026-09-28T15:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/2ed633090959",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Destroy All Monsters",
+    "startTime": "2026-09-28T16:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/453c19e6ea35",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "At the turn of the century, all of the Earth's monsters have been rounded up and kept safely on Monsterland. Chaos erupts when a race of she-aliens known as the Kilaaks unleash the monsters across the world."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Resident Evil",
+    "startTime": "2026-09-28T16:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/db4d210d956f",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The History of Concrete",
+    "startTime": "2026-09-28T16:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/b6e4892a73b5",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Primetime",
+    "startTime": "2026-09-28T18:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/5a2ce0bf9d22",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Practical Magic 2",
+    "startTime": "2026-09-28T18:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/7e716380847f",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Resident Evil",
+    "startTime": "2026-09-28T18:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/bff817c09850",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos."
+  },
+  {
+    "theater": "Alamo",
     "title": "The Birdcage",
     "startTime": "2026-09-28T19:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/9520274c6cfc",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "A gay cabaret owner and his drag queen partner agree to put up a false heterosexual front so that their son can introduce them to his fiancée's conservative parents."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The History of Concrete",
+    "startTime": "2026-09-28T19:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/ddde6a8cbb32",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Hope",
+    "startTime": "2026-09-28T21:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/4e76daf1d138",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Primetime",
+    "startTime": "2026-09-28T21:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/25a6f54fc610",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Practical Magic 2",
+    "startTime": "2026-09-28T21:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/0f12f0b7eb15",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Resident Evil",
+    "startTime": "2026-09-28T22:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/cfd19e13ac18",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos."
   },
   {
     "theater": "Alamo",
@@ -3409,11 +3913,67 @@
   },
   {
     "theater": "Alamo",
+    "title": "Practical Magic 2",
+    "startTime": "2026-09-29T14:45:00-07:00",
+    "sourceUrl": "https://scenef.com/go/308e0c6230ca",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Primetime",
+    "startTime": "2026-09-29T15:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/bc06e6b51012",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Resident Evil",
+    "startTime": "2026-09-29T15:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/e9c868f39863",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos."
+  },
+  {
+    "theater": "Alamo",
     "title": "Terminator 2: Judgment Day",
     "startTime": "2026-09-29T15:30:00-07:00",
     "sourceUrl": "https://scenef.com/go/04eadc4e5422",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "Ten years after the events of the original, a reprogrammed T-800 is sent back in time to protect young John Connor from the shape-shifting T-1000. Together with his mother Sarah, he fights to stop Skynet from triggering a nuclear apocalypse."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The History of Concrete",
+    "startTime": "2026-09-29T16:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/9ba11a62cb82",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Practical Magic 2",
+    "startTime": "2026-09-29T18:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/385449788d4f",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Resident Evil",
+    "startTime": "2026-09-29T18:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/5dc670728a38",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Primetime",
+    "startTime": "2026-09-29T18:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/1a034ef47b18",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade."
   },
   {
     "theater": "Alamo",
@@ -3425,11 +3985,107 @@
   },
   {
     "theater": "Alamo",
+    "title": "The History of Concrete",
+    "startTime": "2026-09-29T19:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/b5c7dec43f34",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Hope",
+    "startTime": "2026-09-29T21:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/2e3e2e59ca23",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Practical Magic 2",
+    "startTime": "2026-09-29T21:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/46d8c797a8f4",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all."
+  },
+  {
+    "theater": "Alamo",
     "title": "Ice Cream Man",
     "startTime": "2026-09-29T21:30:00-07:00",
     "sourceUrl": "https://scenef.com/go/557e6a398e43",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "Young Gregory Tudor sees his local ice cream man murdered and later grows up to inherit his business, opting to inject gruesome ingredients—including human body parts—into his frozen confections. When one of the neighborhood boys goes missing, the local kids suspect Gregory and band together to get to the bottom of things."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Resident Evil",
+    "startTime": "2026-09-29T21:50:00-07:00",
+    "sourceUrl": "https://scenef.com/go/71fbfc42172a",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Destroy All Monsters",
+    "startTime": "2026-09-29T22:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/9d4f696d13c9",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "At the turn of the century, all of the Earth's monsters have been rounded up and kept safely on Monsterland. Chaos erupts when a race of she-aliens known as the Kilaaks unleash the monsters across the world."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Practical Magic 2",
+    "startTime": "2026-09-30T14:45:00-07:00",
+    "sourceUrl": "https://scenef.com/go/ecd7977db280",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Primetime",
+    "startTime": "2026-09-30T15:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/da7453db3624",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The History of Concrete",
+    "startTime": "2026-09-30T15:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/0ca692ad1df7",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Destroy All Monsters",
+    "startTime": "2026-09-30T16:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/796c3ebe388d",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "At the turn of the century, all of the Earth's monsters have been rounded up and kept safely on Monsterland. Chaos erupts when a race of she-aliens known as the Kilaaks unleash the monsters across the world."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Resident Evil",
+    "startTime": "2026-09-30T16:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/484318e3ed0d",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Practical Magic 2",
+    "startTime": "2026-09-30T18:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/67621fc42956",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The History of Concrete",
+    "startTime": "2026-09-30T18:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/b0582ed4a86a",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete."
   },
   {
     "theater": "Alamo",
@@ -3441,10 +4097,58 @@
   },
   {
     "theater": "Alamo",
+    "title": "Primetime",
+    "startTime": "2026-09-30T18:40:00-07:00",
+    "sourceUrl": "https://scenef.com/go/694f1f197311",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Resident Evil",
+    "startTime": "2026-09-30T19:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/e3f0d8a70128",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Hope",
+    "startTime": "2026-09-30T21:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/b28529787578",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Practical Magic 2",
+    "startTime": "2026-09-30T21:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/2ade66bf6b0d",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all."
+  },
+  {
+    "theater": "Alamo",
     "title": "Prime Cut",
     "startTime": "2026-09-30T21:30:00-07:00",
     "sourceUrl": "https://scenef.com/go/1387af328570",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "A group of ruthless Chicago mob enforcers are sent to Kansas City to settle things with the owner of a slaughterhouse who has taken money that is not his to keep."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Primetime",
+    "startTime": "2026-09-30T21:45:00-07:00",
+    "sourceUrl": "https://scenef.com/go/2e91487cf3ca",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Resident Evil",
+    "startTime": "2026-09-30T22:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/c049e63b9273",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos."
   }
 ]
