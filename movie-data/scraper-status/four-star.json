@@ -1,17 +1,12 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-09-21T13:43:47.566Z",
+  "generatedAt": "2026-09-22T13:44:08.830Z",
   "status": "discrepancies",
   "report": {
-    "matched": 11,
+    "matched": 12,
     "timeMismatches": [],
     "titleMismatches": [
-      {
-        "startTime": "2026-09-21T20:00:00-07:00",
-        "ourTitle": "LIVE MUSIC: Marlon Magnée (of La Femme), Future Twin",
-        "scenefTitle": "LIVE MUSIC: Marlon Magnée (La Femme), Future Twin"
-      },
       {
         "startTime": "2026-09-24T20:00:00-07:00",
         "ourTitle": "LIVE MUSIC: Tom Conneely & the Birds of Paradise, My Dog Jack, Eliza Dewar",
@@ -28,7 +23,7 @@
         "scenefTitle": "LIVE MUSIC: Fred Frith, The Sleeves"
       },
       {
-        "startTime": "2026-10-08T20:00:00-07:00",
+        "startTime": "2026-10-08T19:30:00-07:00",
         "ourTitle": "LIVE MUSIC: Freight Train Lady (Record Release), Indianna Hale, Forest Floor",
         "scenefTitle": "MUSIC: Freight Train Lady, Indianna Hale & more"
       },
@@ -62,6 +57,10 @@
       {
         "title": "LIVE MUSIC: Resavoir, Cheflee (Presented by THROWIN' BO'S)",
         "startTime": "2026-10-25T20:00:00-07:00"
+      },
+      {
+        "title": "LIVE MUSIC: Green-House, Cool Maritime (Presented by THROWIN' BO'S)",
+        "startTime": "2026-11-04T20:00:00-08:00"
       },
       {
         "title": "LIVE MUSIC: School Fair, goldenstar, Poor Image (Presented by THROWIN' BO'S)",
