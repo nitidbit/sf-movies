@@ -1,7 +1,7 @@
 {
   "slug": "vogue",
   "theater": "Vogue",
-  "generatedAt": "2026-09-21T13:33:16.262Z",
+  "generatedAt": "2026-09-22T13:33:07.579Z",
   "status": "discrepancies",
   "report": {
     "matched": 22,
@@ -14,7 +14,108 @@
       }
     ],
     "oursOnly": [],
-    "scenefOnly": [],
+    "scenefOnly": [
+      {
+        "title": "Verity",
+        "startTime": "2026-10-01T16:30:00-07:00"
+      },
+      {
+        "title": "Verity",
+        "startTime": "2026-10-02T16:30:00-07:00"
+      },
+      {
+        "title": "Verity",
+        "startTime": "2026-10-02T19:30:00-07:00"
+      },
+      {
+        "title": "Verity",
+        "startTime": "2026-10-03T13:30:00-07:00"
+      },
+      {
+        "title": "Verity",
+        "startTime": "2026-10-03T16:30:00-07:00"
+      },
+      {
+        "title": "Verity",
+        "startTime": "2026-10-03T19:30:00-07:00"
+      },
+      {
+        "title": "Verity",
+        "startTime": "2026-10-04T13:00:00-07:00"
+      },
+      {
+        "title": "Verity",
+        "startTime": "2026-10-04T16:00:00-07:00"
+      },
+      {
+        "title": "Verity",
+        "startTime": "2026-10-04T19:00:00-07:00"
+      },
+      {
+        "title": "Verity",
+        "startTime": "2026-10-07T16:30:00-07:00"
+      },
+      {
+        "title": "Suspiria",
+        "startTime": "2026-10-07T19:30:00-07:00"
+      },
+      {
+        "title": "Verity",
+        "startTime": "2026-10-08T16:30:00-07:00"
+      },
+      {
+        "title": "Suspiria",
+        "startTime": "2026-10-08T19:30:00-07:00"
+      },
+      {
+        "title": "Verity",
+        "startTime": "2026-10-09T16:30:00-07:00"
+      },
+      {
+        "title": "Verity",
+        "startTime": "2026-10-09T19:30:00-07:00"
+      },
+      {
+        "title": "Verity",
+        "startTime": "2026-10-10T13:30:00-07:00"
+      },
+      {
+        "title": "Verity",
+        "startTime": "2026-10-10T16:30:00-07:00"
+      },
+      {
+        "title": "Verity",
+        "startTime": "2026-10-10T19:30:00-07:00"
+      },
+      {
+        "title": "Verity",
+        "startTime": "2026-10-11T13:00:00-07:00"
+      },
+      {
+        "title": "Verity",
+        "startTime": "2026-10-11T16:00:00-07:00"
+      },
+      {
+        "title": "Verity",
+        "startTime": "2026-10-11T19:00:00-07:00"
+      },
+      {
+        "title": "Verity",
+        "startTime": "2026-10-14T16:00:00-07:00"
+      },
+      {
+        "title": "Verity",
+        "startTime": "2026-10-15T16:30:00-07:00"
+      },
+      {
+        "title": "The Nightmare Before Christmas",
+        "startTime": "2026-10-20T17:00:00-07:00"
+      },
+      {
+        "title": "The Nightmare Before Christmas",
+        "startTime": "2026-10-20T19:30:00-07:00"
+      }
+    ],
     "collapsedDuplicates": 0,
     "excluded": {
       "ours": 0,
