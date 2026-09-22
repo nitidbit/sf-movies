@@ -43,6 +43,20 @@
   },
   {
     "theater": "Roxie",
+    "title": "Ghost in the Shell: 30th Anniversary Remaster",
+    "startTime": "2026-10-01T16:20:00-07:00",
+    "sourceUrl": "https://roxie.com/film/ghost-in-the-shell-30th-anniversary-remaster/#showtimes-20261001-1620",
+    "synopsis": "The Friday, September 18 screening is now at RUSH. “My codename is Project 2501, and I am a life form that was born in […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Filipiñana",
+    "startTime": "2026-10-01T18:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/filipinana/#showtimes-20261001-1800",
+    "synopsis": "Director Rafael Manuel in person for introduction and Q&A moderated by Ali El-Sadany, editor of FilmSlop, on Saturday, September 5 (at rush). Presented by FiliKula […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "Black Swan",
     "startTime": "2026-10-01T18:30:00-07:00",
     "sourceUrl": "https://roxie.com/film/black-swan/#showtimes-20261001-1830",
@@ -54,6 +68,13 @@
     "startTime": "2026-10-01T18:30:00-07:00",
     "sourceUrl": "https://roxie.com/film/black-swan-perfect-blue/#showtimes-20261001-1830",
     "synopsis": "Presented by Spoke Art Gallery as part of their ongoing series of curated alternative film posters. Featuring two new limited edition screen prints by […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "startTime": "2026-10-01T20:10:00-07:00",
+    "sourceUrl": "https://roxie.com/film/teenage-sex-and-death-at-camp-miasma/#showtimes-20261001-2010",
+    "synopsis": "Visionary director Jane Schoenbrun (I Saw the TV Glow) presents a new kind of horror remake in TEENAGE SEX AND DEATH AT CAMP MIASMA. […]"
   },
   {
     "theater": "Roxie",
@@ -92,6 +113,13 @@
   },
   {
     "theater": "Roxie",
+    "title": "Unzipped",
+    "startTime": "2026-10-02T20:10:00-07:00",
+    "sourceUrl": "https://roxie.com/film/unzipped/#showtimes-20261002-2010",
+    "synopsis": "NEW 4K RESTORATION This behind-the-scenes documentary takes a lighthearted look at the fashion industry through the launch of New York City designer Isaac Mizrahi’s […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "New People: Funeral Parade Of Roses",
     "startTime": "2026-10-02T20:30:00-07:00",
     "sourceUrl": "https://roxie.com/film/funeral-parade-of-roses/#showtimes-20261002-2030",
@@ -120,10 +148,31 @@
   },
   {
     "theater": "Roxie",
+    "title": "Filipiñana",
+    "startTime": "2026-10-03T15:10:00-07:00",
+    "sourceUrl": "https://roxie.com/film/filipinana/#showtimes-20261003-1510",
+    "synopsis": "Director Rafael Manuel in person for introduction and Q&A moderated by Ali El-Sadany, editor of FilmSlop, on Saturday, September 5 (at rush). Presented by FiliKula […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "New People: Hausu",
     "startTime": "2026-10-03T16:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/new-people-hausu/#showtimes-20261003-1600",
     "synopsis": "This screening will take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. How to describe Nobuhiko Obayashi’s indescribable 1977 movie Hausu? […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Unzipped",
+    "startTime": "2026-10-03T17:20:00-07:00",
+    "sourceUrl": "https://roxie.com/film/unzipped/#showtimes-20261003-1720",
+    "synopsis": "NEW 4K RESTORATION This behind-the-scenes documentary takes a lighthearted look at the fashion industry through the launch of New York City designer Isaac Mizrahi’s […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Perfect Blue",
+    "startTime": "2026-10-03T17:30:00-07:00",
+    "sourceUrl": "https://roxie.com/film/perfect-blue/#showtimes-20261003-1730",
+    "synopsis": "“Who are…you?” Mima Kirigoe, a former pop idol, makes a bold transition into acting, but her reinvention begins to fracture her sense of identity. […]"
   },
   {
     "theater": "Roxie",
@@ -134,6 +183,13 @@
   },
   {
     "theater": "Roxie",
+    "title": "Traces of Home",
+    "startTime": "2026-10-03T19:05:00-07:00",
+    "sourceUrl": "https://roxie.com/film/traces-of-home/#showtimes-20261003-1905",
+    "synopsis": "Filmmaker Colette Ghunim in person for post-screening Q&A on Friday, October 2! Filmed over five years and featuring evocative animation and archival footage, Traces […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "The Healing WELL Fundraiser: Figaro Up, Figaro Down",
     "startTime": "2026-10-04T12:30:00-07:00",
     "sourceUrl": "https://roxie.com/film/the-healing-well-fundraiser-figaro-up-figaro-down/#showtimes-20261004-1230",
@@ -141,10 +197,66 @@
   },
   {
     "theater": "Roxie",
+    "title": "Traces of Home",
+    "startTime": "2026-10-04T13:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/traces-of-home/#showtimes-20261004-1300",
+    "synopsis": "Filmmaker Colette Ghunim in person for post-screening Q&A on Friday, October 2! Filmed over five years and featuring evocative animation and archival footage, Traces […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "New People: The Last First: Winter K2",
     "startTime": "2026-10-04T14:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/new-people-the-last-first-winter-k2/#showtimes-20261004-1400",
     "synopsis": "This screening will take place at NEW PEOPLE CINEMA, located at 1746 Post street in Japantown. Followed by a post-screening Q&A with director Amir […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Unzipped",
+    "startTime": "2026-10-04T15:05:00-07:00",
+    "sourceUrl": "https://roxie.com/film/unzipped/#showtimes-20261004-1505",
+    "synopsis": "NEW 4K RESTORATION This behind-the-scenes documentary takes a lighthearted look at the fashion industry through the launch of New York City designer Isaac Mizrahi’s […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Kwaidan (4K Restoration)",
+    "startTime": "2026-10-04T15:10:00-07:00",
+    "sourceUrl": "https://roxie.com/film/kwaidan-4k-restoration/#showtimes-20261004-1510",
+    "synopsis": "Taking its title from an archaic Japanese word meaning “ghost story,” this anthology adapts four folk tales. A penniless samurai marries for money with […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Chronovisor",
+    "startTime": "2026-10-04T16:50:00-07:00",
+    "sourceUrl": "https://roxie.com/film/chronovisor/#showtimes-20261004-1650",
+    "synopsis": "An armchair mystery in which the life of a reclusive academic collides with the story of a clandestine technology that can photograph the past. […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Don’t Play With Fire",
+    "startTime": "2026-10-04T18:55:00-07:00",
+    "sourceUrl": "https://roxie.com/film/dont-play-with-fire/#showtimes-20261004-1855",
+    "synopsis": "Now presented in a new 2k restoration supervised by the director himself. Don’t Play with Fire (aka Dangerous Encounters of the First Kind), directed […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Traces of Home",
+    "startTime": "2026-10-05T18:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/traces-of-home/#showtimes-20261005-1800",
+    "synopsis": "Filmmaker Colette Ghunim in person for post-screening Q&A on Friday, October 2! Filmed over five years and featuring evocative animation and archival footage, Traces […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Chronovisor",
+    "startTime": "2026-10-05T18:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/chronovisor/#showtimes-20261005-1800",
+    "synopsis": "An armchair mystery in which the life of a reclusive academic collides with the story of a clandestine technology that can photograph the past. […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Filipiñana",
+    "startTime": "2026-10-06T18:15:00-07:00",
+    "sourceUrl": "https://roxie.com/film/filipinana/#showtimes-20261006-1815",
+    "synopsis": "Director Rafael Manuel in person for introduction and Q&A moderated by Ali El-Sadany, editor of FilmSlop, on Saturday, September 5 (at rush). Presented by FiliKula […]"
   },
   {
     "theater": "Roxie",
@@ -173,6 +285,13 @@
     "startTime": "2026-10-08T19:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/spookfest-2026/#showtimes-20261008-1900",
     "synopsis": "Doors open at 6:30PM! Costume contest starts at 6:50PM! Now in its tenth year, SpookFest is the film festival that goes bump in the […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Ha-Chan, Shake Your Booty!",
+    "startTime": "2026-10-09T18:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/ha-chan-shake-your-booty/#showtimes-20261009-1800",
+    "synopsis": "Haru and Luis love competing in Tokyo’s ballroom dance scene, but after tragedy strikes, Haru withdraws into isolation. When friends coax her back to […]"
   },
   {
     "theater": "Roxie",
@@ -299,6 +418,13 @@
     "startTime": "2026-10-12T18:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/naza/#showtimes-20261012-1800",
     "synopsis": "NAZA screens at NEW PEOPLE October 9–11 before moving to The Roxie starting October 12. In secret conversations on the rooftops of Tel Aviv […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Staff Pick: The Piano Teacher (35mm)",
+    "startTime": "2026-10-12T20:10:00-07:00",
+    "sourceUrl": "https://roxie.com/film/staff-pick-the-piano-teacher-35mm/#showtimes-20261012-2010",
+    "synopsis": "Alejo’s Staff Pick! Academy Award–winning Austrian director Michael Haneke shifted his focus from the social to the psychological for this riveting study of female […]"
   },
   {
     "theater": "Roxie",
