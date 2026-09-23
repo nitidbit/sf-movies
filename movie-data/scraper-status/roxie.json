@@ -1,23 +1,17 @@
 {
   "slug": "roxie",
   "theater": "Roxie",
-  "generatedAt": "2026-09-22T13:51:48.542Z",
+  "generatedAt": "2026-09-23T13:51:16.626Z",
   "status": "discrepancies",
   "report": {
-    "matched": 85,
-    "timeMismatches": [
-      {
-        "title": "Kwaidan (4K Restoration)",
-        "ourStartTime": "2026-10-04T15:10:00-07:00",
-        "scenefStartTime": "2026-10-04T15:15:00-07:00"
-      },
-      {
-        "title": "Don’t Play With Fire",
-        "ourStartTime": "2026-10-04T18:55:00-07:00",
-        "scenefStartTime": "2026-10-04T19:00:00-07:00"
-      }
-    ],
+    "matched": 87,
+    "timeMismatches": [],
     "titleMismatches": [
+      {
+        "startTime": "2026-10-07T18:00:00-07:00",
+        "ourTitle": "Zoé Presents: Memorex + Rexsexex y Más",
+        "scenefTitle": "Zoé: ‘MEMOREX + REXSEXEX Y MÁS’"
+      },
       {
         "startTime": "2026-10-18T12:30:00-07:00",
         "ourTitle": "Carter Country",
@@ -38,8 +32,8 @@
         "startTime": "2026-09-25T20:00:00-07:00"
       },
       {
-        "title": "Perfect Blue",
-        "startTime": "2026-10-01T20:50:00-07:00"
+        "title": "Mary Oliver: Saved by the Beauty of the World",
+        "startTime": "2026-09-29T20:00:00-07:00"
       },
       {
         "title": "New People: Hausu",
@@ -148,6 +142,10 @@
       {
         "title": "New People: Jigoku (4K Restoration)",
         "startTime": "2026-10-18T15:00:00-07:00"
+      },
+      {
+        "title": "The 9 Lives of Barbara Dane",
+        "startTime": "2026-10-18T15:10:00-07:00"
       },
       {
         "title": "New People: Take Me Home",
