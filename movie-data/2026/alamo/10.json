@@ -1,11 +1,27 @@
 [
   {
     "theater": "Alamo",
+    "title": "Digger",
+    "startTime": "2026-10-01T15:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/c6b7505dbfff",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything."
+  },
+  {
+    "theater": "Alamo",
     "title": "Terminator 2: Judgment Day",
     "startTime": "2026-10-01T18:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/5c341bceb94a",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "Ten years after the events of the original, a reprogrammed T-800 is sent back in time to protect young John Connor from the shape-shifting T-1000. Together with his mother Sarah, he fights to stop Skynet from triggering a nuclear apocalypse."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Digger",
+    "startTime": "2026-10-01T18:45:00-07:00",
+    "sourceUrl": "https://scenef.com/go/acb852d40874",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything."
   },
   {
     "theater": "Alamo",
@@ -17,6 +33,38 @@
   },
   {
     "theater": "Alamo",
+    "title": "Digger",
+    "startTime": "2026-10-02T14:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/d7cea708498c",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Digger",
+    "startTime": "2026-10-02T18:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/7140c8653740",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Digger",
+    "startTime": "2026-10-03T14:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/91d2da7eb006",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Digger",
+    "startTime": "2026-10-03T18:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/f5b6a347056f",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything."
+  },
+  {
+    "theater": "Alamo",
     "title": "Blue Velvet",
     "startTime": "2026-10-04T12:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/ed00cc81a453",
@@ -25,11 +73,27 @@
   },
   {
     "theater": "Alamo",
+    "title": "Digger",
+    "startTime": "2026-10-04T14:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/246338d6587c",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything."
+  },
+  {
+    "theater": "Alamo",
     "title": "Ghost in the Cell",
     "startTime": "2026-10-04T16:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/484b1e20dcd6",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "In a notorious prison, an invisible force begins killing inmates brutally, compelling enemy gangs and corrupt guards to work together as they try to survive the mounting bloodshed."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Digger",
+    "startTime": "2026-10-04T18:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/cbd574679a5b",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything."
   },
   {
     "theater": "Alamo",
@@ -86,6 +150,14 @@
     "sourceUrl": "https://scenef.com/go/7c9dc0067242",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "In a notorious prison, an invisible force begins killing inmates brutally, compelling enemy gangs and corrupt guards to work together as they try to survive the mounting bloodshed."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Hole",
+    "startTime": "2026-10-07T21:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/798c6ae665b8",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In the final days of the year 1999, almost everyone in Taiwan has died from a strange plague that ravished the island. As rain pours down relentlessly, a single man is stuck with an unfinished plumbing job and a hole in his floor. This results in a very odd relationship with the woman who lives below him."
   },
   {
     "theater": "Alamo",
