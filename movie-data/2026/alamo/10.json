@@ -1,6 +1,14 @@
 [
   {
     "theater": "Alamo",
+    "title": "The Cycle",
+    "startTime": "2026-10-20T19:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/90f50ffcdfd4",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A naked, blood-soaked man throws a corpse into a dimly lit basement. The cadaver lands against another body."
+  },
+  {
+    "theater": "Alamo",
     "title": "Digger",
     "startTime": "2026-10-01T15:10:00-07:00",
     "sourceUrl": "https://scenef.com/go/c6b7505dbfff",
@@ -353,6 +361,14 @@
   },
   {
     "theater": "Alamo",
+    "title": "Lisztomania",
+    "startTime": "2026-10-14T21:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/fb41aeae18b0",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In the 19th century, Romantic composer/pianist Franz Liszt tries to end his hedonistic ways but keeps getting sucked back in by his seductive fellow composer Richard Wagner."
+  },
+  {
+    "theater": "Alamo",
     "title": "The Devils",
     "startTime": "2026-10-15T19:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/405295ba17ed",
@@ -459,9 +475,9 @@
     "theater": "Alamo",
     "title": "The Cycle",
     "startTime": "2026-10-20T19:00:00-07:00",
-    "sourceUrl": "https://scenef.com/go/90f50ffcdfd4",
+    "sourceUrl": "https://scenef.com/go/4f1cc1fb1643",
     "attribution": "Showtimes via SceneF.com",
-    "synopsis": "A naked, blood-soaked man throws a corpse into a dimly lit basement. The cadaver lands against another body."
+    "synopsis": "A daughter unravels her father's dark past after his body, missing for 36 years, is found at a horrific crime scene."
   },
   {
     "theater": "Alamo",
