@@ -1,10 +1,10 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-09-23T13:43:56.297Z",
+  "generatedAt": "2026-09-24T13:45:04.288Z",
   "status": "discrepancies",
   "report": {
-    "matched": 12,
+    "matched": 11,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -55,6 +55,14 @@
         "startTime": "2026-10-03T15:00:00-07:00"
       },
       {
+        "title": "Roll Fog (Preview Screening Fundraiser with Q&A)",
+        "startTime": "2026-10-11T12:30:00-07:00"
+      },
+      {
+        "title": "Closed for a Private Event",
+        "startTime": "2026-10-11T15:30:00-07:00"
+      },
+      {
         "title": "LIVE MUSIC: Resavoir, Cheflee (Presented by THROWIN' BO'S)",
         "startTime": "2026-10-25T20:00:00-07:00"
       },
@@ -79,6 +87,22 @@
       {
         "title": "My Neighbor Totoro",
         "startTime": "2026-09-27T15:00:00-07:00"
+      },
+      {
+        "title": "House",
+        "startTime": "2026-10-24T12:45:00-07:00"
+      },
+      {
+        "title": "Evil Dead II",
+        "startTime": "2026-10-24T15:00:00-07:00"
+      },
+      {
+        "title": "It's the Great Pumpkin, Charlie Brown",
+        "startTime": "2026-10-30T18:00:00-07:00"
+      },
+      {
+        "title": "It",
+        "startTime": "2026-10-30T19:30:00-07:00"
       }
     ],
     "collapsedDuplicates": 0,
