@@ -1,10 +1,10 @@
 {
   "slug": "balboa",
   "theater": "Balboa",
-  "generatedAt": "2026-09-23T13:28:35.319Z",
+  "generatedAt": "2026-09-24T13:28:47.213Z",
   "status": "discrepancies",
   "report": {
-    "matched": 63,
+    "matched": 90,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -38,16 +38,8 @@
     ],
     "scenefOnly": [
       {
-        "title": "Fallen Angels",
-        "startTime": "2026-10-02T20:30:00-07:00"
-      },
-      {
         "title": "Digger",
         "startTime": "2026-10-03T17:00:00-07:00"
-      },
-      {
-        "title": "Nightbreed",
-        "startTime": "2026-10-03T19:30:00-07:00"
       },
       {
         "title": "Digger",
@@ -62,76 +54,20 @@
         "startTime": "2026-10-04T19:00:00-07:00"
       },
       {
-        "title": "Ugetsu",
-        "startTime": "2026-10-04T19:30:00-07:00"
+        "title": "The History of Concrete",
+        "startTime": "2026-10-05T17:00:00-07:00"
       },
       {
-        "title": "Killer of Sheep",
-        "startTime": "2026-10-05T19:30:00-07:00"
+        "title": "The History of Concrete",
+        "startTime": "2026-10-06T17:00:00-07:00"
       },
       {
         "title": "Beauty and the Beast",
         "startTime": "2026-10-06T19:30:00-07:00"
       },
       {
-        "title": "Edie Arnold Is a Loser",
-        "startTime": "2026-10-08T20:00:00-07:00"
-      },
-      {
-        "title": "The Faculty",
-        "startTime": "2026-10-09T19:30:00-07:00"
-      },
-      {
-        "title": "Clue",
-        "startTime": "2026-10-10T21:30:00-07:00"
-      },
-      {
-        "title": "All That Heaven Allows",
-        "startTime": "2026-10-11T17:00:00-07:00"
-      },
-      {
-        "title": "Clue",
-        "startTime": "2026-10-11T19:30:00-07:00"
-      },
-      {
-        "title": "Longlegs",
-        "startTime": "2026-10-13T19:30:00-07:00"
-      },
-      {
-        "title": "Event Horizon",
-        "startTime": "2026-10-14T19:30:00-07:00"
-      },
-      {
-        "title": "Blood and Black Lace",
-        "startTime": "2026-10-15T19:30:00-07:00"
-      },
-      {
-        "title": "Gummo",
-        "startTime": "2026-10-16T19:30:00-07:00"
-      },
-      {
         "title": "The International Vampire Film Fest",
         "startTime": "2026-10-17T22:30:00-07:00"
-      },
-      {
-        "title": "A Nightmare on Elm Street",
-        "startTime": "2026-10-18T14:30:00-07:00"
-      },
-      {
-        "title": "Versus",
-        "startTime": "2026-10-18T17:00:00-07:00"
-      },
-      {
-        "title": "A Nightmare on Elm Street",
-        "startTime": "2026-10-18T20:00:00-07:00"
-      },
-      {
-        "title": "Mad God",
-        "startTime": "2026-10-19T19:30:00-07:00"
-      },
-      {
-        "title": "Teen Witch",
-        "startTime": "2026-10-21T19:00:00-07:00"
       },
       {
         "title": "Wildwood",
@@ -146,40 +82,8 @@
         "startTime": "2026-10-25T16:00:00-07:00"
       },
       {
-        "title": "They Live",
-        "startTime": "2026-10-25T17:30:00-07:00"
-      },
-      {
         "title": "Wildwood",
         "startTime": "2026-10-25T19:00:00-07:00"
-      },
-      {
-        "title": "Frankenhooker",
-        "startTime": "2026-10-25T20:00:00-07:00"
-      },
-      {
-        "title": "Night Tide",
-        "startTime": "2026-10-26T19:30:00-07:00"
-      },
-      {
-        "title": "Night of the Living Dead",
-        "startTime": "2026-10-27T19:30:00-07:00"
-      },
-      {
-        "title": "Night of the Creeps",
-        "startTime": "2026-10-28T19:30:00-07:00"
-      },
-      {
-        "title": "The Exorcist",
-        "startTime": "2026-10-29T19:30:00-07:00"
-      },
-      {
-        "title": "Scream",
-        "startTime": "2026-10-30T19:30:00-07:00"
-      },
-      {
-        "title": "Scream",
-        "startTime": "2026-10-31T14:00:00-07:00"
       }
     ],
     "collapsedDuplicates": 0,
