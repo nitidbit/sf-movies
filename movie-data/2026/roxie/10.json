@@ -71,6 +71,13 @@
   },
   {
     "theater": "Roxie",
+    "title": "New People: Lady",
+    "startTime": "2026-10-01T18:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/new-people-lady/#showtimes-20261001-1800",
+    "synopsis": "This screening will take place at NEW PEOPLE CINEMA, located at 1746 Post street in Japantown. MEMBERS-ONLY SNEAK PREVIEW Roxie members are invited to […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "Black Swan",
     "startTime": "2026-10-01T18:30:00-07:00",
     "sourceUrl": "https://roxie.com/film/black-swan/#showtimes-20261001-1830",
@@ -271,6 +278,13 @@
     "startTime": "2026-10-05T18:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/chronovisor/#showtimes-20261005-1800",
     "synopsis": "An armchair mystery in which the life of a reclusive academic collides with the story of a clandestine technology that can photograph the past. […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Ghost in the Shell: 30th Anniversary Remaster",
+    "startTime": "2026-10-05T20:10:00-07:00",
+    "sourceUrl": "https://roxie.com/film/ghost-in-the-shell-30th-anniversary-remaster/#showtimes-20261005-2010",
+    "synopsis": "The Friday, September 18 screening is now at RUSH. “My codename is Project 2501, and I am a life form that was born in […]"
   },
   {
     "theater": "Roxie",
@@ -550,7 +564,7 @@
     "title": "The 9 Lives of Barbara Dane",
     "startTime": "2026-10-18T15:10:00-07:00",
     "sourceUrl": "https://roxie.com/film/the-9-lives-of-barbara-dane/#showtimes-20261018-1510",
-    "synopsis": "WOMEN’S REBEL VOICES FILM + MUSIC TOUR The Roxie & The Chapel 3:15 pm – Film Screening THE 9 LIVES OF BARBARA DANE at […]"
+    "synopsis": "WOMEN’S REBEL VOICES FILM + MUSIC TOUR Roxie + The Chapel 3:15 pm – Film Screening THE 9 LIVES OF BARBARA DANE at The […]"
   },
   {
     "theater": "Roxie",
@@ -586,6 +600,13 @@
     "startTime": "2026-10-23T19:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/floating-features-hocus-pocus-2/#showtimes-20261023-1900",
     "synopsis": "After three centuries, three witch sisters are resurrected in Salem, Massachusetts on Halloween night, and it is up to two teenagers, a young girl, […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "One In A Million",
+    "startTime": "2026-10-24T15:40:00-07:00",
+    "sourceUrl": "https://roxie.com/film/one-in-a-million/#showtimes-20261024-1540",
+    "synopsis": "Post-screening Q&A with director Jack MacInnes & film subject, Israa! Filmed over ten years, ONE IN A MILLION follows Israa from childhood to adulthood […]"
   },
   {
     "theater": "Roxie",

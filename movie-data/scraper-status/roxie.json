@@ -1,10 +1,10 @@
 {
   "slug": "roxie",
   "theater": "Roxie",
-  "generatedAt": "2026-09-23T13:51:16.626Z",
+  "generatedAt": "2026-09-24T13:52:33.692Z",
   "status": "discrepancies",
   "report": {
-    "matched": 87,
+    "matched": 86,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -32,8 +32,8 @@
         "startTime": "2026-09-25T20:00:00-07:00"
       },
       {
-        "title": "Mary Oliver: Saved by the Beauty of the World",
-        "startTime": "2026-09-29T20:00:00-07:00"
+        "title": "New People: Lady",
+        "startTime": "2026-10-01T18:00:00-07:00"
       },
       {
         "title": "New People: Hausu",
