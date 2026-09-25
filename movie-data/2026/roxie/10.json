@@ -57,6 +57,20 @@
   },
   {
     "theater": "Roxie",
+    "title": "Zoé Presents: Memorex + Rexsexex y Más",
+    "startTime": "2026-10-07T18:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/zoe-presents-memorex-rexsexex-y-mas/#showtimes-20261007-1800",
+    "synopsis": "6 GNP Stadiums in Mexico City. Over 380,000 souls. What happened across those six nights was farmore than an unprecedented record for Mexican rock; […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "New People: Never After Dark",
+    "startTime": "2026-10-09T18:15:00-07:00",
+    "sourceUrl": "https://roxie.com/film/new-people-never-after-dark/#showtimes-20261009-1815",
+    "synopsis": "This screening will take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. Never After Dark follows Airi, a wandering medium […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "Ghost in the Shell: 30th Anniversary Remaster",
     "startTime": "2026-10-01T16:20:00-07:00",
     "sourceUrl": "https://roxie.com/film/ghost-in-the-shell-30th-anniversary-remaster/#showtimes-20261001-1620",
@@ -267,6 +281,13 @@
   },
   {
     "theater": "Roxie",
+    "title": "Dead Souls",
+    "startTime": "2026-10-04T19:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/dead-souls/#showtimes-20261004-1900",
+    "synopsis": "Composer & Sound Designer Dan Wool, Animator Tom “Gibby” Gibbons, actor Ed Pansullo, and VFX Supervisor Ken Rogerson IN PERSON after the Sunday, Sept […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "Traces of Home",
     "startTime": "2026-10-05T18:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/traces-of-home/#showtimes-20261005-1800",
@@ -302,17 +323,17 @@
   },
   {
     "theater": "Roxie",
-    "title": "Zoé Presents: Memorex + Rexsexex y Más",
-    "startTime": "2026-10-07T18:00:00-07:00",
-    "sourceUrl": "https://roxie.com/film/zoe-presents-memorex-rexsexex-y-mas/#showtimes-20261007-1800",
-    "synopsis": "6 GNP Stadiums in Mexico City. Over 380,000 souls. What happened across those six nights was farmore than an unprecedented record for Mexican rock; […]"
-  },
-  {
-    "theater": "Roxie",
     "title": "Wrathbone",
     "startTime": "2026-10-07T18:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/wrathbone/#showtimes-20261007-1800",
     "synopsis": "Stick around after the screening for an in-depth Q&A with Steve, moderated by SpookFest co-founder Sam Haynor. International rock star Nigel Wrathbone had everything: […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Unzipped",
+    "startTime": "2026-10-08T18:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/unzipped/#showtimes-20261008-1800",
+    "synopsis": "NEW 4K RESTORATION This behind-the-scenes documentary takes a lighthearted look at the fashion industry through the launch of New York City designer Isaac Mizrahi’s […]"
   },
   {
     "theater": "Roxie",
@@ -323,17 +344,17 @@
   },
   {
     "theater": "Roxie",
+    "title": "Zoé Presents: Memorex + Rexsexex y Más",
+    "startTime": "2026-10-08T19:45:00-07:00",
+    "sourceUrl": "https://roxie.com/film/zoe-presents-memorex-rexsexex-y-mas/#showtimes-20261008-1945",
+    "synopsis": "6 GNP Stadiums in Mexico City. Over 380,000 souls. What happened across those six nights was farmore than an unprecedented record for Mexican rock; […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "Ha-Chan, Shake Your Booty!",
     "startTime": "2026-10-09T18:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/ha-chan-shake-your-booty/#showtimes-20261009-1800",
     "synopsis": "Haru and Luis love competing in Tokyo’s ballroom dance scene, but after tragedy strikes, Haru withdraws into isolation. When friends coax her back to […]"
-  },
-  {
-    "theater": "Roxie",
-    "title": "New People: Never After Dark",
-    "startTime": "2026-10-09T18:15:00-07:00",
-    "sourceUrl": "https://roxie.com/film/new-people-never-after-dark/#showtimes-20261009-1815",
-    "synopsis": "This screening will take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. Never After Dark follows Airi, a wandering medium […]"
   },
   {
     "theater": "Roxie",
@@ -355,6 +376,13 @@
     "startTime": "2026-10-09T19:30:00-07:00",
     "sourceUrl": "https://roxie.com/film/3rd-i-2026-avie-luthra/#showtimes-20261009-1930",
     "synopsis": "With post-screening Q&A with director Avie Luthra! For Opening Night, 3rd i Festival is thrilled to honor the creative genius of award-winning British-Indian director […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "New People: Never After Dark",
+    "startTime": "2026-10-09T20:20:00-07:00",
+    "sourceUrl": "https://roxie.com/film/new-people-never-after-dark/#showtimes-20261009-2020",
+    "synopsis": "This screening will take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. Never After Dark follows Airi, a wandering medium […]"
   },
   {
     "theater": "Roxie",
@@ -445,7 +473,7 @@
     "title": "Tenor: My Name is Pati",
     "startTime": "2026-10-11T18:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/tenor-my-name-is-pati/#showtimes-20261011-1800",
-    "synopsis": "Pene Pati & filmmaker Rebecca Tansley IN PERSON Sun, Oct 11! Tenor: My Name is Pati, a new documentary that tells the remarkable story […]"
+    "synopsis": "Q&A with Pene Pati & filmmaker Rebecca Tansley, moderated by New Zealand Film Commission Chief Executive, Annie Murray Sun, Oct 11! Tenor: My Name […]"
   },
   {
     "theater": "Roxie",
