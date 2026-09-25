@@ -1,17 +1,12 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-09-24T13:45:04.288Z",
+  "generatedAt": "2026-09-25T13:44:08.832Z",
   "status": "discrepancies",
   "report": {
     "matched": 11,
     "timeMismatches": [],
     "titleMismatches": [
-      {
-        "startTime": "2026-09-24T20:00:00-07:00",
-        "ourTitle": "LIVE MUSIC: Tom Conneely & the Birds of Paradise, My Dog Jack, Eliza Dewar",
-        "scenefTitle": "LIVE MUSIC: Tom Conneely & BoP, My Dog Jack"
-      },
       {
         "startTime": "2026-09-25T19:30:00-07:00",
         "ourTitle": "Dolphin Market with LIVE MUSIC from April Magazine & Monde UFO (Presented by Mollusk)",
@@ -63,6 +58,10 @@
         "startTime": "2026-10-11T15:30:00-07:00"
       },
       {
+        "title": "FOGCUTTER FILM SERIES: VOLUME 26 - The Buddy Holly Story (Hosted by Chuck Prophet)",
+        "startTime": "2026-10-14T18:00:00-07:00"
+      },
+      {
         "title": "LIVE MUSIC: Resavoir, Cheflee (Presented by THROWIN' BO'S)",
         "startTime": "2026-10-25T20:00:00-07:00"
       },
@@ -89,12 +88,8 @@
         "startTime": "2026-09-27T15:00:00-07:00"
       },
       {
-        "title": "House",
-        "startTime": "2026-10-24T12:45:00-07:00"
-      },
-      {
-        "title": "Evil Dead II",
-        "startTime": "2026-10-24T15:00:00-07:00"
+        "title": "The Buddy Holly Story",
+        "startTime": "2026-10-14T19:00:00-07:00"
       },
       {
         "title": "It's the Great Pumpkin, Charlie Brown",
@@ -103,6 +98,10 @@
       {
         "title": "It",
         "startTime": "2026-10-30T19:30:00-07:00"
+      },
+      {
+        "title": "Labyrinth",
+        "startTime": "2026-11-01T19:00:00-08:00"
       }
     ],
     "collapsedDuplicates": 0,
