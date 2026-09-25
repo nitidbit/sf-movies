@@ -1,10 +1,10 @@
 {
   "slug": "balboa",
   "theater": "Balboa",
-  "generatedAt": "2026-09-24T13:28:47.213Z",
+  "generatedAt": "2026-09-25T13:28:50.860Z",
   "status": "discrepancies",
   "report": {
-    "matched": 90,
+    "matched": 93,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -54,14 +54,6 @@
         "startTime": "2026-10-04T19:00:00-07:00"
       },
       {
-        "title": "The History of Concrete",
-        "startTime": "2026-10-05T17:00:00-07:00"
-      },
-      {
-        "title": "The History of Concrete",
-        "startTime": "2026-10-06T17:00:00-07:00"
-      },
-      {
         "title": "Beauty and the Beast",
         "startTime": "2026-10-06T19:30:00-07:00"
       },
@@ -86,7 +78,7 @@
         "startTime": "2026-10-25T19:00:00-07:00"
       }
     ],
-    "collapsedDuplicates": 0,
+    "collapsedDuplicates": 1,
     "excluded": {
       "ours": 0,
       "scenef": 0
