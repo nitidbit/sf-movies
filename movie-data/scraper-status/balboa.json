@@ -1,10 +1,10 @@
 {
   "slug": "balboa",
   "theater": "Balboa",
-  "generatedAt": "2026-09-25T13:28:50.860Z",
+  "generatedAt": "2026-09-26T13:24:20.474Z",
   "status": "discrepancies",
   "report": {
-    "matched": 93,
+    "matched": 89,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -34,6 +34,10 @@
       {
         "title": "Vibeland Ep. 2",
         "startTime": "2026-10-24T19:00:00-07:00"
+      },
+      {
+        "title": "Wildwood",
+        "startTime": "2026-10-28T19:00:00-07:00"
       }
     ],
     "scenefOnly": [
