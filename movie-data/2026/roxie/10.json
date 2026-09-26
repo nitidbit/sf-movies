@@ -71,6 +71,13 @@
   },
   {
     "theater": "Roxie",
+    "title": "Dead Souls",
+    "startTime": "2026-10-04T19:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/dead-souls/#showtimes-20261004-1900",
+    "synopsis": "Composer & Sound Designer Dan Wool, Animator Tom “Gibby” Gibbons, actor Ed Pansullo, and VFX Supervisor Ken Rogerson IN PERSON after the Sunday, Sept […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "Ghost in the Shell: 30th Anniversary Remaster",
     "startTime": "2026-10-01T16:20:00-07:00",
     "sourceUrl": "https://roxie.com/film/ghost-in-the-shell-30th-anniversary-remaster/#showtimes-20261001-1620",
@@ -173,6 +180,13 @@
     "startTime": "2026-10-03T12:30:00-07:00",
     "sourceUrl": "https://roxie.com/film/ashima/#showtimes-20261003-1230",
     "synopsis": "Director Kenji Tsukamoto in person for Q&A! ASHIMA follows elite rock climber Ashima Shiraishi as she travels to South Africa to attempt to become […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "New People: If I Go Will They Miss Me",
+    "startTime": "2026-10-03T13:15:00-07:00",
+    "sourceUrl": "https://roxie.com/film/new-people-if-i-go-will-they-miss-me/#showtimes-20261003-1315",
+    "synopsis": "All listed screenings take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. Director Walter Thompson-Hernandez in person for a post […]"
   },
   {
     "theater": "Roxie",
@@ -281,13 +295,6 @@
   },
   {
     "theater": "Roxie",
-    "title": "Dead Souls",
-    "startTime": "2026-10-04T19:00:00-07:00",
-    "sourceUrl": "https://roxie.com/film/dead-souls/#showtimes-20261004-1900",
-    "synopsis": "Composer & Sound Designer Dan Wool, Animator Tom “Gibby” Gibbons, actor Ed Pansullo, and VFX Supervisor Ken Rogerson IN PERSON after the Sunday, Sept […]"
-  },
-  {
-    "theater": "Roxie",
     "title": "Traces of Home",
     "startTime": "2026-10-05T18:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/traces-of-home/#showtimes-20261005-1800",
@@ -327,6 +334,13 @@
     "startTime": "2026-10-07T18:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/wrathbone/#showtimes-20261007-1800",
     "synopsis": "Stick around after the screening for an in-depth Q&A with Steve, moderated by SpookFest co-founder Sam Haynor. International rock star Nigel Wrathbone had everything: […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Perfect Blue",
+    "startTime": "2026-10-07T18:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/perfect-blue/#showtimes-20261007-1800",
+    "synopsis": "“Who are…you?” Mima Kirigoe, a former pop idol, makes a bold transition into acting, but her reinvention begins to fracture her sense of identity. […]"
   },
   {
     "theater": "Roxie",

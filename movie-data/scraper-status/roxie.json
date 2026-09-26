@@ -1,10 +1,10 @@
 {
   "slug": "roxie",
   "theater": "Roxie",
-  "generatedAt": "2026-09-25T13:52:12.891Z",
+  "generatedAt": "2026-09-26T13:51:14.868Z",
   "status": "discrepancies",
   "report": {
-    "matched": 84,
+    "matched": 79,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -20,12 +20,8 @@
     ],
     "oursOnly": [
       {
-        "title": "Floating Features: Bullitt",
-        "startTime": "2026-09-25T19:00:00-07:00"
-      },
-      {
-        "title": "Filipiñana",
-        "startTime": "2026-09-25T20:00:00-07:00"
+        "title": "Teenage Sex and Death at Camp Miasma",
+        "startTime": "2026-09-26T20:20:00-07:00"
       },
       {
         "title": "Filipiñana",
@@ -50,6 +46,10 @@
       {
         "title": "New People: Funeral Parade Of Roses",
         "startTime": "2026-10-02T20:30:00-07:00"
+      },
+      {
+        "title": "New People: If I Go Will They Miss Me",
+        "startTime": "2026-10-03T13:15:00-07:00"
       },
       {
         "title": "New People: Hausu",
