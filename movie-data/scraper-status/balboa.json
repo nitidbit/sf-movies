@@ -1,10 +1,10 @@
 {
   "slug": "balboa",
   "theater": "Balboa",
-  "generatedAt": "2026-09-28T13:33:48.601Z",
+  "generatedAt": "2026-09-29T13:34:55.535Z",
   "status": "discrepancies",
   "report": {
-    "matched": 76,
+    "matched": 75,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -14,32 +14,11 @@
       },
       {
         "startTime": "2026-10-24T19:00:00-07:00",
-        "ourTitle": "Wildwood",
+        "ourTitle": "Vibeland Ep. 2",
         "scenefTitle": "Vibeland Episode 2"
       }
     ],
-    "oursOnly": [
-      {
-        "title": "Wildwood",
-        "startTime": "2026-10-23T18:00:00-07:00"
-      },
-      {
-        "title": "Wildwood",
-        "startTime": "2026-10-24T13:00:00-07:00"
-      },
-      {
-        "title": "Wildwood",
-        "startTime": "2026-10-24T16:00:00-07:00"
-      },
-      {
-        "title": "Vibeland Ep. 2",
-        "startTime": "2026-10-24T19:00:00-07:00"
-      },
-      {
-        "title": "Wildwood",
-        "startTime": "2026-10-28T19:00:00-07:00"
-      }
-    ],
+    "oursOnly": [],
     "scenefOnly": [
       {
         "title": "Digger",
@@ -63,29 +42,25 @@
       },
       {
         "title": "The International Vampire Film Fest",
-        "startTime": "2026-10-17T22:30:00-07:00"
+        "startTime": "2026-10-17T23:00:00-07:00"
       },
       {
-        "title": "Wildwood",
-        "startTime": "2026-10-23T17:00:00-07:00"
+        "title": "You Can See Everything",
+        "startTime": "2026-10-19T19:00:00-07:00"
       },
       {
-        "title": "Wildwood",
-        "startTime": "2026-10-25T13:00:00-07:00"
+        "title": "You Can See Everything",
+        "startTime": "2026-10-21T19:00:00-07:00"
       },
       {
-        "title": "Wildwood",
-        "startTime": "2026-10-25T16:00:00-07:00"
-      },
-      {
-        "title": "Wildwood",
-        "startTime": "2026-10-25T19:00:00-07:00"
+        "title": "You Can See Everything",
+        "startTime": "2026-10-22T19:00:00-07:00"
       }
     ],
-    "collapsedDuplicates": 1,
+    "collapsedDuplicates": 2,
     "excluded": {
       "ours": 0,
-      "scenef": 0
+      "scenef": 1
     }
   }
 }
