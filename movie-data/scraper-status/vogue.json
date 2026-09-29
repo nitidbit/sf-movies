@@ -1,7 +1,7 @@
 {
   "slug": "vogue",
   "theater": "Vogue",
-  "generatedAt": "2026-09-28T13:37:56.514Z",
+  "generatedAt": "2026-09-29T13:38:32.592Z",
   "status": "discrepancies",
   "report": {
     "matched": 32,
@@ -13,12 +13,7 @@
         "scenefTitle": "NT LIVE: FRANKENSTEIN w/ Miller as Creature"
       }
     ],
-    "oursOnly": [
-      {
-        "title": "The Nightmare Before Christmas",
-        "startTime": "2026-10-20T17:00:00-07:00"
-      }
-    ],
+    "oursOnly": [],
     "scenefOnly": [
       {
         "title": "The Nightmare Before Christmas",
