@@ -365,6 +365,13 @@
   },
   {
     "theater": "Roxie",
+    "title": "Filipiñana",
+    "startTime": "2026-10-07T20:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/filipinana/#showtimes-20261007-2000",
+    "synopsis": "Director Rafael Manuel in person for introduction and Q&A moderated by Ali El-Sadany, editor of FilmSlop, on Saturday, September 5 (at rush). Presented by FiliKula […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "Dead Souls",
     "startTime": "2026-10-07T20:30:00-07:00",
     "sourceUrl": "https://roxie.com/film/dead-souls/#showtimes-20261007-2030",
@@ -529,7 +536,7 @@
     "title": "Tenor: My Name is Pati",
     "startTime": "2026-10-11T18:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/tenor-my-name-is-pati/#showtimes-20261011-1800",
-    "synopsis": "Q&A with Pene Pati & filmmaker Rebecca Tansley, moderated by New Zealand Film Commission Chief Executive, Annie Murray Sun, Oct 11! Tenor: My Name […]"
+    "synopsis": "Q&A with Pene Pati & filmmaker Rebecca Tansley, moderated by New Zealand Film Commission Chief Executive, Annie Murray Sun, Oct 11! Co-presented by San […]"
   },
   {
     "theater": "Roxie",
@@ -698,6 +705,13 @@
     "startTime": "2026-10-20T18:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/dr-jekyll-and-mr-hyde-1931/#showtimes-20261020-1800",
     "synopsis": "Fredric March and Miriam Hopkins (Design for Living) star in Robert Lewis Stevenson‘s classic horror tale of a kind and gentle doctor looking for […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Arthouse50: A Barbara Hammer Tribute",
+    "startTime": "2026-10-20T18:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/arthouse50-a-barbara-hammer-tribute/#showtimes-20261020-1800",
+    "synopsis": "Introduced by Tanya Zimbardo, San Francisco-based curator This program highlights a selection of experimental shorts by queer film legend Barbara Hammer (1939–2019), whose work […]"
   },
   {
     "theater": "Roxie",
