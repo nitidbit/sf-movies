@@ -98,48 +98,8 @@
   {
     "theater": "Alamo",
     "title": "Digger",
-    "startTime": "2026-10-01T15:10:00-07:00",
-    "sourceUrl": "https://scenef.com/go/c6b7505dbfff",
-    "attribution": "Showtimes via SceneF.com",
-    "synopsis": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything."
-  },
-  {
-    "theater": "Alamo",
-    "title": "Terminator 2: Judgment Day",
-    "startTime": "2026-10-01T18:00:00-07:00",
-    "sourceUrl": "https://scenef.com/go/5c341bceb94a",
-    "attribution": "Showtimes via SceneF.com",
-    "synopsis": "Ten years after the events of the original, a reprogrammed T-800 is sent back in time to protect young John Connor from the shape-shifting T-1000. Together with his mother Sarah, he fights to stop Skynet from triggering a nuclear apocalypse."
-  },
-  {
-    "theater": "Alamo",
-    "title": "Digger",
-    "startTime": "2026-10-01T18:45:00-07:00",
-    "sourceUrl": "https://scenef.com/go/acb852d40874",
-    "attribution": "Showtimes via SceneF.com",
-    "synopsis": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything."
-  },
-  {
-    "theater": "Alamo",
-    "title": "Dire Duplicity",
-    "startTime": "2026-10-01T21:30:00-07:00",
-    "sourceUrl": "https://scenef.com/go/379d9dc44b56",
-    "attribution": "Showtimes via SceneF.com",
-    "synopsis": "A tormented secret agent with emotional and psychological problems attempts to stop an international cyber attack. This dark emotional mystery intensifies as he is betrayed by those he trusts and loves."
-  },
-  {
-    "theater": "Alamo",
-    "title": "Digger",
     "startTime": "2026-10-02T14:20:00-07:00",
     "sourceUrl": "https://scenef.com/go/d7cea708498c",
-    "attribution": "Showtimes via SceneF.com",
-    "synopsis": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything."
-  },
-  {
-    "theater": "Alamo",
-    "title": "Digger",
-    "startTime": "2026-10-02T18:00:00-07:00",
-    "sourceUrl": "https://scenef.com/go/7140c8653740",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything."
   },
@@ -154,8 +114,448 @@
   {
     "theater": "Alamo",
     "title": "Digger",
+    "startTime": "2026-10-04T14:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/246338d6587c",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Primetime",
+    "startTime": "2026-10-01T15:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/656ab97d71a3",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Digger",
+    "startTime": "2026-10-01T15:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/c6b7505dbfff",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Primetime",
+    "startTime": "2026-10-01T15:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/a61bfd6b6066",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Moonlight",
+    "startTime": "2026-10-01T15:45:00-07:00",
+    "sourceUrl": "https://scenef.com/go/fa809056e451",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The tender, heartbreaking story of a young man’s struggle to find himself, told across three defining chapters in his life as he experiences the ecstasy, pain, and beauty of falling in love, while grappling with his own sexuality."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Resident Evil",
+    "startTime": "2026-10-01T16:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/13e9b9fe6dc1",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Terminator 2: Judgment Day",
+    "startTime": "2026-10-01T18:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/5c341bceb94a",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Ten years after the events of the original, a reprogrammed T-800 is sent back in time to protect young John Connor from the shape-shifting T-1000. Together with his mother Sarah, he fights to stop Skynet from triggering a nuclear apocalypse."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Primetime",
+    "startTime": "2026-10-01T18:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/711540d0d52b",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Digger",
+    "startTime": "2026-10-01T18:45:00-07:00",
+    "sourceUrl": "https://scenef.com/go/acb852d40874",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The History of Concrete",
+    "startTime": "2026-10-01T19:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/6a441d0c2fc7",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Resident Evil",
+    "startTime": "2026-10-01T19:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/3a50939cbdbd",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Digger",
+    "startTime": "2026-10-01T21:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/12dacc06997f",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Dire Duplicity",
+    "startTime": "2026-10-01T21:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/379d9dc44b56",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A tormented secret agent with emotional and psychological problems attempts to stop an international cyber attack. This dark emotional mystery intensifies as he is betrayed by those he trusts and loves."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Buddy",
+    "startTime": "2026-10-01T21:45:00-07:00",
+    "sourceUrl": "https://scenef.com/go/0c25bbee3839",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A magical, singing orange unicorn holds his cast hostage in a surreal TV-show dimension, as he becomes more and more demented."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Resident Evil",
+    "startTime": "2026-10-01T22:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/57a1ac1f63ea",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Primetime",
+    "startTime": "2026-10-01T22:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/541f1fc54448",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Digger",
+    "startTime": "2026-10-02T11:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/819bb86b193a",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Moonlight",
+    "startTime": "2026-10-02T12:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/7632d8733dfb",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The tender, heartbreaking story of a young man’s struggle to find himself, told across three defining chapters in his life as he experiences the ecstasy, pain, and beauty of falling in love, while grappling with his own sexuality."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Primetime",
+    "startTime": "2026-10-02T12:40:00-07:00",
+    "sourceUrl": "https://scenef.com/go/5c714c8bbde1",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Blue Velvet",
+    "startTime": "2026-10-02T13:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/602d38f59c03",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The discovery of a severed human ear found in a field leads a young man on an investigation related to a beautiful, mysterious nightclub singer and a group of psychopathic criminals who have kidnapped her child."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Resident Evil",
+    "startTime": "2026-10-02T13:40:00-07:00",
+    "sourceUrl": "https://scenef.com/go/868ee387aa64",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Digger",
+    "startTime": "2026-10-02T14:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/b6fc283325fd",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Primetime",
+    "startTime": "2026-10-02T15:40:00-07:00",
+    "sourceUrl": "https://scenef.com/go/a73696355d55",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The History of Concrete",
+    "startTime": "2026-10-02T15:45:00-07:00",
+    "sourceUrl": "https://scenef.com/go/b4bd778033a9",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Resident Evil",
+    "startTime": "2026-10-02T16:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/744759ce1131",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Union County",
+    "startTime": "2026-10-02T16:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/3d75c015fcb3",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Assigned to a county-mandated drug court program, Cody Parsons embarks on the tenuous journey toward recovery amid the opioid epidemic in rural Ohio."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Digger",
+    "startTime": "2026-10-02T18:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/7140c8653740",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The History of Concrete",
+    "startTime": "2026-10-02T18:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/35bea7231096",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Primetime",
+    "startTime": "2026-10-02T18:45:00-07:00",
+    "sourceUrl": "https://scenef.com/go/c2b5d0c5bfb5",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Resident Evil",
+    "startTime": "2026-10-02T19:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/4063dde2d2aa",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Beetlejuice",
+    "startTime": "2026-10-02T19:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/d1952f01e75e",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A newly dead New England couple seeks help from a deranged demon exorcist to scare an affluent New York family out of their home."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Buddy",
+    "startTime": "2026-10-02T21:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/4e880ca6da3a",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A magical, singing orange unicorn holds his cast hostage in a surreal TV-show dimension, as he becomes more and more demented."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Digger",
+    "startTime": "2026-10-02T21:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/4316fed25b97",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Resident Evil",
+    "startTime": "2026-10-02T21:40:00-07:00",
+    "sourceUrl": "https://scenef.com/go/b78755623ecc",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Primetime",
+    "startTime": "2026-10-02T21:50:00-07:00",
+    "sourceUrl": "https://scenef.com/go/17db92a155b6",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The History of Concrete",
+    "startTime": "2026-10-02T22:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/aba286a95645",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Digger",
+    "startTime": "2026-10-03T11:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/e6066f3233b4",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Beetlejuice",
+    "startTime": "2026-10-03T12:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/0bff4b23d8f1",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A newly dead New England couple seeks help from a deranged demon exorcist to scare an affluent New York family out of their home."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Moonlight",
+    "startTime": "2026-10-03T12:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/c762e3f0939b",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The tender, heartbreaking story of a young man’s struggle to find himself, told across three defining chapters in his life as he experiences the ecstasy, pain, and beauty of falling in love, while grappling with his own sexuality."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Primetime",
+    "startTime": "2026-10-03T12:40:00-07:00",
+    "sourceUrl": "https://scenef.com/go/5fe471d10b78",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Resident Evil",
+    "startTime": "2026-10-03T13:40:00-07:00",
+    "sourceUrl": "https://scenef.com/go/eacf0d0f71ce",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Digger",
+    "startTime": "2026-10-03T14:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/3fcff3b46df3",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Ghost in the Cell",
+    "startTime": "2026-10-03T15:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/5c4541f13961",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In a notorious prison, an invisible force begins killing inmates brutally, compelling enemy gangs and corrupt guards to work together as they try to survive the mounting bloodshed."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Primetime",
+    "startTime": "2026-10-03T15:40:00-07:00",
+    "sourceUrl": "https://scenef.com/go/1aba9012cc6d",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The History of Concrete",
+    "startTime": "2026-10-03T15:45:00-07:00",
+    "sourceUrl": "https://scenef.com/go/52969756cdf1",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Resident Evil",
+    "startTime": "2026-10-03T16:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/fa58139f4bfd",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Digger",
     "startTime": "2026-10-03T18:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/f5b6a347056f",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The History of Concrete",
+    "startTime": "2026-10-03T18:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/707560223366",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Primetime",
+    "startTime": "2026-10-03T18:45:00-07:00",
+    "sourceUrl": "https://scenef.com/go/485e64b2afb3",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Resident Evil",
+    "startTime": "2026-10-03T19:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/9d446b95c692",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Buddy",
+    "startTime": "2026-10-03T21:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/37ab13442780",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A magical, singing orange unicorn holds his cast hostage in a surreal TV-show dimension, as he becomes more and more demented."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Digger",
+    "startTime": "2026-10-03T21:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/0943a8ff550c",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Resident Evil",
+    "startTime": "2026-10-03T21:40:00-07:00",
+    "sourceUrl": "https://scenef.com/go/9d44f1849113",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Primetime",
+    "startTime": "2026-10-03T21:50:00-07:00",
+    "sourceUrl": "https://scenef.com/go/469c69cb0965",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The History of Concrete",
+    "startTime": "2026-10-03T22:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/b28e6eeb7a7b",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Digger",
+    "startTime": "2026-10-04T11:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/35d181ca4285",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything."
   },
@@ -169,11 +569,59 @@
   },
   {
     "theater": "Alamo",
+    "title": "Resident Evil",
+    "startTime": "2026-10-04T12:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/0a3b356c7d77",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Moonlight",
+    "startTime": "2026-10-04T12:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/3c010d23777a",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The tender, heartbreaking story of a young man’s struggle to find himself, told across three defining chapters in his life as he experiences the ecstasy, pain, and beauty of falling in love, while grappling with his own sexuality."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Primetime",
+    "startTime": "2026-10-04T13:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/0c04124c70b7",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade."
+  },
+  {
+    "theater": "Alamo",
     "title": "Digger",
-    "startTime": "2026-10-04T14:20:00-07:00",
-    "sourceUrl": "https://scenef.com/go/246338d6587c",
+    "startTime": "2026-10-04T14:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/91e09137b253",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Resident Evil",
+    "startTime": "2026-10-04T14:50:00-07:00",
+    "sourceUrl": "https://scenef.com/go/d640b13a996f",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Primetime",
+    "startTime": "2026-10-04T15:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/8c7a2f9a36a4",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The History of Concrete",
+    "startTime": "2026-10-04T15:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/486653503da7",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete."
   },
   {
     "theater": "Alamo",
@@ -185,9 +633,81 @@
   },
   {
     "theater": "Alamo",
+    "title": "Blue Velvet",
+    "startTime": "2026-10-04T17:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/7638a0b06570",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The discovery of a severed human ear found in a field leads a young man on an investigation related to a beautiful, mysterious nightclub singer and a group of psychopathic criminals who have kidnapped her child."
+  },
+  {
+    "theater": "Alamo",
     "title": "Digger",
     "startTime": "2026-10-04T18:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/cbd574679a5b",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Primetime",
+    "startTime": "2026-10-04T18:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/b3ce1e906b16",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The History of Concrete",
+    "startTime": "2026-10-04T18:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/221ebf19b354",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Resident Evil",
+    "startTime": "2026-10-04T18:50:00-07:00",
+    "sourceUrl": "https://scenef.com/go/e8be173e5022",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Digger",
+    "startTime": "2026-10-04T20:40:00-07:00",
+    "sourceUrl": "https://scenef.com/go/05697f7292d8",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Buddy",
+    "startTime": "2026-10-04T21:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/e9cbbf7065df",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A magical, singing orange unicorn holds his cast hostage in a surreal TV-show dimension, as he becomes more and more demented."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Primetime",
+    "startTime": "2026-10-04T21:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/def20d4ac05a",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Resident Evil",
+    "startTime": "2026-10-04T21:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/cca298ae194d",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Digger",
+    "startTime": "2026-10-05T13:40:00-07:00",
+    "sourceUrl": "https://scenef.com/go/26ea0e364769",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything."
   },
@@ -201,11 +721,123 @@
   },
   {
     "theater": "Alamo",
+    "title": "Moonlight",
+    "startTime": "2026-10-05T14:45:00-07:00",
+    "sourceUrl": "https://scenef.com/go/9c9ace6bcc0c",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The tender, heartbreaking story of a young man’s struggle to find himself, told across three defining chapters in his life as he experiences the ecstasy, pain, and beauty of falling in love, while grappling with his own sexuality."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Primetime",
+    "startTime": "2026-10-05T15:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/4a012f5b9214",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Resident Evil",
+    "startTime": "2026-10-05T15:50:00-07:00",
+    "sourceUrl": "https://scenef.com/go/663ba7b7310d",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Digger",
+    "startTime": "2026-10-05T17:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/7a47620d36f9",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The History of Concrete",
+    "startTime": "2026-10-05T18:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/49e408563cf1",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Primetime",
+    "startTime": "2026-10-05T18:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/2d2f8785af62",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Resident Evil",
+    "startTime": "2026-10-05T18:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/e99cc4da2f71",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Digger",
+    "startTime": "2026-10-05T20:45:00-07:00",
+    "sourceUrl": "https://scenef.com/go/cec09c0aa4f7",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Resident Evil",
+    "startTime": "2026-10-05T21:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/79dfe8b72ef3",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Primetime",
+    "startTime": "2026-10-05T21:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/d101afd67409",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade."
+  },
+  {
+    "theater": "Alamo",
     "title": "Beetlejuice",
     "startTime": "2026-10-05T21:30:00-07:00",
     "sourceUrl": "https://scenef.com/go/49fbf4bb87f3",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "A newly dead New England couple seeks help from a deranged demon exorcist to scare an affluent New York family out of their home."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Digger",
+    "startTime": "2026-10-06T14:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/ba5945ab0f7b",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Primetime",
+    "startTime": "2026-10-06T15:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/36e39592c45d",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Moonlight",
+    "startTime": "2026-10-06T15:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/faac0c153c06",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The tender, heartbreaking story of a young man’s struggle to find himself, told across three defining chapters in his life as he experiences the ecstasy, pain, and beauty of falling in love, while grappling with his own sexuality."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Resident Evil",
+    "startTime": "2026-10-06T16:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/73b8e35bf683",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos."
   },
   {
     "theater": "Alamo",
@@ -217,11 +849,67 @@
   },
   {
     "theater": "Alamo",
+    "title": "Digger",
+    "startTime": "2026-10-06T18:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/89086e6bd2a8",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Primetime",
+    "startTime": "2026-10-06T18:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/c0cc0bc2ad1b",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The History of Concrete",
+    "startTime": "2026-10-06T18:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/d851ba23f3ea",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Resident Evil",
+    "startTime": "2026-10-06T18:40:00-07:00",
+    "sourceUrl": "https://scenef.com/go/11ce8b1fc888",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos."
+  },
+  {
+    "theater": "Alamo",
     "title": "The History of Concrete",
     "startTime": "2026-10-06T19:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/367f16b0cc92",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Digger",
+    "startTime": "2026-10-06T21:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/872310346ba9",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Buddy",
+    "startTime": "2026-10-06T21:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/c8cbc7ee6cda",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A magical, singing orange unicorn holds his cast hostage in a surreal TV-show dimension, as he becomes more and more demented."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Resident Evil",
+    "startTime": "2026-10-06T21:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/0699fdd6c942",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos."
   },
   {
     "theater": "Alamo",
@@ -233,11 +921,75 @@
   },
   {
     "theater": "Alamo",
+    "title": "Primetime",
+    "startTime": "2026-10-06T21:50:00-07:00",
+    "sourceUrl": "https://scenef.com/go/21257dae00c3",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Digger",
+    "startTime": "2026-10-07T14:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/71b935a409ab",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Moonlight",
+    "startTime": "2026-10-07T15:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/5699992bba2e",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The tender, heartbreaking story of a young man’s struggle to find himself, told across three defining chapters in his life as he experiences the ecstasy, pain, and beauty of falling in love, while grappling with his own sexuality."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Resident Evil",
+    "startTime": "2026-10-07T15:40:00-07:00",
+    "sourceUrl": "https://scenef.com/go/b11dd581f10c",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Primetime",
+    "startTime": "2026-10-07T16:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/f5e31195e777",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade."
+  },
+  {
+    "theater": "Alamo",
     "title": "Union County",
     "startTime": "2026-10-07T16:30:00-07:00",
     "sourceUrl": "https://scenef.com/go/27a760d66496",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "Assigned to a county-mandated drug court program, Cody Parsons embarks on the tenuous journey toward recovery amid the opioid epidemic in rural Ohio."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Digger",
+    "startTime": "2026-10-07T18:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/5492ae46d0bf",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Resident Evil",
+    "startTime": "2026-10-07T18:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/de2ebd37b441",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The History of Concrete",
+    "startTime": "2026-10-07T18:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/d3df622cacec",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete."
   },
   {
     "theater": "Alamo",
@@ -249,11 +1001,51 @@
   },
   {
     "theater": "Alamo",
+    "title": "Primetime",
+    "startTime": "2026-10-07T19:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/55dddf23324a",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Digger",
+    "startTime": "2026-10-07T21:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/8a3b0ae600b3",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Buddy",
+    "startTime": "2026-10-07T21:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/e88b78aa758d",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A magical, singing orange unicorn holds his cast hostage in a surreal TV-show dimension, as he becomes more and more demented."
+  },
+  {
+    "theater": "Alamo",
     "title": "The Hole",
     "startTime": "2026-10-07T21:30:00-07:00",
     "sourceUrl": "https://scenef.com/go/798c6ae665b8",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "In the final days of the year 1999, almost everyone in Taiwan has died from a strange plague that ravished the island. As rain pours down relentlessly, a single man is stuck with an unfinished plumbing job and a hole in his floor. This results in a very odd relationship with the woman who lives below him."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Resident Evil",
+    "startTime": "2026-10-07T21:50:00-07:00",
+    "sourceUrl": "https://scenef.com/go/1fffd10a1f96",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Primetime",
+    "startTime": "2026-10-07T22:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/f5303329d3c1",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade."
   },
   {
     "theater": "Alamo",
