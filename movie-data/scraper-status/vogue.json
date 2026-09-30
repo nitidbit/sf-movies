@@ -1,10 +1,10 @@
 {
   "slug": "vogue",
   "theater": "Vogue",
-  "generatedAt": "2026-09-29T13:38:32.592Z",
+  "generatedAt": "2026-09-30T13:37:03.770Z",
   "status": "discrepancies",
   "report": {
-    "matched": 32,
+    "matched": 30,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -15,6 +15,14 @@
     ],
     "oursOnly": [],
     "scenefOnly": [
+      {
+        "title": "The Mad Magician 3-D <i class=\"icon-3d\"></i>",
+        "startTime": "2026-10-06T16:30:00-07:00"
+      },
+      {
+        "title": "The Mad Magician 3-D <i class=\"icon-3d\"></i>",
+        "startTime": "2026-10-06T19:30:00-07:00"
+      },
       {
         "title": "The Nightmare Before Christmas",
         "startTime": "2026-10-20T16:30:00-07:00"
