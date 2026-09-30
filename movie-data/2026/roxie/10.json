@@ -442,10 +442,10 @@
   },
   {
     "theater": "Roxie",
-    "title": "3rd i 2026: TechnoCats",
-    "startTime": "2026-10-10T15:00:00-07:00",
-    "sourceUrl": "https://roxie.com/film/3rd-i-2026-technocats/#showtimes-20261010-1500",
-    "synopsis": "At India’s elite Indian Institutes of Technology (IIT), a “Cat” is someone who aces everything. These engineering schools have produced the CEOs of Google, […]"
+    "title": "New People: NAZA",
+    "startTime": "2026-10-10T14:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/new-people-naza/#showtimes-20261010-1400",
+    "synopsis": "All listed screenings take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. NAZA screens at NEW PEOPLE October 9–11, then […]"
   },
   {
     "theater": "Roxie",
@@ -453,6 +453,13 @@
     "startTime": "2026-10-10T16:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/new-people-naza/#showtimes-20261010-1600",
     "synopsis": "All listed screenings take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. NAZA screens at NEW PEOPLE October 9–11, then […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "3rd i 2026: TechnoCats",
+    "startTime": "2026-10-10T15:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/3rd-i-2026-technocats/#showtimes-20261010-1500",
+    "synopsis": "At India’s elite Indian Institutes of Technology (IIT), a “Cat” is someone who aces everything. These engineering schools have produced the CEOs of Google, […]"
   },
   {
     "theater": "Roxie",
@@ -596,6 +603,13 @@
   },
   {
     "theater": "Roxie",
+    "title": "NAZA",
+    "startTime": "2026-10-14T20:30:00-07:00",
+    "sourceUrl": "https://roxie.com/film/naza/#showtimes-20261014-2030",
+    "synopsis": "NAZA screens at NEW PEOPLE October 9–11 before moving to The Roxie starting October 12. In secret conversations on the rooftops of Tel Aviv […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "The Scout",
     "startTime": "2026-10-16T18:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/the-scout/#showtimes-20261016-1800",
@@ -733,6 +747,13 @@
     "startTime": "2026-10-21T20:35:00-07:00",
     "sourceUrl": "https://roxie.com/film/dario-argentos-door-into-darkness/#showtimes-20261021-2035",
     "synopsis": "Part of Gialloween VI! At the peak of his Seventies cinematic triumphs, horror legend Dario Argento (Suspiria, Phenomena, Tenebrae) created projects for RAI TV […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Even Just",
+    "startTime": "2026-10-21T20:40:00-07:00",
+    "sourceUrl": "https://roxie.com/film/even-just/#showtimes-20261021-2040",
+    "synopsis": "Jerry Garanyan, an ambulance-chasing San Francisco lawyer, is a camera buff and a dogged collector of moving images. Though his legal career is a […]"
   },
   {
     "theater": "Roxie",
