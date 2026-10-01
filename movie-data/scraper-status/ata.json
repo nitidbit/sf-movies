@@ -1,17 +1,22 @@
 {
   "slug": "ata",
   "theater": "ATA",
-  "generatedAt": "2026-09-30T14:27:13.469Z",
-  "status": "ok",
+  "generatedAt": "2026-10-01T14:26:20.248Z",
+  "status": "discrepancies",
   "report": {
     "matched": 6,
     "timeMismatches": [],
     "titleMismatches": [],
-    "oursOnly": [],
+    "oursOnly": [
+      {
+        "title": "3rd i Festival: A CELEBRATION OF THE EXTRAORDINARY WORK OF AVIE LUTHRA",
+        "startTime": "2026-10-09T19:30:00-07:00"
+      }
+    ],
     "scenefOnly": [],
     "collapsedDuplicates": 0,
     "excluded": {
-      "ours": 6,
+      "ours": 8,
       "scenef": 0
     }
   }
