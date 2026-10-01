@@ -610,6 +610,20 @@
   },
   {
     "theater": "Roxie",
+    "title": "2026 HUMP! Film Festival",
+    "startTime": "2026-10-15T18:30:00-07:00",
+    "sourceUrl": "https://roxie.com/film/2026-hump-film-festival/#showtimes-20261015-1830",
+    "synopsis": "To be hosted by the one, the only, Mary Vice! Doors open at 6:00PM for the first show, and 8:30PM for the second show! […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "2026 HUMP! Film Festival",
+    "startTime": "2026-10-15T21:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/2026-hump-film-festival/#showtimes-20261015-2100",
+    "synopsis": "To be hosted by the one, the only, Mary Vice! Doors open at 6:00PM for the first show, and 8:30PM for the second show! […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "The Scout",
     "startTime": "2026-10-16T18:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/the-scout/#showtimes-20261016-1800",
@@ -635,6 +649,13 @@
     "startTime": "2026-10-16T19:05:00-07:00",
     "sourceUrl": "https://roxie.com/film/naza/#showtimes-20261016-1905",
     "synopsis": "NAZA screens at NEW PEOPLE October 9–11 before moving to The Roxie starting October 12. In secret conversations on the rooftops of Tel Aviv […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "New People: Hausu",
+    "startTime": "2026-10-16T20:30:00-07:00",
+    "sourceUrl": "https://roxie.com/film/new-people-hausu/#showtimes-20261016-2030",
+    "synopsis": "This screening will take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. How to describe Nobuhiko Obayashi’s indescribable 1977 movie Hausu? […]"
   },
   {
     "theater": "Roxie",
@@ -778,6 +799,13 @@
   },
   {
     "theater": "Roxie",
+    "title": "San Quentin Film Festival 2026",
+    "startTime": "2026-10-24T13:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/san-quentin-film-festival-2026/#showtimes-20261024-1300",
+    "synopsis": "San Quentin Film Festival is proud to present the 2026 Best Documentary and Narrative Short Film Finalists, all directed by currently or formerly incarcerated […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "Dr. Jekyll and Mr. Hyde (1931)",
     "startTime": "2026-10-24T15:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/dr-jekyll-and-mr-hyde-1931/#showtimes-20261024-1500",
@@ -806,7 +834,7 @@
   },
   {
     "theater": "Roxie",
-    "title": "Rewind Presents: The Craft",
+    "title": "Rewind Presents: The Craft with Live Drag!",
     "startTime": "2026-10-27T21:15:00-07:00",
     "sourceUrl": "https://roxie.com/film/rewind-presents-the-craft/#showtimes-20261027-2115",
     "synopsis": "With Live Drag by Mary Vice! WELCOME TO THE WITCHING HOUR. After transferring to a Los Angeles high school, Sarah (Robin Tunney) finds that her […]"

@@ -1,10 +1,10 @@
 {
   "slug": "roxie",
   "theater": "Roxie",
-  "generatedAt": "2026-09-30T13:54:15.321Z",
+  "generatedAt": "2026-10-01T13:54:17.691Z",
   "status": "discrepancies",
   "report": {
-    "matched": 76,
+    "matched": 72,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -20,16 +20,16 @@
     ],
     "oursOnly": [
       {
-        "title": "D.E.B.S.",
-        "startTime": "2026-09-30T18:00:00-07:00"
-      },
-      {
-        "title": "American Doctor",
-        "startTime": "2026-09-30T18:00:00-07:00"
+        "title": "Filipiñana",
+        "startTime": "2026-10-01T18:00:00-07:00"
       },
       {
         "title": "New People: Lady",
         "startTime": "2026-10-01T18:00:00-07:00"
+      },
+      {
+        "title": "Black Swan + Perfect Blue",
+        "startTime": "2026-10-01T18:30:00-07:00"
       },
       {
         "title": "Perfect Blue",
@@ -136,12 +136,24 @@
         "startTime": "2026-10-12T18:00:00-07:00"
       },
       {
+        "title": "2026 HUMP! Film Festival",
+        "startTime": "2026-10-15T18:30:00-07:00"
+      },
+      {
+        "title": "2026 HUMP! Film Festival",
+        "startTime": "2026-10-15T21:00:00-07:00"
+      },
+      {
         "title": "New People: Jigoku (4K Restoration)",
         "startTime": "2026-10-16T18:15:00-07:00"
       },
       {
         "title": "Floating Features: The Game",
         "startTime": "2026-10-16T19:00:00-07:00"
+      },
+      {
+        "title": "New People: Hausu",
+        "startTime": "2026-10-16T20:30:00-07:00"
       },
       {
         "title": "New People: First They Came for My College",
@@ -166,6 +178,10 @@
       {
         "title": "Floating Features: Hocus Pocus",
         "startTime": "2026-10-23T19:00:00-07:00"
+      },
+      {
+        "title": "San Quentin Film Festival 2026",
+        "startTime": "2026-10-24T13:00:00-07:00"
       },
       {
         "title": "New People: The Great Experiment",
