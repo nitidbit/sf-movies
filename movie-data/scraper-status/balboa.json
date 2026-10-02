@@ -1,10 +1,10 @@
 {
   "slug": "balboa",
   "theater": "Balboa",
-  "generatedAt": "2026-10-01T13:33:47.430Z",
+  "generatedAt": "2026-10-02T13:31:13.526Z",
   "status": "discrepancies",
   "report": {
-    "matched": 69,
+    "matched": 66,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -59,9 +59,13 @@
       {
         "title": "You Can See Everything",
         "startTime": "2026-10-22T19:00:00-07:00"
+      },
+      {
+        "title": "LIVE MUSIC: Izaak Opatz, Joe Kaplow",
+        "startTime": "2026-10-23T19:00:00-07:00"
       }
     ],
-    "collapsedDuplicates": 2,
+    "collapsedDuplicates": 1,
     "excluded": {
       "ours": 0,
       "scenef": 0
