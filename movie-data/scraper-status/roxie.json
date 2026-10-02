@@ -1,39 +1,22 @@
 {
   "slug": "roxie",
   "theater": "Roxie",
-  "generatedAt": "2026-10-01T13:54:17.691Z",
+  "generatedAt": "2026-10-02T13:52:58.968Z",
   "status": "discrepancies",
   "report": {
-    "matched": 72,
+    "matched": 67,
     "timeMismatches": [],
     "titleMismatches": [
       {
         "startTime": "2026-10-08T19:45:00-07:00",
         "ourTitle": "Zoé Presents: Memorex + Rexsexex y Más",
         "scenefTitle": "Zoé: ‘MEMOREX + REXSEXEX Y MÁS’"
-      },
-      {
-        "startTime": "2026-10-18T12:30:00-07:00",
-        "ourTitle": "Carter Country",
-        "scenefTitle": "How to Marry a Millionaire"
       }
     ],
     "oursOnly": [
       {
-        "title": "Filipiñana",
-        "startTime": "2026-10-01T18:00:00-07:00"
-      },
-      {
-        "title": "New People: Lady",
-        "startTime": "2026-10-01T18:00:00-07:00"
-      },
-      {
-        "title": "Black Swan + Perfect Blue",
-        "startTime": "2026-10-01T18:30:00-07:00"
-      },
-      {
-        "title": "Perfect Blue",
-        "startTime": "2026-10-01T20:50:00-07:00"
+        "title": "Chronovisor",
+        "startTime": "2026-10-02T18:00:00-07:00"
       },
       {
         "title": "New People: Hausu",
@@ -60,8 +43,16 @@
         "startTime": "2026-10-03T18:10:00-07:00"
       },
       {
+        "title": "The Healing WELL Fundraiser: Figaro Up, Figaro Down",
+        "startTime": "2026-10-04T12:30:00-07:00"
+      },
+      {
         "title": "New People: The Last First: Winter K2",
         "startTime": "2026-10-04T14:00:00-07:00"
+      },
+      {
+        "title": "SpookFest 2026",
+        "startTime": "2026-10-08T19:00:00-07:00"
       },
       {
         "title": "New People: NAZA",
@@ -224,7 +215,12 @@
         "startTime": "2026-12-05T16:00:00-08:00"
       }
     ],
-    "scenefOnly": [],
+    "scenefOnly": [
+      {
+        "title": "NAZA",
+        "startTime": "2026-10-18T17:40:00-07:00"
+      }
+    ],
     "collapsedDuplicates": 0,
     "excluded": {
       "ours": 2,
