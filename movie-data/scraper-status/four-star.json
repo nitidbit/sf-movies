@@ -1,10 +1,10 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-10-01T13:48:05.508Z",
+  "generatedAt": "2026-10-02T13:46:34.665Z",
   "status": "discrepancies",
   "report": {
-    "matched": 9,
+    "matched": 8,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -99,6 +99,18 @@
       }
     ],
     "scenefOnly": [
+      {
+        "title": "A Chinese Ghost Story",
+        "startTime": "2026-10-10T13:00:00-07:00"
+      },
+      {
+        "title": "A Chinese Ghost Story",
+        "startTime": "2026-10-10T16:00:00-07:00"
+      },
+      {
+        "title": "A Chinese Ghost Story",
+        "startTime": "2026-10-10T19:00:00-07:00"
+      },
       {
         "title": "The Buddy Holly Story",
         "startTime": "2026-10-14T19:00:00-07:00"
