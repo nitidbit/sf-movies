@@ -1,10 +1,10 @@
 {
   "slug": "roxie",
   "theater": "Roxie",
-  "generatedAt": "2026-10-02T13:52:58.968Z",
+  "generatedAt": "2026-10-03T14:46:38.289Z",
   "status": "discrepancies",
   "report": {
-    "matched": 67,
+    "matched": 91,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -14,22 +14,6 @@
       }
     ],
     "oursOnly": [
-      {
-        "title": "Chronovisor",
-        "startTime": "2026-10-02T18:00:00-07:00"
-      },
-      {
-        "title": "New People: Hausu",
-        "startTime": "2026-10-02T18:30:00-07:00"
-      },
-      {
-        "title": "Floating Features: Jaws",
-        "startTime": "2026-10-02T19:00:00-07:00"
-      },
-      {
-        "title": "New People: Funeral Parade Of Roses",
-        "startTime": "2026-10-02T20:30:00-07:00"
-      },
       {
         "title": "New People: If I Go Will They Miss Me",
         "startTime": "2026-10-03T13:15:00-07:00"
@@ -215,15 +199,10 @@
         "startTime": "2026-12-05T16:00:00-08:00"
       }
     ],
-    "scenefOnly": [
-      {
-        "title": "NAZA",
-        "startTime": "2026-10-18T17:40:00-07:00"
-      }
-    ],
+    "scenefOnly": [],
     "collapsedDuplicates": 0,
     "excluded": {
-      "ours": 2,
+      "ours": 3,
       "scenef": 0
     }
   }

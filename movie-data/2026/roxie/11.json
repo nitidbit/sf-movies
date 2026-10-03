@@ -15,6 +15,13 @@
   },
   {
     "theater": "Roxie",
+    "title": "THX 1138 (35mm)",
+    "startTime": "2026-11-01T18:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/thx-1138-35mm/#showtimes-20261101-1800",
+    "synopsis": "Presented in 35mm in its original theatrical version, George Lucas’s THX 1138 imagines a sterile underground future where citizens are drugged into compliance, emotion […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "An Evening with Jane Schoenbrun: Public Access Afterworld + I Saw the TV Glow",
     "startTime": "2026-11-04T18:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/an-evening-with-jane-schoenbrun-public-access-afterworld-i-saw-the-tv-glow/#showtimes-20261104-1800",
@@ -29,10 +36,24 @@
   },
   {
     "theater": "Roxie",
+    "title": "Everything For Sale",
+    "startTime": "2026-11-08T15:10:00-08:00",
+    "sourceUrl": "https://roxie.com/film/everything-for-sale/#showtimes-20261108-1510",
+    "synopsis": "The lead protagonist of a film disappears mid production, and his family and crew search for him before tragic news reaches them. Wajda’s first […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "Floating Features: Friday the 13th",
     "startTime": "2026-11-13T19:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/floating-features-friday-the-13th/#showtimes-20261113-1900",
     "synopsis": "A group of camp counselors are stalked and murdered by an unknown assailant while trying to reopen a summer camp which, years before, was […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Hunting Flies + Roly Poly",
+    "startTime": "2026-11-15T15:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/hunting-flies-roly-poly/#showtimes-20261115-1500",
+    "synopsis": "Presented together, Hunting Flies and Roly Poly are two distinct satirical comedy films by celebrated Director Andrzej Wajda. Hunting Flies will be preceded by […]"
   },
   {
     "theater": "Roxie",
@@ -43,6 +64,13 @@
   },
   {
     "theater": "Roxie",
+    "title": "Aliens (Special Edition)",
+    "startTime": "2026-11-20T20:45:00-08:00",
+    "sourceUrl": "https://roxie.com/film/aliens-special-edition/#showtimes-20261120-2045",
+    "synopsis": "Where its predecessor was a slow-burn suspenser, Cameron’s ALIENS is a bombastic, no-holds-barred exosuit fight to the finish, an express elevator to hell, goin’ […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "New People: A Deeper Love: The Story of Miss Peppermint",
     "startTime": "2026-11-22T13:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/new-people-a-deeper-love-the-story-of-miss-peppermint/#showtimes-20261122-1300",
@@ -50,9 +78,23 @@
   },
   {
     "theater": "Roxie",
+    "title": "Johnny Mnemonic: In Black and White",
+    "startTime": "2026-11-27T20:40:00-08:00",
+    "sourceUrl": "https://roxie.com/film/johnny-mnemonic-in-black-and-white/#showtimes-20261127-2040",
+    "synopsis": "Robert Longo’s JOHNNY MNEMONIC: IN BLACK & WHITE strips the cyberpunk thriller down to its starkest elements, turning its corporate dystopia, overloaded data networks, […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "New People: An Eye for an Eye",
     "startTime": "2026-11-29T15:30:00-08:00",
     "sourceUrl": "https://roxie.com/film/new-people-an-eye-for-an-eye/#showtimes-20261129-1530",
     "synopsis": "This screening will take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. Director Tanaz Eshaghian in person for a post-screening […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Ashes and Diamonds (4K Restoration)",
+    "startTime": "2026-11-29T15:30:00-08:00",
+    "sourceUrl": "https://roxie.com/film/ashes-and-diamonds-4k-restoration/#showtimes-20261129-1530",
+    "synopsis": "On the last day of World War II in a small town somewhere in Poland, Polish exiles of war and the occupying Soviet forces […]"
   }
 ]
