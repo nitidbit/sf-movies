@@ -1,20 +1,15 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-10-02T13:46:34.665Z",
+  "generatedAt": "2026-10-03T14:46:02.369Z",
   "status": "discrepancies",
   "report": {
     "matched": 8,
     "timeMismatches": [],
     "titleMismatches": [
       {
-        "startTime": "2026-10-02T20:00:00-07:00",
-        "ourTitle": "COMEDY: Samson Koletkar (Presented by Ain't No Joke Stand-Up)",
-        "scenefTitle": "COMEDY: Samson Koletkar (Presented: Aint No Joke)"
-      },
-      {
         "startTime": "2026-10-03T20:00:00-07:00",
-        "ourTitle": "LIVE MUSIC: The Sleeves, Fred Frith",
+        "ourTitle": "LIVE MUSIC: The Sleeves, Fred Frith, Identity Crisis",
         "scenefTitle": "LIVE MUSIC: Fred Frith, The Sleeves"
       },
       {
@@ -116,12 +111,64 @@
         "startTime": "2026-10-14T19:00:00-07:00"
       },
       {
+        "title": "House",
+        "startTime": "2026-10-22T19:30:00-07:00"
+      },
+      {
+        "title": "House",
+        "startTime": "2026-10-24T12:30:00-07:00"
+      },
+      {
+        "title": "Evil Dead II",
+        "startTime": "2026-10-24T14:45:00-07:00"
+      },
+      {
+        "title": "Casper",
+        "startTime": "2026-10-24T17:00:00-07:00"
+      },
+      {
+        "title": "Evil Dead II",
+        "startTime": "2026-10-24T19:30:00-07:00"
+      },
+      {
+        "title": "House",
+        "startTime": "2026-10-25T12:30:00-07:00"
+      },
+      {
+        "title": "Evil Dead II",
+        "startTime": "2026-10-25T14:45:00-07:00"
+      },
+      {
         "title": "It's the Great Pumpkin, Charlie Brown",
         "startTime": "2026-10-30T18:00:00-07:00"
       },
       {
         "title": "It",
         "startTime": "2026-10-30T19:30:00-07:00"
+      },
+      {
+        "title": "It's the Great Pumpkin, Charlie Brown",
+        "startTime": "2026-10-31T12:30:00-07:00"
+      },
+      {
+        "title": "The Shining",
+        "startTime": "2026-10-31T13:45:00-07:00"
+      },
+      {
+        "title": "It's the Great Pumpkin, Charlie Brown",
+        "startTime": "2026-10-31T17:00:00-07:00"
+      },
+      {
+        "title": "Labyrinth",
+        "startTime": "2026-10-31T18:15:00-07:00"
+      },
+      {
+        "title": "The Shining",
+        "startTime": "2026-10-31T20:45:00-07:00"
+      },
+      {
+        "title": "The Shining",
+        "startTime": "2026-11-01T12:30:00-08:00"
       },
       {
         "title": "Labyrinth",
