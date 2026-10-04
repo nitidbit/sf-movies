@@ -1,10 +1,10 @@
 {
   "slug": "vogue",
   "theater": "Vogue",
-  "generatedAt": "2026-10-03T14:40:57.180Z",
+  "generatedAt": "2026-10-04T15:04:23.923Z",
   "status": "discrepancies",
   "report": {
-    "matched": 27,
+    "matched": 22,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -13,11 +13,24 @@
         "scenefTitle": "NT LIVE: FRANKENSTEIN w/ Miller as Creature"
       }
     ],
-    "oursOnly": [],
+    "oursOnly": [
+      {
+        "title": "The Nightmare Before Christmas",
+        "startTime": "2026-10-20T17:00:00-07:00"
+      }
+    ],
     "scenefOnly": [
+      {
+        "title": "Some Like It Hot",
+        "startTime": "2026-10-15T19:30:00-07:00"
+      },
       {
         "title": "The Nightmare Before Christmas",
         "startTime": "2026-10-20T16:30:00-07:00"
+      },
+      {
+        "title": "The Nightmare Before Christmas",
+        "startTime": "2026-10-20T19:30:00-07:00"
       }
     ],
     "collapsedDuplicates": 1,
