@@ -1,17 +1,12 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-10-03T14:46:02.369Z",
+  "generatedAt": "2026-10-04T15:20:33.494Z",
   "status": "discrepancies",
   "report": {
-    "matched": 8,
+    "matched": 16,
     "timeMismatches": [],
     "titleMismatches": [
-      {
-        "startTime": "2026-10-03T20:00:00-07:00",
-        "ourTitle": "LIVE MUSIC: The Sleeves, Fred Frith, Identity Crisis",
-        "scenefTitle": "LIVE MUSIC: Fred Frith, The Sleeves"
-      },
       {
         "startTime": "2026-10-08T19:30:00-07:00",
         "ourTitle": "LIVE MUSIC: Freight Train Lady (Record Release), Indianna Hale, Forest Floor",
@@ -21,17 +16,24 @@
         "startTime": "2026-10-23T20:00:00-07:00",
         "ourTitle": "Nosferatu: A Symphony of Horror with LIVE SCORE by Dallas Acid & Paz Lenchantin (Presented by folkYEAH!)",
         "scenefTitle": "MUSIC: Nosferatu with Paz Lenchantin & Dallas Acid"
+      },
+      {
+        "startTime": "2026-10-24T19:30:00-07:00",
+        "ourTitle": "Evil Dead 2",
+        "scenefTitle": "Evil Dead II"
+      },
+      {
+        "startTime": "2026-10-25T14:45:00-07:00",
+        "ourTitle": "Evil Dead 2",
+        "scenefTitle": "Evil Dead II"
+      },
+      {
+        "startTime": "2026-11-15T20:00:00-08:00",
+        "ourTitle": "LIVE MUSIC: Todd Day Wait, Mac Cornish, Josiah Flores",
+        "scenefTitle": "LIVE MUSIC: Todd Day Wait, Mac Cornish & more"
       }
     ],
     "oursOnly": [
-      {
-        "title": "The Bad Guys",
-        "startTime": "2026-10-03T10:00:00-07:00"
-      },
-      {
-        "title": "Roll Fog (Preview Screening Fundraiser with Q&A)",
-        "startTime": "2026-10-03T15:00:00-07:00"
-      },
       {
         "title": "The Bad Guys",
         "startTime": "2026-10-04T10:00:00-07:00"
@@ -95,68 +97,20 @@
     ],
     "scenefOnly": [
       {
-        "title": "A Chinese Ghost Story",
-        "startTime": "2026-10-10T13:00:00-07:00"
-      },
-      {
-        "title": "A Chinese Ghost Story",
-        "startTime": "2026-10-10T16:00:00-07:00"
-      },
-      {
-        "title": "A Chinese Ghost Story",
-        "startTime": "2026-10-10T19:00:00-07:00"
-      },
-      {
         "title": "The Buddy Holly Story",
         "startTime": "2026-10-14T19:00:00-07:00"
       },
       {
-        "title": "House",
-        "startTime": "2026-10-22T19:30:00-07:00"
-      },
-      {
-        "title": "House",
-        "startTime": "2026-10-24T12:30:00-07:00"
-      },
-      {
-        "title": "Evil Dead II",
-        "startTime": "2026-10-24T14:45:00-07:00"
-      },
-      {
         "title": "Casper",
-        "startTime": "2026-10-24T17:00:00-07:00"
-      },
-      {
-        "title": "Evil Dead II",
-        "startTime": "2026-10-24T19:30:00-07:00"
-      },
-      {
-        "title": "House",
-        "startTime": "2026-10-25T12:30:00-07:00"
-      },
-      {
-        "title": "Evil Dead II",
-        "startTime": "2026-10-25T14:45:00-07:00"
-      },
-      {
-        "title": "It's the Great Pumpkin, Charlie Brown",
-        "startTime": "2026-10-30T18:00:00-07:00"
+        "startTime": "2026-10-24T14:45:00-07:00"
       },
       {
         "title": "It",
         "startTime": "2026-10-30T19:30:00-07:00"
       },
       {
-        "title": "It's the Great Pumpkin, Charlie Brown",
-        "startTime": "2026-10-31T12:30:00-07:00"
-      },
-      {
         "title": "The Shining",
         "startTime": "2026-10-31T13:45:00-07:00"
-      },
-      {
-        "title": "It's the Great Pumpkin, Charlie Brown",
-        "startTime": "2026-10-31T17:00:00-07:00"
       },
       {
         "title": "Labyrinth",
@@ -177,7 +131,7 @@
     ],
     "collapsedDuplicates": 0,
     "excluded": {
-      "ours": 5,
+      "ours": 7,
       "scenef": 0
     }
   }
