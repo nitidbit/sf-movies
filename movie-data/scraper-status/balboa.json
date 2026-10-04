@@ -1,10 +1,10 @@
 {
   "slug": "balboa",
   "theater": "Balboa",
-  "generatedAt": "2026-10-03T14:39:04.737Z",
+  "generatedAt": "2026-10-04T15:01:07.518Z",
   "status": "discrepancies",
   "report": {
-    "matched": 68,
+    "matched": 63,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -15,14 +15,6 @@
     ],
     "oursOnly": [],
     "scenefOnly": [
-      {
-        "title": "Digger",
-        "startTime": "2026-10-03T17:00:00-07:00"
-      },
-      {
-        "title": "Digger",
-        "startTime": "2026-10-03T20:00:00-07:00"
-      },
       {
         "title": "Digger",
         "startTime": "2026-10-04T16:00:00-07:00"
@@ -48,7 +40,7 @@
         "startTime": "2026-10-24T19:00:00-07:00"
       }
     ],
-    "collapsedDuplicates": 1,
+    "collapsedDuplicates": 0,
     "excluded": {
       "ours": 0,
       "scenef": 0
