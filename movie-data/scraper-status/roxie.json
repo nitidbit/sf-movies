@@ -1,10 +1,10 @@
 {
   "slug": "roxie",
   "theater": "Roxie",
-  "generatedAt": "2026-10-03T14:46:38.289Z",
+  "generatedAt": "2026-10-04T15:23:53.656Z",
   "status": "discrepancies",
   "report": {
-    "matched": 91,
+    "matched": 83,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -15,24 +15,16 @@
     ],
     "oursOnly": [
       {
-        "title": "New People: If I Go Will They Miss Me",
-        "startTime": "2026-10-03T13:15:00-07:00"
-      },
-      {
-        "title": "New People: Hausu",
-        "startTime": "2026-10-03T16:00:00-07:00"
-      },
-      {
-        "title": "New People: Funeral Parade Of Roses",
-        "startTime": "2026-10-03T18:10:00-07:00"
-      },
-      {
         "title": "The Healing WELL Fundraiser: Figaro Up, Figaro Down",
         "startTime": "2026-10-04T12:30:00-07:00"
       },
       {
         "title": "New People: The Last First: Winter K2",
         "startTime": "2026-10-04T14:00:00-07:00"
+      },
+      {
+        "title": "Chronovisor",
+        "startTime": "2026-10-05T18:00:00-07:00"
       },
       {
         "title": "SpookFest 2026",
