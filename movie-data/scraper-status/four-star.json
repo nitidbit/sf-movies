@@ -1,10 +1,10 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-10-04T15:20:33.494Z",
+  "generatedAt": "2026-10-05T13:51:43.998Z",
   "status": "discrepancies",
   "report": {
-    "matched": 16,
+    "matched": 20,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -28,16 +28,22 @@
         "scenefTitle": "Evil Dead II"
       },
       {
+        "startTime": "2026-11-05T20:00:00-08:00",
+        "ourTitle": "LIVE MUSIC: Good Friends, The Lowtimers, Red McAdam",
+        "scenefTitle": "LIVE MUSIC: Good Friends, The Lowtimers & more"
+      },
+      {
         "startTime": "2026-11-15T20:00:00-08:00",
         "ourTitle": "LIVE MUSIC: Todd Day Wait, Mac Cornish, Josiah Flores",
         "scenefTitle": "LIVE MUSIC: Todd Day Wait, Mac Cornish & more"
+      },
+      {
+        "startTime": "2026-12-04T20:00:00-08:00",
+        "ourTitle": "LIVE MUSIC: The Crooked Jades (10th Album Release Show)",
+        "scenefTitle": "LIVE MUSIC: Crooked Jades (10th Album Release)"
       }
     ],
     "oursOnly": [
-      {
-        "title": "The Bad Guys",
-        "startTime": "2026-10-04T10:00:00-07:00"
-      },
       {
         "title": "Wallace & Gromit: The Curse of the Were-Rabbit",
         "startTime": "2026-10-10T10:00:00-07:00"
@@ -87,12 +93,24 @@
         "startTime": "2026-11-01T10:00:00-08:00"
       },
       {
+        "title": "Local Critique",
+        "startTime": "2026-11-01T15:30:00-08:00"
+      },
+      {
         "title": "LIVE MUSIC: Green-House, Cool Maritime (Presented by THROWIN' BO'S)",
         "startTime": "2026-11-04T20:00:00-08:00"
       },
       {
         "title": "LIVE MUSIC: School Fair, goldenstar, Poor Image (Presented by THROWIN' BO'S)",
         "startTime": "2026-11-12T20:00:00-08:00"
+      },
+      {
+        "title": "LIVE MUSIC: Elanor Moss (Presented by THROWIN' BO'S)",
+        "startTime": "2026-11-16T20:00:00-08:00"
+      },
+      {
+        "title": "LIVE MUSIC: Babehoven, Pileup (Presented by THROWIN' BO'S)",
+        "startTime": "2026-11-20T20:00:00-08:00"
       }
     ],
     "scenefOnly": [
@@ -105,24 +123,8 @@
         "startTime": "2026-10-24T14:45:00-07:00"
       },
       {
-        "title": "It",
-        "startTime": "2026-10-30T19:30:00-07:00"
-      },
-      {
-        "title": "The Shining",
-        "startTime": "2026-10-31T13:45:00-07:00"
-      },
-      {
         "title": "Labyrinth",
         "startTime": "2026-10-31T18:15:00-07:00"
-      },
-      {
-        "title": "The Shining",
-        "startTime": "2026-10-31T20:45:00-07:00"
-      },
-      {
-        "title": "The Shining",
-        "startTime": "2026-11-01T12:30:00-08:00"
       },
       {
         "title": "Labyrinth",
@@ -131,7 +133,7 @@
     ],
     "collapsedDuplicates": 0,
     "excluded": {
-      "ours": 7,
+      "ours": 5,
       "scenef": 0
     }
   }
