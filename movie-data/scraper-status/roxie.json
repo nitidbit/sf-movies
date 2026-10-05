@@ -1,10 +1,10 @@
 {
   "slug": "roxie",
   "theater": "Roxie",
-  "generatedAt": "2026-10-04T15:23:53.656Z",
+  "generatedAt": "2026-10-05T13:57:33.676Z",
   "status": "discrepancies",
   "report": {
-    "matched": 83,
+    "matched": 77,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -14,14 +14,6 @@
       }
     ],
     "oursOnly": [
-      {
-        "title": "The Healing WELL Fundraiser: Figaro Up, Figaro Down",
-        "startTime": "2026-10-04T12:30:00-07:00"
-      },
-      {
-        "title": "New People: The Last First: Winter K2",
-        "startTime": "2026-10-04T14:00:00-07:00"
-      },
       {
         "title": "Chronovisor",
         "startTime": "2026-10-05T18:00:00-07:00"
