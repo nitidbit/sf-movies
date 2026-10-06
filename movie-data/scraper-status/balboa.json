@@ -1,10 +1,10 @@
 {
   "slug": "balboa",
   "theater": "Balboa",
-  "generatedAt": "2026-10-05T13:39:01.982Z",
+  "generatedAt": "2026-10-06T13:32:10.857Z",
   "status": "discrepancies",
   "report": {
-    "matched": 59,
+    "matched": 71,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -18,66 +18,6 @@
       {
         "title": "Beauty and the Beast",
         "startTime": "2026-10-06T19:30:00-07:00"
-      },
-      {
-        "title": "Digger",
-        "startTime": "2026-10-09T16:30:00-07:00"
-      },
-      {
-        "title": "The History of Concrete",
-        "startTime": "2026-10-09T19:30:00-07:00"
-      },
-      {
-        "title": "Digger",
-        "startTime": "2026-10-10T16:00:00-07:00"
-      },
-      {
-        "title": "Digger",
-        "startTime": "2026-10-10T17:30:00-07:00"
-      },
-      {
-        "title": "The History of Concrete",
-        "startTime": "2026-10-10T20:30:00-07:00"
-      },
-      {
-        "title": "The History of Concrete",
-        "startTime": "2026-10-11T16:30:00-07:00"
-      },
-      {
-        "title": "Digger",
-        "startTime": "2026-10-11T19:00:00-07:00"
-      },
-      {
-        "title": "The History of Concrete",
-        "startTime": "2026-10-12T17:00:00-07:00"
-      },
-      {
-        "title": "Digger",
-        "startTime": "2026-10-12T19:00:00-07:00"
-      },
-      {
-        "title": "The History of Concrete",
-        "startTime": "2026-10-13T17:00:00-07:00"
-      },
-      {
-        "title": "Digger",
-        "startTime": "2026-10-13T19:00:00-07:00"
-      },
-      {
-        "title": "The History of Concrete",
-        "startTime": "2026-10-14T17:00:00-07:00"
-      },
-      {
-        "title": "Digger",
-        "startTime": "2026-10-14T19:00:00-07:00"
-      },
-      {
-        "title": "The History of Concrete",
-        "startTime": "2026-10-15T16:30:00-07:00"
-      },
-      {
-        "title": "Digger",
-        "startTime": "2026-10-15T16:30:00-07:00"
       },
       {
         "title": "The International Vampire Film Fest",
