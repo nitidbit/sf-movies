@@ -497,14 +497,6 @@
   },
   {
     "theater": "Alamo",
-    "title": "Sense and Sensibility",
-    "startTime": "2026-10-15T18:00:00-07:00",
-    "sourceUrl": "https://scenef.com/go/bb27e200ad60",
-    "attribution": "Showtimes via SceneF.com",
-    "synopsis": "A charming, witty, and deeply relatable story of love and sisterhood."
-  },
-  {
-    "theater": "Alamo",
     "title": "Ken Russell's The Devils",
     "startTime": "2026-10-15T19:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/6f5a77734560",
@@ -585,27 +577,11 @@
   },
   {
     "theater": "Alamo",
-    "title": "Sense and Sensibility",
-    "startTime": "2026-10-17T12:00:00-07:00",
-    "sourceUrl": "https://scenef.com/go/bce24119ad92",
-    "attribution": "Showtimes via SceneF.com",
-    "synopsis": "A charming, witty, and deeply relatable story of love and sisterhood."
-  },
-  {
-    "theater": "Alamo",
     "title": "Ken Russell's The Devils",
     "startTime": "2026-10-17T14:45:00-07:00",
     "sourceUrl": "https://scenef.com/go/3d88e25f7460",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "Experience the uncut version, newly restored and remastered in 4K"
-  },
-  {
-    "theater": "Alamo",
-    "title": "Sense and Sensibility",
-    "startTime": "2026-10-17T15:15:00-07:00",
-    "sourceUrl": "https://scenef.com/go/0353508d313d",
-    "attribution": "Showtimes via SceneF.com",
-    "synopsis": "A charming, witty, and deeply relatable story of love and sisterhood."
   },
   {
     "theater": "Alamo",
@@ -633,14 +609,6 @@
   },
   {
     "theater": "Alamo",
-    "title": "Sense and Sensibility",
-    "startTime": "2026-10-18T11:00:00-07:00",
-    "sourceUrl": "https://scenef.com/go/4cfabb32c166",
-    "attribution": "Showtimes via SceneF.com",
-    "synopsis": "A charming, witty, and deeply relatable story of love and sisterhood."
-  },
-  {
-    "theater": "Alamo",
     "title": "Ken Russell's The Devils",
     "startTime": "2026-10-18T12:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/c5f21005a4d3",
@@ -649,27 +617,11 @@
   },
   {
     "theater": "Alamo",
-    "title": "Sense and Sensibility",
-    "startTime": "2026-10-18T14:30:00-07:00",
-    "sourceUrl": "https://scenef.com/go/df2a622a5c69",
-    "attribution": "Showtimes via SceneF.com",
-    "synopsis": "A charming, witty, and deeply relatable story of love and sisterhood."
-  },
-  {
-    "theater": "Alamo",
     "title": "Ken Russell's The Devils",
     "startTime": "2026-10-18T15:15:00-07:00",
     "sourceUrl": "https://scenef.com/go/81380f391234",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "Experience the uncut version, newly restored and remastered in 4K"
-  },
-  {
-    "theater": "Alamo",
-    "title": "Sense and Sensibility",
-    "startTime": "2026-10-18T18:00:00-07:00",
-    "sourceUrl": "https://scenef.com/go/821ad5e61f59",
-    "attribution": "Showtimes via SceneF.com",
-    "synopsis": "A charming, witty, and deeply relatable story of love and sisterhood."
   },
   {
     "theater": "Alamo",
@@ -1185,6 +1137,30 @@
   },
   {
     "theater": "Alamo",
+    "title": "Digger",
+    "startTime": "2026-10-08T15:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/7fca760617b4",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The History of Concrete",
+    "startTime": "2026-10-08T15:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/e613bd44c266",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Primetime",
+    "startTime": "2026-10-08T15:50:00-07:00",
+    "sourceUrl": "https://scenef.com/go/a5e2c81c62fe",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice."
+  },
+  {
+    "theater": "Alamo",
     "title": "The Social Reckoning",
     "startTime": "2026-10-08T16:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/a71b39488843",
@@ -1201,9 +1177,41 @@
   },
   {
     "theater": "Alamo",
+    "title": "The History of Concrete",
+    "startTime": "2026-10-08T18:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/150dc8cc46df",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Digger",
+    "startTime": "2026-10-08T18:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/b24f20b75bcf",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Primetime",
+    "startTime": "2026-10-08T18:45:00-07:00",
+    "sourceUrl": "https://scenef.com/go/20bead202094",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice."
+  },
+  {
+    "theater": "Alamo",
     "title": "The Social Reckoning",
     "startTime": "2026-10-08T19:10:00-07:00",
     "sourceUrl": "https://scenef.com/go/2f69560ecfdd",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Social Reckoning",
+    "startTime": "2026-10-08T21:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/bab997b483fa",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets."
   },
@@ -1214,6 +1222,94 @@
     "sourceUrl": "https://scenef.com/go/b7a42e5587c8",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "Latif, a devoutly religious hitman, struggles to balance work, faith and fatherhood. When his wife dies, he embarks on a desperate journey across Houston to protect his children, confronting the forces closing in around him – and the beliefs threatening to unravel within."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Digger",
+    "startTime": "2026-10-08T21:40:00-07:00",
+    "sourceUrl": "https://scenef.com/go/9a8785efa7f2",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Primetime",
+    "startTime": "2026-10-08T21:40:00-07:00",
+    "sourceUrl": "https://scenef.com/go/6d3c4b083341",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Social Reckoning",
+    "startTime": "2026-10-08T22:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/be4627ab44a1",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Your Mother Your Mother Your Mother",
+    "startTime": "2026-10-09T11:40:00-07:00",
+    "sourceUrl": "https://scenef.com/go/34bf7f647ebd",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Latif, a devoutly religious hitman, struggles to balance work, faith and fatherhood. When his wife dies, he embarks on a desperate journey across Houston to protect his children, confronting the forces closing in around him – and the beliefs threatening to unravel within."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Digger",
+    "startTime": "2026-10-09T12:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/8e8a6c787797",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Primetime",
+    "startTime": "2026-10-09T12:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/3349ce64731f",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Showgirls",
+    "startTime": "2026-10-09T12:40:00-07:00",
+    "sourceUrl": "https://scenef.com/go/412066d4d56c",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Fresh to Las Vegas with no connections, Nomi Malone takes a job as an exotic dancer. Her talents are quickly noticed by Cristal, a headlining dancer who senses an opportunity to bolster her own act. But Nomi won’t play second fiddle and soon begins her venomous path to the top, ruthlessly backstabbing anyone who gets in her way."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Social Reckoning",
+    "startTime": "2026-10-09T12:45:00-07:00",
+    "sourceUrl": "https://scenef.com/go/1678ad088d93",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Your Mother Your Mother Your Mother",
+    "startTime": "2026-10-09T14:50:00-07:00",
+    "sourceUrl": "https://scenef.com/go/4baf8fe51f48",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Latif, a devoutly religious hitman, struggles to balance work, faith and fatherhood. When his wife dies, he embarks on a desperate journey across Houston to protect his children, confronting the forces closing in around him – and the beliefs threatening to unravel within."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Primetime",
+    "startTime": "2026-10-09T15:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/a98b090fc96c",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Digger",
+    "startTime": "2026-10-09T15:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/2d8beec4df5c",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything."
   },
   {
     "theater": "Alamo",
@@ -1241,11 +1337,27 @@
   },
   {
     "theater": "Alamo",
+    "title": "Digger",
+    "startTime": "2026-10-09T18:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/7bb235eb74ce",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything."
+  },
+  {
+    "theater": "Alamo",
     "title": "NAZA",
     "startTime": "2026-10-09T18:30:00-07:00",
     "sourceUrl": "https://scenef.com/go/a7ddc90582fb",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "In secret conversations on the rooftops of Tel Aviv at night, the systems behind Israel's calculated mass killing of Palestinian civilians in Gaza are revealed by the people who designed and operated them."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Primetime",
+    "startTime": "2026-10-09T18:45:00-07:00",
+    "sourceUrl": "https://scenef.com/go/51df537e0d10",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice."
   },
   {
     "theater": "Alamo",
@@ -1265,6 +1377,14 @@
   },
   {
     "theater": "Alamo",
+    "title": "Digger",
+    "startTime": "2026-10-09T21:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/0544ce07b18b",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything."
+  },
+  {
+    "theater": "Alamo",
     "title": "Your Mother Your Mother Your Mother",
     "startTime": "2026-10-09T21:10:00-07:00",
     "sourceUrl": "https://scenef.com/go/0a68386bd3b1",
@@ -1273,9 +1393,65 @@
   },
   {
     "theater": "Alamo",
+    "title": "Primetime",
+    "startTime": "2026-10-09T21:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/77fc2ef3d128",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Social Reckoning",
+    "startTime": "2026-10-09T21:45:00-07:00",
+    "sourceUrl": "https://scenef.com/go/9a9b3b0ac0f7",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets."
+  },
+  {
+    "theater": "Alamo",
+    "title": "NAZA",
+    "startTime": "2026-10-09T21:50:00-07:00",
+    "sourceUrl": "https://scenef.com/go/7b35e72a623a",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In secret conversations on the rooftops of Tel Aviv at night, the systems behind Israel's calculated mass killing of Palestinian civilians in Gaza are revealed by the people who designed and operated them."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Social Reckoning",
+    "startTime": "2026-10-10T11:45:00-07:00",
+    "sourceUrl": "https://scenef.com/go/bcebb6fabae6",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Digger",
+    "startTime": "2026-10-10T11:50:00-07:00",
+    "sourceUrl": "https://scenef.com/go/86dbee9966c8",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything."
+  },
+  {
+    "theater": "Alamo",
     "title": "Your Mother Your Mother Your Mother",
     "startTime": "2026-10-10T11:50:00-07:00",
     "sourceUrl": "https://scenef.com/go/c8e853544520",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Latif, a devoutly religious hitman, struggles to balance work, faith and fatherhood. When his wife dies, he embarks on a desperate journey across Houston to protect his children, confronting the forces closing in around him – and the beliefs threatening to unravel within."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Primetime",
+    "startTime": "2026-10-10T12:50:00-07:00",
+    "sourceUrl": "https://scenef.com/go/a43fd9d45274",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Your Mother Your Mother Your Mother",
+    "startTime": "2026-10-10T13:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/bca2887bc38c",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "Latif, a devoutly religious hitman, struggles to balance work, faith and fatherhood. When his wife dies, he embarks on a desperate journey across Houston to protect his children, confronting the forces closing in around him – and the beliefs threatening to unravel within."
   },
@@ -1289,11 +1465,35 @@
   },
   {
     "theater": "Alamo",
+    "title": "Digger",
+    "startTime": "2026-10-10T15:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/9ce00ae997eb",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything."
+  },
+  {
+    "theater": "Alamo",
     "title": "Dismember the Alamo 2026 - New Mission",
     "startTime": "2026-10-10T15:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/0d3b4ba39ff8",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "You'll never survive"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Primetime",
+    "startTime": "2026-10-10T15:45:00-07:00",
+    "sourceUrl": "https://scenef.com/go/1e0836bea913",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Your Mother Your Mother Your Mother",
+    "startTime": "2026-10-10T15:45:00-07:00",
+    "sourceUrl": "https://scenef.com/go/219f81cce3e2",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Latif, a devoutly religious hitman, struggles to balance work, faith and fatherhood. When his wife dies, he embarks on a desperate journey across Houston to protect his children, confronting the forces closing in around him – and the beliefs threatening to unravel within."
   },
   {
     "theater": "Alamo",
@@ -1313,11 +1513,107 @@
   },
   {
     "theater": "Alamo",
+    "title": "Digger",
+    "startTime": "2026-10-10T18:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/240e5b41bf12",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything."
+  },
+  {
+    "theater": "Alamo",
     "title": "NAZA",
     "startTime": "2026-10-10T18:30:00-07:00",
     "sourceUrl": "https://scenef.com/go/822cbde62c2e",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "In secret conversations on the rooftops of Tel Aviv at night, the systems behind Israel's calculated mass killing of Palestinian civilians in Gaza are revealed by the people who designed and operated them."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Primetime",
+    "startTime": "2026-10-10T18:40:00-07:00",
+    "sourceUrl": "https://scenef.com/go/926246882ccb",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Your Mother Your Mother Your Mother",
+    "startTime": "2026-10-10T18:40:00-07:00",
+    "sourceUrl": "https://scenef.com/go/febad0485148",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Latif, a devoutly religious hitman, struggles to balance work, faith and fatherhood. When his wife dies, he embarks on a desperate journey across Houston to protect his children, confronting the forces closing in around him – and the beliefs threatening to unravel within."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Your Mother Your Mother Your Mother",
+    "startTime": "2026-10-10T21:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/feac9a79a746",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Latif, a devoutly religious hitman, struggles to balance work, faith and fatherhood. When his wife dies, he embarks on a desperate journey across Houston to protect his children, confronting the forces closing in around him – and the beliefs threatening to unravel within."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Social Reckoning",
+    "startTime": "2026-10-10T21:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/074c9fe97fd4",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Digger",
+    "startTime": "2026-10-10T21:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/e3504b92a379",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Primetime",
+    "startTime": "2026-10-10T21:40:00-07:00",
+    "sourceUrl": "https://scenef.com/go/0ae011a84637",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Your Mother Your Mother Your Mother",
+    "startTime": "2026-10-11T12:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/ddfc9d97bfcf",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Latif, a devoutly religious hitman, struggles to balance work, faith and fatherhood. When his wife dies, he embarks on a desperate journey across Houston to protect his children, confronting the forces closing in around him – and the beliefs threatening to unravel within."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Texas Chain Saw Massacre",
+    "startTime": "2026-10-11T12:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/67f70e849ece",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Five friends head out to rural Texas to visit the grave of a grandfather. On the way, they stumble across what appears to be a deserted house, only to discover something sinister within. Something armed with a chainsaw."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Primetime",
+    "startTime": "2026-10-11T12:50:00-07:00",
+    "sourceUrl": "https://scenef.com/go/dcc7823ac115",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Social Reckoning",
+    "startTime": "2026-10-11T13:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/f7610406d72a",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Digger",
+    "startTime": "2026-10-11T13:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/d3b8bd2d21be",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything."
   },
   {
     "theater": "Alamo",
@@ -1333,7 +1629,15 @@
     "startTime": "2026-10-11T15:30:00-07:00",
     "sourceUrl": "https://scenef.com/go/a4e9b3adf220",
     "attribution": "Showtimes via SceneF.com",
-    "synopsis": "Created exclusively for this screening."
+    "synopsis": "DEVO’s Gerald V. Casale in person for Q&A."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Your Mother Your Mother Your Mother",
+    "startTime": "2026-10-11T15:45:00-07:00",
+    "sourceUrl": "https://scenef.com/go/496f10eb9b9e",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Latif, a devoutly religious hitman, struggles to balance work, faith and fatherhood. When his wife dies, he embarks on a desperate journey across Houston to protect his children, confronting the forces closing in around him – and the beliefs threatening to unravel within."
   },
   {
     "theater": "Alamo",
@@ -1345,6 +1649,14 @@
   },
   {
     "theater": "Alamo",
+    "title": "Primetime",
+    "startTime": "2026-10-11T16:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/861391160c30",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice."
+  },
+  {
+    "theater": "Alamo",
     "title": "NAZA",
     "startTime": "2026-10-11T16:30:00-07:00",
     "sourceUrl": "https://scenef.com/go/d7f00173362e",
@@ -1353,11 +1665,27 @@
   },
   {
     "theater": "Alamo",
+    "title": "Digger",
+    "startTime": "2026-10-11T18:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/e08db62c7a3a",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything."
+  },
+  {
+    "theater": "Alamo",
     "title": "Your Mother Your Mother Your Mother",
     "startTime": "2026-10-11T18:20:00-07:00",
     "sourceUrl": "https://scenef.com/go/d082f788c1cd",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "Latif, a devoutly religious hitman, struggles to balance work, faith and fatherhood. When his wife dies, he embarks on a desperate journey across Houston to protect his children, confronting the forces closing in around him – and the beliefs threatening to unravel within."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Primetime",
+    "startTime": "2026-10-11T18:40:00-07:00",
+    "sourceUrl": "https://scenef.com/go/1e3fa7681dea",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice."
   },
   {
     "theater": "Alamo",
@@ -1377,6 +1705,86 @@
   },
   {
     "theater": "Alamo",
+    "title": "Digger",
+    "startTime": "2026-10-11T21:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/82f40ece3dd3",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Social Reckoning",
+    "startTime": "2026-10-11T21:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/7f59721ec76a",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Your Mother Your Mother Your Mother",
+    "startTime": "2026-10-11T21:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/25049e1c3b6f",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Latif, a devoutly religious hitman, struggles to balance work, faith and fatherhood. When his wife dies, he embarks on a desperate journey across Houston to protect his children, confronting the forces closing in around him – and the beliefs threatening to unravel within."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Primetime",
+    "startTime": "2026-10-11T21:40:00-07:00",
+    "sourceUrl": "https://scenef.com/go/b9fa6357b12e",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice."
+  },
+  {
+    "theater": "Alamo",
+    "title": "NAZA",
+    "startTime": "2026-10-11T22:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/edf51a6dac5f",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In secret conversations on the rooftops of Tel Aviv at night, the systems behind Israel's calculated mass killing of Palestinian civilians in Gaza are revealed by the people who designed and operated them."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Your Mother Your Mother Your Mother",
+    "startTime": "2026-10-12T12:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/445c565b6e42",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Latif, a devoutly religious hitman, struggles to balance work, faith and fatherhood. When his wife dies, he embarks on a desperate journey across Houston to protect his children, confronting the forces closing in around him – and the beliefs threatening to unravel within."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Digger",
+    "startTime": "2026-10-12T12:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/df2b873e8ffd",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Showgirls",
+    "startTime": "2026-10-12T12:45:00-07:00",
+    "sourceUrl": "https://scenef.com/go/56b4307dde0a",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Fresh to Las Vegas with no connections, Nomi Malone takes a job as an exotic dancer. Her talents are quickly noticed by Cristal, a headlining dancer who senses an opportunity to bolster her own act. But Nomi won’t play second fiddle and soon begins her venomous path to the top, ruthlessly backstabbing anyone who gets in her way."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Social Reckoning",
+    "startTime": "2026-10-12T13:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/c84d8efc1523",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Primetime",
+    "startTime": "2026-10-12T13:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/3578a04d6c1e",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice."
+  },
+  {
+    "theater": "Alamo",
     "title": "Your Mother Your Mother Your Mother",
     "startTime": "2026-10-12T15:15:00-07:00",
     "sourceUrl": "https://scenef.com/go/2c24de46f12b",
@@ -1385,11 +1793,27 @@
   },
   {
     "theater": "Alamo",
+    "title": "Primetime",
+    "startTime": "2026-10-12T15:45:00-07:00",
+    "sourceUrl": "https://scenef.com/go/f9f0abe8b983",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice."
+  },
+  {
+    "theater": "Alamo",
     "title": "Sense and Sensibility",
     "startTime": "2026-10-12T16:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/e384977be1b5",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "A charming, witty, and deeply relatable story of love and sisterhood."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Social Reckoning",
+    "startTime": "2026-10-12T16:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/4cf3640c88b4",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets."
   },
   {
     "theater": "Alamo",
@@ -1409,9 +1833,73 @@
   },
   {
     "theater": "Alamo",
+    "title": "Digger",
+    "startTime": "2026-10-12T18:40:00-07:00",
+    "sourceUrl": "https://scenef.com/go/d9b7c3f96a48",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Your Mother Your Mother Your Mother",
+    "startTime": "2026-10-12T18:40:00-07:00",
+    "sourceUrl": "https://scenef.com/go/eb503c2bb3cc",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Latif, a devoutly religious hitman, struggles to balance work, faith and fatherhood. When his wife dies, he embarks on a desperate journey across Houston to protect his children, confronting the forces closing in around him – and the beliefs threatening to unravel within."
+  },
+  {
+    "theater": "Alamo",
     "title": "NAZA",
     "startTime": "2026-10-12T19:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/982208db8826",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In secret conversations on the rooftops of Tel Aviv at night, the systems behind Israel's calculated mass killing of Palestinian civilians in Gaza are revealed by the people who designed and operated them."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Social Reckoning",
+    "startTime": "2026-10-12T19:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/bf7e8d38a44f",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Your Mother Your Mother Your Mother",
+    "startTime": "2026-10-12T21:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/3db678ca6b25",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Latif, a devoutly religious hitman, struggles to balance work, faith and fatherhood. When his wife dies, he embarks on a desperate journey across Houston to protect his children, confronting the forces closing in around him – and the beliefs threatening to unravel within."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Digger",
+    "startTime": "2026-10-12T21:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/ea7017d43198",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Primetime",
+    "startTime": "2026-10-12T21:40:00-07:00",
+    "sourceUrl": "https://scenef.com/go/1cbebb1bffe0",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Social Reckoning",
+    "startTime": "2026-10-12T22:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/d392802a38e2",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets."
+  },
+  {
+    "theater": "Alamo",
+    "title": "NAZA",
+    "startTime": "2026-10-12T22:45:00-07:00",
+    "sourceUrl": "https://scenef.com/go/799513be60f1",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "In secret conversations on the rooftops of Tel Aviv at night, the systems behind Israel's calculated mass killing of Palestinian civilians in Gaza are revealed by the people who designed and operated them."
   },
@@ -1422,6 +1910,30 @@
     "sourceUrl": "https://scenef.com/go/157e32759bad",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "Latif, a devoutly religious hitman, struggles to balance work, faith and fatherhood. When his wife dies, he embarks on a desperate journey across Houston to protect his children, confronting the forces closing in around him – and the beliefs threatening to unravel within."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Digger",
+    "startTime": "2026-10-13T15:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/a1b27a1e6c0b",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Primetime",
+    "startTime": "2026-10-13T15:50:00-07:00",
+    "sourceUrl": "https://scenef.com/go/c9e05609a148",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Social Reckoning",
+    "startTime": "2026-10-13T15:50:00-07:00",
+    "sourceUrl": "https://scenef.com/go/ce4a4e8e7705",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets."
   },
   {
     "theater": "Alamo",
@@ -1441,6 +1953,30 @@
   },
   {
     "theater": "Alamo",
+    "title": "Digger",
+    "startTime": "2026-10-13T18:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/83121a2d34d5",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Social Reckoning",
+    "startTime": "2026-10-13T18:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/d62529b43e90",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Primetime",
+    "startTime": "2026-10-13T18:45:00-07:00",
+    "sourceUrl": "https://scenef.com/go/2000fdabcfb8",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice."
+  },
+  {
+    "theater": "Alamo",
     "title": "Repo! The Genetic Opera",
     "startTime": "2026-10-13T19:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/ca882b396327",
@@ -1457,11 +1993,59 @@
   },
   {
     "theater": "Alamo",
+    "title": "Digger",
+    "startTime": "2026-10-13T21:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/a2e2b65c2cda",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Your Mother Your Mother Your Mother",
+    "startTime": "2026-10-13T21:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/112a37eaf051",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Latif, a devoutly religious hitman, struggles to balance work, faith and fatherhood. When his wife dies, he embarks on a desperate journey across Houston to protect his children, confronting the forces closing in around him – and the beliefs threatening to unravel within."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Primetime",
+    "startTime": "2026-10-13T21:40:00-07:00",
+    "sourceUrl": "https://scenef.com/go/3cf91da33501",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Social Reckoning",
+    "startTime": "2026-10-13T22:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/7e287584be22",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets."
+  },
+  {
+    "theater": "Alamo",
     "title": "Your Mother Your Mother Your Mother",
     "startTime": "2026-10-14T15:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/93242243cd54",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "Latif, a devoutly religious hitman, struggles to balance work, faith and fatherhood. When his wife dies, he embarks on a desperate journey across Houston to protect his children, confronting the forces closing in around him – and the beliefs threatening to unravel within."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Digger",
+    "startTime": "2026-10-14T15:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/7ba89f3453ff",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Primetime",
+    "startTime": "2026-10-14T15:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/40621699e481",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice."
   },
   {
     "theater": "Alamo",
@@ -1473,11 +2057,43 @@
   },
   {
     "theater": "Alamo",
+    "title": "The Social Reckoning",
+    "startTime": "2026-10-14T16:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/668b83ed27a3",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Digger",
+    "startTime": "2026-10-14T18:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/1be076f4d4eb",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything."
+  },
+  {
+    "theater": "Alamo",
     "title": "Your Mother Your Mother Your Mother",
     "startTime": "2026-10-14T18:10:00-07:00",
     "sourceUrl": "https://scenef.com/go/bee9fa30690c",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "Latif, a devoutly religious hitman, struggles to balance work, faith and fatherhood. When his wife dies, he embarks on a desperate journey across Houston to protect his children, confronting the forces closing in around him – and the beliefs threatening to unravel within."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Primetime",
+    "startTime": "2026-10-14T18:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/6c6f14c71a88",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Social Reckoning",
+    "startTime": "2026-10-14T18:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/e642dc2512be",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets."
   },
   {
     "theater": "Alamo",
@@ -1489,6 +2105,38 @@
   },
   {
     "theater": "Alamo",
+    "title": "Digger",
+    "startTime": "2026-10-14T21:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/b713755a749b",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Primetime",
+    "startTime": "2026-10-14T21:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/75df5ab8737e",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Your Mother Your Mother Your Mother",
+    "startTime": "2026-10-14T21:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/68fe7ec3efae",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Latif, a devoutly religious hitman, struggles to balance work, faith and fatherhood. When his wife dies, he embarks on a desperate journey across Houston to protect his children, confronting the forces closing in around him – and the beliefs threatening to unravel within."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Social Reckoning",
+    "startTime": "2026-10-14T21:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/309e936d6fc2",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets."
+  },
+  {
+    "theater": "Alamo",
     "title": "Lisztomania",
     "startTime": "2026-10-14T21:20:00-07:00",
     "sourceUrl": "https://scenef.com/go/fb41aeae18b0",
@@ -1497,11 +2145,51 @@
   },
   {
     "theater": "Alamo",
+    "title": "Primetime",
+    "startTime": "2026-10-15T12:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/bdb1592ef827",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice."
+  },
+  {
+    "theater": "Alamo",
+    "title": "NAZA",
+    "startTime": "2026-10-15T12:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/822e6410e4c1",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In secret conversations on the rooftops of Tel Aviv at night, the systems behind Israel's calculated mass killing of Palestinian civilians in Gaza are revealed by the people who designed and operated them."
+  },
+  {
+    "theater": "Alamo",
+    "title": "You Can See Everything",
+    "startTime": "2026-10-15T15:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/8c398d528a4d",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss."
+  },
+  {
+    "theater": "Alamo",
     "title": "NAZA",
     "startTime": "2026-10-15T16:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/b0de533c4ce9",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "In secret conversations on the rooftops of Tel Aviv at night, the systems behind Israel's calculated mass killing of Palestinian civilians in Gaza are revealed by the people who designed and operated them."
+  },
+  {
+    "theater": "Alamo",
+    "title": "You Can See Everything",
+    "startTime": "2026-10-15T16:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/966a5bfa0802",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Sense and Sensibility",
+    "startTime": "2026-10-15T18:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/bb27e200ad60",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A charming, witty, and deeply relatable story of love and sisterhood."
   },
   {
     "theater": "Alamo",
@@ -1521,11 +2209,51 @@
   },
   {
     "theater": "Alamo",
+    "title": "You Can See Everything",
+    "startTime": "2026-10-15T20:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/0834f8491543",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss."
+  },
+  {
+    "theater": "Alamo",
+    "title": "You Can See Everything",
+    "startTime": "2026-10-15T21:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/39b062f014a7",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss."
+  },
+  {
+    "theater": "Alamo",
     "title": "The Devils",
     "startTime": "2026-10-15T22:10:00-07:00",
     "sourceUrl": "https://scenef.com/go/b6c2734e2b0f",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "In 1634 France, charismatic Father Urbain Grandier becomes the target of a sexually obsessed nun’s witchcraft accusations, which corrupt church and state officials are all too happy to exploit.​​​​​​​​​​​​​​​​"
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Devils",
+    "startTime": "2026-10-16T10:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/4728b8c7d92f",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 1634 France, charismatic Father Urbain Grandier becomes the target of a sexually obsessed nun’s witchcraft accusations, which corrupt church and state officials are all too happy to exploit.​​​​​​​​​​​​​​​​"
+  },
+  {
+    "theater": "Alamo",
+    "title": "You Can See Everything",
+    "startTime": "2026-10-16T10:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/82eb7b2c47ea",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Sense and Sensibility",
+    "startTime": "2026-10-16T11:50:00-07:00",
+    "sourceUrl": "https://scenef.com/go/9b8f1922dac5",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A charming, witty, and deeply relatable story of love and sisterhood."
   },
   {
     "theater": "Alamo",
@@ -1537,11 +2265,43 @@
   },
   {
     "theater": "Alamo",
+    "title": "You Can See Everything",
+    "startTime": "2026-10-16T15:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/ea9cd9838bfb",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Sense and Sensibility",
+    "startTime": "2026-10-16T15:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/ccbc41714382",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A charming, witty, and deeply relatable story of love and sisterhood."
+  },
+  {
+    "theater": "Alamo",
     "title": "The Devils",
     "startTime": "2026-10-16T18:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/821d05f3bf54",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "In 1634 France, charismatic Father Urbain Grandier becomes the target of a sexually obsessed nun’s witchcraft accusations, which corrupt church and state officials are all too happy to exploit.​​​​​​​​​​​​​​​​"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Sense and Sensibility",
+    "startTime": "2026-10-16T18:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/ae438861b703",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A charming, witty, and deeply relatable story of love and sisterhood."
+  },
+  {
+    "theater": "Alamo",
+    "title": "You Can See Everything",
+    "startTime": "2026-10-16T18:40:00-07:00",
+    "sourceUrl": "https://scenef.com/go/8d52f8e7b89b",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss."
   },
   {
     "theater": "Alamo",
@@ -1561,11 +2321,51 @@
   },
   {
     "theater": "Alamo",
+    "title": "Sense and Sensibility",
+    "startTime": "2026-10-16T21:45:00-07:00",
+    "sourceUrl": "https://scenef.com/go/4592a6f50a7e",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A charming, witty, and deeply relatable story of love and sisterhood."
+  },
+  {
+    "theater": "Alamo",
+    "title": "You Can See Everything",
+    "startTime": "2026-10-16T21:50:00-07:00",
+    "sourceUrl": "https://scenef.com/go/705524d92bde",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss."
+  },
+  {
+    "theater": "Alamo",
+    "title": "You Can See Everything",
+    "startTime": "2026-10-17T10:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/d697b999b335",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss."
+  },
+  {
+    "theater": "Alamo",
     "title": "The Devils",
     "startTime": "2026-10-17T11:30:00-07:00",
     "sourceUrl": "https://scenef.com/go/91cff21ccf32",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "In 1634 France, charismatic Father Urbain Grandier becomes the target of a sexually obsessed nun’s witchcraft accusations, which corrupt church and state officials are all too happy to exploit.​​​​​​​​​​​​​​​​"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Sense and Sensibility",
+    "startTime": "2026-10-17T12:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/bce24119ad92",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A charming, witty, and deeply relatable story of love and sisterhood."
+  },
+  {
+    "theater": "Alamo",
+    "title": "You Can See Everything",
+    "startTime": "2026-10-17T14:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/db335195b903",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss."
   },
   {
     "theater": "Alamo",
@@ -1577,11 +2377,35 @@
   },
   {
     "theater": "Alamo",
+    "title": "Sense and Sensibility",
+    "startTime": "2026-10-17T15:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/0353508d313d",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A charming, witty, and deeply relatable story of love and sisterhood."
+  },
+  {
+    "theater": "Alamo",
     "title": "The Devils",
     "startTime": "2026-10-17T18:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/08408c2af2e3",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "In 1634 France, charismatic Father Urbain Grandier becomes the target of a sexually obsessed nun’s witchcraft accusations, which corrupt church and state officials are all too happy to exploit.​​​​​​​​​​​​​​​​"
+  },
+  {
+    "theater": "Alamo",
+    "title": "You Can See Everything",
+    "startTime": "2026-10-17T18:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/d2946f7fdadb",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Sense and Sensibility",
+    "startTime": "2026-10-17T18:45:00-07:00",
+    "sourceUrl": "https://scenef.com/go/fb4eb8cf8568",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A charming, witty, and deeply relatable story of love and sisterhood."
   },
   {
     "theater": "Alamo",
@@ -1593,11 +2417,67 @@
   },
   {
     "theater": "Alamo",
+    "title": "You Can See Everything",
+    "startTime": "2026-10-17T22:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/6e27f83b3cdd",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Sense and Sensibility",
+    "startTime": "2026-10-17T22:20:00-07:00",
+    "sourceUrl": "https://scenef.com/go/33b2039e43b0",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A charming, witty, and deeply relatable story of love and sisterhood."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Your Mother Your Mother Your Mother",
+    "startTime": "2026-10-17T22:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/143b55065484",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Latif, a devoutly religious hitman, struggles to balance work, faith and fatherhood. When his wife dies, he embarks on a desperate journey across Houston to protect his children, confronting the forces closing in around him – and the beliefs threatening to unravel within."
+  },
+  {
+    "theater": "Alamo",
+    "title": "You Can See Everything",
+    "startTime": "2026-10-18T10:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/af4d153c08bb",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Sense and Sensibility",
+    "startTime": "2026-10-18T11:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/4cfabb32c166",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A charming, witty, and deeply relatable story of love and sisterhood."
+  },
+  {
+    "theater": "Alamo",
     "title": "The Devils",
     "startTime": "2026-10-18T12:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/35c0cbe4efbf",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "In 1634 France, charismatic Father Urbain Grandier becomes the target of a sexually obsessed nun’s witchcraft accusations, which corrupt church and state officials are all too happy to exploit.​​​​​​​​​​​​​​​​"
+  },
+  {
+    "theater": "Alamo",
+    "title": "You Can See Everything",
+    "startTime": "2026-10-18T14:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/b1753c3b0959",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Sense and Sensibility",
+    "startTime": "2026-10-18T14:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/df2a622a5c69",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A charming, witty, and deeply relatable story of love and sisterhood."
   },
   {
     "theater": "Alamo",
@@ -1609,9 +2489,49 @@
   },
   {
     "theater": "Alamo",
+    "title": "Sense and Sensibility",
+    "startTime": "2026-10-18T18:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/821ad5e61f59",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A charming, witty, and deeply relatable story of love and sisterhood."
+  },
+  {
+    "theater": "Alamo",
+    "title": "You Can See Everything",
+    "startTime": "2026-10-18T18:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/078cc0041ec8",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss."
+  },
+  {
+    "theater": "Alamo",
     "title": "The Devils",
     "startTime": "2026-10-18T18:30:00-07:00",
     "sourceUrl": "https://scenef.com/go/dd1039055905",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 1634 France, charismatic Father Urbain Grandier becomes the target of a sexually obsessed nun’s witchcraft accusations, which corrupt church and state officials are all too happy to exploit.​​​​​​​​​​​​​​​​"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Sense and Sensibility",
+    "startTime": "2026-10-18T21:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/a308c406884f",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A charming, witty, and deeply relatable story of love and sisterhood."
+  },
+  {
+    "theater": "Alamo",
+    "title": "You Can See Everything",
+    "startTime": "2026-10-18T21:40:00-07:00",
+    "sourceUrl": "https://scenef.com/go/daa873694cd5",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Devils",
+    "startTime": "2026-10-18T22:10:00-07:00",
+    "sourceUrl": "https://scenef.com/go/45a5b3632c42",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "In 1634 France, charismatic Father Urbain Grandier becomes the target of a sexually obsessed nun’s witchcraft accusations, which corrupt church and state officials are all too happy to exploit.​​​​​​​​​​​​​​​​"
   },
@@ -1726,6 +2646,14 @@
     "sourceUrl": "https://scenef.com/go/59d327d3e1dd",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "Fifteen years after murdering his sister on Halloween Night 1963, Michael Myers escapes from a mental hospital and returns to the small town of Haddonfield, Illinois to kill again."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Rocky Horror Picture Show",
+    "startTime": "2026-10-31T18:30:00-07:00",
+    "sourceUrl": "https://scenef.com/go/3d113d464c8f",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "After getting a flat tire in the middle of nowhere, newly engaged couple Brad and Janet encounter the eerie mansion of the flamboyant, seductive Dr Frank-N-Furter and a variety of eccentric characters. Through elaborate dance and rock music, the mad scientist unveils his latest creation: a perfect, muscular man."
   },
   {
     "theater": "Alamo",
