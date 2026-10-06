@@ -330,6 +330,20 @@
   },
   {
     "theater": "Roxie",
+    "title": "The Scout",
+    "startTime": "2026-10-21T18:30:00-07:00",
+    "sourceUrl": "https://roxie.com/film/the-scout/#showtimes-20261021-1830",
+    "synopsis": "Sofia works as a location scout for a TV pilot filming in New York City. It’s her job to find the homes, businesses, and […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Desierto",
+    "startTime": "2026-10-28T18:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/desierto/#showtimes-20261028-1800",
+    "synopsis": "Marking its 10th anniversary, Jonás Cuarón’s DESIERTO is a tense border thriller with the stripped-down intensity of survival horror. When a group of migrants […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "Filipiñana",
     "startTime": "2026-10-06T18:15:00-07:00",
     "sourceUrl": "https://roxie.com/film/filipinana/#showtimes-20261006-1815",
@@ -410,7 +424,7 @@
     "title": "New People: NAZA",
     "startTime": "2026-10-09T18:20:00-07:00",
     "sourceUrl": "https://roxie.com/film/new-people-naza/#showtimes-20261009-1820",
-    "synopsis": "All listed screenings take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. NAZA screens at NEW PEOPLE October 9–11, then […]"
+    "synopsis": "All listed screenings take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. NAZA screenings at NEW PEOPLE start October 9. […]"
   },
   {
     "theater": "Roxie",
@@ -452,14 +466,14 @@
     "title": "New People: NAZA",
     "startTime": "2026-10-10T14:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/new-people-naza/#showtimes-20261010-1400",
-    "synopsis": "All listed screenings take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. NAZA screens at NEW PEOPLE October 9–11, then […]"
+    "synopsis": "All listed screenings take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. NAZA screenings at NEW PEOPLE start October 9. […]"
   },
   {
     "theater": "Roxie",
     "title": "New People: NAZA",
     "startTime": "2026-10-10T16:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/new-people-naza/#showtimes-20261010-1600",
-    "synopsis": "All listed screenings take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. NAZA screens at NEW PEOPLE October 9–11, then […]"
+    "synopsis": "All listed screenings take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. NAZA screenings at NEW PEOPLE start October 9. […]"
   },
   {
     "theater": "Roxie",
@@ -536,7 +550,7 @@
     "title": "New People: NAZA",
     "startTime": "2026-10-11T14:30:00-07:00",
     "sourceUrl": "https://roxie.com/film/new-people-naza/#showtimes-20261011-1430",
-    "synopsis": "All listed screenings take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. NAZA screens at NEW PEOPLE October 9–11, then […]"
+    "synopsis": "All listed screenings take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. NAZA screenings at NEW PEOPLE start October 9. […]"
   },
   {
     "theater": "Roxie",
@@ -592,7 +606,21 @@
     "title": "NAZA",
     "startTime": "2026-10-12T18:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/naza/#showtimes-20261012-1800",
-    "synopsis": "NAZA screens at NEW PEOPLE October 9–11 before moving to The Roxie starting October 12. In secret conversations on the rooftops of Tel Aviv […]"
+    "synopsis": "NAZA screens at NEW PEOPLE October 9–11, and 18. Screenings at The Roxie start October 12. In secret conversations on the rooftops of Tel […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "American Doctor",
+    "startTime": "2026-10-12T18:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/american-doctor/#showtimes-20261012-1800",
+    "synopsis": "Co-presented by the Arab Film & Media Institute (AFMI) and the Jewish Film Institute From Oscar®-nominated and Emmy® Award-winning filmmaker Poh Si Teng, American Doctor follows three American […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Chronovisor",
+    "startTime": "2026-10-12T20:05:00-07:00",
+    "sourceUrl": "https://roxie.com/film/chronovisor/#showtimes-20261012-2005",
+    "synopsis": "An armchair mystery in which the life of a reclusive academic collides with the story of a clandestine technology that can photograph the past. […]"
   },
   {
     "theater": "Roxie",
@@ -606,7 +634,7 @@
     "title": "NAZA",
     "startTime": "2026-10-13T18:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/naza/#showtimes-20261013-1800",
-    "synopsis": "NAZA screens at NEW PEOPLE October 9–11 before moving to The Roxie starting October 12. In secret conversations on the rooftops of Tel Aviv […]"
+    "synopsis": "NAZA screens at NEW PEOPLE October 9–11, and 18. Screenings at The Roxie start October 12. In secret conversations on the rooftops of Tel […]"
   },
   {
     "theater": "Roxie",
@@ -648,7 +676,14 @@
     "title": "NAZA",
     "startTime": "2026-10-14T20:30:00-07:00",
     "sourceUrl": "https://roxie.com/film/naza/#showtimes-20261014-2030",
-    "synopsis": "NAZA screens at NEW PEOPLE October 9–11 before moving to The Roxie starting October 12. In secret conversations on the rooftops of Tel Aviv […]"
+    "synopsis": "NAZA screens at NEW PEOPLE October 9–11, and 18. Screenings at The Roxie start October 12. In secret conversations on the rooftops of Tel […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Filipiñana",
+    "startTime": "2026-10-14T20:30:00-07:00",
+    "sourceUrl": "https://roxie.com/film/filipinana/#showtimes-20261014-2030",
+    "synopsis": "Director Rafael Manuel in person for introduction and Q&A moderated by Ali El-Sadany, editor of FilmSlop, on Saturday, September 5 (at rush). Presented by FiliKula […]"
   },
   {
     "theater": "Roxie",
@@ -663,6 +698,13 @@
     "startTime": "2026-10-15T21:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/2026-hump-film-festival/#showtimes-20261015-2100",
     "synopsis": "To be hosted by the one, the only, Mary Vice! Doors open at 6:00PM for the first show, and 8:30PM for the second show! […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Chronovisor",
+    "startTime": "2026-10-15T18:40:00-07:00",
+    "sourceUrl": "https://roxie.com/film/chronovisor/#showtimes-20261015-1840",
+    "synopsis": "An armchair mystery in which the life of a reclusive academic collides with the story of a clandestine technology that can photograph the past. […]"
   },
   {
     "theater": "Roxie",
@@ -690,7 +732,7 @@
     "title": "NAZA",
     "startTime": "2026-10-16T19:05:00-07:00",
     "sourceUrl": "https://roxie.com/film/naza/#showtimes-20261016-1905",
-    "synopsis": "NAZA screens at NEW PEOPLE October 9–11 before moving to The Roxie starting October 12. In secret conversations on the rooftops of Tel Aviv […]"
+    "synopsis": "NAZA screens at NEW PEOPLE October 9–11, and 18. Screenings at The Roxie start October 12. In secret conversations on the rooftops of Tel […]"
   },
   {
     "theater": "Roxie",
@@ -722,6 +764,20 @@
   },
   {
     "theater": "Roxie",
+    "title": "NAZA",
+    "startTime": "2026-10-17T16:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/naza/#showtimes-20261017-1600",
+    "synopsis": "NAZA screens at NEW PEOPLE October 9–11, and 18. Screenings at The Roxie start October 12. In secret conversations on the rooftops of Tel […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "NAZA",
+    "startTime": "2026-10-17T18:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/naza/#showtimes-20261017-1800",
+    "synopsis": "NAZA screens at NEW PEOPLE October 9–11, and 18. Screenings at The Roxie start October 12. In secret conversations on the rooftops of Tel […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "The Match Factory Girl",
     "startTime": "2026-10-17T16:10:00-07:00",
     "sourceUrl": "https://roxie.com/film/the-match-factory-girl/#showtimes-20261017-1610",
@@ -733,13 +789,6 @@
     "startTime": "2026-10-17T18:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/new-people-jigoku/#showtimes-20261017-1800",
     "synopsis": "This screening will take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. Shocking, outrageous, and poetic, Jigoku (Hell, a.k.a. The […]"
-  },
-  {
-    "theater": "Roxie",
-    "title": "NAZA",
-    "startTime": "2026-10-17T18:00:00-07:00",
-    "sourceUrl": "https://roxie.com/film/naza/#showtimes-20261017-1800",
-    "synopsis": "NAZA screens at NEW PEOPLE October 9–11 before moving to The Roxie starting October 12. In secret conversations on the rooftops of Tel Aviv […]"
   },
   {
     "theater": "Roxie",
@@ -761,6 +810,13 @@
     "startTime": "2026-10-18T12:30:00-07:00",
     "sourceUrl": "https://roxie.com/film/carter-country/#showtimes-20261018-1230",
     "synopsis": "Post-screening Q&A with special guests to be announced. Film Director and Writer Bobby Buccallato shares his documentary film debut of Carter Country, which follows […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "New People: NAZA",
+    "startTime": "2026-10-18T13:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/new-people-naza/#showtimes-20261018-1300",
+    "synopsis": "All listed screenings take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. NAZA screenings at NEW PEOPLE start October 9. […]"
   },
   {
     "theater": "Roxie",
@@ -795,7 +851,14 @@
     "title": "NAZA",
     "startTime": "2026-10-18T17:40:00-07:00",
     "sourceUrl": "https://roxie.com/film/naza/#showtimes-20261018-1740",
-    "synopsis": "NAZA screens at NEW PEOPLE October 9–11 before moving to The Roxie starting October 12. In secret conversations on the rooftops of Tel Aviv […]"
+    "synopsis": "NAZA screens at NEW PEOPLE October 9–11, and 18. Screenings at The Roxie start October 12. In secret conversations on the rooftops of Tel […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "NAZA",
+    "startTime": "2026-10-19T20:30:00-07:00",
+    "sourceUrl": "https://roxie.com/film/naza/#showtimes-20261019-2030",
+    "synopsis": "NAZA screens at NEW PEOPLE October 9–11, and 18. Screenings at The Roxie start October 12. In secret conversations on the rooftops of Tel […]"
   },
   {
     "theater": "Roxie",
@@ -827,10 +890,10 @@
   },
   {
     "theater": "Roxie",
-    "title": "The Scout",
-    "startTime": "2026-10-21T18:30:00-07:00",
-    "sourceUrl": "https://roxie.com/film/the-scout/#showtimes-20261021-1830",
-    "synopsis": "Sofia works as a location scout for a TV pilot filming in New York City. It’s her job to find the homes, businesses, and […]"
+    "title": "NAZA",
+    "startTime": "2026-10-21T18:40:00-07:00",
+    "sourceUrl": "https://roxie.com/film/naza/#showtimes-20261021-1840",
+    "synopsis": "NAZA screens at NEW PEOPLE October 9–11, and 18. Screenings at The Roxie start October 12. In secret conversations on the rooftops of Tel […]"
   },
   {
     "theater": "Roxie",
@@ -845,6 +908,13 @@
     "startTime": "2026-10-21T20:40:00-07:00",
     "sourceUrl": "https://roxie.com/film/even-just/#showtimes-20261021-2040",
     "synopsis": "Jerry Garanyan, an ambulance-chasing San Francisco lawyer, is a camera buff and a dogged collector of moving images. Though his legal career is a […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "NAZA",
+    "startTime": "2026-10-22T15:50:00-07:00",
+    "sourceUrl": "https://roxie.com/film/naza/#showtimes-20261022-1550",
+    "synopsis": "NAZA screens at NEW PEOPLE October 9–11, and 18. Screenings at The Roxie start October 12. In secret conversations on the rooftops of Tel […]"
   },
   {
     "theater": "Roxie",
@@ -918,6 +988,13 @@
   },
   {
     "theater": "Roxie",
+    "title": "Lady",
+    "startTime": "2026-10-24T20:35:00-07:00",
+    "sourceUrl": "https://roxie.com/film/lady/#showtimes-20261024-2035",
+    "synopsis": "Lady is an off-beat comedy about a lonely, narcissistic aristocrat who dupes a struggling, opportunistic director into filming her every move. But her obsession […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "Making Marie Antoinette",
     "startTime": "2026-10-24T18:35:00-07:00",
     "sourceUrl": "https://roxie.com/film/making-marie-antoinette/#showtimes-20261024-1835",
@@ -928,7 +1005,7 @@
     "title": "Playing with Fire: An Ecosexual Emergency",
     "startTime": "2026-10-25T13:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/playing-with-fire-an-ecosexual-emergency/#showtimes-20261025-1300",
-    "synopsis": "Beth Stephens & Annie Sprinkle IN PERSON! Playing with Fire: An Ecosexual Emergency is a joyous ecosexual documentary born from the ashes of California’s […]"
+    "synopsis": "Introduction by Directors Beth Stephens & Annie Sprinkle and Q&A moderated by Madison Young! Playing with Fire: An Ecosexual Emergency is a joyous ecosexual […]"
   },
   {
     "theater": "Roxie",
@@ -950,13 +1027,6 @@
     "startTime": "2026-10-27T21:15:00-07:00",
     "sourceUrl": "https://roxie.com/film/rewind-presents-the-craft/#showtimes-20261027-2115",
     "synopsis": "With Live Drag by Mary Vice! WELCOME TO THE WITCHING HOUR. After transferring to a Los Angeles high school, Sarah (Robin Tunney) finds that her […]"
-  },
-  {
-    "theater": "Roxie",
-    "title": "Desierto",
-    "startTime": "2026-10-28T18:00:00-07:00",
-    "sourceUrl": "https://roxie.com/film/desierto/#showtimes-20261028-1800",
-    "synopsis": "Marking its 10th anniversary, Jonás Cuarón’s DESIERTO is a tense border thriller with the stripped-down intensity of survival horror. When a group of migrants […]"
   },
   {
     "theater": "Roxie",
