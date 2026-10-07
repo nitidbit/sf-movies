@@ -29,6 +29,13 @@
   },
   {
     "theater": "Roxie",
+    "title": "Case 137",
+    "startTime": "2026-12-12T12:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/case-137/#showtimes-20261212-1200",
+    "synopsis": "This screening is a fundraiser for National Association for Civilian Oversight of Law Enforcement (NACOLE) featuring a panel discussion with special guests! Following the […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "Floating Features: National Lampoon’s Christmas Vacation",
     "startTime": "2026-12-12T18:30:00-08:00",
     "sourceUrl": "https://roxie.com/film/floating-features-national-lampoons-christmas-vacation/#showtimes-20261212-1830",

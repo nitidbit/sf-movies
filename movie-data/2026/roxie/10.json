@@ -337,13 +337,6 @@
   },
   {
     "theater": "Roxie",
-    "title": "Desierto",
-    "startTime": "2026-10-28T18:00:00-07:00",
-    "sourceUrl": "https://roxie.com/film/desierto/#showtimes-20261028-1800",
-    "synopsis": "Marking its 10th anniversary, Jonás Cuarón’s DESIERTO is a tense border thriller with the stripped-down intensity of survival horror. When a group of migrants […]"
-  },
-  {
-    "theater": "Roxie",
     "title": "Filipiñana",
     "startTime": "2026-10-06T18:15:00-07:00",
     "sourceUrl": "https://roxie.com/film/filipinana/#showtimes-20261006-1815",
@@ -736,6 +729,13 @@
   },
   {
     "theater": "Roxie",
+    "title": "The History of Concrete",
+    "startTime": "2026-10-16T20:05:00-07:00",
+    "sourceUrl": "https://roxie.com/film/the-history-of-concrete/#showtimes-20261016-2005",
+    "synopsis": "Following the finale of his TV show, filmmaker John Wilson searches for a new creative outlet. After attending a workshop on how to write […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "New People: Hausu",
     "startTime": "2026-10-16T20:30:00-07:00",
     "sourceUrl": "https://roxie.com/film/new-people-hausu/#showtimes-20261016-2030",
@@ -806,10 +806,17 @@
   },
   {
     "theater": "Roxie",
+    "title": "The History of Concrete",
+    "startTime": "2026-10-17T20:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/the-history-of-concrete/#showtimes-20261017-2000",
+    "synopsis": "Following the finale of his TV show, filmmaker John Wilson searches for a new creative outlet. After attending a workshop on how to write […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "Carter Country",
     "startTime": "2026-10-18T12:30:00-07:00",
     "sourceUrl": "https://roxie.com/film/carter-country/#showtimes-20261018-1230",
-    "synopsis": "Post-screening Q&A with special guests to be announced. Film Director and Writer Bobby Buccallato shares his documentary film debut of Carter Country, which follows […]"
+    "synopsis": "Post-screening conversation hosted by Barbara McVeigh, Founder of the California Carter Initiative. Film Director and Writer Bobby Buccallato shares his documentary film debut of […]"
   },
   {
     "theater": "Roxie",
@@ -855,6 +862,13 @@
   },
   {
     "theater": "Roxie",
+    "title": "The History of Concrete",
+    "startTime": "2026-10-18T19:30:00-07:00",
+    "sourceUrl": "https://roxie.com/film/the-history-of-concrete/#showtimes-20261018-1930",
+    "synopsis": "Following the finale of his TV show, filmmaker John Wilson searches for a new creative outlet. After attending a workshop on how to write […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "NAZA",
     "startTime": "2026-10-19T20:30:00-07:00",
     "sourceUrl": "https://roxie.com/film/naza/#showtimes-20261019-2030",
@@ -873,6 +887,13 @@
     "startTime": "2026-10-20T18:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/arthouse50-a-barbara-hammer-tribute/#showtimes-20261020-1800",
     "synopsis": "Introduced by Tanya Zimbardo, San Francisco-based curator This program highlights a selection of experimental shorts by queer film legend Barbara Hammer (1939–2019), whose work […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Lost Highway",
+    "startTime": "2026-10-20T20:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/lost-highway/#showtimes-20261020-2000",
+    "synopsis": "“We’ve met before, haven’t we?” Co-written by Barry Gifford and David Lynch, Lost Highway is a feverish Los Angeles neo-noir of murder, desire, fractured […]"
   },
   {
     "theater": "Roxie",
@@ -918,6 +939,20 @@
   },
   {
     "theater": "Roxie",
+    "title": "SF Latino Film Festival: STREET SMART: Lessons from a TV Icon",
+    "startTime": "2026-10-22T18:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/sf-latino-film-festival-street-smart-lessons-from-a-tv-icon/#showtimes-20261022-1800",
+    "synopsis": "Opening night of the 18th annual SF Latino Film Festival! Director Ernie Bustamante in person for a post screening Q&A. Film + Reception tickets […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Filipiñana",
+    "startTime": "2026-10-22T20:30:00-07:00",
+    "sourceUrl": "https://roxie.com/film/filipinana/#showtimes-20261022-2030",
+    "synopsis": "Director Rafael Manuel in person for introduction and Q&A moderated by Ali El-Sadany, editor of FilmSlop, on Saturday, September 5 (at rush). Presented by FiliKula […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "New People: Take Me Home",
     "startTime": "2026-10-23T18:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/new-people-take-me-home/#showtimes-20261023-1800",
@@ -957,6 +992,13 @@
     "startTime": "2026-10-23T20:40:00-07:00",
     "sourceUrl": "https://roxie.com/film/blade-runner-the-final-cut/#showtimes-20261023-2040",
     "synopsis": "While so many effects-driven visions of the future have faded with time, Blade Runner remains a template for imagining the neon-soaked city to come, […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "SF Latino Film Festival: Comparsa",
+    "startTime": "2026-10-24T12:30:00-07:00",
+    "sourceUrl": "https://roxie.com/film/sf-latino-film-festival-comparsa/#showtimes-20261024-1230",
+    "synopsis": "Presented as part of the 18th annual SF Latino Film Festival. Filmmakers in attendance for a post screening Q&A! COMPARSA fully immerses audiences in […]"
   },
   {
     "theater": "Roxie",
@@ -1009,6 +1051,13 @@
   },
   {
     "theater": "Roxie",
+    "title": "SF Latino Film Festival: Libertad",
+    "startTime": "2026-10-25T13:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/sf-latino-film-festival-libertad/#showtimes-20261025-1300",
+    "synopsis": "Presented as part of the 18th annual SF Latino Film Festival. Post-screening Q&A with the filmmaker An Indigenous, transgender woman from Oaxaca, Mexico escaped […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "Perdita Durango",
     "startTime": "2026-10-25T18:00:00-07:00",
     "sourceUrl": "https://roxie.com/film/perdita-durango/#showtimes-20261025-1800",
@@ -1027,6 +1076,27 @@
     "startTime": "2026-10-27T21:15:00-07:00",
     "sourceUrl": "https://roxie.com/film/rewind-presents-the-craft/#showtimes-20261027-2115",
     "synopsis": "With Live Drag by Mary Vice! WELCOME TO THE WITCHING HOUR. After transferring to a Los Angeles high school, Sarah (Robin Tunney) finds that her […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Making Marie Antoinette",
+    "startTime": "2026-10-28T18:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/making-marie-antoinette/#showtimes-20261028-1800",
+    "synopsis": "Follows filmmaker Eleanor Coppola’s behind-the-scenes documentation of her daughter Sofia Coppola directing the 2006 film Marie Antoinette, capturing the craftsmanship and challenges of being […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Desierto",
+    "startTime": "2026-10-28T18:00:00-07:00",
+    "sourceUrl": "https://roxie.com/film/desierto/#showtimes-20261028-1800",
+    "synopsis": "Marking its 10th anniversary, Jonás Cuarón’s DESIERTO is a tense border thriller with the stripped-down intensity of survival horror. When a group of migrants […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Marie Antoinette (4K Restoration)",
+    "startTime": "2026-10-28T20:05:00-07:00",
+    "sourceUrl": "https://roxie.com/film/marie-antoinette-4k-restoration/#showtimes-20261028-2005",
+    "synopsis": "The third feature film from Oscar-winning writer-director Sofia Coppola (Lost in Translation, 2003) transposes her fascination with the inner lives of young women to […]"
   },
   {
     "theater": "Roxie",
