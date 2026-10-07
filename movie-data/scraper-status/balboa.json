@@ -1,10 +1,10 @@
 {
   "slug": "balboa",
   "theater": "Balboa",
-  "generatedAt": "2026-10-06T13:32:10.857Z",
+  "generatedAt": "2026-10-07T13:34:20.338Z",
   "status": "discrepancies",
   "report": {
-    "matched": 71,
+    "matched": 84,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -16,10 +16,6 @@
     "oursOnly": [],
     "scenefOnly": [
       {
-        "title": "Beauty and the Beast",
-        "startTime": "2026-10-06T19:30:00-07:00"
-      },
-      {
         "title": "The International Vampire Film Fest",
         "startTime": "2026-10-17T23:00:00-07:00"
       },
@@ -30,12 +26,60 @@
       {
         "title": "Vibeland Episode 2",
         "startTime": "2026-10-24T19:00:00-07:00"
+      },
+      {
+        "title": "Comedy At The Balboa: Tokyo Kanpai Boys",
+        "startTime": "2026-10-28T18:00:00-07:00"
+      },
+      {
+        "title": "The Room",
+        "startTime": "2026-11-07T23:00:00-08:00"
+      },
+      {
+        "title": "Godzilla Minus Zero",
+        "startTime": "2026-11-13T19:30:00-08:00"
+      },
+      {
+        "title": "Nirvanna the Band the Show (Season One, Ep. 5 - 8)",
+        "startTime": "2026-11-13T20:55:00-08:00"
+      },
+      {
+        "title": "Godzilla Minus Zero",
+        "startTime": "2026-11-14T13:00:00-08:00"
+      },
+      {
+        "title": "Godzilla Minus Zero",
+        "startTime": "2026-11-14T16:00:00-08:00"
+      },
+      {
+        "title": "Nirvanna the Band the Show (Season Two, Ep. 5 - 8)",
+        "startTime": "2026-11-14T16:45:00-08:00"
+      },
+      {
+        "title": "Godzilla Minus Zero",
+        "startTime": "2026-11-14T19:00:00-08:00"
+      },
+      {
+        "title": "Godzilla Minus Zero",
+        "startTime": "2026-11-15T15:30:00-08:00"
+      },
+      {
+        "title": "Nirvanna the Band the Show the Movie",
+        "startTime": "2026-11-15T16:00:00-08:00"
+      },
+      {
+        "title": "Godzilla Minus Zero",
+        "startTime": "2026-11-15T19:00:00-08:00"
+      },
+      {
+        "title": "Nirvanna the Band the Show the Fest (Weekend Pass)",
+        "startTime": "2026-11-15T22:30:00-08:00"
       }
     ],
-    "collapsedDuplicates": 0,
+    "collapsedDuplicates": 1,
     "excluded": {
-      "ours": 0,
-      "scenef": 0
+      "ours": 3,
+      "scenef": 3
     }
   }
 }
