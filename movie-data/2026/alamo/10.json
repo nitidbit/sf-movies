@@ -1137,6 +1137,22 @@
   },
   {
     "theater": "Alamo",
+    "title": "Primetime",
+    "startTime": "2026-10-15T12:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/bdb1592ef827",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice."
+  },
+  {
+    "theater": "Alamo",
+    "title": "NAZA",
+    "startTime": "2026-10-15T12:15:00-07:00",
+    "sourceUrl": "https://scenef.com/go/822e6410e4c1",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "In secret conversations on the rooftops of Tel Aviv at night, the systems behind Israel's calculated mass killing of Palestinian civilians in Gaza are revealed by the people who designed and operated them."
+  },
+  {
+    "theater": "Alamo",
     "title": "Digger",
     "startTime": "2026-10-08T15:20:00-07:00",
     "sourceUrl": "https://scenef.com/go/7fca760617b4",
@@ -1805,7 +1821,7 @@
     "startTime": "2026-10-12T16:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/e384977be1b5",
     "attribution": "Showtimes via SceneF.com",
-    "synopsis": "A charming, witty, and deeply relatable story of love and sisterhood."
+    "synopsis": "Sisters Elinor and Marianne Dashwood must leave their Sussex estate and move in with a distant relative, facing romance and money troubles."
   },
   {
     "theater": "Alamo",
@@ -2145,22 +2161,6 @@
   },
   {
     "theater": "Alamo",
-    "title": "Primetime",
-    "startTime": "2026-10-15T12:00:00-07:00",
-    "sourceUrl": "https://scenef.com/go/bdb1592ef827",
-    "attribution": "Showtimes via SceneF.com",
-    "synopsis": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice."
-  },
-  {
-    "theater": "Alamo",
-    "title": "NAZA",
-    "startTime": "2026-10-15T12:15:00-07:00",
-    "sourceUrl": "https://scenef.com/go/822e6410e4c1",
-    "attribution": "Showtimes via SceneF.com",
-    "synopsis": "In secret conversations on the rooftops of Tel Aviv at night, the systems behind Israel's calculated mass killing of Palestinian civilians in Gaza are revealed by the people who designed and operated them."
-  },
-  {
-    "theater": "Alamo",
     "title": "You Can See Everything",
     "startTime": "2026-10-15T15:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/8c398d528a4d",
@@ -2189,7 +2189,7 @@
     "startTime": "2026-10-15T18:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/bb27e200ad60",
     "attribution": "Showtimes via SceneF.com",
-    "synopsis": "A charming, witty, and deeply relatable story of love and sisterhood."
+    "synopsis": "Sisters Elinor and Marianne Dashwood must leave their Sussex estate and move in with a distant relative, facing romance and money troubles."
   },
   {
     "theater": "Alamo",
@@ -2253,7 +2253,7 @@
     "startTime": "2026-10-16T11:50:00-07:00",
     "sourceUrl": "https://scenef.com/go/9b8f1922dac5",
     "attribution": "Showtimes via SceneF.com",
-    "synopsis": "A charming, witty, and deeply relatable story of love and sisterhood."
+    "synopsis": "Sisters Elinor and Marianne Dashwood must leave their Sussex estate and move in with a distant relative, facing romance and money troubles."
   },
   {
     "theater": "Alamo",
@@ -2277,7 +2277,7 @@
     "startTime": "2026-10-16T15:10:00-07:00",
     "sourceUrl": "https://scenef.com/go/ccbc41714382",
     "attribution": "Showtimes via SceneF.com",
-    "synopsis": "A charming, witty, and deeply relatable story of love and sisterhood."
+    "synopsis": "Sisters Elinor and Marianne Dashwood must leave their Sussex estate and move in with a distant relative, facing romance and money troubles."
   },
   {
     "theater": "Alamo",
@@ -2293,7 +2293,7 @@
     "startTime": "2026-10-16T18:20:00-07:00",
     "sourceUrl": "https://scenef.com/go/ae438861b703",
     "attribution": "Showtimes via SceneF.com",
-    "synopsis": "A charming, witty, and deeply relatable story of love and sisterhood."
+    "synopsis": "Sisters Elinor and Marianne Dashwood must leave their Sussex estate and move in with a distant relative, facing romance and money troubles."
   },
   {
     "theater": "Alamo",
@@ -2325,7 +2325,7 @@
     "startTime": "2026-10-16T21:45:00-07:00",
     "sourceUrl": "https://scenef.com/go/4592a6f50a7e",
     "attribution": "Showtimes via SceneF.com",
-    "synopsis": "A charming, witty, and deeply relatable story of love and sisterhood."
+    "synopsis": "Sisters Elinor and Marianne Dashwood must leave their Sussex estate and move in with a distant relative, facing romance and money troubles."
   },
   {
     "theater": "Alamo",
@@ -2357,7 +2357,7 @@
     "startTime": "2026-10-17T12:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/bce24119ad92",
     "attribution": "Showtimes via SceneF.com",
-    "synopsis": "A charming, witty, and deeply relatable story of love and sisterhood."
+    "synopsis": "Sisters Elinor and Marianne Dashwood must leave their Sussex estate and move in with a distant relative, facing romance and money troubles."
   },
   {
     "theater": "Alamo",
@@ -2381,7 +2381,7 @@
     "startTime": "2026-10-17T15:15:00-07:00",
     "sourceUrl": "https://scenef.com/go/0353508d313d",
     "attribution": "Showtimes via SceneF.com",
-    "synopsis": "A charming, witty, and deeply relatable story of love and sisterhood."
+    "synopsis": "Sisters Elinor and Marianne Dashwood must leave their Sussex estate and move in with a distant relative, facing romance and money troubles."
   },
   {
     "theater": "Alamo",
@@ -2405,7 +2405,7 @@
     "startTime": "2026-10-17T18:45:00-07:00",
     "sourceUrl": "https://scenef.com/go/fb4eb8cf8568",
     "attribution": "Showtimes via SceneF.com",
-    "synopsis": "A charming, witty, and deeply relatable story of love and sisterhood."
+    "synopsis": "Sisters Elinor and Marianne Dashwood must leave their Sussex estate and move in with a distant relative, facing romance and money troubles."
   },
   {
     "theater": "Alamo",
@@ -2429,7 +2429,7 @@
     "startTime": "2026-10-17T22:20:00-07:00",
     "sourceUrl": "https://scenef.com/go/33b2039e43b0",
     "attribution": "Showtimes via SceneF.com",
-    "synopsis": "A charming, witty, and deeply relatable story of love and sisterhood."
+    "synopsis": "Sisters Elinor and Marianne Dashwood must leave their Sussex estate and move in with a distant relative, facing romance and money troubles."
   },
   {
     "theater": "Alamo",
@@ -2453,7 +2453,7 @@
     "startTime": "2026-10-18T11:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/4cfabb32c166",
     "attribution": "Showtimes via SceneF.com",
-    "synopsis": "A charming, witty, and deeply relatable story of love and sisterhood."
+    "synopsis": "Sisters Elinor and Marianne Dashwood must leave their Sussex estate and move in with a distant relative, facing romance and money troubles."
   },
   {
     "theater": "Alamo",
@@ -2477,7 +2477,7 @@
     "startTime": "2026-10-18T14:30:00-07:00",
     "sourceUrl": "https://scenef.com/go/df2a622a5c69",
     "attribution": "Showtimes via SceneF.com",
-    "synopsis": "A charming, witty, and deeply relatable story of love and sisterhood."
+    "synopsis": "Sisters Elinor and Marianne Dashwood must leave their Sussex estate and move in with a distant relative, facing romance and money troubles."
   },
   {
     "theater": "Alamo",
@@ -2493,7 +2493,7 @@
     "startTime": "2026-10-18T18:00:00-07:00",
     "sourceUrl": "https://scenef.com/go/821ad5e61f59",
     "attribution": "Showtimes via SceneF.com",
-    "synopsis": "A charming, witty, and deeply relatable story of love and sisterhood."
+    "synopsis": "Sisters Elinor and Marianne Dashwood must leave their Sussex estate and move in with a distant relative, facing romance and money troubles."
   },
   {
     "theater": "Alamo",
@@ -2517,7 +2517,7 @@
     "startTime": "2026-10-18T21:30:00-07:00",
     "sourceUrl": "https://scenef.com/go/a308c406884f",
     "attribution": "Showtimes via SceneF.com",
-    "synopsis": "A charming, witty, and deeply relatable story of love and sisterhood."
+    "synopsis": "Sisters Elinor and Marianne Dashwood must leave their Sussex estate and move in with a distant relative, facing romance and money troubles."
   },
   {
     "theater": "Alamo",
@@ -2574,6 +2574,22 @@
     "sourceUrl": "https://scenef.com/go/5f507650ec12",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "A family gets lost on the road and stumbles upon a hidden, underground, devil-worshiping cult led by the fearsome Master and his servant Torgo."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Fjord",
+    "startTime": "2026-10-22T17:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/928721d5d973",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Following the deaths of Mihai's parents, Mihai and Lisbeth Gheorghiu leave their life behind in Romania and move with their children to a remote village in Norway, hoping to rebuild their lives near Lisbeth's family. There, they grow close to their neighbors, the Halbergs, whose warmth gives them hope for a fresh start. But the fragile peace begins to unravel when the Gheorghiu family’s young daughter, Elia, arrives at school covered in bruises."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Fjord",
+    "startTime": "2026-10-23T18:00:00-07:00",
+    "sourceUrl": "https://scenef.com/go/d77b540b8b9b",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Following the deaths of Mihai's parents, Mihai and Lisbeth Gheorghiu leave their life behind in Romania and move with their children to a remote village in Norway, hoping to rebuild their lives near Lisbeth's family. There, they grow close to their neighbors, the Halbergs, whose warmth gives them hope for a fresh start. But the fragile peace begins to unravel when the Gheorghiu family’s young daughter, Elia, arrives at school covered in bruises."
   },
   {
     "theater": "Alamo",
