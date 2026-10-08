@@ -1,10 +1,10 @@
 {
   "slug": "balboa",
   "theater": "Balboa",
-  "generatedAt": "2026-10-07T13:34:20.338Z",
+  "generatedAt": "2026-10-08T13:36:00.084Z",
   "status": "discrepancies",
   "report": {
-    "matched": 84,
+    "matched": 77,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -13,7 +13,24 @@
         "scenefTitle": "LIVE MUSIC: Izaak Opatz and Joe Kaplow"
       }
     ],
-    "oursOnly": [],
+    "oursOnly": [
+      {
+        "title": "Godzilla Minus Zero",
+        "startTime": "2026-11-06T19:00:00-08:00"
+      },
+      {
+        "title": "Godzilla Minus Zero",
+        "startTime": "2026-11-11T19:00:00-08:00"
+      },
+      {
+        "title": "Nirvanna the Band the Show Season Two",
+        "startTime": "2026-11-14T15:00:00-08:00"
+      },
+      {
+        "title": "Nirvanna the Band the Show the Movie on 35mm",
+        "startTime": "2026-11-14T19:30:00-08:00"
+      }
+    ],
     "scenefOnly": [
       {
         "title": "The International Vampire Film Fest",
@@ -32,8 +49,28 @@
         "startTime": "2026-10-28T18:00:00-07:00"
       },
       {
+        "title": "Godzilla Minus Zero",
+        "startTime": "2026-11-06T16:00:00-08:00"
+      },
+      {
         "title": "The Room",
         "startTime": "2026-11-07T23:00:00-08:00"
+      },
+      {
+        "title": "Godzilla Minus Zero",
+        "startTime": "2026-11-09T16:00:00-08:00"
+      },
+      {
+        "title": "Godzilla Minus Zero",
+        "startTime": "2026-11-10T16:00:00-08:00"
+      },
+      {
+        "title": "Godzilla Minus Zero",
+        "startTime": "2026-11-11T16:00:00-08:00"
+      },
+      {
+        "title": "Godzilla Minus Zero",
+        "startTime": "2026-11-12T16:00:00-08:00"
       },
       {
         "title": "Godzilla Minus Zero",
@@ -52,24 +89,32 @@
         "startTime": "2026-11-14T16:00:00-08:00"
       },
       {
+        "title": "Nirvanna the Band the Show (Season Two, Ep. 1 - 4)",
+        "startTime": "2026-11-14T16:00:00-08:00"
+      },
+      {
         "title": "Nirvanna the Band the Show (Season Two, Ep. 5 - 8)",
-        "startTime": "2026-11-14T16:45:00-08:00"
+        "startTime": "2026-11-14T18:00:00-08:00"
+      },
+      {
+        "title": "Nirvanna the Band the Show the Movie",
+        "startTime": "2026-11-14T20:00:00-08:00"
+      },
+      {
+        "title": "Nirvanna the Band the Show (Season Two, Ep. 1 - 4)",
+        "startTime": "2026-11-15T03:30:00-08:00"
       },
       {
         "title": "Godzilla Minus Zero",
-        "startTime": "2026-11-14T19:00:00-08:00"
+        "startTime": "2026-11-15T13:00:00-08:00"
       },
       {
         "title": "Godzilla Minus Zero",
-        "startTime": "2026-11-15T15:30:00-08:00"
+        "startTime": "2026-11-15T16:00:00-08:00"
       },
       {
         "title": "Nirvanna the Band the Show the Movie",
         "startTime": "2026-11-15T16:00:00-08:00"
-      },
-      {
-        "title": "Godzilla Minus Zero",
-        "startTime": "2026-11-15T19:00:00-08:00"
       },
       {
         "title": "Nirvanna the Band the Show the Fest (Weekend Pass)",
@@ -78,7 +123,7 @@
     ],
     "collapsedDuplicates": 1,
     "excluded": {
-      "ours": 3,
+      "ours": 0,
       "scenef": 3
     }
   }
