@@ -1,17 +1,12 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-10-08T13:48:58.648Z",
+  "generatedAt": "2026-10-09T13:49:07.567Z",
   "status": "discrepancies",
   "report": {
     "matched": 19,
     "timeMismatches": [],
     "titleMismatches": [
-      {
-        "startTime": "2026-10-08T19:30:00-07:00",
-        "ourTitle": "LIVE MUSIC: Freight Train Lady (Record Release), Indianna Hale, Forest Floor",
-        "scenefTitle": "MUSIC: Freight Train Lady, Indianna Hale & more"
-      },
       {
         "startTime": "2026-10-23T20:00:00-07:00",
         "ourTitle": "Nosferatu: A Symphony of Horror with LIVE SCORE by Dallas Acid & Paz Lenchantin (Presented by folkYEAH!)",
@@ -65,6 +60,10 @@
         "startTime": "2026-10-14T18:00:00-07:00"
       },
       {
+        "title": "GREEN FILM FESTIVAL: Hen (Opening Night!)",
+        "startTime": "2026-10-15T18:00:00-07:00"
+      },
+      {
         "title": "4-Star Halloween Cartoon Special",
         "startTime": "2026-10-17T10:00:00-07:00"
       },
@@ -107,6 +106,10 @@
       {
         "title": "LIVE MUSIC: Elanor Moss (Presented by THROWIN' BO'S)",
         "startTime": "2026-11-16T20:00:00-08:00"
+      },
+      {
+        "title": "LIVE MUSIC: Computerwife (Presented by THROWIN' BO'S)",
+        "startTime": "2026-11-19T20:00:00-08:00"
       },
       {
         "title": "LIVE MUSIC: Babehoven, Pileup (Presented by THROWIN' BO'S)",
