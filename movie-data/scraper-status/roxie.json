@@ -1,18 +1,12 @@
 {
   "slug": "roxie",
   "theater": "Roxie",
-  "generatedAt": "2026-10-08T13:55:20.538Z",
+  "generatedAt": "2026-10-09T13:55:41.672Z",
   "status": "discrepancies",
   "report": {
-    "matched": 89,
+    "matched": 87,
     "timeMismatches": [],
-    "titleMismatches": [
-      {
-        "startTime": "2026-10-08T19:45:00-07:00",
-        "ourTitle": "Zoé Presents: Memorex + Rexsexex y Más",
-        "scenefTitle": "Zoé: ‘MEMOREX + REXSEXEX Y MÁS’"
-      }
-    ],
+    "titleMismatches": [],
     "oursOnly": [
       {
         "title": "New People: NAZA",
@@ -103,6 +97,10 @@
         "startTime": "2026-10-16T20:30:00-07:00"
       },
       {
+        "title": "New People: NAZA",
+        "startTime": "2026-10-17T13:00:00-07:00"
+      },
+      {
         "title": "New People: First They Came for My College",
         "startTime": "2026-10-17T15:00:00-07:00"
       },
@@ -143,6 +141,10 @@
         "startTime": "2026-10-24T13:00:00-07:00"
       },
       {
+        "title": "New People: Take Me Home",
+        "startTime": "2026-10-24T13:00:00-07:00"
+      },
+      {
         "title": "New People: SF Latino Film Festival: Community Voices",
         "startTime": "2026-10-24T15:10:00-07:00"
       },
@@ -169,6 +171,10 @@
       {
         "title": "New People: The Gymnasts of Fisherman Colony",
         "startTime": "2026-11-01T13:00:00-08:00"
+      },
+      {
+        "title": "New People: Closure",
+        "startTime": "2026-11-05T18:30:00-08:00"
       },
       {
         "title": "Floating Features: Pacific Heights",
