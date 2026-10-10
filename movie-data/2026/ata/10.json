@@ -105,6 +105,14 @@
   },
   {
     "theater": "ATA",
+    "title": "TINAFF: Program 8",
+    "startTime": "2026-10-25T19:00:00-07:00",
+    "endTime": "2026-10-25T19:00:00-07:00",
+    "sourceUrl": "https://www.atasite.org/event/tinaff-202609-2/",
+    "synopsis": "This is Not a Film Festival (also know as TINAFF) is a monthly recurring film showcase, allowing local Bay Area filmmakers, artists and creatives to gather, connect, and present their work. No submission fees, no awards, no gatekeeping. Our goal is to provide a space where truly independent films can be shared and enjoyed the way they’re meant to be; with a live audience."
+  },
+  {
+    "theater": "ATA",
     "title": "Rewards Program",
     "startTime": "2026-10-25T19:30:00-07:00",
     "endTime": "2026-10-25T19:30:00-07:00",
@@ -118,13 +126,5 @@
     "endTime": "2026-10-28T19:00:00-07:00",
     "sourceUrl": "https://www.atasite.org/event/when-ice-melts/",
     "synopsis": "Join us for a screening of When ICE Melts, a documentary on the Minneapolis resistance to the 2025 ICE raids, capturing the role of unions, immigrant organizations, workers’ assemblies, and rapid response networks in building solidarity against the federal occupation.\nThe film also documents the case of the Minnesota 15 — class members persecuted by the federal government for simple acts of solidarity — and stands as evidence of what happened and what is coming.\nAfter the screening, filmmaker Kip Hedges will be present to kick off a discussion on how we defend civil liberties in this country, the role unions must play, and what it will take to build a real defense front."
-  },
-  {
-    "theater": "ATA",
-    "title": "TINAFF: Program 8",
-    "startTime": "2026-10-31T19:00:00-07:00",
-    "endTime": "2026-10-31T19:00:00-07:00",
-    "sourceUrl": "https://www.atasite.org/event/tinaff-202609-2/",
-    "synopsis": "This is Not a Film Festival (also know as TINAFF) is a monthly recurring film showcase, allowing local Bay Area filmmakers, artists and creatives to gather, connect, and present their work. No submission fees, no awards, no gatekeeping. Our goal is to provide a space where truly independent films can be shared and enjoyed the way they’re meant to be; with a live audience."
   }
 ]
