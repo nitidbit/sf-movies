@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+# Start the server in the background, unless it is already running. Needs PORT set.
+
+set -euo pipefail
+cd "$(dirname "$0")"
+: "${PORT:?PORT must be set}"
+
+APP_NAME=$(basename "$PWD")
+LOG_DIR=~/logs/apps/$APP_NAME
+
+if [[ -f server.pid ]] && kill -0 "$(cat server.pid)" 2>/dev/null; then
+  echo "Already running"
+  exit 0
+fi
+
+mkdir -p "$LOG_DIR"
+nohup bin/bb src/server.clj >> "$LOG_DIR/$APP_NAME.log" 2>&1 &
+echo $! > server.pid

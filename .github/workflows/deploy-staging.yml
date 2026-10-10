@@ -1,0 +1,28 @@
+name: Deploy staging to OpalStack
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'server/**'
+      - 'scripts/deploy.sh'
+      - '.github/workflows/deploy-staging.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Create SSH key
+        run: |
+          mkdir -p ~/.ssh
+          install -m 600 /dev/null ~/.ssh/id_ed25519
+          echo "${{ secrets.SSH_PRIVATE_KEY_STAGING }}" > ~/.ssh/id_ed25519
+          echo "opal3.opalstack.com ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIA5N0PPihPeDKnBiCsFAgQaxgk23WAzM+LTNVqTcfErJ" > ~/.ssh/known_hosts
+
+      - run: scripts/deploy.sh staging

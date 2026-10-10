@@ -68,3 +68,29 @@ Manage the background server with `astro dev stop`, `astro dev status`, and `ast
 * `/write-a-prd`
 * `/prd-to-issues`
 * `/review-architecture` — Review code with "Characteristics of Good Code" in
+
+Server
+======
+
+## Folder Structure
+```
+/home/sf-mov-staging/               - Opalstack HOME directory
+    logs/apps/sf-movies-staging/    - Opalstack's own log dir
+        sf-movies-staging.log
+
+    apps/sf-movies-staging/         - APP_DIR, created by Opalstack
+        start
+        stop
+        server.pid                  - written by start, removed by stop
+
+        bin/
+           bb                       - babashka; installed or upgraded by deploy.sh
+        .babashka/pods/             - (later) go-sqlite3 pod, downloaded on first load-pod
+
+        src/                        - rsynced from repo, --delete
+            bb-version
+            server.clj
+
+        sqlite/                     - (later) not rsynced; survives deploys
+            sf-movies.db
+```
