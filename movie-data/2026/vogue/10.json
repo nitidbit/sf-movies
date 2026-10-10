@@ -229,6 +229,14 @@
   },
   {
     "theater": "Vogue",
+    "title": "Matinee",
+    "startTime": "2026-10-22T16:00:00-07:00",
+    "endTime": "2026-10-22T17:55:00-07:00",
+    "sourceUrl": "https://voguemovies.com/calendar-of-events/matinee-october-22",
+    "synopsis": "A showman introduces a small coastal town to a unique movie experience and capitalizes on the Cuban Missile crisis hysteria with a kitschy horror extravaganza combining film effects, stage props and actors in rubber suits in this salute to the B-movie.This film can be used with loyalty cards or our 2026 annual CinemaSFBay passesThursday, October 22"
+  },
+  {
+    "theater": "Vogue",
     "title": "Wildwood",
     "startTime": "2026-10-23T16:00:00-07:00",
     "sourceUrl": "https://voguemovies.com/calendar-of-events/wildwood-october-23#showtimes-20261023-1600",
