@@ -1,10 +1,10 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-10-09T13:49:07.567Z",
+  "generatedAt": "2026-10-10T13:44:01.166Z",
   "status": "discrepancies",
   "report": {
-    "matched": 19,
+    "matched": 18,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -64,12 +64,76 @@
         "startTime": "2026-10-15T18:00:00-07:00"
       },
       {
+        "title": "SF SHORT FILM FESTIVAL: Opening Night Shorts",
+        "startTime": "2026-10-15T20:15:00-07:00"
+      },
+      {
+        "title": "GREEN FILM FESTIVAL: Don't Be Prey (with The Locals)",
+        "startTime": "2026-10-16T18:00:00-07:00"
+      },
+      {
+        "title": "SF SHORT FILM FESTIVAL: Funny Shorts",
+        "startTime": "2026-10-16T20:30:00-07:00"
+      },
+      {
         "title": "4-Star Halloween Cartoon Special",
         "startTime": "2026-10-17T10:00:00-07:00"
       },
       {
+        "title": "GREEN FILM FESTIVAL: Animal Conservation Shorts",
+        "startTime": "2026-10-17T12:00:00-07:00"
+      },
+      {
+        "title": "GREEN FILM FESTIVAL: In Excess (with Elders of Time)",
+        "startTime": "2026-10-17T14:00:00-07:00"
+      },
+      {
+        "title": "GREEN FILM FESTIVAL: Best Day Ever (with Other Shorts)",
+        "startTime": "2026-10-17T16:15:00-07:00"
+      },
+      {
+        "title": "GREEN FILM FESTIVAL: Unless Something Goes Terribly Wrong (with Dad vs. Bees)",
+        "startTime": "2026-10-17T18:00:00-07:00"
+      },
+      {
+        "title": "SF SHORT FILM FESTIVAL: Animated Shorts",
+        "startTime": "2026-10-17T20:30:00-07:00"
+      },
+      {
         "title": "4-Star Halloween Cartoon Special",
         "startTime": "2026-10-18T10:00:00-07:00"
+      },
+      {
+        "title": "GREEN FILM FESTIVAL: Water & Oceans Shorts",
+        "startTime": "2026-10-18T12:00:00-07:00"
+      },
+      {
+        "title": "GREEN FILM FESTIVAL: The Terroirist (with Plant Life)",
+        "startTime": "2026-10-18T14:30:00-07:00"
+      },
+      {
+        "title": "SF SHORT FILM FESTIVAL: True Stories Shorts",
+        "startTime": "2026-10-18T17:00:00-07:00"
+      },
+      {
+        "title": "GREEN FILM FESTIVAL: Narrative Fiction Shorts",
+        "startTime": "2026-10-19T18:00:00-07:00"
+      },
+      {
+        "title": "GREEN FILM FESTIVAL: Harvest",
+        "startTime": "2026-10-20T18:00:00-07:00"
+      },
+      {
+        "title": "GREEN FILM FESTIVAL: The Big Picture Shorts",
+        "startTime": "2026-10-21T18:00:00-07:00"
+      },
+      {
+        "title": "GREEN FILM FESTIVAL: A City in the Forest (Closing Night!)",
+        "startTime": "2026-10-22T18:00:00-07:00"
+      },
+      {
+        "title": "GREEN FILM FESTIVAL: Bodyhackers",
+        "startTime": "2026-10-22T20:30:00-07:00"
       },
       {
         "title": "Casper",
