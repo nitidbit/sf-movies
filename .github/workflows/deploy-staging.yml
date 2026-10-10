@@ -2,7 +2,7 @@ name: Deploy staging to OpalStack
 
 on:
   push:
-    branches: [main]
+    branches: [main, winston/host-server-at-opalstack]
     paths:
       - 'server/**'
       - 'scripts/deploy.sh'
@@ -18,11 +18,26 @@ jobs:
     steps:
       - uses: actions/checkout@v7
 
-      - name: Create SSH key
+      - name: Install SSH key in this temporary github-action VM
+      #   1. On dev box, make a key pair with no passphrase
+      #       KEY_FILE=~/.ssh/opalstack-sf-mov-staging
+      #       ssh-keygen -t ed25519 -N "" -C "for sf-mov-staging > deploy-staging.yml" -f $KEY_FILE
+      #
+      #   2. Install the public key on the server (this asks for the account's password once)
+      #       ssh-copy-id -i $KEY_FILE sf-mov-staging@opal3.opalstack.com
+      #
+      #   3. Check that logging in with the key works
+      #       ssh -i $KEY_FILE -o IdentitiesOnly=yes sf-mov-staging@opal3.opalstack.com true && echo ok
+      #
+      #   4. Store the private key as the repo secret
+      #       gh secret set SSH_PRIVATE_KEY_STAGING < $KEY_FILE
+      #
+      #   OPALSTACK_HOST_KEY is from `ssh-keyscan -t ed25519 opal3.opalstack.com`
         run: |
           mkdir -p ~/.ssh
           install -m 600 /dev/null ~/.ssh/id_ed25519
           echo "${{ secrets.SSH_PRIVATE_KEY_STAGING }}" > ~/.ssh/id_ed25519
-          echo "opal3.opalstack.com ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIA5N0PPihPeDKnBiCsFAgQaxgk23WAzM+LTNVqTcfErJ" > ~/.ssh/known_hosts
+          OPALSTACK_HOST_KEY="opal3.opalstack.com ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIA5N0PPihPeDKnBiCsFAgQaxgk23WAzM+LTNVqTcfErJ"
+          echo "$OPALSTACK_HOST_KEY" > ~/.ssh/known_hosts
 
       - run: scripts/deploy.sh staging
