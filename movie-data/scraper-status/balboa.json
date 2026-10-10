@@ -1,12 +1,17 @@
 {
   "slug": "balboa",
   "theater": "Balboa",
-  "generatedAt": "2026-10-09T13:34:14.655Z",
+  "generatedAt": "2026-10-10T13:27:39.897Z",
   "status": "discrepancies",
   "report": {
-    "matched": 76,
+    "matched": 72,
     "timeMismatches": [],
     "titleMismatches": [
+      {
+        "startTime": "2026-10-10T19:00:00-07:00",
+        "ourTitle": "Queen Budapest",
+        "scenefTitle": "Queen: Live in Budapest"
+      },
       {
         "startTime": "2026-10-23T20:00:00-07:00",
         "ourTitle": "LIVE  MUSIC:  Izaak Opatz, Joe Kaplow",
