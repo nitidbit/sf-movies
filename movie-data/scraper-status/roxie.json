@@ -1,29 +1,13 @@
 {
   "slug": "roxie",
   "theater": "Roxie",
-  "generatedAt": "2026-10-09T13:55:41.672Z",
+  "generatedAt": "2026-10-10T13:52:33.471Z",
   "status": "discrepancies",
   "report": {
-    "matched": 87,
+    "matched": 85,
     "timeMismatches": [],
     "titleMismatches": [],
     "oursOnly": [
-      {
-        "title": "New People: NAZA",
-        "startTime": "2026-10-09T18:20:00-07:00"
-      },
-      {
-        "title": "Floating Features: Top Gun",
-        "startTime": "2026-10-09T19:00:00-07:00"
-      },
-      {
-        "title": "3rd i 2026: Avie Luthra",
-        "startTime": "2026-10-09T19:30:00-07:00"
-      },
-      {
-        "title": "New People: Never After Dark",
-        "startTime": "2026-10-09T20:20:00-07:00"
-      },
       {
         "title": "3rd i 2026: Sand City",
         "startTime": "2026-10-10T13:00:00-07:00"
