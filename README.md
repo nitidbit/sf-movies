@@ -2,22 +2,26 @@ an
 ==================
 
 * [Production website, for now]( https://nitidbit.github.io/sf-movies/ )
+* [Staging website, for now]( https://winstonw.opalstacked.com/ )
 * [Stories in Linear]( https://linear.app/butud/project/films-with-friends-cbb71adbd6f8/issues )
 * [Github]( https://github.com/nitidbit/sf-movies )
 
 
 ## Prior Art
 - [spiralhwy.github.io/web](https://spiralhwy.github.io/web/)
+- [SceneF]( https://scenef.com )
 - [Fandango](https://www.fandango.com)
 
 
-Architecture Summary as of Aug 2026
+Architecture Summary as of Oct 2026
 -----------------------------------
-sf-movies is a static Astro site (~2,500 lines) that lists showtimes from six San Francisco indie theaters. It has no server and no database. Two halves:
+sf-movies is a static Astro site (~2,500 lines) that lists showtimes from six San Francisco indie theaters. Beginnings of a server written in Clojure, running on the Babshka stand-alone clojure interpreter (not on JVM). Three parts:
 
 (1) Scrape side (Node, runs in Github Actions). src/shared/theaters.ts is a config map of six theaters, each naming a source — one of four scrapers in src/shared/scrapers/ (squarespace, roxie, scenef, tribeEvents). src/scripts/scrape-theater.ts takes a slug, dispatches on source via a switch, and hands the results to src/shared/events/persist.ts, which groups them by LA month and merges into movie-data/<year>/<theater>/<month>.json keyed on sourceUrl (eventStore.ts). Six near-identical GitHub Actions workflows run one theater each, daily, and commit the JSON back to the repo.
 
 (2) Site side (build time). src/shared/events/loadEvents.ts flattens all 624 JSON records into one sorted list. src/pages/index.astro drops past showings, clusters the rest into day groups, and renders every showing twice — once in a "Browsing" pane, once hidden in a "Wish List" pane — as MovieCard.astro `<li>` elements carrying data-title / data-date / data-theater / data-source-url.
+
+(3) Server — server/src/server.clj
 
 Browser. Two small inline scripts, no framework. index.astro's script builds a sourceUrl → elements map so starring a card updates both copies and persists to localStorage (wishlist.ts). FilterBar.astro's script holds the filter state and hides non-matching cards by walking the DOM and reading those data attributes.
 
@@ -42,6 +46,7 @@ Testing is vitest, pure-Node, no DOM environment. Coverage is good on the scrape
 Developer Setup
 ---------------
 
+* brew install borkdude/brew/babashka watchexec
 * npm i
 * npm test
 * ./dev-start.sh
@@ -53,7 +58,7 @@ Developer Setup
 | `npm install`             | Installs dependencies                            |
 | `./dev-start.sh`          | Run the dev server                               |
 | `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
+| `npm run build`           | Build your production site to `./site/`          |
 | `npm run preview`         | Preview your build locally, before deploying     |
 | `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
 | `npm run astro -- --help` | Get help using the Astro CLI                     |
@@ -90,6 +95,8 @@ Server
         src/                        - rsynced from repo, --delete
             bb-version
             server.clj
+
+        site/                       - built Astro site, rsynced from CI, --delete
 
         sqlite/                     - (later) not rsynced; survives deploys
             sf-movies.db

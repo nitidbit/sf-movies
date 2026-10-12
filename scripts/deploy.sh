@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Deploy the server to Opalstack. Usage: scripts/deploy.sh staging
+# Deploy the server and the built site (site/, from npm run build) to Opalstack. Usage: scripts/deploy.sh staging
 
 set -euo pipefail
 cd "$(dirname "$0")/.."
@@ -18,9 +18,10 @@ esac
 
 BB_VERSION=$(cat server/src/bb-version)
 
-# Only src/ gets --delete, so bin/, sqlite/ and server.pid in APP_DIR are untouched.
+# Only src/ and site/ get --delete, so bin/, sqlite/ and server.pid in APP_DIR are untouched.
 rsync -av server/start server/stop "$HOST:$APP_DIR/"
 rsync -av --delete server/src/ "$HOST:$APP_DIR/src/"
+rsync -av --delete site/ "$HOST:$APP_DIR/site/"
 
 ssh "$HOST" "APP_DIR=$APP_DIR PORT=$PORT BB_VERSION=$BB_VERSION bash -s" <<'EOF'
 set -euo pipefail

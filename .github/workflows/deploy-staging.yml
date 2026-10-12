@@ -3,10 +3,6 @@ name: Deploy staging to OpalStack
 on:
   push:
     branches: [main, winston/host-server-at-opalstack]
-    paths:
-      - 'server/**'
-      - 'scripts/deploy.sh'
-      - '.github/workflows/deploy-staging.yml'
   workflow_dispatch:
 
 permissions:
@@ -17,6 +13,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7
+
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      - run: npm run build
 
       - name: Install SSH key in this temporary github-action VM
       #   1. On dev box, make a key pair with no passphrase

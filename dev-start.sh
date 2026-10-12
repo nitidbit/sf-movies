@@ -1,20 +1,15 @@
 #!/usr/bin/env bash
+# Build the site and serve it from babashka, as on Opalstack.
+# Rebuilds and restarts the server whenever a source file changes.
 
 set -euo pipefail
 cd "$(dirname "$0")"
 
-bb server/src/server.clj &
-SERVER_PID=$!
-trap 'kill "$SERVER_PID" 2>/dev/null' EXIT
-
-npm run dev &
-# npm run dev -- --host &
-DEV_PID=$!
-
-# Maybe open page in browser
+# Maybe open page in browser, once the server is up
 if [[ -n "${BROWSER:-}" ]]; then
-  sleep 1
-  open -a $BROWSER http://localhost:4321/sf-movies/
+  (until curl -s -o /dev/null http://localhost:8080/; do sleep 1; done
+   open -a "$BROWSER" http://localhost:8080/) &
 fi
 
-wait "$DEV_PID"
+exec watchexec -r -w src -w public -w movie-data -w server/src -- \
+  'npm run build && SITE_DIR=site exec bb server/src/server.clj'
