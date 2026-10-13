@@ -49,6 +49,7 @@ Developer Setup
 * brew install borkdude/brew/babashka watchexec
 * npm i
 * npm test
+* bb server/test/server_test.clj
 * ./dev-start.sh
 
 ### Commands
@@ -98,6 +99,6 @@ Server
 
         site/                       - built Astro site, rsynced from CI, --delete
 
-        sqlite/                     - (later) not rsynced; survives deploys
+        sqlite/                     - not rsynced; survives deploys
             sf-movies.db
 ```

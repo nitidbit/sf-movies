@@ -14,3 +14,18 @@ export function preferredDateTimeFmt(formatter: Intl.DateTimeFormat, date: Date)
   const get = partGetter(formatter, date);
   return `${get("hour")}:${get("minute")}${get("dayPeriod").toLowerCase()}, ${get("weekday")} ${get("month")} ${get("day")}`;
 }
+
+const showtimeFormatter = new Intl.DateTimeFormat("en-US", {
+  timeZone: "America/Los_Angeles",
+  weekday: "short",
+  day: "2-digit",
+  month: "short",
+  year: "numeric",
+  hour: "numeric",
+  minute: "2-digit",
+});
+
+// A showing's start time as shown on its card, in San Francisco time.
+export function formatShowtime(date: Date): string {
+  return preferredDateTimeFmt(showtimeFormatter, date);
+}

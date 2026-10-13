@@ -1,24 +1,16 @@
 ---
 import StarIcon from "./StarIcon.astro";
-import { preferredDateTimeFmt } from "../shared/dateFormat";
+import { formatShowtime } from "../shared/dateFormat";
 import type { Event } from "../shared/events/event";
 
 interface Props {
   event: Event;
   hidden?: boolean;
+  // Cards in the Wish List pane also hold the showing's comments.
+  inWishlist?: boolean;
 }
 
-const { event, hidden = false } = Astro.props;
-
-const dateTimeFormatter = new Intl.DateTimeFormat("en-US", {
-  timeZone: "America/Los_Angeles",
-  weekday: "short",
-  day: "2-digit",
-  month: "short",
-  year: "numeric",
-  hour: "numeric",
-  minute: "2-digit",
-});
+const { event, hidden = false, inWishlist = false } = Astro.props;
 ---
 
 <li
@@ -36,6 +28,7 @@ const dateTimeFormatter = new Intl.DateTimeFormat("en-US", {
       </a>
     </div>
     <button class="star-toggle" type="button" aria-label="Add to wish list" aria-pressed="false">
+      <span class="star-toggle__initials"></span>
       <StarIcon />
     </button>
   </div>
@@ -54,10 +47,19 @@ const dateTimeFormatter = new Intl.DateTimeFormat("en-US", {
   }
   <div class="movie-card__meta">
     <span title={event.attribution}>
-      {preferredDateTimeFmt(dateTimeFormatter, new Date(event.startTime))}
+      {formatShowtime(new Date(event.startTime))}
     </span>
     <span class="movie-card__theater">{event.theater}</span>
   </div>
+  { inWishlist &&
+    <div class="movie-card__comments">
+      <ul class="comment-list"></ul>
+      <form class="comment-form">
+        <input class="comment-form__input" name="body" placeholder="Comment" autocomplete="off" maxlength="2000" />
+        <button type="submit">Post</button>
+      </form>
+    </div>
+  }
 </li>
 
 <style>
@@ -84,6 +86,9 @@ const dateTimeFormatter = new Intl.DateTimeFormat("en-US", {
 
   .star-toggle {
     flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    gap: 0.25rem;
     background: none;
     border: none;
     cursor: pointer;
@@ -98,6 +103,56 @@ const dateTimeFormatter = new Intl.DateTimeFormat("en-US", {
 
   .star-toggle[aria-pressed="true"] {
     color: #e0a800;
+  }
+
+  /* Everyone in the group who starred the showing, e.g. "AN BE". */
+  .star-toggle__initials {
+    font: inherit;
+    font-size: var(--font-size-sm);
+    color: #555;
+  }
+
+  .movie-card__comments {
+    font-size: var(--font-size-sm);
+    margin-top: 0.4rem;
+  }
+
+  .comment-list {
+    padding: 0;
+    margin: 0 0 0.3rem;
+  }
+
+  /* The comments are written by the page script, so they miss this
+     component's scope attribute. */
+  .comment-list :global(li) {
+    list-style: none;
+    margin-bottom: 0.2rem;
+  }
+
+  .comment-list :global(.comment__handle) {
+    font-weight: bold;
+    margin-right: 0.3rem;
+  }
+
+  .comment-list :global(.comment__action) {
+    margin-left: 0.3rem;
+    padding: 0;
+    border: none;
+    background: none;
+    font: inherit;
+    color: var(--link-color);
+    cursor: pointer;
+  }
+
+  .comment-form {
+    display: flex;
+    gap: 0.3rem;
+  }
+
+  .comment-form__input {
+    flex: 1;
+    min-width: 0;
+    font: inherit;
   }
 
   @keyframes wishlist-reveal {

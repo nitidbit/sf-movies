@@ -64,6 +64,11 @@ function formatDayHeader(date: string): string {
                decorative star included. -->
           <section class="pane wishlist-pane" aria-label="Wish List">
             <h2 class="pane-heading"><StarIcon /> Wish List</h2>
+            <!-- Who has this list open. Only shown on a list's own URL. -->
+            <p id="presence" class="presence" hidden>
+              <span id="presence-you"></span>
+              <span id="presence-others"></span>
+            </p>
             <div id="wishlist-empty" class="wishlist-empty">
               <p>The indie theaters of San Francisco each list their own showtimes. We gather them here.</p>
               <p>Look through the Browsing list. When you find a showing you
@@ -86,12 +91,19 @@ function formatDayHeader(date: string): string {
                   <h3>{formatDayHeader(group.date)}</h3>
                   <ul class="day-group__cards">
                     {group.events.map((event) => (
-                      <MovieCard event={event} hidden />
+                      <MovieCard event={event} hidden inWishlist />
                     ))}
                   </ul>
                 </section>
               ))
             }
+            <!-- Starred showings the built page no longer has, because their
+                 day has passed. The page script fills it from the server's
+                 copy. -->
+            <section id="wishlist-past" class="day-group" hidden>
+              <h3>Past</h3>
+              <ul id="wishlist-past-cards" class="day-group__cards"></ul>
+            </section>
             <SiteFooter />
           </section>
 
@@ -161,6 +173,18 @@ function formatDayHeader(date: string): string {
     gap: 0.4rem;
     padding-bottom: 0.5rem;
     border-bottom: 1px solid #888;
+  }
+
+  .presence {
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+    margin: 0.5rem 0 0;
+    font-size: var(--font-size-sm);
+  }
+
+  .presence[hidden] {
+    display: none;
   }
 
   .wishlist-empty {
@@ -279,7 +303,19 @@ function formatDayHeader(date: string): string {
 </style>
 
 <script>
-  import { loadWishlist, saveWishlist } from "../shared/wishlist";
+  import { formatShowtime } from "../shared/dateFormat";
+  import { compareByStartTime } from "../shared/events/schedule";
+  import {
+    cleanHandle,
+    listIdFromPath,
+    loadHandle,
+    newListId,
+    saveHandle,
+    sendChange,
+    othersWatching,
+    type ListMessage,
+    type ListShowing,
+  } from "../shared/sharedList";
 
   interface CardRefs {
     starButtons: HTMLButtonElement[];
@@ -287,11 +323,22 @@ function formatDayHeader(date: string): string {
   }
 
   const wishlistEmpty = document.getElementById("wishlist-empty") as HTMLElement;
-  const wishlistedIds = new Set(loadWishlist());
+  const pastCards = document.getElementById("wishlist-past-cards") as HTMLUListElement;
+  const presence = document.getElementById("presence") as HTMLElement;
+  const presenceYou = document.getElementById("presence-you") as HTMLElement;
+  const presenceOthers = document.getElementById("presence-others") as HTMLElement;
+
+  let listId = listIdFromPath(location.pathname);
+  let handle = loadHandle();
+  let showings: ListShowing[] = [];
+  let watching: string[] = [];
+  let events: EventSource | null = null;
+  let connection: "connecting" | "open" | "lost" = "connecting";
+  // Showings the visitor just starred, so only their own star animates.
+  const justStarred = new Set<string>();
 
   // One pass over every card (both panes) builds a sourceUrl -> refs map,
-  // so toggling a star is an O(1) lookup instead of re-querying the DOM
-  // on every click.
+  // so each render is a lookup instead of re-querying the DOM.
   const cardsBySourceUrl = new Map<string, CardRefs>();
 
   for (const card of document.querySelectorAll<HTMLLIElement>(".movie-card")) {
@@ -306,64 +353,225 @@ function formatDayHeader(date: string): string {
     cardsBySourceUrl.set(sourceUrl, refs);
   }
 
+  // Past cards are copies of a Wish List card, so they keep the card's
+  // scoped styles. Taken before any render, while it is still untouched.
+  const cardTemplate = document.querySelector<HTMLLIElement>(".wishlist-pane .movie-card")?.cloneNode(true) as
+    | HTMLLIElement
+    | undefined;
+  cardTemplate?.querySelector(".movie-card__synopsis")?.remove();
+
   function updateWishlistDayGroups() {
     for (const group of document.querySelectorAll<HTMLElement>(".wishlist-pane .day-group")) {
       const hasVisibleCard = group.querySelector(".movie-card:not([hidden])") !== null;
       group.hidden = !hasVisibleCard;
     }
-    // Based on what's actually rendered, not wishlistedIds.size — a saved
-    // id whose event has since aged off the list would otherwise leave the
-    // pane blank (empty state hidden, but no card to show either).
     wishlistEmpty.hidden = document.querySelector(".wishlist-pane .movie-card:not([hidden])") !== null;
   }
 
-  // The single source of truth for a showing's starred state: updates both
-  // star buttons (browse + wishlist twin), the wishlist twin's
-  // visibility, and persistence. `animate` is false when restoring saved
-  // state on load — only a user's own click should trigger the reveal
-  // transition.
-  function setStarred(sourceUrl: string, starred: boolean, animate: boolean) {
-    const refs = cardsBySourceUrl.get(sourceUrl);
-    if (!refs) return;
+  function renderStar(button: HTMLButtonElement, stars: string[]) {
+    button.setAttribute("aria-pressed", String(handle !== null && stars.includes(handle)));
+    const initials = button.querySelector(".star-toggle__initials");
+    if (initials) initials.textContent = stars.join(" ");
+  }
 
-    for (const button of refs.starButtons) {
-      button.setAttribute("aria-pressed", String(starred));
-    }
+  function renderComments(card: HTMLLIElement, showing: ListShowing) {
+    const list = card.querySelector(".comment-list");
+    if (!list) return;
 
-    if (refs.wishlistCard) {
-      refs.wishlistCard.hidden = !starred;
-      if (starred && animate) {
-        refs.wishlistCard.classList.add("movie-card--revealed");
-        refs.wishlistCard.addEventListener(
-          "animationend",
-          () => refs.wishlistCard?.classList.remove("movie-card--revealed"),
-          { once: true },
-        );
+    list.replaceChildren(
+      ...showing.comments.map((comment) => {
+        const item = document.createElement("li");
+        item.dataset.commentId = String(comment.id);
+
+        const who = document.createElement("span");
+        who.className = "comment__handle";
+        who.textContent = comment.handle;
+        item.append(who, comment.body);
+
+        if (comment.handle === handle) {
+          for (const action of ["Edit", "Delete"]) {
+            const button = document.createElement("button");
+            button.type = "button";
+            button.className = `comment__action comment__${action.toLowerCase()}`;
+            button.textContent = action;
+            item.append(button);
+          }
+        }
+        return item;
+      }),
+    );
+  }
+
+  function makePastCard(showing: ListShowing): HTMLLIElement {
+    const card = cardTemplate!.cloneNode(true) as HTMLLIElement;
+    card.hidden = false;
+    card.dataset.sourceUrl = showing.sourceUrl;
+    card.dataset.startTime = showing.startTime;
+    card.dataset.theater = showing.theater;
+
+    const link = card.querySelector(".movie-card__title a") as HTMLAnchorElement;
+    link.href = showing.sourceUrl;
+    link.textContent = showing.title;
+
+    const [when, theater] = card.querySelectorAll(".movie-card__meta span");
+    when.removeAttribute("title");
+    when.textContent = formatShowtime(new Date(showing.startTime));
+    theater.textContent = showing.theater;
+    return card;
+  }
+
+  // Draws the whole list: the stars on every card in both panes, which
+  // Wish List cards show, their comments, and the Past section.
+  function render() {
+    const bySourceUrl = new Map(showings.map((showing) => [showing.sourceUrl, showing]));
+
+    for (const [sourceUrl, refs] of cardsBySourceUrl) {
+      const showing = bySourceUrl.get(sourceUrl);
+      for (const button of refs.starButtons) renderStar(button, showing?.stars ?? []);
+
+      const card = refs.wishlistCard;
+      if (!card) continue;
+      card.hidden = !showing;
+      if (showing) renderComments(card, showing);
+      if (showing && justStarred.has(sourceUrl)) {
+        card.classList.add("movie-card--revealed");
+        card.addEventListener("animationend", () => card.classList.remove("movie-card--revealed"), {
+          once: true,
+        });
       }
     }
+    justStarred.clear();
+
+    const past = showings.filter((showing) => !cardsBySourceUrl.has(showing.sourceUrl)).sort(compareByStartTime);
+    pastCards.replaceChildren(
+      ...(cardTemplate ? past : []).map((showing) => {
+        const card = makePastCard(showing);
+        renderStar(card.querySelector(".star-toggle")!, showing.stars);
+        renderComments(card, showing);
+        return card;
+      }),
+    );
 
     updateWishlistDayGroups();
   }
 
-  for (const sourceUrl of wishlistedIds) {
-    setStarred(sourceUrl, true, false);
+  function renderPresence() {
+    presence.hidden = !listId;
+    presenceYou.textContent = `you: ${handle ?? ""}`;
+    presenceOthers.textContent =
+      connection === "open"
+        ? `others: ${othersWatching(watching, handle).join(", ") || "none"}`
+        : connection === "connecting"
+          ? "connecting…"
+          : "not connected to server, retrying…";
   }
-  updateWishlistDayGroups();
 
-  for (const [sourceUrl, refs] of cardsBySourceUrl) {
-    for (const button of refs.starButtons) {
-      button.addEventListener("click", () => {
-        const starred = !wishlistedIds.has(sourceUrl);
-        if (starred) {
-          wishlistedIds.add(sourceUrl);
-        } else {
-          wishlistedIds.delete(sourceUrl);
-        }
-        setStarred(sourceUrl, starred, true);
-        saveWishlist(Array.from(wishlistedIds));
-      });
-    }
+  function showList(message: ListMessage) {
+    showings = message.showings;
+    watching = message.watching;
+    render();
+    renderPresence();
   }
+
+  // The server sends the whole list and who has it open when the stream
+  // opens, after every change, and when anyone opens or closes the list.
+  // EventSource reconnects by itself if it drops. The handle goes along so
+  // the server can tell the others who is here.
+  function watchList(id: string) {
+    events?.close();
+    events = new EventSource(`/api/lists/${id}/events?handle=${encodeURIComponent(handle ?? "")}`);
+    events.onopen = () => {
+      connection = "open";
+      renderPresence();
+    };
+    events.onerror = () => {
+      connection = "lost";
+      renderPresence();
+    };
+    events.onmessage = (message) => showList(JSON.parse(message.data));
+  }
+
+  async function askForHandle(): Promise<string | null> {
+    if (handle) return handle;
+    const typed = window.prompt("Your handle, up to 5 characters");
+    if (!typed) return null;
+    const cleaned = await cleanHandle(typed);
+    if (!cleaned) return null;
+    handle = cleaned;
+    saveHandle(handle);
+    // Reconnect so the server knows who this is.
+    if (listId) watchList(listId);
+    renderPresence();
+    return handle;
+  }
+
+  async function toggleStar(card: HTMLElement) {
+    const me = await askForHandle();
+    if (!me) return;
+
+    if (!listId) {
+      listId = newListId();
+      history.pushState(null, "", `/list/${listId}`);
+      watchList(listId);
+    }
+
+    const sourceUrl = card.dataset.sourceUrl!;
+    const starred = showings.find((showing) => showing.sourceUrl === sourceUrl)?.stars.includes(me) ?? false;
+    if (!starred) justStarred.add(sourceUrl);
+
+    showList(
+      await sendChange(listId, starred ? "DELETE" : "POST", "/stars", {
+        sourceUrl,
+        handle: me,
+        title: card.querySelector(".movie-card__title a")?.textContent?.trim(),
+        startTime: card.dataset.startTime,
+        theater: card.dataset.theater,
+      }),
+    );
+  }
+
+  // Clicks are handled for the whole document, because Past cards and
+  // comments are created after the page loads.
+  document.addEventListener("click", async (event) => {
+    const target = event.target as HTMLElement;
+    const card = target.closest<HTMLLIElement>(".movie-card");
+    if (!card) return;
+
+    if (target.closest(".star-toggle")) {
+      await toggleStar(card);
+      return;
+    }
+
+    const commentId = target.closest<HTMLElement>("[data-comment-id]")?.dataset.commentId;
+    if (!listId || !handle || !commentId) return;
+
+    if (target.closest(".comment__edit")) {
+      const current = showings.flatMap((showing) => showing.comments).find((c) => String(c.id) === commentId);
+      const body = window.prompt("Edit comment", current?.body ?? "");
+      if (body) showList(await sendChange(listId, "PUT", `/comments/${commentId}`, { handle, body }));
+    } else if (target.closest(".comment__delete")) {
+      showList(await sendChange(listId, "DELETE", `/comments/${commentId}`, { handle }));
+    }
+  });
+
+  document.addEventListener("submit", async (event) => {
+    const form = (event.target as HTMLElement).closest<HTMLFormElement>(".comment-form");
+    if (!form) return;
+    event.preventDefault();
+
+    const input = form.querySelector<HTMLInputElement>(".comment-form__input")!;
+    const body = input.value.trim();
+    const me = await askForHandle();
+    if (!body || !me || !listId) return;
+
+    const sourceUrl = form.closest<HTMLElement>(".movie-card")!.dataset.sourceUrl;
+    input.value = "";
+    showList(await sendChange(listId, "POST", "/comments", { sourceUrl, handle: me, body }));
+  });
+
+  if (listId) watchList(listId);
+  render();
+  renderPresence();
 
   for (const synopsis of document.querySelectorAll<HTMLButtonElement>(".movie-card__synopsis")) {
     synopsis.addEventListener("click", () => {
