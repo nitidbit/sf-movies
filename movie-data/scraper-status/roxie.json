@@ -1,21 +1,13 @@
 {
   "slug": "roxie",
   "theater": "Roxie",
-  "generatedAt": "2026-10-29T13:51:40.367Z",
+  "generatedAt": "2026-10-30T13:51:21.022Z",
   "status": "discrepancies",
   "report": {
-    "matched": 78,
+    "matched": 84,
     "timeMismatches": [],
     "titleMismatches": [],
     "oursOnly": [
-      {
-        "title": "New People: The Great Experiment",
-        "startTime": "2026-10-29T18:00:00-07:00"
-      },
-      {
-        "title": "New People: Hausu",
-        "startTime": "2026-10-29T20:40:00-07:00"
-      },
       {
         "title": "New People: My Undesirable Friends: Part 2 – Exile (Chapters 1–3)",
         "startTime": "2026-10-30T18:15:00-07:00"
@@ -129,12 +121,7 @@
         "startTime": "2026-12-19T18:30:00-08:00"
       }
     ],
-    "scenefOnly": [
-      {
-        "title": "Raise the Red Lantern",
-        "startTime": "2026-11-20T18:00:00-08:00"
-      }
-    ],
+    "scenefOnly": [],
     "collapsedDuplicates": 0,
     "excluded": {
       "ours": 0,
