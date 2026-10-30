@@ -1,11 +1,17 @@
 {
   "slug": "balboa",
   "theater": "Balboa",
-  "generatedAt": "2026-10-29T13:24:14.558Z",
+  "generatedAt": "2026-10-30T13:23:46.020Z",
   "status": "discrepancies",
   "report": {
-    "matched": 69,
-    "timeMismatches": [],
+    "matched": 67,
+    "timeMismatches": [
+      {
+        "title": "You Can See Everything",
+        "ourStartTime": "2026-10-31T13:00:00-07:00",
+        "scenefStartTime": "2026-10-31T13:15:00-07:00"
+      }
+    ],
     "titleMismatches": [
       {
         "startTime": "2026-11-11T19:30:00-08:00",
@@ -20,6 +26,10 @@
       }
     ],
     "scenefOnly": [
+      {
+        "title": "You Can See Everything",
+        "startTime": "2026-11-04T15:00:00-08:00"
+      },
       {
         "title": "Dante's Inferno/In Smog and Thunder (DBL FTR)",
         "startTime": "2026-11-06T19:30:00-08:00"
@@ -79,7 +89,7 @@
     ],
     "collapsedDuplicates": 3,
     "excluded": {
-      "ours": 3,
+      "ours": 2,
       "scenef": 0
     }
   }
