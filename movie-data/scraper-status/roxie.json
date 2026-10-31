@@ -1,21 +1,13 @@
 {
   "slug": "roxie",
   "theater": "Roxie",
-  "generatedAt": "2026-10-30T13:51:21.022Z",
+  "generatedAt": "2026-10-31T13:51:29.792Z",
   "status": "discrepancies",
   "report": {
-    "matched": 84,
+    "matched": 82,
     "timeMismatches": [],
     "titleMismatches": [],
     "oursOnly": [
-      {
-        "title": "New People: My Undesirable Friends: Part 2 – Exile (Chapters 1–3)",
-        "startTime": "2026-10-30T18:15:00-07:00"
-      },
-      {
-        "title": "Floating Features: Us",
-        "startTime": "2026-10-30T19:00:00-07:00"
-      },
       {
         "title": "New People: NAZA",
         "startTime": "2026-10-31T14:50:00-07:00"
