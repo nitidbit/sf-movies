@@ -1,10 +1,10 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-10-30T13:41:00.716Z",
+  "generatedAt": "2026-10-31T13:40:11.796Z",
   "status": "discrepancies",
   "report": {
-    "matched": 27,
+    "matched": 25,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -50,7 +50,7 @@
         "startTime": "2026-11-04T20:00:00-08:00"
       },
       {
-        "title": "STUDIO 8 FILM FESTIVAL: Juror Night (Films from Ed Jones, Michael LaRocco & Jac White - Presented by SF Artists Alumni)",
+        "title": "STUDIO 8 FILM FESTIVAL: Juror Night: Where To? (Films from Ed Jones, Michael LaRocco & Jacalyn White - Presented by SF Artists Alumni)",
         "startTime": "2026-11-06T19:30:00-08:00"
       },
       {
