@@ -1,17 +1,11 @@
 {
   "slug": "balboa",
   "theater": "Balboa",
-  "generatedAt": "2026-10-31T13:21:10.956Z",
+  "generatedAt": "2026-11-01T13:20:58.487Z",
   "status": "discrepancies",
   "report": {
-    "matched": 63,
-    "timeMismatches": [
-      {
-        "title": "You Can See Everything",
-        "ourStartTime": "2026-10-31T13:00:00-07:00",
-        "scenefStartTime": "2026-10-31T13:15:00-07:00"
-      }
-    ],
+    "matched": 58,
+    "timeMismatches": [],
     "titleMismatches": [
       {
         "startTime": "2026-11-11T19:30:00-08:00",
@@ -93,7 +87,7 @@
     ],
     "collapsedDuplicates": 3,
     "excluded": {
-      "ours": 0,
+      "ours": 6,
       "scenef": 0
     }
   }
