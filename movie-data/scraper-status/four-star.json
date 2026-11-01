@@ -1,10 +1,10 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-10-31T13:40:11.796Z",
+  "generatedAt": "2026-11-01T13:40:27.173Z",
   "status": "discrepancies",
   "report": {
-    "matched": 25,
+    "matched": 21,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -29,10 +29,6 @@
       }
     ],
     "oursOnly": [
-      {
-        "title": "Labyrinth",
-        "startTime": "2026-10-31T10:00:00-07:00"
-      },
       {
         "title": "Labyrinth",
         "startTime": "2026-11-01T10:00:00-08:00"
@@ -169,10 +165,6 @@
     "scenefOnly": [
       {
         "title": "Labyrinth",
-        "startTime": "2026-10-31T18:15:00-07:00"
-      },
-      {
-        "title": "Labyrinth",
         "startTime": "2026-11-01T19:00:00-08:00"
       },
       {
@@ -206,7 +198,7 @@
     ],
     "collapsedDuplicates": 0,
     "excluded": {
-      "ours": 3,
+      "ours": 8,
       "scenef": 0
     }
   }
