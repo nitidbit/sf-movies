@@ -1,10 +1,10 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-11-01T13:40:27.173Z",
+  "generatedAt": "2026-11-02T13:40:14.066Z",
   "status": "discrepancies",
   "report": {
-    "matched": 21,
+    "matched": 20,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -29,14 +29,6 @@
       }
     ],
     "oursOnly": [
-      {
-        "title": "Labyrinth",
-        "startTime": "2026-11-01T10:00:00-08:00"
-      },
-      {
-        "title": "Local Critique",
-        "startTime": "2026-11-01T15:30:00-08:00"
-      },
       {
         "title": "PALESTINE CINEMA DAYS: Return to Haifa (Presented by FILMLAB PALESTINE)",
         "startTime": "2026-11-02T17:30:00-08:00"
@@ -164,10 +156,6 @@
     ],
     "scenefOnly": [
       {
-        "title": "Labyrinth",
-        "startTime": "2026-11-01T19:00:00-08:00"
-      },
-      {
         "title": "Fantastic Mr. Fox",
         "startTime": "2026-11-21T16:00:00-08:00"
       },
@@ -198,7 +186,7 @@
     ],
     "collapsedDuplicates": 0,
     "excluded": {
-      "ours": 8,
+      "ours": 11,
       "scenef": 0
     }
   }
