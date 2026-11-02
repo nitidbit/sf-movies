@@ -365,13 +365,6 @@
   },
   {
     "theater": "Roxie",
-    "title": "Fatherland",
-    "startTime": "2026-11-09T18:00:00-08:00",
-    "sourceUrl": "https://roxie.com/film/fatherland/#showtimes-20261109-1800",
-    "synopsis": "FATHERLAND centres on the relationship between the Nobel Prize-winning writer Thomas Mann (Hanns Zischler) and his daughter Erika (Sandra Hüller) – actress, writer and […]"
-  },
-  {
-    "theater": "Roxie",
     "title": "NAZA",
     "startTime": "2026-11-09T18:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/naza/#showtimes-20261109-1800",
@@ -379,10 +372,10 @@
   },
   {
     "theater": "Roxie",
-    "title": "The History of Concrete",
-    "startTime": "2026-11-09T20:00:00-08:00",
-    "sourceUrl": "https://roxie.com/film/the-history-of-concrete/#showtimes-20261109-2000",
-    "synopsis": "Following the finale of his TV show, filmmaker John Wilson searches for a new creative outlet. After attending a workshop on how to write […]"
+    "title": "Fatherland",
+    "startTime": "2026-11-09T18:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/fatherland/#showtimes-20261109-1800",
+    "synopsis": "FATHERLAND centres on the relationship between the Nobel Prize-winning writer Thomas Mann (Hanns Zischler) and his daughter Erika (Sandra Hüller) – actress, writer and […]"
   },
   {
     "theater": "Roxie",
@@ -390,6 +383,13 @@
     "startTime": "2026-11-09T20:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/fjord/#showtimes-20261109-2000",
     "synopsis": "From two-time Palme d’Or winner Cristian Mungiu, a Norwegian woman and her devoutRomanian husband relocate with their five children to a remote, close-knit, coastal […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "The History of Concrete",
+    "startTime": "2026-11-09T20:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/the-history-of-concrete/#showtimes-20261109-2000",
+    "synopsis": "Following the finale of his TV show, filmmaker John Wilson searches for a new creative outlet. After attending a workshop on how to write […]"
   },
   {
     "theater": "Roxie",
@@ -421,17 +421,17 @@
   },
   {
     "theater": "Roxie",
-    "title": "Arab Film Festival 2026",
-    "startTime": "2026-11-11T18:00:00-08:00",
-    "sourceUrl": "https://roxie.com/film/arab-film-festival-2026/#showtimes-20261111-1800",
-    "synopsis": "The flagship event of the Arab Film and Media Institute, the Arab Film Festival is the longest running independent festival of its kind in […]"
-  },
-  {
-    "theater": "Roxie",
     "title": "Rock Ross: Go Like This (16mm)",
     "startTime": "2026-11-11T18:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/rock-ross-go-like-this-16mm/#showtimes-20261111-1800",
     "synopsis": "Presented by Canyon Cinema Filmmaker Rock Ross in person for a post-screening audience Q&A! Canyon at The Roxie is back with a spotlight on […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Arab Film Festival 2026",
+    "startTime": "2026-11-11T18:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/arab-film-festival-2026/#showtimes-20261111-1800",
+    "synopsis": "The flagship event of the Arab Film and Media Institute, the Arab Film Festival is the longest running independent festival of its kind in […]"
   },
   {
     "theater": "Roxie",
@@ -456,17 +456,17 @@
   },
   {
     "theater": "Roxie",
-    "title": "Floating Features: Friday the 13th",
-    "startTime": "2026-11-13T19:00:00-08:00",
-    "sourceUrl": "https://roxie.com/film/floating-features-friday-the-13th/#showtimes-20261113-1900",
-    "synopsis": "A group of camp counselors are stalked and murdered by an unknown assailant while trying to reopen a summer camp which, years before, was […]"
-  },
-  {
-    "theater": "Roxie",
     "title": "SFTFF 2026 – HORROR",
     "startTime": "2026-11-13T19:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/sftff-2026-horror/#showtimes-20261113-1900",
     "synopsis": "The 2026 San Francisco Transgender Film Festival continues with HORROR, a shorts block featuring five terrifying and shocking films. Mascott (13:31min)Marilyne Lamontagne, Canada, 2025 Scott, a transgender actor […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Floating Features: Friday the 13th",
+    "startTime": "2026-11-13T19:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/floating-features-friday-the-13th/#showtimes-20261113-1900",
+    "synopsis": "A group of camp counselors are stalked and murdered by an unknown assailant while trying to reopen a summer camp which, years before, was […]"
   },
   {
     "theater": "Roxie",
@@ -561,17 +561,17 @@
   },
   {
     "theater": "Roxie",
-    "title": "Zhang Yimou’s Raise the Red Lantern (4K Restoration)",
-    "startTime": "2026-11-20T18:00:00-08:00",
-    "sourceUrl": "https://roxie.com/film/raise-the-red-lantern/#showtimes-20261120-1800",
-    "synopsis": "Co-presented by Bay Area Chinese Culture Salon and Amoment Books. Nineteen-year-old Songlian, a promising student whose family has been destroyed by her father’s death, […]"
-  },
-  {
-    "theater": "Roxie",
     "title": "On the Road (En el Camino)",
     "startTime": "2026-11-20T18:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/on-the-road-en-el-camino/#showtimes-20261120-1800",
     "synopsis": "Veneno’, a rebellious young drifter, frequents roadside diners where he sleeps with truck drivers. Urgently needing a ride, he meets ‘Muñeco’, a hard-edged driver […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Zhang Yimou’s Raise the Red Lantern (4K Restoration)",
+    "startTime": "2026-11-20T18:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/raise-the-red-lantern/#showtimes-20261120-1800",
+    "synopsis": "Co-presented by Bay Area Chinese Culture Salon and Amoment Books. Nineteen-year-old Songlian, a promising student whose family has been destroyed by her father’s death, […]"
   },
   {
     "theater": "Roxie",

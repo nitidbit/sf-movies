@@ -1,21 +1,13 @@
 {
   "slug": "roxie",
   "theater": "Roxie",
-  "generatedAt": "2026-11-01T13:51:13.434Z",
+  "generatedAt": "2026-11-02T13:51:19.684Z",
   "status": "discrepancies",
   "report": {
-    "matched": 74,
+    "matched": 66,
     "timeMismatches": [],
     "titleMismatches": [],
     "oursOnly": [
-      {
-        "title": "New People: The Gymnasts of Fisherman Colony",
-        "startTime": "2026-11-01T13:00:00-08:00"
-      },
-      {
-        "title": "New People: Paprika",
-        "startTime": "2026-11-01T15:40:00-08:00"
-      },
       {
         "title": "New People: Paprika",
         "startTime": "2026-11-05T19:15:00-08:00"
@@ -61,11 +53,11 @@
         "startTime": "2026-11-12T21:00:00-08:00"
       },
       {
-        "title": "Floating Features: Friday the 13th",
+        "title": "SFTFF 2026 – HORROR",
         "startTime": "2026-11-13T19:00:00-08:00"
       },
       {
-        "title": "SFTFF 2026 – HORROR",
+        "title": "Floating Features: Friday the 13th",
         "startTime": "2026-11-13T19:00:00-08:00"
       },
       {
