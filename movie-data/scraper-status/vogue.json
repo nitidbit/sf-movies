@@ -1,28 +1,14 @@
 {
   "slug": "vogue",
   "theater": "Vogue",
-  "generatedAt": "2026-11-01T13:29:00.010Z",
+  "generatedAt": "2026-11-02T13:28:52.223Z",
   "status": "discrepancies",
   "report": {
     "matched": 8,
-    "timeMismatches": [
-      {
-        "title": "Wildwood",
-        "ourStartTime": "2026-11-01T13:15:00-08:00",
-        "scenefStartTime": "2026-11-01T13:30:00-08:00"
-      }
-    ],
+    "timeMismatches": [],
     "titleMismatches": [],
     "oursOnly": [],
     "scenefOnly": [
-      {
-        "title": "Wildwood",
-        "startTime": "2026-11-01T16:15:00-08:00"
-      },
-      {
-        "title": "Wildwood",
-        "startTime": "2026-11-01T19:00:00-08:00"
-      },
       {
         "title": "Scattered Seeds of the Pomegranate",
         "startTime": "2026-11-20T16:30:00-08:00"
@@ -58,7 +44,7 @@
     ],
     "collapsedDuplicates": 0,
     "excluded": {
-      "ours": 4,
+      "ours": 0,
       "scenef": 2
     }
   }
