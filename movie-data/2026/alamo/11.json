@@ -209,6 +209,14 @@
   },
   {
     "theater": "Alamo",
+    "title": "In Transit",
+    "startTime": "2026-11-17T19:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/c27e069001c0",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A Polish stewardess who has to spend the night in Copenhagen to board her next flight meets a Danish man who insists on taking her out. The night does not turn out quite like either of them had expected."
+  },
+  {
+    "theater": "Alamo",
     "title": "Once Upon a Time in Harlem",
     "startTime": "2026-11-02T13:45:00-08:00",
     "sourceUrl": "https://scenef.com/go/055a6aff4ba8",
@@ -899,9 +907,9 @@
     "theater": "Alamo",
     "title": "In Transit",
     "startTime": "2026-11-17T19:00:00-08:00",
-    "sourceUrl": "https://scenef.com/go/c27e069001c0",
+    "sourceUrl": "https://scenef.com/go/5b9e17bf851b",
     "attribution": "Showtimes via SceneF.com",
-    "synopsis": "A Polish stewardess who has to spend the night in Copenhagen to board her next flight meets a Danish man who insists on taking her out. The night does not turn out quite like either of them had expected."
+    "synopsis": "The Strokes headlined United Kingdom's Carling Weekend festivals in 2002, and their misadventures were largely chronicled by this short documentary 'In Transit', which was released to members of the now-defunct 'Alone, Together' fan club back in 2004."
   },
   {
     "theater": "Alamo",
