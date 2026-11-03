@@ -1,10 +1,10 @@
 {
   "slug": "roxie",
   "theater": "Roxie",
-  "generatedAt": "2026-11-02T13:51:19.684Z",
+  "generatedAt": "2026-11-03T13:51:32.306Z",
   "status": "discrepancies",
   "report": {
-    "matched": 66,
+    "matched": 76,
     "timeMismatches": [],
     "titleMismatches": [],
     "oursOnly": [
@@ -25,6 +25,10 @@
         "startTime": "2026-11-06T19:00:00-08:00"
       },
       {
+        "title": "New People: Nausicaä of the Valley of the Wind",
+        "startTime": "2026-11-06T20:40:00-08:00"
+      },
+      {
         "title": "New People: My Undesirable Friends: Part 2 – Exile (Chapters 4-5)",
         "startTime": "2026-11-07T14:30:00-08:00"
       },
@@ -41,6 +45,10 @@
         "startTime": "2026-11-08T13:00:00-08:00"
       },
       {
+        "title": "New People: Nausicaä of the Valley of the Wind",
+        "startTime": "2026-11-08T16:45:00-08:00"
+      },
+      {
         "title": "Arab Film Festival 2026",
         "startTime": "2026-11-11T18:00:00-08:00"
       },
@@ -53,12 +61,16 @@
         "startTime": "2026-11-12T21:00:00-08:00"
       },
       {
+        "title": "Floating Features: Friday the 13th",
+        "startTime": "2026-11-13T19:00:00-08:00"
+      },
+      {
         "title": "SFTFF 2026 – HORROR",
         "startTime": "2026-11-13T19:00:00-08:00"
       },
       {
-        "title": "Floating Features: Friday the 13th",
-        "startTime": "2026-11-13T19:00:00-08:00"
+        "title": "New People: Seven Samurai",
+        "startTime": "2026-11-13T18:30:00-08:00"
       },
       {
         "title": "SFTFF 2026 – GRAB BAG",

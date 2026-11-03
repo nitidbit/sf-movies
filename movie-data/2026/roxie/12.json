@@ -29,13 +29,6 @@
   },
   {
     "theater": "Roxie",
-    "title": "New People: Cookie Queens",
-    "startTime": "2026-12-06T13:00:00-08:00",
-    "sourceUrl": "https://roxie.com/film/new-people-cookie-queens/#showtimes-20261206-1300",
-    "synopsis": "This screening will take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. Followed by a post-screening filmmaker Q&A! A celebration […]"
-  },
-  {
-    "theater": "Roxie",
     "title": "Cameron Winter at Carnegie Hall (35mm)",
     "startTime": "2026-12-06T13:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/cameron-winter-at-carnegie-hall-35mm/#showtimes-20261206-1300",
@@ -43,10 +36,24 @@
   },
   {
     "theater": "Roxie",
+    "title": "New People: Cookie Queens",
+    "startTime": "2026-12-06T13:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/new-people-cookie-queens/#showtimes-20261206-1300",
+    "synopsis": "This screening will take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. Followed by a post-screening filmmaker Q&A! A celebration […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "Welcome II the Terrordome (4K Restoration)",
     "startTime": "2026-12-06T15:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/welcome-ii-the-terrordome-4k-restoration/#showtimes-20261206-1500",
     "synopsis": "Ngozi Onwurah’s radically ahead-of-its-time Afrofuturist vision WELCOME II THE TERRORDOME made history as the first theatrically distributed British feature directed by a Black woman. […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Talk to Her",
+    "startTime": "2026-12-06T17:15:00-08:00",
+    "sourceUrl": "https://roxie.com/film/talk-to-her/#showtimes-20261206-1715",
+    "synopsis": "A travel writer’s burgeoning relationship with a famed female matador is violently interrupted when she falls into a coma after a bullring tragedy, and […]"
   },
   {
     "theater": "Roxie",
