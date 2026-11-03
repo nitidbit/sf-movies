@@ -1,10 +1,10 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-11-02T13:40:14.066Z",
+  "generatedAt": "2026-11-03T13:40:26.674Z",
   "status": "discrepancies",
   "report": {
-    "matched": 20,
+    "matched": 19,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -29,14 +29,6 @@
       }
     ],
     "oursOnly": [
-      {
-        "title": "PALESTINE CINEMA DAYS: Return to Haifa (Presented by FILMLAB PALESTINE)",
-        "startTime": "2026-11-02T17:30:00-08:00"
-      },
-      {
-        "title": "LIVE MUSIC: Green-House, Cool Maritime (Presented by THROWIN' BO'S)",
-        "startTime": "2026-11-04T20:00:00-08:00"
-      },
       {
         "title": "STUDIO 8 FILM FESTIVAL: Juror Night: Where To? (Films from Ed Jones, Michael LaRocco & Jacalyn White - Presented by SF Artists Alumni)",
         "startTime": "2026-11-06T19:30:00-08:00"
@@ -186,7 +178,7 @@
     ],
     "collapsedDuplicates": 0,
     "excluded": {
-      "ours": 11,
+      "ours": 3,
       "scenef": 0
     }
   }
