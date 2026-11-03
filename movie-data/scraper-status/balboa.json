@@ -1,10 +1,10 @@
 {
   "slug": "balboa",
   "theater": "Balboa",
-  "generatedAt": "2026-11-02T13:22:48.288Z",
+  "generatedAt": "2026-11-03T13:21:33.377Z",
   "status": "discrepancies",
   "report": {
-    "matched": 53,
+    "matched": 50,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -31,10 +31,6 @@
       {
         "title": "Godzilla Minus Zero",
         "startTime": "2026-11-12T19:30:00-08:00"
-      },
-      {
-        "title": "Godzilla Minus Zero",
-        "startTime": "2026-11-13T19:30:00-08:00"
       },
       {
         "title": "Nirvanna the Band the Show (Season One, Ep. 5 - 8)",
@@ -87,7 +83,7 @@
     ],
     "collapsedDuplicates": 3,
     "excluded": {
-      "ours": 11,
+      "ours": 3,
       "scenef": 0
     }
   }
