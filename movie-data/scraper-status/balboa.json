@@ -1,10 +1,10 @@
 {
   "slug": "balboa",
   "theater": "Balboa",
-  "generatedAt": "2026-11-04T13:21:57.178Z",
+  "generatedAt": "2026-11-05T13:21:11.931Z",
   "status": "discrepancies",
   "report": {
-    "matched": 47,
+    "matched": 43,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -21,16 +21,20 @@
     ],
     "scenefOnly": [
       {
-        "title": "You Can See Everything",
-        "startTime": "2026-11-04T15:00:00-08:00"
-      },
-      {
         "title": "Dante's Inferno/In Smog and Thunder (DBL FTR)",
         "startTime": "2026-11-06T19:30:00-08:00"
       },
       {
         "title": "Godzilla Minus Zero",
+        "startTime": "2026-11-12T17:00:00-08:00"
+      },
+      {
+        "title": "Godzilla Minus Zero",
         "startTime": "2026-11-12T19:30:00-08:00"
+      },
+      {
+        "title": "You Can See Everything",
+        "startTime": "2026-11-12T20:00:00-08:00"
       },
       {
         "title": "Nirvanna the Band the Show (Season One, Ep. 5 - 8)",
@@ -66,15 +70,15 @@
       },
       {
         "title": "Godzilla Minus Zero",
-        "startTime": "2026-11-16T19:00:00-08:00"
+        "startTime": "2026-11-16T19:30:00-08:00"
       },
       {
         "title": "Godzilla Minus Zero",
-        "startTime": "2026-11-17T19:00:00-08:00"
+        "startTime": "2026-11-17T19:30:00-08:00"
       },
       {
         "title": "Godzilla Minus Zero",
-        "startTime": "2026-11-18T19:00:00-08:00"
+        "startTime": "2026-11-18T19:30:00-08:00"
       },
       {
         "title": "Comedy At The Balboa: Johana Coca",
@@ -83,7 +87,7 @@
     ],
     "collapsedDuplicates": 4,
     "excluded": {
-      "ours": 3,
+      "ours": 4,
       "scenef": 0
     }
   }
