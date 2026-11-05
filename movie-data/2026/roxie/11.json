@@ -198,9 +198,44 @@
   {
     "theater": "Roxie",
     "title": "The History of Concrete",
+    "startTime": "2026-11-08T19:35:00-08:00",
+    "sourceUrl": "https://roxie.com/film/the-history-of-concrete/#showtimes-20261108-1935",
+    "synopsis": "Following the finale of his TV show, filmmaker John Wilson searches for a new creative outlet. After attending a workshop on how to write […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "NAZA",
+    "startTime": "2026-11-15T12:20:00-08:00",
+    "sourceUrl": "https://roxie.com/film/naza/#showtimes-20261115-1220",
+    "synopsis": "NAZA is also playing at NEW PEOPLE In secret conversations on the rooftops of Tel Aviv at night, the systems behind Israel’s calculated mass […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Once Upon a Time in Harlem",
+    "startTime": "2026-11-15T20:10:00-08:00",
+    "sourceUrl": "https://roxie.com/film/once-upon-a-time-in-harlem/#showtimes-20261115-2010",
+    "synopsis": "A decade after his death, genre-defying filmmaker William Greaves has one last trick up his sleeve with what he considered the most important event […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "La Bola Negra",
+    "startTime": "2026-11-16T18:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/la-bola-negra/#showtimes-20261116-1800",
+    "synopsis": "From Cannes-winning directors Javier Calvo and Javier Ambrossi—popularly known as Los Javis—La Bola Negra follows three generations of men across pivotal moments in Spanish […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Ken Russell’s The Devils (4K Restoration)",
+    "startTime": "2026-11-16T21:05:00-08:00",
+    "sourceUrl": "https://roxie.com/film/ken-russells-the-devils-4k-restoration/#showtimes-20261116-2105",
+    "synopsis": "In 17th-century France, Father Urbain Grandier’s protection of the city of Loudun from the corrupt Cardinal Richelieu is undermined by a sexually repressed nun’s […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "The History of Concrete",
     "startTime": "2026-11-05T15:30:00-08:00",
     "sourceUrl": "https://roxie.com/film/the-history-of-concrete/#showtimes-20261105-1530",
-    "synopsis": "Following the finale of his TV show, filmmaker John Wilson searches for a new creative outlet. After attending a workshop on how to write […]"
+    "synopsis": "The History of Concrete must end on Thursday, November 12! Following the finale of his TV show, filmmaker John Wilson searches for a new […]"
   },
   {
     "theater": "Roxie",
@@ -214,7 +249,14 @@
     "title": "NAZA",
     "startTime": "2026-11-05T18:20:00-08:00",
     "sourceUrl": "https://roxie.com/film/naza/#showtimes-20261105-1820",
-    "synopsis": "NAZA is also playing at NEW PEOPLE In secret conversations on the rooftops of Tel Aviv at night, the systems behind Israel’s calculated mass […]"
+    "synopsis": "NAZA is also playing at NEW PEOPLE NAZA must end on Monday, November 9! In secret conversations on the rooftops of Tel Aviv at […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Lady",
+    "startTime": "2026-11-05T20:10:00-08:00",
+    "sourceUrl": "https://roxie.com/film/lady/#showtimes-20261105-2010",
+    "synopsis": "Lady is an off-beat comedy about a lonely, narcissistic aristocrat who dupes a struggling, opportunistic director into filming her every move. But her obsession […]"
   },
   {
     "theater": "Roxie",
@@ -232,24 +274,10 @@
   },
   {
     "theater": "Roxie",
-    "title": "Lady",
-    "startTime": "2026-11-05T20:10:00-08:00",
-    "sourceUrl": "https://roxie.com/film/lady/#showtimes-20261105-2010",
-    "synopsis": "Lady is an off-beat comedy about a lonely, narcissistic aristocrat who dupes a struggling, opportunistic director into filming her every move. But her obsession […]"
-  },
-  {
-    "theater": "Roxie",
     "title": "Alien",
     "startTime": "2026-11-05T21:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/alien/#showtimes-20261105-2100",
     "synopsis": "The crew of the commercial towing ship Nostromo is heading home with 20 million tons of mineral ore when a mysterious transmission pulls them […]"
-  },
-  {
-    "theater": "Roxie",
-    "title": "New People: Being Heumann",
-    "startTime": "2026-11-06T18:00:00-08:00",
-    "sourceUrl": "https://roxie.com/film/new-people-being-heumann/#showtimes-20261106-1800",
-    "synopsis": "All listed screenings take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. All screenings will be open caption! In-person Q&A […]"
   },
   {
     "theater": "Roxie",
@@ -264,6 +292,13 @@
     "startTime": "2026-11-06T19:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/floating-features-pacific-heights/#showtimes-20261106-1900",
     "synopsis": "Drake and Patty purchase a San Francisco Victorian hoping to fund their future through rental income. Their stability collapses when Carter Hayes occupies the […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "New People: Being Heumann",
+    "startTime": "2026-11-06T18:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/new-people-being-heumann/#showtimes-20261106-1800",
+    "synopsis": "All listed screenings take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. All screenings will be open caption! In-person Q&A […]"
   },
   {
     "theater": "Roxie",
@@ -284,7 +319,7 @@
     "title": "The History of Concrete",
     "startTime": "2026-11-06T20:15:00-08:00",
     "sourceUrl": "https://roxie.com/film/the-history-of-concrete/#showtimes-20261106-2015",
-    "synopsis": "Following the finale of his TV show, filmmaker John Wilson searches for a new creative outlet. After attending a workshop on how to write […]"
+    "synopsis": "The History of Concrete must end on Thursday, November 12! Following the finale of his TV show, filmmaker John Wilson searches for a new […]"
   },
   {
     "theater": "Roxie",
@@ -333,7 +368,7 @@
     "title": "NAZA",
     "startTime": "2026-11-07T17:15:00-08:00",
     "sourceUrl": "https://roxie.com/film/naza/#showtimes-20261107-1715",
-    "synopsis": "NAZA is also playing at NEW PEOPLE In secret conversations on the rooftops of Tel Aviv at night, the systems behind Israel’s calculated mass […]"
+    "synopsis": "NAZA is also playing at NEW PEOPLE NAZA must end on Monday, November 9! In secret conversations on the rooftops of Tel Aviv at […]"
   },
   {
     "theater": "Roxie",
@@ -365,17 +400,17 @@
   },
   {
     "theater": "Roxie",
-    "title": "New People: Being Heumann",
-    "startTime": "2026-11-08T13:00:00-08:00",
-    "sourceUrl": "https://roxie.com/film/new-people-being-heumann/#showtimes-20261108-1300",
-    "synopsis": "All listed screenings take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. All screenings will be open caption! In-person Q&A […]"
-  },
-  {
-    "theater": "Roxie",
     "title": "Los Conductos",
     "startTime": "2026-11-08T13:20:00-08:00",
     "sourceUrl": "https://roxie.com/film/los-conductos/#showtimes-20261108-1320",
     "synopsis": "Presented by CiNEOLA and co-presented by RoxCine. Part of the COLOMBIA ON FILM: bajo el velo de la ficción (under the veil of fiction) series. Freely inspired by […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "New People: Being Heumann",
+    "startTime": "2026-11-08T13:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/new-people-being-heumann/#showtimes-20261108-1300",
+    "synopsis": "All listed screenings take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. All screenings will be open caption! In-person Q&A […]"
   },
   {
     "theater": "Roxie",
@@ -410,14 +445,14 @@
     "title": "NAZA",
     "startTime": "2026-11-08T17:40:00-08:00",
     "sourceUrl": "https://roxie.com/film/naza/#showtimes-20261108-1740",
-    "synopsis": "NAZA is also playing at NEW PEOPLE In secret conversations on the rooftops of Tel Aviv at night, the systems behind Israel’s calculated mass […]"
+    "synopsis": "NAZA is also playing at NEW PEOPLE NAZA must end on Monday, November 9! In secret conversations on the rooftops of Tel Aviv at […]"
   },
   {
     "theater": "Roxie",
     "title": "The History of Concrete",
-    "startTime": "2026-11-08T19:35:00-08:00",
-    "sourceUrl": "https://roxie.com/film/the-history-of-concrete/#showtimes-20261108-1935",
-    "synopsis": "Following the finale of his TV show, filmmaker John Wilson searches for a new creative outlet. After attending a workshop on how to write […]"
+    "startTime": "2026-11-08T19:40:00-08:00",
+    "sourceUrl": "https://roxie.com/film/the-history-of-concrete/#showtimes-20261108-1940",
+    "synopsis": "The History of Concrete must end on Thursday, November 12! Following the finale of his TV show, filmmaker John Wilson searches for a new […]"
   },
   {
     "theater": "Roxie",
@@ -438,14 +473,7 @@
     "title": "NAZA",
     "startTime": "2026-11-09T18:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/naza/#showtimes-20261109-1800",
-    "synopsis": "NAZA is also playing at NEW PEOPLE In secret conversations on the rooftops of Tel Aviv at night, the systems behind Israel’s calculated mass […]"
-  },
-  {
-    "theater": "Roxie",
-    "title": "The History of Concrete",
-    "startTime": "2026-11-09T20:00:00-08:00",
-    "sourceUrl": "https://roxie.com/film/the-history-of-concrete/#showtimes-20261109-2000",
-    "synopsis": "Following the finale of his TV show, filmmaker John Wilson searches for a new creative outlet. After attending a workshop on how to write […]"
+    "synopsis": "NAZA is also playing at NEW PEOPLE NAZA must end on Monday, November 9! In secret conversations on the rooftops of Tel Aviv at […]"
   },
   {
     "theater": "Roxie",
@@ -456,6 +484,13 @@
   },
   {
     "theater": "Roxie",
+    "title": "The History of Concrete",
+    "startTime": "2026-11-09T20:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/the-history-of-concrete/#showtimes-20261109-2000",
+    "synopsis": "The History of Concrete must end on Thursday, November 12! Following the finale of his TV show, filmmaker John Wilson searches for a new […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "Being Heumann",
     "startTime": "2026-11-10T15:20:00-08:00",
     "sourceUrl": "https://roxie.com/film/being-heumann/#showtimes-20261110-1520",
@@ -463,17 +498,17 @@
   },
   {
     "theater": "Roxie",
-    "title": "THX 1138 (35mm)",
-    "startTime": "2026-11-10T18:00:00-08:00",
-    "sourceUrl": "https://roxie.com/film/thx-1138-35mm/#showtimes-20261110-1800",
-    "synopsis": "Presented in 35mm in its original theatrical version, George Lucas’s THX 1138 imagines a sterile underground future where citizens are drugged into compliance, emotion […]"
-  },
-  {
-    "theater": "Roxie",
     "title": "Once Upon a Time in Harlem",
     "startTime": "2026-11-10T18:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/once-upon-a-time-in-harlem/#showtimes-20261110-1800",
     "synopsis": "A decade after his death, genre-defying filmmaker William Greaves has one last trick up his sleeve with what he considered the most important event […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "THX 1138 (35mm)",
+    "startTime": "2026-11-10T18:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/thx-1138-35mm/#showtimes-20261110-1800",
+    "synopsis": "Presented in 35mm in its original theatrical version, George Lucas’s THX 1138 imagines a sterile underground future where citizens are drugged into compliance, emotion […]"
   },
   {
     "theater": "Roxie",
@@ -519,17 +554,17 @@
   },
   {
     "theater": "Roxie",
+    "title": "The History of Concrete",
+    "startTime": "2026-11-12T20:40:00-08:00",
+    "sourceUrl": "https://roxie.com/film/the-history-of-concrete/#showtimes-20261112-2040",
+    "synopsis": "The History of Concrete must end on Thursday, November 12! Following the finale of his TV show, filmmaker John Wilson searches for a new […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "SFTFF 2026 – DOCUMENTARY",
     "startTime": "2026-11-12T21:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/sftff-2026-documentary/#showtimes-20261112-2100",
     "synopsis": "The 2026 San Francisco Transgender Film Festival continues with DOCUMENTARY, a shorts block featuring four poignant and explorative films. 3 Hearts of Iron (13:25min)Ariel del Sol, Costa Rica, […]"
-  },
-  {
-    "theater": "Roxie",
-    "title": "The History of Concrete",
-    "startTime": "2026-11-12T20:40:00-08:00",
-    "sourceUrl": "https://roxie.com/film/the-history-of-concrete/#showtimes-20261112-2040",
-    "synopsis": "Following the finale of his TV show, filmmaker John Wilson searches for a new creative outlet. After attending a workshop on how to write […]"
   },
   {
     "theater": "Roxie",
@@ -582,6 +617,13 @@
   },
   {
     "theater": "Roxie",
+    "title": "Once Upon a Time in Harlem",
+    "startTime": "2026-11-14T13:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/once-upon-a-time-in-harlem/#showtimes-20261114-1300",
+    "synopsis": "A decade after his death, genre-defying filmmaker William Greaves has one last trick up his sleeve with what he considered the most important event […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "La Bola Negra",
     "startTime": "2026-11-14T15:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/la-bola-negra/#showtimes-20261114-1500",
@@ -614,13 +656,6 @@
     "startTime": "2026-11-14T21:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/sftff-2026-adult-18/#showtimes-20261114-2100",
     "synopsis": "The 2026 San Francisco Transgender Film Festival continues with ADULT(18+), a shorts block featuring five intimate and definitively adult films. Mommy (8:40min)Evie Snax, Manon Praline, United States […]"
-  },
-  {
-    "theater": "Roxie",
-    "title": "NAZA",
-    "startTime": "2026-11-15T12:20:00-08:00",
-    "sourceUrl": "https://roxie.com/film/naza/#showtimes-20261115-1220",
-    "synopsis": "NAZA is also playing at NEW PEOPLE In secret conversations on the rooftops of Tel Aviv at night, the systems behind Israel’s calculated mass […]"
   },
   {
     "theater": "Roxie",
@@ -659,13 +694,6 @@
   },
   {
     "theater": "Roxie",
-    "title": "Once Upon a Time in Harlem",
-    "startTime": "2026-11-15T20:10:00-08:00",
-    "sourceUrl": "https://roxie.com/film/once-upon-a-time-in-harlem/#showtimes-20261115-2010",
-    "synopsis": "A decade after his death, genre-defying filmmaker William Greaves has one last trick up his sleeve with what he considered the most important event […]"
-  },
-  {
-    "theater": "Roxie",
     "title": "Closure",
     "startTime": "2026-11-16T18:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/closure/#showtimes-20261116-1800",
@@ -673,16 +701,16 @@
   },
   {
     "theater": "Roxie",
-    "title": "La Bola Negra",
+    "title": "Fatherland",
     "startTime": "2026-11-16T18:00:00-08:00",
-    "sourceUrl": "https://roxie.com/film/la-bola-negra/#showtimes-20261116-1800",
-    "synopsis": "From Cannes-winning directors Javier Calvo and Javier Ambrossi—popularly known as Los Javis—La Bola Negra follows three generations of men across pivotal moments in Spanish […]"
+    "sourceUrl": "https://roxie.com/film/fatherland/#showtimes-20261116-1800",
+    "synopsis": "FATHERLAND centres on the relationship between the Nobel Prize-winning writer Thomas Mann (Hanns Zischler) and his daughter Erika (Sandra Hüller) – actress, writer and […]"
   },
   {
     "theater": "Roxie",
     "title": "Ken Russell’s The Devils (4K Restoration)",
-    "startTime": "2026-11-16T21:05:00-08:00",
-    "sourceUrl": "https://roxie.com/film/ken-russells-the-devils-4k-restoration/#showtimes-20261116-2105",
+    "startTime": "2026-11-16T20:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/ken-russells-the-devils-4k-restoration/#showtimes-20261116-2000",
     "synopsis": "In 17th-century France, Father Urbain Grandier’s protection of the city of Loudun from the corrupt Cardinal Richelieu is undermined by a sexually repressed nun’s […]"
   },
   {
@@ -764,6 +792,13 @@
   },
   {
     "theater": "Roxie",
+    "title": "La Bola Negra",
+    "startTime": "2026-11-21T13:10:00-08:00",
+    "sourceUrl": "https://roxie.com/film/la-bola-negra/#showtimes-20261121-1310",
+    "synopsis": "From Cannes-winning directors Javier Calvo and Javier Ambrossi—popularly known as Los Javis—La Bola Negra follows three generations of men across pivotal moments in Spanish […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "On the Road (En el Camino)",
     "startTime": "2026-11-21T16:20:00-08:00",
     "sourceUrl": "https://roxie.com/film/on-the-road-en-el-camino/#showtimes-20261121-1620",
@@ -775,6 +810,13 @@
     "startTime": "2026-11-21T18:35:00-08:00",
     "sourceUrl": "https://roxie.com/film/raise-the-red-lantern/#showtimes-20261121-1835",
     "synopsis": "Co-presented by Bay Area Chinese Culture Salon and Amoment Books. Nineteen-year-old Songlian, a promising student whose family has been destroyed by her father’s death, […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "The Host (4K Restoration)",
+    "startTime": "2026-11-21T21:15:00-08:00",
+    "sourceUrl": "https://roxie.com/film/the-host-20th-anniverary-4k-restoration/#showtimes-20261121-2115",
+    "synopsis": "20 years after becoming a worldwide sensation, Bong Joon Ho’s acclaimed creature feature THE HOST returns to theaters in a stunning new 4K restoration, […]"
   },
   {
     "theater": "Roxie",
@@ -809,7 +851,14 @@
     "title": "Dark Habits",
     "startTime": "2026-11-23T18:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/dark-habits/#showtimes-20261123-1800",
-    "synopsis": "Rejected from Cannes for being sacrilegious in its critical depiction of Catholicism’s role in modern Spanish society and marking a major tone shift in […]"
+    "synopsis": "Part of IN THE MOOD FOR ALMODÓVAR, presented in anticipation of our upcoming run of BITTER CHRISTMAS. Rejected from Cannes for being sacrilegious in […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "The Host (4K Restoration)",
+    "startTime": "2026-11-23T20:30:00-08:00",
+    "sourceUrl": "https://roxie.com/film/the-host-20th-anniverary-4k-restoration/#showtimes-20261123-2030",
+    "synopsis": "20 years after becoming a worldwide sensation, Bong Joon Ho’s acclaimed creature feature THE HOST returns to theaters in a stunning new 4K restoration, […]"
   },
   {
     "theater": "Roxie",
@@ -817,6 +866,13 @@
     "startTime": "2026-11-24T18:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/raise-the-red-lantern/#showtimes-20261124-1800",
     "synopsis": "Co-presented by Bay Area Chinese Culture Salon and Amoment Books. Nineteen-year-old Songlian, a promising student whose family has been destroyed by her father’s death, […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "You Can See Everything",
+    "startTime": "2026-11-27T17:05:00-08:00",
+    "sourceUrl": "https://roxie.com/film/you-can-see-everything/#showtimes-20261127-1705",
+    "synopsis": "Thirty-four days before she’s sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What […]"
   },
   {
     "theater": "Roxie",
@@ -837,7 +893,14 @@
     "title": "Women on the Verge of a Nervous Breakdown (35mm)",
     "startTime": "2026-11-28T18:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/women-on-the-verge-of-a-nervous-breakdown/#showtimes-20261128-1800",
-    "synopsis": "This fast-paced celebration of hysteria put Almodóvar on the map by joyfully parading his depthless obsession with women – especially the wild ones. Driven […]"
+    "synopsis": "Part of IN THE MOOD FOR ALMODÓVAR, presented in anticipation of our upcoming run of BITTER CHRISTMAS. This fast-paced celebration of hysteria put Almodóvar […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "You Can See Everything",
+    "startTime": "2026-11-28T20:10:00-08:00",
+    "sourceUrl": "https://roxie.com/film/you-can-see-everything/#showtimes-20261128-2010",
+    "synopsis": "Thirty-four days before she’s sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What […]"
   },
   {
     "theater": "Roxie",

@@ -1,12 +1,23 @@
 {
   "slug": "roxie",
   "theater": "Roxie",
-  "generatedAt": "2026-11-04T13:51:30.097Z",
+  "generatedAt": "2026-11-05T13:51:48.500Z",
   "status": "discrepancies",
   "report": {
-    "matched": 87,
+    "matched": 88,
     "timeMismatches": [],
-    "titleMismatches": [],
+    "titleMismatches": [
+      {
+        "startTime": "2026-11-21T21:15:00-08:00",
+        "ourTitle": "The Host (4K Restoration)",
+        "scenefTitle": "The Host 20th 4K Restoration"
+      },
+      {
+        "startTime": "2026-11-23T20:30:00-08:00",
+        "ourTitle": "The Host (4K Restoration)",
+        "scenefTitle": "The Host 20th 4K Restoration"
+      }
+    ],
     "oursOnly": [
       {
         "title": "New People: Paprika",
@@ -17,12 +28,12 @@
         "startTime": "2026-11-05T21:20:00-08:00"
       },
       {
-        "title": "New People: Being Heumann",
-        "startTime": "2026-11-06T18:00:00-08:00"
-      },
-      {
         "title": "Floating Features: Pacific Heights",
         "startTime": "2026-11-06T19:00:00-08:00"
+      },
+      {
+        "title": "New People: Being Heumann",
+        "startTime": "2026-11-06T18:00:00-08:00"
       },
       {
         "title": "New People: Nausicaä of the Valley of the Wind",
