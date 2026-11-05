@@ -1,7 +1,7 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-11-04T13:40:45.483Z",
+  "generatedAt": "2026-11-05T13:40:38.890Z",
   "status": "discrepancies",
   "report": {
     "matched": 19,
@@ -11,6 +11,11 @@
         "startTime": "2026-11-05T20:00:00-08:00",
         "ourTitle": "LIVE MUSIC: Good Friends, The Lowtimers, Red McAdam",
         "scenefTitle": "LIVE MUSIC: Good Friends, The Lowtimers & more"
+      },
+      {
+        "startTime": "2026-11-13T19:30:00-08:00",
+        "ourTitle": "NEIL YOUNG CELEBRATION: Live Music Tribute & Screening of Rust Never Sleeps",
+        "scenefTitle": "Neil Young Celebration: Rust Never Sleeps & more"
       },
       {
         "startTime": "2026-11-15T20:00:00-08:00",
@@ -122,10 +127,6 @@
         "startTime": "2026-12-03T19:00:00-08:00"
       },
       {
-        "title": "LIVE MUSIC: Dagmar Zuniga (Presented by THROWIN' BO'S)",
-        "startTime": "2026-12-05T20:00:00-08:00"
-      },
-      {
         "title": "LIVE MUSIC: Storefront Church (Presented by THROWIN' BO'S)",
         "startTime": "2026-12-10T20:00:00-08:00"
       },
@@ -138,7 +139,7 @@
         "startTime": "2026-12-13T20:00:00-08:00"
       },
       {
-        "title": "LIVE MUSIC: Robber Robber (Presented by THROWIN' BO'S)",
+        "title": "LIVE MUSIC: Robber Robber, Bloodsports (Presented by THROWIN' BO'S)",
         "startTime": "2026-12-16T20:00:00-08:00"
       },
       {
@@ -178,7 +179,7 @@
     ],
     "collapsedDuplicates": 0,
     "excluded": {
-      "ours": 5,
+      "ours": 3,
       "scenef": 0
     }
   }
