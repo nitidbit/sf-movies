@@ -1,10 +1,10 @@
 {
   "slug": "vogue",
   "theater": "Vogue",
-  "generatedAt": "2026-11-04T13:29:11.631Z",
+  "generatedAt": "2026-11-05T13:28:45.038Z",
   "status": "discrepancies",
   "report": {
-    "matched": 21,
+    "matched": 31,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -13,7 +13,12 @@
         "scenefTitle": "NT Live: Fleabag"
       }
     ],
-    "oursOnly": [],
+    "oursOnly": [
+      {
+        "title": "14th: Opening Night",
+        "startTime": "2026-11-05T21:30:00-08:00"
+      }
+    ],
     "scenefOnly": [
       {
         "title": "Scattered Seeds of the Pomegranate",
