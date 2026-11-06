@@ -1,17 +1,12 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-11-05T13:40:38.890Z",
+  "generatedAt": "2026-11-06T13:40:37.088Z",
   "status": "discrepancies",
   "report": {
     "matched": 19,
     "timeMismatches": [],
     "titleMismatches": [
-      {
-        "startTime": "2026-11-05T20:00:00-08:00",
-        "ourTitle": "LIVE MUSIC: Good Friends, The Lowtimers, Red McAdam",
-        "scenefTitle": "LIVE MUSIC: Good Friends, The Lowtimers & more"
-      },
       {
         "startTime": "2026-11-13T19:30:00-08:00",
         "ourTitle": "NEIL YOUNG CELEBRATION: Live Music Tribute & Screening of Rust Never Sleeps",
@@ -34,10 +29,6 @@
       }
     ],
     "oursOnly": [
-      {
-        "title": "STUDIO 8 FILM FESTIVAL: Juror Night: Where To? (Films from Ed Jones, Michael LaRocco & Jacalyn White - Presented by SF Artists Alumni)",
-        "startTime": "2026-11-06T19:30:00-08:00"
-      },
       {
         "title": "Wolfwalkers",
         "startTime": "2026-11-07T10:00:00-08:00"
@@ -179,7 +170,7 @@
     ],
     "collapsedDuplicates": 0,
     "excluded": {
-      "ours": 3,
+      "ours": 5,
       "scenef": 0
     }
   }
