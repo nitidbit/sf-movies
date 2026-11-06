@@ -281,13 +281,6 @@
   },
   {
     "theater": "Roxie",
-    "title": "Fatherland",
-    "startTime": "2026-11-06T18:20:00-08:00",
-    "sourceUrl": "https://roxie.com/film/fatherland/#showtimes-20261106-1820",
-    "synopsis": "FATHERLAND centres on the relationship between the Nobel Prize-winning writer Thomas Mann (Hanns Zischler) and his daughter Erika (Sandra Hüller) – actress, writer and […]"
-  },
-  {
-    "theater": "Roxie",
     "title": "Floating Features: Pacific Heights",
     "startTime": "2026-11-06T19:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/floating-features-pacific-heights/#showtimes-20261106-1900",
@@ -306,6 +299,13 @@
     "startTime": "2026-11-06T18:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/once-upon-a-time-in-harlem/#showtimes-20261106-1800",
     "synopsis": "A decade after his death, genre-defying filmmaker William Greaves has one last trick up his sleeve with what he considered the most important event […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Fatherland",
+    "startTime": "2026-11-06T18:20:00-08:00",
+    "sourceUrl": "https://roxie.com/film/fatherland/#showtimes-20261106-1820",
+    "synopsis": "DM us your ticket confirmation & favorite Sandra Hüller film to enter to win a free Sandra Hüller Girls On Tops Tee! We will […]"
   },
   {
     "theater": "Roxie",
@@ -358,17 +358,17 @@
   },
   {
     "theater": "Roxie",
-    "title": "Fatherland",
-    "startTime": "2026-11-07T18:00:00-08:00",
-    "sourceUrl": "https://roxie.com/film/fatherland/#showtimes-20261107-1800",
-    "synopsis": "FATHERLAND centres on the relationship between the Nobel Prize-winning writer Thomas Mann (Hanns Zischler) and his daughter Erika (Sandra Hüller) – actress, writer and […]"
-  },
-  {
-    "theater": "Roxie",
     "title": "NAZA",
     "startTime": "2026-11-07T17:15:00-08:00",
     "sourceUrl": "https://roxie.com/film/naza/#showtimes-20261107-1715",
     "synopsis": "NAZA is also playing at NEW PEOPLE NAZA must end on Monday, November 9! In secret conversations on the rooftops of Tel Aviv at […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Fatherland",
+    "startTime": "2026-11-07T18:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/fatherland/#showtimes-20261107-1800",
+    "synopsis": "DM us your ticket confirmation & favorite Sandra Hüller film to enter to win a free Sandra Hüller Girls On Tops Tee! We will […]"
   },
   {
     "theater": "Roxie",
@@ -424,7 +424,7 @@
     "title": "How to Clean a House in 10 Easy Steps",
     "startTime": "2026-11-08T15:10:00-08:00",
     "sourceUrl": "https://roxie.com/film/how-to-clean-a-house-in-10-easy-steps/#showtimes-20261108-1510",
-    "synopsis": "Presented by CiNEOLA and co-presented by RoxCine with community partner BAVC Media Part of the COLOMBIA ON FILM: bajo el velo de la ficción (under the veil of fiction) series. […]"
+    "synopsis": "Q&A with Producer Brenda Avila-Hanna after the screening! Presented by CiNEOLA and co-presented by RoxCine with community partner BAVC Media Part of the COLOMBIA ON FILM: bajo el velo […]"
   },
   {
     "theater": "Roxie",
@@ -459,14 +459,14 @@
     "title": "Fatherland",
     "startTime": "2026-11-08T19:40:00-08:00",
     "sourceUrl": "https://roxie.com/film/fatherland/#showtimes-20261108-1940",
-    "synopsis": "FATHERLAND centres on the relationship between the Nobel Prize-winning writer Thomas Mann (Hanns Zischler) and his daughter Erika (Sandra Hüller) – actress, writer and […]"
+    "synopsis": "DM us your ticket confirmation & favorite Sandra Hüller film to enter to win a free Sandra Hüller Girls On Tops Tee! We will […]"
   },
   {
     "theater": "Roxie",
     "title": "Fatherland",
     "startTime": "2026-11-09T18:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/fatherland/#showtimes-20261109-1800",
-    "synopsis": "FATHERLAND centres on the relationship between the Nobel Prize-winning writer Thomas Mann (Hanns Zischler) and his daughter Erika (Sandra Hüller) – actress, writer and […]"
+    "synopsis": "DM us your ticket confirmation & favorite Sandra Hüller film to enter to win a free Sandra Hüller Girls On Tops Tee! We will […]"
   },
   {
     "theater": "Roxie",
@@ -512,17 +512,17 @@
   },
   {
     "theater": "Roxie",
-    "title": "Fatherland",
-    "startTime": "2026-11-10T20:10:00-08:00",
-    "sourceUrl": "https://roxie.com/film/fatherland/#showtimes-20261110-2010",
-    "synopsis": "FATHERLAND centres on the relationship between the Nobel Prize-winning writer Thomas Mann (Hanns Zischler) and his daughter Erika (Sandra Hüller) – actress, writer and […]"
-  },
-  {
-    "theater": "Roxie",
     "title": "Ken Russell’s The Devils (4K Restoration)",
     "startTime": "2026-11-10T20:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/ken-russells-the-devils-4k-restoration/#showtimes-20261110-2000",
     "synopsis": "In 17th-century France, Father Urbain Grandier’s protection of the city of Loudun from the corrupt Cardinal Richelieu is undermined by a sexually repressed nun’s […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Fatherland",
+    "startTime": "2026-11-10T20:10:00-08:00",
+    "sourceUrl": "https://roxie.com/film/fatherland/#showtimes-20261110-2010",
+    "synopsis": "DM us your ticket confirmation & favorite Sandra Hüller film to enter to win a free Sandra Hüller Girls On Tops Tee! We will […]"
   },
   {
     "theater": "Roxie",
@@ -551,6 +551,20 @@
     "startTime": "2026-11-12T19:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/sftff-2026-comedy/#showtimes-20261112-1900",
     "synopsis": "The 2026 San Francisco Transgender Film Festival opens with COMEDY, a shorts block featuring four outstanding and hilarious films. Cockroach (23min)Justice Singleton, USA, 2025 […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "New People: Nausicaä of the Valley of the Wind",
+    "startTime": "2026-11-12T18:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/new-people-nausicaa-of-the-valley-of-the-wind/#showtimes-20261112-1800",
+    "synopsis": "All listed screenings take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. The debut film from Hayao Miyazaki, Nausicaa is […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "New People: Paprika",
+    "startTime": "2026-11-12T20:30:00-08:00",
+    "sourceUrl": "https://roxie.com/film/new-people-paprika/#showtimes-20261112-2030",
+    "synopsis": "This screening will take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. Arguably the chef d’oeuvre in the anime icon’s […]"
   },
   {
     "theater": "Roxie",
@@ -613,7 +627,7 @@
     "title": "Fatherland",
     "startTime": "2026-11-14T13:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/fatherland/#showtimes-20261114-1300",
-    "synopsis": "FATHERLAND centres on the relationship between the Nobel Prize-winning writer Thomas Mann (Hanns Zischler) and his daughter Erika (Sandra Hüller) – actress, writer and […]"
+    "synopsis": "DM us your ticket confirmation & favorite Sandra Hüller film to enter to win a free Sandra Hüller Girls On Tops Tee! We will […]"
   },
   {
     "theater": "Roxie",
@@ -704,7 +718,7 @@
     "title": "Fatherland",
     "startTime": "2026-11-16T18:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/fatherland/#showtimes-20261116-1800",
-    "synopsis": "FATHERLAND centres on the relationship between the Nobel Prize-winning writer Thomas Mann (Hanns Zischler) and his daughter Erika (Sandra Hüller) – actress, writer and […]"
+    "synopsis": "DM us your ticket confirmation & favorite Sandra Hüller film to enter to win a free Sandra Hüller Girls On Tops Tee! We will […]"
   },
   {
     "theater": "Roxie",
@@ -747,6 +761,13 @@
     "startTime": "2026-11-18T20:20:00-08:00",
     "sourceUrl": "https://roxie.com/film/staff-pick-chicago/#showtimes-20261118-2020",
     "synopsis": "Zann’s Staff Pick! When vaudeville star Velma Kelly (Catherine Zeta-Jones) is arrested for the murder of her two-timing husband, she enlists a smooth-talking attorney […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Love Birds",
+    "startTime": "2026-11-19T16:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/love-birds/#showtimes-20261119-1600",
+    "synopsis": "Followed by a post-screening Q&A moderated by filmmaker Judy Irving. In 1972, biologists George Hunt and Molly Warner make an unprecedented discovery while studying […]"
   },
   {
     "theater": "Roxie",

@@ -1,10 +1,10 @@
 {
   "slug": "roxie",
   "theater": "Roxie",
-  "generatedAt": "2026-11-05T13:51:48.500Z",
+  "generatedAt": "2026-11-06T13:51:24.834Z",
   "status": "discrepancies",
   "report": {
-    "matched": 88,
+    "matched": 84,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -19,14 +19,6 @@
       }
     ],
     "oursOnly": [
-      {
-        "title": "New People: Paprika",
-        "startTime": "2026-11-05T19:15:00-08:00"
-      },
-      {
-        "title": "New People: Paprika",
-        "startTime": "2026-11-05T21:20:00-08:00"
-      },
       {
         "title": "Floating Features: Pacific Heights",
         "startTime": "2026-11-06T19:00:00-08:00"
@@ -68,6 +60,14 @@
         "startTime": "2026-11-12T19:00:00-08:00"
       },
       {
+        "title": "New People: Nausicaä of the Valley of the Wind",
+        "startTime": "2026-11-12T18:00:00-08:00"
+      },
+      {
+        "title": "New People: Paprika",
+        "startTime": "2026-11-12T20:30:00-08:00"
+      },
+      {
         "title": "SFTFF 2026 – DOCUMENTARY",
         "startTime": "2026-11-12T21:00:00-08:00"
       },
@@ -94,6 +94,10 @@
       {
         "title": "SFTFF 2026 – ADULT (18+)",
         "startTime": "2026-11-14T21:00:00-08:00"
+      },
+      {
+        "title": "Love Birds",
+        "startTime": "2026-11-19T16:00:00-08:00"
       },
       {
         "title": "New People: A Deeper Love: The Story of Miss Peppermint",
