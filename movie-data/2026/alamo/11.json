@@ -585,6 +585,14 @@
   },
   {
     "theater": "Alamo",
+    "title": "In Transit",
+    "startTime": "2026-11-17T19:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/1d922539f2a3",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The Empire Builder is America’s busiest long-distance train route, running from Chicago to Seattle. Throughout these corridors sit runaways, adventurers, and loners – a myriad of passengers waiting to see what their journey holds. A touching and honest observation, co-directed by the iconic Albert Maysles, In Transit breathes life into the long commute, and contemplates the unknowns that lie at our final destination."
+  },
+  {
+    "theater": "Alamo",
     "title": "Godzilla Minus Zero",
     "startTime": "2026-11-06T11:00:00-08:00",
     "sourceUrl": "https://scenef.com/go/72a7be7aba25",
@@ -1547,9 +1555,9 @@
     "theater": "Alamo",
     "title": "In Transit",
     "startTime": "2026-11-17T19:00:00-08:00",
-    "sourceUrl": "https://scenef.com/go/1d922539f2a3",
+    "sourceUrl": "https://scenef.com/go/c4c83749191e",
     "attribution": "Showtimes via SceneF.com",
-    "synopsis": "The Empire Builder is America’s busiest long-distance train route, running from Chicago to Seattle. Throughout these corridors sit runaways, adventurers, and loners – a myriad of passengers waiting to see what their journey holds. A touching and honest observation, co-directed by the iconic Albert Maysles, In Transit breathes life into the long commute, and contemplates the unknowns that lie at our final destination."
+    "synopsis": "Two friends sell drugs in NYC to pay off a debt while navigating daily life and romance while dealing with a psychopathic kingpin. When opportunity arrives to get out, they jump at the chance but it may be too little too late."
   },
   {
     "theater": "Alamo",

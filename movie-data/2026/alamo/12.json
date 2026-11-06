@@ -41,6 +41,14 @@
   },
   {
     "theater": "Alamo",
+    "title": "Elsinore",
+    "startTime": "2026-12-04T19:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/6cff5335be13",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The deeply emotional and inspirational true story of Ian Charleson, a gifted actor whose greatest challenge becomes his greatest triumph. Facing his own mortality with unflinching honesty, wit, and grace, Charleson delivers a courageous performance that becomes a source of healing and inspiration for those around him."
+  },
+  {
+    "theater": "Alamo",
     "title": "The Polar Express",
     "startTime": "2026-12-05T12:00:00-08:00",
     "sourceUrl": "https://scenef.com/go/275b98dc32a9",
@@ -358,6 +366,14 @@
     "sourceUrl": "https://scenef.com/go/a3ffb8738bd5",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "Nearly two decades after he seized control of the Imperium, Paul Atreides is now a ruthless Emperor, and must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As enemies close in, Paul must confront the true cost of power and the fate of those he loves the most."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Red Rocket",
+    "startTime": "2026-12-21T19:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/f82b95f26329",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "After hitting rock bottom in Los Angeles, former porn star Mikey Saber returns to his hometown in Texas to stay with his estranged wife and mother-in-law. Just as tensions begin to ease, he becomes infatuated with a young doughnut shop worker named Strawberry."
   },
   {
     "theater": "Alamo",
