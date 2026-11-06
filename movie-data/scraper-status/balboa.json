@@ -1,10 +1,10 @@
 {
   "slug": "balboa",
   "theater": "Balboa",
-  "generatedAt": "2026-11-05T13:21:11.931Z",
+  "generatedAt": "2026-11-06T13:21:33.422Z",
   "status": "discrepancies",
   "report": {
-    "matched": 43,
+    "matched": 39,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -37,6 +37,14 @@
         "startTime": "2026-11-12T20:00:00-08:00"
       },
       {
+        "title": "Godzilla Minus Zero",
+        "startTime": "2026-11-13T16:30:00-08:00"
+      },
+      {
+        "title": "You Can See Everything",
+        "startTime": "2026-11-13T19:30:00-08:00"
+      },
+      {
         "title": "Nirvanna the Band the Show (Season One, Ep. 5 - 8)",
         "startTime": "2026-11-13T20:55:00-08:00"
       },
@@ -53,8 +61,16 @@
         "startTime": "2026-11-14T17:55:00-08:00"
       },
       {
+        "title": "You Can See Everything",
+        "startTime": "2026-11-14T19:00:00-08:00"
+      },
+      {
         "title": "Nirvanna the Band the Show the Movie",
         "startTime": "2026-11-14T20:00:00-08:00"
+      },
+      {
+        "title": "You Can See Everything",
+        "startTime": "2026-11-15T12:30:00-08:00"
       },
       {
         "title": "Godzilla Minus Zero",
@@ -65,12 +81,24 @@
         "startTime": "2026-11-15T16:00:00-08:00"
       },
       {
+        "title": "You Can See Everything",
+        "startTime": "2026-11-15T19:30:00-08:00"
+      },
+      {
         "title": "Nirvanna the Band the Show the Fest (Weekend Pass)",
         "startTime": "2026-11-15T22:30:00-08:00"
       },
       {
+        "title": "You Can See Everything",
+        "startTime": "2026-11-16T19:00:00-08:00"
+      },
+      {
         "title": "Godzilla Minus Zero",
         "startTime": "2026-11-16T19:30:00-08:00"
+      },
+      {
+        "title": "You Can See Everything",
+        "startTime": "2026-11-17T19:00:00-08:00"
       },
       {
         "title": "Godzilla Minus Zero",
@@ -83,11 +111,15 @@
       {
         "title": "Comedy At The Balboa: Johana Coca",
         "startTime": "2026-11-21T19:00:00-08:00"
+      },
+      {
+        "title": "Hundreds of Beavers",
+        "startTime": "2026-12-15T19:30:00-08:00"
       }
     ],
     "collapsedDuplicates": 4,
     "excluded": {
-      "ours": 4,
+      "ours": 8,
       "scenef": 0
     }
   }
