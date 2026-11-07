@@ -1,10 +1,10 @@
 {
   "slug": "balboa",
   "theater": "Balboa",
-  "generatedAt": "2026-11-06T13:21:33.422Z",
+  "generatedAt": "2026-11-07T13:21:30.584Z",
   "status": "discrepancies",
   "report": {
-    "matched": 39,
+    "matched": 36,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -20,10 +20,6 @@
       }
     ],
     "scenefOnly": [
-      {
-        "title": "Dante's Inferno/In Smog and Thunder (DBL FTR)",
-        "startTime": "2026-11-06T19:30:00-08:00"
-      },
       {
         "title": "Godzilla Minus Zero",
         "startTime": "2026-11-12T17:00:00-08:00"
@@ -109,8 +105,20 @@
         "startTime": "2026-11-18T19:30:00-08:00"
       },
       {
+        "title": "Planes, Trains and Automobiles",
+        "startTime": "2026-11-20T19:30:00-08:00"
+      },
+      {
         "title": "Comedy At The Balboa: Johana Coca",
         "startTime": "2026-11-21T19:00:00-08:00"
+      },
+      {
+        "title": "The Cremator",
+        "startTime": "2026-11-29T19:30:00-08:00"
+      },
+      {
+        "title": "Little Shop of Horrors",
+        "startTime": "2026-11-30T19:30:00-08:00"
       },
       {
         "title": "Hundreds of Beavers",
@@ -119,7 +127,7 @@
     ],
     "collapsedDuplicates": 4,
     "excluded": {
-      "ours": 8,
+      "ours": 0,
       "scenef": 0
     }
   }
