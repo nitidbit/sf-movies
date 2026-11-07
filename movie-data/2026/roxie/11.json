@@ -204,13 +204,6 @@
   },
   {
     "theater": "Roxie",
-    "title": "NAZA",
-    "startTime": "2026-11-15T12:20:00-08:00",
-    "sourceUrl": "https://roxie.com/film/naza/#showtimes-20261115-1220",
-    "synopsis": "NAZA is also playing at NEW PEOPLE In secret conversations on the rooftops of Tel Aviv at night, the systems behind Israel’s calculated mass […]"
-  },
-  {
-    "theater": "Roxie",
     "title": "Once Upon a Time in Harlem",
     "startTime": "2026-11-15T20:10:00-08:00",
     "sourceUrl": "https://roxie.com/film/once-upon-a-time-in-harlem/#showtimes-20261115-2010",
@@ -361,7 +354,7 @@
     "title": "NAZA",
     "startTime": "2026-11-07T17:15:00-08:00",
     "sourceUrl": "https://roxie.com/film/naza/#showtimes-20261107-1715",
-    "synopsis": "NAZA is also playing at NEW PEOPLE NAZA must end on Monday, November 9! In secret conversations on the rooftops of Tel Aviv at […]"
+    "synopsis": "NAZA is also playing at NEW PEOPLE In secret conversations on the rooftops of Tel Aviv at night, the systems behind Israel’s calculated mass […]"
   },
   {
     "theater": "Roxie",
@@ -445,14 +438,14 @@
     "title": "NAZA",
     "startTime": "2026-11-08T17:40:00-08:00",
     "sourceUrl": "https://roxie.com/film/naza/#showtimes-20261108-1740",
-    "synopsis": "NAZA is also playing at NEW PEOPLE NAZA must end on Monday, November 9! In secret conversations on the rooftops of Tel Aviv at […]"
+    "synopsis": "NAZA is also playing at NEW PEOPLE In secret conversations on the rooftops of Tel Aviv at night, the systems behind Israel’s calculated mass […]"
   },
   {
     "theater": "Roxie",
     "title": "The History of Concrete",
     "startTime": "2026-11-08T19:40:00-08:00",
     "sourceUrl": "https://roxie.com/film/the-history-of-concrete/#showtimes-20261108-1940",
-    "synopsis": "The History of Concrete must end on Thursday, November 12! Following the finale of his TV show, filmmaker John Wilson searches for a new […]"
+    "synopsis": "Following the finale of his TV show, filmmaker John Wilson searches for a new creative outlet. After attending a workshop on how to write […]"
   },
   {
     "theater": "Roxie",
@@ -473,7 +466,7 @@
     "title": "NAZA",
     "startTime": "2026-11-09T18:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/naza/#showtimes-20261109-1800",
-    "synopsis": "NAZA is also playing at NEW PEOPLE NAZA must end on Monday, November 9! In secret conversations on the rooftops of Tel Aviv at […]"
+    "synopsis": "NAZA is also playing at NEW PEOPLE In secret conversations on the rooftops of Tel Aviv at night, the systems behind Israel’s calculated mass […]"
   },
   {
     "theater": "Roxie",
@@ -487,7 +480,7 @@
     "title": "The History of Concrete",
     "startTime": "2026-11-09T20:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/the-history-of-concrete/#showtimes-20261109-2000",
-    "synopsis": "The History of Concrete must end on Thursday, November 12! Following the finale of his TV show, filmmaker John Wilson searches for a new […]"
+    "synopsis": "Following the finale of his TV show, filmmaker John Wilson searches for a new creative outlet. After attending a workshop on how to write […]"
   },
   {
     "theater": "Roxie",
@@ -571,7 +564,7 @@
     "title": "The History of Concrete",
     "startTime": "2026-11-12T20:40:00-08:00",
     "sourceUrl": "https://roxie.com/film/the-history-of-concrete/#showtimes-20261112-2040",
-    "synopsis": "The History of Concrete must end on Thursday, November 12! Following the finale of his TV show, filmmaker John Wilson searches for a new […]"
+    "synopsis": "Following the finale of his TV show, filmmaker John Wilson searches for a new creative outlet. After attending a workshop on how to write […]"
   },
   {
     "theater": "Roxie",
@@ -673,6 +666,13 @@
   },
   {
     "theater": "Roxie",
+    "title": "NAZA",
+    "startTime": "2026-11-15T12:20:00-08:00",
+    "sourceUrl": "https://roxie.com/film/naza/#showtimes-20261115-1220",
+    "synopsis": "NAZA is also playing at NEW PEOPLE In secret conversations on the rooftops of Tel Aviv at night, the systems behind Israel’s calculated mass […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "Hunting Flies + Roly Poly",
     "startTime": "2026-11-15T15:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/hunting-flies-roly-poly/#showtimes-20261115-1500",
@@ -705,6 +705,13 @@
     "startTime": "2026-11-15T19:30:00-08:00",
     "sourceUrl": "https://roxie.com/film/la-bola-negra/#showtimes-20261115-1930",
     "synopsis": "From Cannes-winning directors Javier Calvo and Javier Ambrossi—popularly known as Los Javis—La Bola Negra follows three generations of men across pivotal moments in Spanish […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Fatherland",
+    "startTime": "2026-11-15T20:10:00-08:00",
+    "sourceUrl": "https://roxie.com/film/fatherland/#showtimes-20261115-2010",
+    "synopsis": "DM us your ticket confirmation & favorite Sandra Hüller film to enter to win a free Sandra Hüller Girls On Tops Tee! We will […]"
   },
   {
     "theater": "Roxie",

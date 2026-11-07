@@ -1,10 +1,10 @@
 {
   "slug": "roxie",
   "theater": "Roxie",
-  "generatedAt": "2026-11-06T13:51:24.834Z",
+  "generatedAt": "2026-11-07T13:51:28.105Z",
   "status": "discrepancies",
   "report": {
-    "matched": 84,
+    "matched": 82,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -19,18 +19,6 @@
       }
     ],
     "oursOnly": [
-      {
-        "title": "Floating Features: Pacific Heights",
-        "startTime": "2026-11-06T19:00:00-08:00"
-      },
-      {
-        "title": "New People: Being Heumann",
-        "startTime": "2026-11-06T18:00:00-08:00"
-      },
-      {
-        "title": "New People: Nausicaä of the Valley of the Wind",
-        "startTime": "2026-11-06T20:40:00-08:00"
-      },
       {
         "title": "New People: My Undesirable Friends: Part 2 – Exile (Chapters 4-5)",
         "startTime": "2026-11-07T14:30:00-08:00"
