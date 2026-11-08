@@ -1,10 +1,10 @@
 {
   "slug": "roxie",
   "theater": "Roxie",
-  "generatedAt": "2026-11-07T13:51:28.105Z",
+  "generatedAt": "2026-11-08T13:51:02.382Z",
   "status": "discrepancies",
   "report": {
-    "matched": 82,
+    "matched": 78,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -19,14 +19,6 @@
       }
     ],
     "oursOnly": [
-      {
-        "title": "New People: My Undesirable Friends: Part 2 – Exile (Chapters 4-5)",
-        "startTime": "2026-11-07T14:30:00-08:00"
-      },
-      {
-        "title": "New People: Being Heumann",
-        "startTime": "2026-11-07T18:20:00-08:00"
-      },
       {
         "title": "Studio 8 2026: Babeth Mondini VanLoo (Studio 8 Legacy Award)",
         "startTime": "2026-11-08T12:30:00-08:00"
@@ -112,7 +104,12 @@
         "startTime": "2026-12-19T18:30:00-08:00"
       }
     ],
-    "scenefOnly": [],
+    "scenefOnly": [
+      {
+        "title": "NAZA",
+        "startTime": "2026-11-17T18:00:00-08:00"
+      }
+    ],
     "collapsedDuplicates": 0,
     "excluded": {
       "ours": 0,
