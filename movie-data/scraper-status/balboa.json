@@ -1,10 +1,10 @@
 {
   "slug": "balboa",
   "theater": "Balboa",
-  "generatedAt": "2026-11-07T13:21:30.584Z",
+  "generatedAt": "2026-11-08T13:21:35.785Z",
   "status": "discrepancies",
   "report": {
-    "matched": 36,
+    "matched": 30,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -127,7 +127,7 @@
     ],
     "collapsedDuplicates": 4,
     "excluded": {
-      "ours": 0,
+      "ours": 6,
       "scenef": 0
     }
   }
