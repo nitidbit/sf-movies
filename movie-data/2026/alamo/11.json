@@ -745,14 +745,6 @@
   },
   {
     "theater": "Alamo",
-    "title": "Sudden Fury",
-    "startTime": "2026-11-25T21:30:00-08:00",
-    "sourceUrl": "https://scenef.com/go/252e6efe9155",
-    "attribution": "Showtimes via SceneF.com",
-    "synopsis": "A teenage boy finds his mother and father murdered in their home but as the story goes on he reveals he knows more than he is letting on."
-  },
-  {
-    "theater": "Alamo",
     "title": "Wild Horse Nine",
     "startTime": "2026-11-07T11:30:00-08:00",
     "sourceUrl": "https://scenef.com/go/4428ff78f2f5",
@@ -1054,6 +1046,22 @@
     "sourceUrl": "https://scenef.com/go/63296980a82f",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "Amidst the chaos of a mysterious war, two victims of an attack take refuge at a cottage in the English countryside, where an enigmatic caretaker insists they cannot leave."
+  },
+  {
+    "theater": "Alamo",
+    "title": "In Transit",
+    "startTime": "2026-11-17T19:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/c4c83749191e",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Two friends sell drugs in NYC to pay off a debt while navigating daily life and romance while dealing with a psychopathic kingpin. When opportunity arrives to get out, they jump at the chance but it may be too little too late."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Sudden Fury",
+    "startTime": "2026-11-25T21:30:00-08:00",
+    "sourceUrl": "https://scenef.com/go/b444302905b4",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Fred is a psychotic entrepreneur who hopes to convince his wife Janet to invest in a shady land deal. The wife refuses, and the couple continue their heated argument while driving through the Ontario backwoods. When their car crashes, Janet is seriously injured, but Fred leaves the scene, hoping that his wife won't last the night."
   },
   {
     "theater": "Alamo",
@@ -1563,9 +1571,9 @@
     "theater": "Alamo",
     "title": "In Transit",
     "startTime": "2026-11-17T19:00:00-08:00",
-    "sourceUrl": "https://scenef.com/go/c4c83749191e",
+    "sourceUrl": "https://scenef.com/go/87fd1a26bf1f",
     "attribution": "Showtimes via SceneF.com",
-    "synopsis": "Two friends sell drugs in NYC to pay off a debt while navigating daily life and romance while dealing with a psychopathic kingpin. When opportunity arrives to get out, they jump at the chance but it may be too little too late."
+    "synopsis": "When a complacent young bartender living in small-town Maine agrees to model for a existentially floundering painter on an artist's retreat, both women must confront their preconceptions of what makes a good life."
   },
   {
     "theater": "Alamo",
@@ -1649,6 +1657,14 @@
   },
   {
     "theater": "Alamo",
+    "title": "NOFX: 40 YEARS OF FUCKIN' UP",
+    "startTime": "2026-11-21T21:45:00-08:00",
+    "sourceUrl": "https://scenef.com/go/c74051ff577d",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The history of one of punk’s loudest and most stubbornly independent bands"
+  },
+  {
+    "theater": "Alamo",
     "title": "Paper Tiger",
     "startTime": "2026-11-22T14:45:00-08:00",
     "sourceUrl": "https://scenef.com/go/fd2c3fc408ad",
@@ -1715,9 +1731,9 @@
     "theater": "Alamo",
     "title": "Sudden Fury",
     "startTime": "2026-11-25T21:30:00-08:00",
-    "sourceUrl": "https://scenef.com/go/b444302905b4",
+    "sourceUrl": "https://scenef.com/go/252e6efe9155",
     "attribution": "Showtimes via SceneF.com",
-    "synopsis": "Fred is a psychotic entrepreneur who hopes to convince his wife Janet to invest in a shady land deal. The wife refuses, and the couple continue their heated argument while driving through the Ontario backwoods. When their car crashes, Janet is seriously injured, but Fred leaves the scene, hoping that his wife won't last the night."
+    "synopsis": "A teenage boy finds his mother and father murdered in their home but as the story goes on he reveals he knows more than he is letting on."
   },
   {
     "theater": "Alamo",
