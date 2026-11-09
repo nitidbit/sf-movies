@@ -1,10 +1,10 @@
 {
   "slug": "roxie",
   "theater": "Roxie",
-  "generatedAt": "2026-11-08T13:51:02.382Z",
+  "generatedAt": "2026-11-09T13:51:26.637Z",
   "status": "discrepancies",
   "report": {
-    "matched": 78,
+    "matched": 71,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -20,28 +20,16 @@
     ],
     "oursOnly": [
       {
-        "title": "Studio 8 2026: Babeth Mondini VanLoo (Studio 8 Legacy Award)",
-        "startTime": "2026-11-08T12:30:00-08:00"
-      },
-      {
-        "title": "New People: Being Heumann",
-        "startTime": "2026-11-08T13:00:00-08:00"
-      },
-      {
-        "title": "New People: Nausicaä of the Valley of the Wind",
-        "startTime": "2026-11-08T16:45:00-08:00"
-      },
-      {
         "title": "Arab Film Festival 2026",
         "startTime": "2026-11-11T18:00:00-08:00"
       },
       {
-        "title": "SFTFF 2026 – COMEDY",
-        "startTime": "2026-11-12T19:00:00-08:00"
-      },
-      {
         "title": "New People: Nausicaä of the Valley of the Wind",
         "startTime": "2026-11-12T18:00:00-08:00"
+      },
+      {
+        "title": "SFTFF 2026 – COMEDY",
+        "startTime": "2026-11-12T19:00:00-08:00"
       },
       {
         "title": "New People: Paprika",
@@ -52,11 +40,11 @@
         "startTime": "2026-11-12T21:00:00-08:00"
       },
       {
-        "title": "Floating Features: Friday the 13th",
+        "title": "SFTFF 2026 – HORROR",
         "startTime": "2026-11-13T19:00:00-08:00"
       },
       {
-        "title": "SFTFF 2026 – HORROR",
+        "title": "Floating Features: Friday the 13th",
         "startTime": "2026-11-13T19:00:00-08:00"
       },
       {
