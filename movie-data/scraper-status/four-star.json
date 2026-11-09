@@ -1,10 +1,10 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-11-08T13:40:23.131Z",
+  "generatedAt": "2026-11-09T13:40:33.674Z",
   "status": "discrepancies",
   "report": {
-    "matched": 18,
+    "matched": 15,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -29,22 +29,6 @@
       }
     ],
     "oursOnly": [
-      {
-        "title": "Wolfwalkers",
-        "startTime": "2026-11-08T10:00:00-08:00"
-      },
-      {
-        "title": "CULTURE & DIVERSITY FILM FESTIVAL: Short Films on \"Love, Food & Freedom\" and \"Sports, Dreams & Sailing\"",
-        "startTime": "2026-11-09T16:00:00-08:00"
-      },
-      {
-        "title": "CULTURE & DIVERSITY FILM FESTIVAL: Films on \"Music, Harmony & Nature\" and \"Mystic Journeys\"",
-        "startTime": "2026-11-10T16:00:00-08:00"
-      },
-      {
-        "title": "LIVE MUSIC: School Fair, goldenstar, Poor Image (Presented by THROWIN' BO'S)",
-        "startTime": "2026-11-12T20:00:00-08:00"
-      },
       {
         "title": "4 Star Autumn Cartoon Special",
         "startTime": "2026-11-14T10:00:00-08:00"
@@ -166,7 +150,7 @@
     ],
     "collapsedDuplicates": 0,
     "excluded": {
-      "ours": 5,
+      "ours": 4,
       "scenef": 0
     }
   }
