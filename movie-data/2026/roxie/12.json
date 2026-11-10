@@ -8,6 +8,13 @@
   },
   {
     "theater": "Roxie",
+    "title": "New People: Filipiñana",
+    "startTime": "2026-12-04T18:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/new-people-filipinana/#showtimes-20261204-1800",
+    "synopsis": "All listed screenings take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. Director Rafael Manuel in person for a post […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "American Pachuco: The Legend of Luis Valdez",
     "startTime": "2026-12-05T15:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/american-pachuco-the-legend-of-luis-valdez/#showtimes-20261205-1500",
@@ -138,5 +145,12 @@
     "startTime": "2026-12-21T18:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/carol/#showtimes-20261221-1800",
     "synopsis": "Presented by OUTlook and Frameline Dubbed “SF’s hottest new holiday tradition” by the San Francisco Chronicle, Frameline’s fourth annual Carol Day returns to its […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Cinema Masala: Dilwale Dulhania Le Jayenge",
+    "startTime": "2026-12-27T13:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/cinema-masala-dilwale-dulhania-le-jayenge/#showtimes-20261227-1300",
+    "synopsis": "Audiences will fall in love with the charming Raj (Shah Rukh Khan) and the spirited Simran (Kajol), both Indians raised in the UK, who […]"
   }
 ]
