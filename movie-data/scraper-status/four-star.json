@@ -1,7 +1,7 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-11-09T13:40:33.674Z",
+  "generatedAt": "2026-11-10T13:40:25.091Z",
   "status": "discrepancies",
   "report": {
     "matched": 15,
@@ -26,6 +26,11 @@
         "startTime": "2026-12-06T20:00:00-08:00",
         "ourTitle": "LIVE MUSIC: Stephen Steinbrink (Record Release), April Magazine, ersa",
         "scenefTitle": "MUSIC: Stephen Steinbrink, April Magazine, ersa"
+      },
+      {
+        "startTime": "2026-12-18T20:00:00-08:00",
+        "ourTitle": "LIVE MUSIC: Country Risquè, Samantha Henson, Sam Hirst",
+        "scenefTitle": "LIVE MUSIC: Country Risque, Samantha Henson & more"
       }
     ],
     "oursOnly": [
@@ -150,7 +155,7 @@
     ],
     "collapsedDuplicates": 0,
     "excluded": {
-      "ours": 4,
+      "ours": 3,
       "scenef": 0
     }
   }
