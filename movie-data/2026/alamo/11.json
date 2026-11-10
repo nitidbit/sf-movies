@@ -1049,14 +1049,6 @@
   },
   {
     "theater": "Alamo",
-    "title": "In Transit",
-    "startTime": "2026-11-17T19:00:00-08:00",
-    "sourceUrl": "https://scenef.com/go/c4c83749191e",
-    "attribution": "Showtimes via SceneF.com",
-    "synopsis": "Two friends sell drugs in NYC to pay off a debt while navigating daily life and romance while dealing with a psychopathic kingpin. When opportunity arrives to get out, they jump at the chance but it may be too little too late."
-  },
-  {
-    "theater": "Alamo",
     "title": "Sudden Fury",
     "startTime": "2026-11-25T21:30:00-08:00",
     "sourceUrl": "https://scenef.com/go/b444302905b4",
@@ -1174,6 +1166,14 @@
     "sourceUrl": "https://scenef.com/go/8b60ef0bb576",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways."
+  },
+  {
+    "theater": "Alamo",
+    "title": "In Transit",
+    "startTime": "2026-11-17T19:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/87fd1a26bf1f",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "When a complacent young bartender living in small-town Maine agrees to model for a existentially floundering painter on an artist's retreat, both women must confront their preconceptions of what makes a good life."
   },
   {
     "theater": "Alamo",
@@ -1417,6 +1417,38 @@
   },
   {
     "theater": "Alamo",
+    "title": "You Can See Everything",
+    "startTime": "2026-11-12T14:30:00-08:00",
+    "sourceUrl": "https://scenef.com/go/6f551b37646e",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Godzilla Minus Zero",
+    "startTime": "2026-11-12T14:55:00-08:00",
+    "sourceUrl": "https://scenef.com/go/47b650d6244c",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Women on the Verge of a Nervous Breakdown",
+    "startTime": "2026-11-12T15:15:00-08:00",
+    "sourceUrl": "https://scenef.com/go/6c6ddb8efca0",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "After being dumped by her lover, Pepa finds her life and the lives of those around her spiraling out of control in a deliciously chaotic series of events."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Wild Horse Nine",
+    "startTime": "2026-11-12T15:30:00-08:00",
+    "sourceUrl": "https://scenef.com/go/4717b8c0ecf0",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways."
+  },
+  {
+    "theater": "Alamo",
     "title": "Club Kid",
     "startTime": "2026-11-12T16:00:00-08:00",
     "sourceUrl": "https://scenef.com/go/649aa2dc1f47",
@@ -1425,11 +1457,35 @@
   },
   {
     "theater": "Alamo",
+    "title": "You Can See Everything",
+    "startTime": "2026-11-12T18:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/98516d4c48ca",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Godzilla Minus Zero",
+    "startTime": "2026-11-12T18:15:00-08:00",
+    "sourceUrl": "https://scenef.com/go/083a09bc0749",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here."
+  },
+  {
+    "theater": "Alamo",
     "title": "Women on the Verge of a Nervous Breakdown",
     "startTime": "2026-11-12T18:40:00-08:00",
     "sourceUrl": "https://scenef.com/go/2c24a7959aa3",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "After being dumped by her lover, Pepa finds her life and the lives of those around her spiraling out of control in a deliciously chaotic series of events."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Wild Horse Nine",
+    "startTime": "2026-11-12T18:45:00-08:00",
+    "sourceUrl": "https://scenef.com/go/bda6362a08f6",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways."
   },
   {
     "theater": "Alamo",
@@ -1449,6 +1505,38 @@
   },
   {
     "theater": "Alamo",
+    "title": "You Can See Everything",
+    "startTime": "2026-11-12T21:35:00-08:00",
+    "sourceUrl": "https://scenef.com/go/ba8576398ab2",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Wild Horse Nine",
+    "startTime": "2026-11-12T21:55:00-08:00",
+    "sourceUrl": "https://scenef.com/go/957ff1871c27",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Godzilla Minus Zero",
+    "startTime": "2026-11-12T22:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/ea604d938fa3",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Club Kid",
+    "startTime": "2026-11-12T22:40:00-08:00",
+    "sourceUrl": "https://scenef.com/go/7647f3a45602",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had."
+  },
+  {
+    "theater": "Alamo",
     "title": "Club Kid",
     "startTime": "2026-11-13T11:20:00-08:00",
     "sourceUrl": "https://scenef.com/go/b4eded378d99",
@@ -1457,11 +1545,75 @@
   },
   {
     "theater": "Alamo",
+    "title": "All About My Mother",
+    "startTime": "2026-11-13T11:45:00-08:00",
+    "sourceUrl": "https://scenef.com/go/1549b3b116a2",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Following the tragic death of her teenage son, Manuela travels from Madrid to Barcelona in an attempt to contact the long-estranged father the boy never knew. She reunites with an old friend, an outspoken transgender sex worker, and befriends a troubled actress and a pregnant, HIV-positive nun."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Godzilla Minus Zero",
+    "startTime": "2026-11-13T12:10:00-08:00",
+    "sourceUrl": "https://scenef.com/go/c2d987ff119d",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Wild Horse Nine",
+    "startTime": "2026-11-13T12:25:00-08:00",
+    "sourceUrl": "https://scenef.com/go/a4c10ddbb0e1",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways."
+  },
+  {
+    "theater": "Alamo",
+    "title": "You Can See Everything",
+    "startTime": "2026-11-13T13:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/2e5571c95371",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss."
+  },
+  {
+    "theater": "Alamo",
+    "title": "You Can See Everything",
+    "startTime": "2026-11-13T14:30:00-08:00",
+    "sourceUrl": "https://scenef.com/go/7d5d57c6a3e9",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss."
+  },
+  {
+    "theater": "Alamo",
     "title": "Club Kid",
     "startTime": "2026-11-13T14:40:00-08:00",
     "sourceUrl": "https://scenef.com/go/bd4de579416e",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Godzilla Minus Zero",
+    "startTime": "2026-11-13T15:30:00-08:00",
+    "sourceUrl": "https://scenef.com/go/1b547055cd6a",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Wild Horse Nine",
+    "startTime": "2026-11-13T15:35:00-08:00",
+    "sourceUrl": "https://scenef.com/go/d2c7b2e386ee",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways."
+  },
+  {
+    "theater": "Alamo",
+    "title": "You Can See Everything",
+    "startTime": "2026-11-13T17:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/a2e5598cdc5d",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss."
   },
   {
     "theater": "Alamo",
@@ -1481,6 +1633,30 @@
   },
   {
     "theater": "Alamo",
+    "title": "Wild Horse Nine",
+    "startTime": "2026-11-13T18:45:00-08:00",
+    "sourceUrl": "https://scenef.com/go/0ca62ccdf718",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Godzilla Minus Zero",
+    "startTime": "2026-11-13T18:55:00-08:00",
+    "sourceUrl": "https://scenef.com/go/51d305617ebb",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here."
+  },
+  {
+    "theater": "Alamo",
+    "title": "You Can See Everything",
+    "startTime": "2026-11-13T21:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/34d0d6266b7a",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss."
+  },
+  {
+    "theater": "Alamo",
     "title": "Club Kid",
     "startTime": "2026-11-13T21:20:00-08:00",
     "sourceUrl": "https://scenef.com/go/4a2676762da8",
@@ -1489,11 +1665,59 @@
   },
   {
     "theater": "Alamo",
+    "title": "All About My Mother",
+    "startTime": "2026-11-13T21:30:00-08:00",
+    "sourceUrl": "https://scenef.com/go/a45d796847be",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Following the tragic death of her teenage son, Manuela travels from Madrid to Barcelona in an attempt to contact the long-estranged father the boy never knew. She reunites with an old friend, an outspoken transgender sex worker, and befriends a troubled actress and a pregnant, HIV-positive nun."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Wild Horse Nine",
+    "startTime": "2026-11-13T22:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/5bbf9f010d9b",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Godzilla Minus Zero",
+    "startTime": "2026-11-13T22:15:00-08:00",
+    "sourceUrl": "https://scenef.com/go/8fd65518595b",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here."
+  },
+  {
+    "theater": "Alamo",
     "title": "Club Kid",
     "startTime": "2026-11-14T11:20:00-08:00",
     "sourceUrl": "https://scenef.com/go/dc3716a11a9b",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had."
+  },
+  {
+    "theater": "Alamo",
+    "title": "You Can See Everything",
+    "startTime": "2026-11-14T11:30:00-08:00",
+    "sourceUrl": "https://scenef.com/go/3eff60b40202",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Godzilla Minus Zero",
+    "startTime": "2026-11-14T11:40:00-08:00",
+    "sourceUrl": "https://scenef.com/go/c0192724ce67",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Wild Horse Nine",
+    "startTime": "2026-11-14T12:25:00-08:00",
+    "sourceUrl": "https://scenef.com/go/10892abe6c76",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways."
   },
   {
     "theater": "Alamo",
@@ -1513,11 +1737,75 @@
   },
   {
     "theater": "Alamo",
+    "title": "Godzilla Minus Zero",
+    "startTime": "2026-11-14T15:30:00-08:00",
+    "sourceUrl": "https://scenef.com/go/3b63da172194",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Wild Horse Nine",
+    "startTime": "2026-11-14T15:35:00-08:00",
+    "sourceUrl": "https://scenef.com/go/64578730b4db",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways."
+  },
+  {
+    "theater": "Alamo",
+    "title": "You Can See Everything",
+    "startTime": "2026-11-14T16:30:00-08:00",
+    "sourceUrl": "https://scenef.com/go/14efeb060e48",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss."
+  },
+  {
+    "theater": "Alamo",
     "title": "Club Kid",
     "startTime": "2026-11-14T18:00:00-08:00",
     "sourceUrl": "https://scenef.com/go/52c7c97659e7",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Littermates",
+    "startTime": "2026-11-14T18:15:00-08:00",
+    "sourceUrl": "https://scenef.com/go/4fa7ecc6c67e",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Amidst the chaos of a mysterious war, two victims of an attack take refuge at a cottage in the English countryside, where an enigmatic caretaker insists they cannot leave."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Wild Horse Nine",
+    "startTime": "2026-11-14T18:45:00-08:00",
+    "sourceUrl": "https://scenef.com/go/ceed4546e0cc",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Godzilla Minus Zero",
+    "startTime": "2026-11-14T18:55:00-08:00",
+    "sourceUrl": "https://scenef.com/go/6d6dd6746f1f",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here."
+  },
+  {
+    "theater": "Alamo",
+    "title": "You Can See Everything",
+    "startTime": "2026-11-14T20:30:00-08:00",
+    "sourceUrl": "https://scenef.com/go/88d3160e331b",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Wild Horse Nine",
+    "startTime": "2026-11-14T21:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/775d7ec5b452",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways."
   },
   {
     "theater": "Alamo",
@@ -1529,11 +1817,67 @@
   },
   {
     "theater": "Alamo",
+    "title": "The Skin I Live In",
+    "startTime": "2026-11-14T22:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/88bb30cda47a",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A brilliant plastic surgeon creates a synthetic skin that withstands any kind of damage. His guinea pig: a mysterious and volatile woman who holds the key to his obsession."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Godzilla Minus Zero",
+    "startTime": "2026-11-14T22:15:00-08:00",
+    "sourceUrl": "https://scenef.com/go/b2016a4ee1f4",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Volver",
+    "startTime": "2026-11-15T11:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/ee885b5bbbe9",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Three generations of women deal with family secrets while surviving the east wind, fire, insanity, superstition, lies and even death."
+  },
+  {
+    "theater": "Alamo",
+    "title": "You Can See Everything",
+    "startTime": "2026-11-15T11:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/6f4e498448a2",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss."
+  },
+  {
+    "theater": "Alamo",
     "title": "Club Kid",
     "startTime": "2026-11-15T11:20:00-08:00",
     "sourceUrl": "https://scenef.com/go/2f3dae2a6a6c",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Godzilla Minus Zero",
+    "startTime": "2026-11-15T11:40:00-08:00",
+    "sourceUrl": "https://scenef.com/go/695cc1656c38",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Wild Horse Nine",
+    "startTime": "2026-11-15T12:25:00-08:00",
+    "sourceUrl": "https://scenef.com/go/147549330003",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Godzilla Minus Zero",
+    "startTime": "2026-11-15T14:15:00-08:00",
+    "sourceUrl": "https://scenef.com/go/9a00905e4629",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here."
   },
   {
     "theater": "Alamo",
@@ -1553,11 +1897,123 @@
   },
   {
     "theater": "Alamo",
+    "title": "You Can See Everything",
+    "startTime": "2026-11-15T15:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/e6a2489d7557",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Wild Horse Nine",
+    "startTime": "2026-11-15T15:35:00-08:00",
+    "sourceUrl": "https://scenef.com/go/73e4f996a33d",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways."
+  },
+  {
+    "theater": "Alamo",
     "title": "Club Kid",
     "startTime": "2026-11-15T18:00:00-08:00",
     "sourceUrl": "https://scenef.com/go/f9bfbfd1c415",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had."
+  },
+  {
+    "theater": "Alamo",
+    "title": "You Can See Everything",
+    "startTime": "2026-11-15T18:15:00-08:00",
+    "sourceUrl": "https://scenef.com/go/0d5ab91877b2",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Wild Horse Nine",
+    "startTime": "2026-11-15T18:45:00-08:00",
+    "sourceUrl": "https://scenef.com/go/62de77b61241",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Godzilla Minus Zero",
+    "startTime": "2026-11-15T19:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/21db63ee0f15",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Club Kid",
+    "startTime": "2026-11-16T14:40:00-08:00",
+    "sourceUrl": "https://scenef.com/go/51d36776e33f",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had."
+  },
+  {
+    "theater": "Alamo",
+    "title": "You Can See Everything",
+    "startTime": "2026-11-16T15:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/02d8c8b386ad",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Wild Horse Nine",
+    "startTime": "2026-11-16T15:15:00-08:00",
+    "sourceUrl": "https://scenef.com/go/bae701a443c4",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Godzilla Minus Zero",
+    "startTime": "2026-11-16T15:20:00-08:00",
+    "sourceUrl": "https://scenef.com/go/76d7311e7dfe",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Wild Horse Nine",
+    "startTime": "2026-11-16T16:15:00-08:00",
+    "sourceUrl": "https://scenef.com/go/cf1730be81b1",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Club Kid",
+    "startTime": "2026-11-16T18:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/2886ade7f88d",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Wild Horse Nine",
+    "startTime": "2026-11-16T18:15:00-08:00",
+    "sourceUrl": "https://scenef.com/go/c863e694f968",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways."
+  },
+  {
+    "theater": "Alamo",
+    "title": "You Can See Everything",
+    "startTime": "2026-11-16T18:30:00-08:00",
+    "sourceUrl": "https://scenef.com/go/eadd59ed84fc",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Godzilla Minus Zero",
+    "startTime": "2026-11-16T18:40:00-08:00",
+    "sourceUrl": "https://scenef.com/go/5fa6d76c50a4",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here."
   },
   {
     "theater": "Alamo",
@@ -1569,11 +2025,131 @@
   },
   {
     "theater": "Alamo",
+    "title": "You Can See Everything",
+    "startTime": "2026-11-16T21:15:00-08:00",
+    "sourceUrl": "https://scenef.com/go/ffa9630d0f26",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Club Kid",
+    "startTime": "2026-11-16T21:20:00-08:00",
+    "sourceUrl": "https://scenef.com/go/0197d0c50a2e",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Wild Horse Nine",
+    "startTime": "2026-11-16T21:45:00-08:00",
+    "sourceUrl": "https://scenef.com/go/4bd1332185ae",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Godzilla Minus Zero",
+    "startTime": "2026-11-16T22:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/a4b96680f526",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Wild Horse Nine",
+    "startTime": "2026-11-17T14:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/1c8333ac6e1c",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways."
+  },
+  {
+    "theater": "Alamo",
+    "title": "You Can See Everything",
+    "startTime": "2026-11-17T14:15:00-08:00",
+    "sourceUrl": "https://scenef.com/go/26c907d9192a",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Club Kid",
+    "startTime": "2026-11-17T14:40:00-08:00",
+    "sourceUrl": "https://scenef.com/go/df2d5b5a83b3",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Godzilla Minus Zero",
+    "startTime": "2026-11-17T15:25:00-08:00",
+    "sourceUrl": "https://scenef.com/go/f1fe2a7e3100",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Wild Horse Nine",
+    "startTime": "2026-11-17T16:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/663ead6afc05",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways."
+  },
+  {
+    "theater": "Alamo",
+    "title": "You Can See Everything",
+    "startTime": "2026-11-17T17:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/fa77abf46b7f",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Club Kid",
+    "startTime": "2026-11-17T18:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/b374ae57b981",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Wild Horse Nine",
+    "startTime": "2026-11-17T18:15:00-08:00",
+    "sourceUrl": "https://scenef.com/go/18af26426059",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Godzilla Minus Zero",
+    "startTime": "2026-11-17T18:45:00-08:00",
+    "sourceUrl": "https://scenef.com/go/fd1b788ce41c",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here."
+  },
+  {
+    "theater": "Alamo",
     "title": "In Transit",
     "startTime": "2026-11-17T19:00:00-08:00",
-    "sourceUrl": "https://scenef.com/go/87fd1a26bf1f",
+    "sourceUrl": "https://scenef.com/go/c4c83749191e",
     "attribution": "Showtimes via SceneF.com",
-    "synopsis": "When a complacent young bartender living in small-town Maine agrees to model for a existentially floundering painter on an artist's retreat, both women must confront their preconceptions of what makes a good life."
+    "synopsis": "Two friends sell drugs in NYC to pay off a debt while navigating daily life and romance while dealing with a psychopathic kingpin. When opportunity arrives to get out, they jump at the chance but it may be too little too late."
+  },
+  {
+    "theater": "Alamo",
+    "title": "You Can See Everything",
+    "startTime": "2026-11-17T21:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/7ae034925ce0",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Club Kid",
+    "startTime": "2026-11-17T21:15:00-08:00",
+    "sourceUrl": "https://scenef.com/go/4e2a8884e405",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had."
   },
   {
     "theater": "Alamo",
@@ -1585,11 +2161,131 @@
   },
   {
     "theater": "Alamo",
+    "title": "Wild Horse Nine",
+    "startTime": "2026-11-17T22:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/9a685422984a",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Godzilla Minus Zero",
+    "startTime": "2026-11-17T22:05:00-08:00",
+    "sourceUrl": "https://scenef.com/go/2ebe19de6258",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Wild Horse Nine",
+    "startTime": "2026-11-18T14:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/73b620320938",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways."
+  },
+  {
+    "theater": "Alamo",
+    "title": "You Can See Everything",
+    "startTime": "2026-11-18T14:15:00-08:00",
+    "sourceUrl": "https://scenef.com/go/4368ee6be7ef",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Club Kid",
+    "startTime": "2026-11-18T14:40:00-08:00",
+    "sourceUrl": "https://scenef.com/go/417d92231d69",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Wild Horse Nine",
+    "startTime": "2026-11-18T15:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/c459d33cf372",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Godzilla Minus Zero",
+    "startTime": "2026-11-18T15:25:00-08:00",
+    "sourceUrl": "https://scenef.com/go/7d16aa63cd8e",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here."
+  },
+  {
+    "theater": "Alamo",
+    "title": "You Can See Everything",
+    "startTime": "2026-11-18T17:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/febd5c032aa3",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Club Kid",
+    "startTime": "2026-11-18T18:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/6025aef9a7c2",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Wild Horse Nine",
+    "startTime": "2026-11-18T18:15:00-08:00",
+    "sourceUrl": "https://scenef.com/go/24e05dcf3376",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Godzilla Minus Zero",
+    "startTime": "2026-11-18T18:45:00-08:00",
+    "sourceUrl": "https://scenef.com/go/8d375f598993",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Club Kid",
+    "startTime": "2026-11-18T21:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/cefca4793640",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had."
+  },
+  {
+    "theater": "Alamo",
+    "title": "You Can See Everything",
+    "startTime": "2026-11-18T21:15:00-08:00",
+    "sourceUrl": "https://scenef.com/go/d7a5cd2e9152",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss."
+  },
+  {
+    "theater": "Alamo",
     "title": "Dr. Goldfoot and the Bikini Machine",
     "startTime": "2026-11-18T21:30:00-08:00",
     "sourceUrl": "https://scenef.com/go/0dea929f2f12",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "Mad scientist Dr. Goldfoot has invented an army of bikini-clad robots programmed to seek out wealthy men and charm them into signing over their assets. Secret agent Craig Gamble and millionaire Todd Armstrong set out to foil his fiendish plot."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Godzilla Minus Zero",
+    "startTime": "2026-11-18T22:05:00-08:00",
+    "sourceUrl": "https://scenef.com/go/edf633f813de",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Wild Horse Nine",
+    "startTime": "2026-11-18T22:05:00-08:00",
+    "sourceUrl": "https://scenef.com/go/bdad751e7ab8",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways."
   },
   {
     "theater": "Alamo",
