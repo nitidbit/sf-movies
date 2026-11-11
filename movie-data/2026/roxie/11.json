@@ -519,6 +519,20 @@
   },
   {
     "theater": "Roxie",
+    "title": "Closure",
+    "startTime": "2026-11-18T18:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/closure/#showtimes-20261118-1800",
+    "synopsis": "After his teenage son, Chris, is last seen by a surveillance camera on a bridge over Warsaw’s turbulent Vistula River, Daniel embarks on an […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "On the Road (En el Camino)",
+    "startTime": "2026-11-23T18:20:00-08:00",
+    "sourceUrl": "https://roxie.com/film/on-the-road-en-el-camino/#showtimes-20261123-1820",
+    "synopsis": "Veneno’, a rebellious young drifter, frequents roadside diners where he sleeps with truck drivers. Urgently needing a ride, he meets ‘Muñeco’, a hard-edged driver […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "Rock Ross: Go Like This (16mm)",
     "startTime": "2026-11-11T18:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/rock-ross-go-like-this-16mm/#showtimes-20261111-1800",
@@ -792,13 +806,6 @@
   },
   {
     "theater": "Roxie",
-    "title": "Closure",
-    "startTime": "2026-11-18T18:00:00-08:00",
-    "sourceUrl": "https://roxie.com/film/closure/#showtimes-20261118-1800",
-    "synopsis": "After his teenage son, Chris, is last seen by a surveillance camera on a bridge over Warsaw’s turbulent Vistula River, Daniel embarks on an […]"
-  },
-  {
-    "theater": "Roxie",
     "title": "Staff Pick: Chicago",
     "startTime": "2026-11-18T20:20:00-08:00",
     "sourceUrl": "https://roxie.com/film/staff-pick-chicago/#showtimes-20261118-2020",
@@ -862,6 +869,13 @@
   },
   {
     "theater": "Roxie",
+    "title": "Who Killed Alex Odeh?",
+    "startTime": "2026-11-20T20:10:00-08:00",
+    "sourceUrl": "https://roxie.com/film/who-killed-alex-odeh/#showtimes-20261120-2010",
+    "synopsis": "A Palestinian American activist’s murder in Southern California sparks a 40-year search for justice, exposing the origins of a modern political movement’s dangerous ideology. […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "Aliens (Special Edition)",
     "startTime": "2026-11-20T20:45:00-08:00",
     "sourceUrl": "https://roxie.com/film/aliens-special-edition/#showtimes-20261120-2045",
@@ -872,6 +886,13 @@
     "title": "La Bola Negra",
     "startTime": "2026-11-21T13:10:00-08:00",
     "sourceUrl": "https://roxie.com/film/la-bola-negra/#showtimes-20261121-1310",
+    "synopsis": "From Cannes-winning directors Javier Calvo and Javier Ambrossi—popularly known as Los Javis—La Bola Negra follows three generations of men across pivotal moments in Spanish […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "La Bola Negra",
+    "startTime": "2026-11-21T20:40:00-08:00",
+    "sourceUrl": "https://roxie.com/film/la-bola-negra/#showtimes-20261121-2040",
     "synopsis": "From Cannes-winning directors Javier Calvo and Javier Ambrossi—popularly known as Los Javis—La Bola Negra follows three generations of men across pivotal moments in Spanish […]"
   },
   {
@@ -890,10 +911,24 @@
   },
   {
     "theater": "Roxie",
+    "title": "Who Killed Alex Odeh?",
+    "startTime": "2026-11-21T16:50:00-08:00",
+    "sourceUrl": "https://roxie.com/film/who-killed-alex-odeh/#showtimes-20261121-1650",
+    "synopsis": "A Palestinian American activist’s murder in Southern California sparks a 40-year search for justice, exposing the origins of a modern political movement’s dangerous ideology. […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "Zhang Yimou’s Raise the Red Lantern (4K Restoration)",
     "startTime": "2026-11-21T18:35:00-08:00",
     "sourceUrl": "https://roxie.com/film/raise-the-red-lantern/#showtimes-20261121-1835",
     "synopsis": "Co-presented by Bay Area Chinese Culture Salon and Amoment Books. Nineteen-year-old Songlian, a promising student whose family has been destroyed by her father’s death, […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Fatherland",
+    "startTime": "2026-11-21T18:45:00-08:00",
+    "sourceUrl": "https://roxie.com/film/fatherland/#showtimes-20261121-1845",
+    "synopsis": "DM us your ticket confirmation & favorite Sandra Hüller film to enter to win a free Sandra Hüller Girls On Tops Tee! We will […]"
   },
   {
     "theater": "Roxie",
@@ -915,6 +950,13 @@
     "startTime": "2026-11-22T15:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/birds-of-war/#showtimes-20261122-1500",
     "synopsis": "Post screening Q&A with Director’s and Film Subject’s Janay Boulos and Abd Alkader Habak. By turning the camera on themselves, the co-directors follow the […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Who Killed Alex Odeh?",
+    "startTime": "2026-11-22T15:05:00-08:00",
+    "sourceUrl": "https://roxie.com/film/who-killed-alex-odeh/#showtimes-20261122-1505",
+    "synopsis": "A Palestinian American activist’s murder in Southern California sparks a 40-year search for justice, exposing the origins of a modern political movement’s dangerous ideology. […]"
   },
   {
     "theater": "Roxie",
@@ -946,10 +988,10 @@
   },
   {
     "theater": "Roxie",
-    "title": "On the Road (En el Camino)",
-    "startTime": "2026-11-23T18:20:00-08:00",
-    "sourceUrl": "https://roxie.com/film/on-the-road-en-el-camino/#showtimes-20261123-1820",
-    "synopsis": "Veneno’, a rebellious young drifter, frequents roadside diners where he sleeps with truck drivers. Urgently needing a ride, he meets ‘Muñeco’, a hard-edged driver […]"
+    "title": "Who Killed Alex Odeh?",
+    "startTime": "2026-11-23T18:35:00-08:00",
+    "sourceUrl": "https://roxie.com/film/who-killed-alex-odeh/#showtimes-20261123-1835",
+    "synopsis": "A Palestinian American activist’s murder in Southern California sparks a 40-year search for justice, exposing the origins of a modern political movement’s dangerous ideology. […]"
   },
   {
     "theater": "Roxie",
@@ -960,10 +1002,24 @@
   },
   {
     "theater": "Roxie",
+    "title": "On the Road (En el Camino)",
+    "startTime": "2026-11-23T20:30:00-08:00",
+    "sourceUrl": "https://roxie.com/film/on-the-road-en-el-camino/#showtimes-20261123-2030",
+    "synopsis": "Veneno’, a rebellious young drifter, frequents roadside diners where he sleeps with truck drivers. Urgently needing a ride, he meets ‘Muñeco’, a hard-edged driver […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "Zhang Yimou’s Raise the Red Lantern (4K Restoration)",
     "startTime": "2026-11-24T18:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/raise-the-red-lantern/#showtimes-20261124-1800",
     "synopsis": "Co-presented by Bay Area Chinese Culture Salon and Amoment Books. Nineteen-year-old Songlian, a promising student whose family has been destroyed by her father’s death, […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Ken Russell’s The Devils (4K Restoration)",
+    "startTime": "2026-11-24T20:40:00-08:00",
+    "sourceUrl": "https://roxie.com/film/ken-russells-the-devils-4k-restoration/#showtimes-20261124-2040",
+    "synopsis": "In 17th-century France, Father Urbain Grandier’s protection of the city of Loudun from the corrupt Cardinal Richelieu is undermined by a sexually repressed nun’s […]"
   },
   {
     "theater": "Roxie",
@@ -985,6 +1041,13 @@
     "startTime": "2026-11-27T17:05:00-08:00",
     "sourceUrl": "https://roxie.com/film/you-can-see-everything/#showtimes-20261127-1705",
     "synopsis": "Thirty-four days before she’s sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "La Bola Negra",
+    "startTime": "2026-11-27T17:25:00-08:00",
+    "sourceUrl": "https://roxie.com/film/la-bola-negra/#showtimes-20261127-1725",
+    "synopsis": "From Cannes-winning directors Javier Calvo and Javier Ambrossi—popularly known as Los Javis—La Bola Negra follows three generations of men across pivotal moments in Spanish […]"
   },
   {
     "theater": "Roxie",
