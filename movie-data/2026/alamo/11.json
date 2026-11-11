@@ -1049,14 +1049,6 @@
   },
   {
     "theater": "Alamo",
-    "title": "Sudden Fury",
-    "startTime": "2026-11-25T21:30:00-08:00",
-    "sourceUrl": "https://scenef.com/go/b444302905b4",
-    "attribution": "Showtimes via SceneF.com",
-    "synopsis": "Fred is a psychotic entrepreneur who hopes to convince his wife Janet to invest in a shady land deal. The wife refuses, and the couple continue their heated argument while driving through the Ontario backwoods. When their car crashes, Janet is seriously injured, but Fred leaves the scene, hoping that his wife won't last the night."
-  },
-  {
-    "theater": "Alamo",
     "title": "You Can See Everything",
     "startTime": "2026-11-09T14:00:00-08:00",
     "sourceUrl": "https://scenef.com/go/848997527deb",
@@ -1166,14 +1158,6 @@
     "sourceUrl": "https://scenef.com/go/8b60ef0bb576",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways."
-  },
-  {
-    "theater": "Alamo",
-    "title": "In Transit",
-    "startTime": "2026-11-17T19:00:00-08:00",
-    "sourceUrl": "https://scenef.com/go/87fd1a26bf1f",
-    "attribution": "Showtimes via SceneF.com",
-    "synopsis": "When a complacent young bartender living in small-town Maine agrees to model for a existentially floundering painter on an artist's retreat, both women must confront their preconceptions of what makes a good life."
   },
   {
     "theater": "Alamo",
@@ -1294,6 +1278,22 @@
     "sourceUrl": "https://scenef.com/go/330e5933b4fc",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "Amidst the chaos of a mysterious war, two victims of an attack take refuge at a cottage in the English countryside, where an enigmatic caretaker insists they cannot leave."
+  },
+  {
+    "theater": "Alamo",
+    "title": "In Transit",
+    "startTime": "2026-11-17T19:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/c4c83749191e",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Two friends sell drugs in NYC to pay off a debt while navigating daily life and romance while dealing with a psychopathic kingpin. When opportunity arrives to get out, they jump at the chance but it may be too little too late."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Sudden Fury",
+    "startTime": "2026-11-25T21:30:00-08:00",
+    "sourceUrl": "https://scenef.com/go/252e6efe9155",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A teenage boy finds his mother and father murdered in their home but as the story goes on he reveals he knows more than he is letting on."
   },
   {
     "theater": "Alamo",
@@ -2131,9 +2131,9 @@
     "theater": "Alamo",
     "title": "In Transit",
     "startTime": "2026-11-17T19:00:00-08:00",
-    "sourceUrl": "https://scenef.com/go/c4c83749191e",
+    "sourceUrl": "https://scenef.com/go/87fd1a26bf1f",
     "attribution": "Showtimes via SceneF.com",
-    "synopsis": "Two friends sell drugs in NYC to pay off a debt while navigating daily life and romance while dealing with a psychopathic kingpin. When opportunity arrives to get out, they jump at the chance but it may be too little too late."
+    "synopsis": "When a complacent young bartender living in small-town Maine agrees to model for a existentially floundering painter on an artist's retreat, both women must confront their preconceptions of what makes a good life."
   },
   {
     "theater": "Alamo",
@@ -2427,9 +2427,9 @@
     "theater": "Alamo",
     "title": "Sudden Fury",
     "startTime": "2026-11-25T21:30:00-08:00",
-    "sourceUrl": "https://scenef.com/go/252e6efe9155",
+    "sourceUrl": "https://scenef.com/go/b444302905b4",
     "attribution": "Showtimes via SceneF.com",
-    "synopsis": "A teenage boy finds his mother and father murdered in their home but as the story goes on he reveals he knows more than he is letting on."
+    "synopsis": "Fred is a psychotic entrepreneur who hopes to convince his wife Janet to invest in a shady land deal. The wife refuses, and the couple continue their heated argument while driving through the Ontario backwoods. When their car crashes, Janet is seriously injured, but Fred leaves the scene, hoping that his wife won't last the night."
   },
   {
     "theater": "Alamo",
