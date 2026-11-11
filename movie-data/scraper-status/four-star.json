@@ -1,10 +1,10 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-11-10T13:40:25.091Z",
+  "generatedAt": "2026-11-11T13:40:47.990Z",
   "status": "discrepancies",
   "report": {
-    "matched": 15,
+    "matched": 14,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -16,6 +16,11 @@
         "startTime": "2026-11-15T20:00:00-08:00",
         "ourTitle": "LIVE MUSIC: Todd Day Wait, Mac Cornish, Josiah Flores",
         "scenefTitle": "LIVE MUSIC: Todd Day Wait, Mac Cornish & more"
+      },
+      {
+        "startTime": "2026-12-02T19:30:00-08:00",
+        "ourTitle": "LIVE MUSIC: Vince Guaraldi's A Charlie Brown Christmas (performed by Spencer Zahn, Zach Tenorio & Aaron Steele)",
+        "scenefTitle": "MUSIC: Charlie Brown Xmas (Spencer Zahn & more)"
       },
       {
         "startTime": "2026-12-04T20:00:00-08:00",
@@ -119,6 +124,10 @@
         "startTime": "2027-01-24T20:00:00-08:00"
       },
       {
+        "title": "LIVE MUSIC: Morgan Garrett, Lucy Liyou (Presented by THROWIN' BO'S)",
+        "startTime": "2027-01-26T20:00:00-08:00"
+      },
+      {
         "title": "LIVE MUSIC: BB Wisely (Presented by THROWIN' BO'S)",
         "startTime": "2027-01-27T20:00:00-08:00"
       }
@@ -155,7 +164,7 @@
     ],
     "collapsedDuplicates": 0,
     "excluded": {
-      "ours": 3,
+      "ours": 2,
       "scenef": 0
     }
   }
