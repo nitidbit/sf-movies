@@ -1,10 +1,10 @@
 {
   "slug": "balboa",
   "theater": "Balboa",
-  "generatedAt": "2026-11-10T13:21:42.110Z",
+  "generatedAt": "2026-11-11T13:21:34.600Z",
   "status": "discrepancies",
   "report": {
-    "matched": 42,
+    "matched": 55,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -13,7 +13,56 @@
         "scenefTitle": "The Twilight Saga: New Moon"
       }
     ],
-    "oursOnly": [],
+    "oursOnly": [
+      {
+        "title": "AHITH FEST 2026: Deep Dish + 2 Short Films",
+        "startTime": "2026-12-04T18:00:00-08:00"
+      },
+      {
+        "title": "AHITH FEST 2026: The Crawling + 3 Short Films",
+        "startTime": "2026-12-04T20:45:00-08:00"
+      },
+      {
+        "title": "AHITH FEST 2026: Shorts Film Collection One",
+        "startTime": "2026-12-05T10:15:00-08:00"
+      },
+      {
+        "title": "AHITH FEST 2026: Shorts Film Collection Two",
+        "startTime": "2026-12-05T12:30:00-08:00"
+      },
+      {
+        "title": "AHITH FEST 2026: Short Film Collection Three",
+        "startTime": "2026-12-05T15:00:00-08:00"
+      },
+      {
+        "title": "AHITH FEST 2026: Mary Kwon Mary Kwon",
+        "startTime": "2026-12-05T17:15:00-08:00"
+      },
+      {
+        "title": "AHITH FEST 2026: Devil's Disciple: The Night Stalker",
+        "startTime": "2026-12-05T19:25:00-08:00"
+      },
+      {
+        "title": "AHITH FEST 2026: The Texas Chainsaw Massacre 2 (40th Anniversary – Original Unrated 35mm Print)",
+        "startTime": "2026-12-05T21:45:00-08:00"
+      },
+      {
+        "title": "AHITH FEST 2026: Short Film Collection 5 (Dark Rainbow)",
+        "startTime": "2026-12-06T12:30:00-08:00"
+      },
+      {
+        "title": "AHITH FEST 2026: Remy & Bo: Rise of Belladonna",
+        "startTime": "2026-12-06T15:00:00-08:00"
+      },
+      {
+        "title": "AHITH FEST 2026: Twice Midnight",
+        "startTime": "2026-12-06T17:15:00-08:00"
+      },
+      {
+        "title": "AHITH FEST 2026: Life at Sandy's + 4 Short Films",
+        "startTime": "2026-12-06T19:45:00-08:00"
+      }
+    ],
     "scenefOnly": [
       {
         "title": "Nirvanna the Band the Show (Season One, Ep. 5 - 8)",
@@ -28,16 +77,8 @@
         "startTime": "2026-11-14T20:00:00-08:00"
       },
       {
-        "title": "Nirvanna the Band the Show the Fest (Weekend Pass)",
-        "startTime": "2026-11-15T22:30:00-08:00"
-      },
-      {
         "title": "You Can See Everything",
         "startTime": "2026-11-20T19:00:00-08:00"
-      },
-      {
-        "title": "Repo Man",
-        "startTime": "2026-11-20T19:30:00-08:00"
       },
       {
         "title": "You Can See Everything",
@@ -69,63 +110,15 @@
       },
       {
         "title": "You Can See Everything",
-        "startTime": "2026-11-25T16:00:00-08:00"
-      },
-      {
-        "title": "Club Kid",
-        "startTime": "2026-11-25T19:30:00-08:00"
-      },
-      {
-        "title": "Club Kid",
-        "startTime": "2026-11-27T16:00:00-08:00"
-      },
-      {
-        "title": "Club Kid",
-        "startTime": "2026-11-27T19:00:00-08:00"
-      },
-      {
-        "title": "Club Kid",
-        "startTime": "2026-11-28T16:30:00-08:00"
-      },
-      {
-        "title": "Club Kid",
-        "startTime": "2026-11-28T19:30:00-08:00"
-      },
-      {
-        "title": "Club Kid",
-        "startTime": "2026-11-29T16:00:00-08:00"
-      },
-      {
-        "title": "Club Kid",
-        "startTime": "2026-11-29T19:00:00-08:00"
+        "startTime": "2026-11-25T15:30:00-08:00"
       },
       {
         "title": "The Cremator",
         "startTime": "2026-11-29T19:30:00-08:00"
       },
       {
-        "title": "Club Kid",
-        "startTime": "2026-11-30T19:00:00-08:00"
-      },
-      {
         "title": "Little Shop of Horrors",
         "startTime": "2026-11-30T19:30:00-08:00"
-      },
-      {
-        "title": "Club Kid",
-        "startTime": "2026-12-01T19:00:00-08:00"
-      },
-      {
-        "title": "Club Kid",
-        "startTime": "2026-12-02T19:00:00-08:00"
-      },
-      {
-        "title": "Club Kid",
-        "startTime": "2026-12-03T19:00:00-08:00"
-      },
-      {
-        "title": "Hundreds of Beavers",
-        "startTime": "2026-12-15T19:30:00-08:00"
       }
     ],
     "collapsedDuplicates": 4,
