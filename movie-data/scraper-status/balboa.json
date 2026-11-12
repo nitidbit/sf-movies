@@ -1,18 +1,12 @@
 {
   "slug": "balboa",
   "theater": "Balboa",
-  "generatedAt": "2026-11-11T13:21:34.600Z",
+  "generatedAt": "2026-11-12T13:22:12.637Z",
   "status": "discrepancies",
   "report": {
-    "matched": 55,
+    "matched": 52,
     "timeMismatches": [],
-    "titleMismatches": [
-      {
-        "startTime": "2026-11-11T19:30:00-08:00",
-        "ourTitle": "Twilight: New Moon",
-        "scenefTitle": "The Twilight Saga: New Moon"
-      }
-    ],
+    "titleMismatches": [],
     "oursOnly": [
       {
         "title": "AHITH FEST 2026: Deep Dish + 2 Short Films",
@@ -61,6 +55,38 @@
       {
         "title": "AHITH FEST 2026: Life at Sandy's + 4 Short Films",
         "startTime": "2026-12-06T19:45:00-08:00"
+      },
+      {
+        "title": "AHITH FEST 2026: The Ritual of Hausao",
+        "startTime": "2026-12-07T18:00:00-08:00"
+      },
+      {
+        "title": "AHITH FEST 2026: Starslyderz",
+        "startTime": "2026-12-07T20:00:00-08:00"
+      },
+      {
+        "title": "AHITH FEST 2026: The Shining Forwards and Backwards + 2 Short Films",
+        "startTime": "2026-12-08T19:00:00-08:00"
+      },
+      {
+        "title": "AHITH FEST 2026: Mad Max: Fury Road (BLACK & CHROME) + 2 Short Films",
+        "startTime": "2026-12-09T19:00:00-08:00"
+      },
+      {
+        "title": "AHITH Fest 2026: Unsavory Elements + 2 Short Films",
+        "startTime": "2026-12-10T18:45:00-08:00"
+      },
+      {
+        "title": "AHITH FEST 2026: Ripple in a Pond of Blood + 1 Short Film",
+        "startTime": "2026-12-11T18:15:00-08:00"
+      },
+      {
+        "title": "AHITH FEST 2026: Variations on Violence + 1 Short Film",
+        "startTime": "2026-12-11T19:50:00-08:00"
+      },
+      {
+        "title": "AHITH FEST 2026: Homebody + 1 Short Film",
+        "startTime": "2026-12-11T21:30:00-08:00"
       }
     ],
     "scenefOnly": [
@@ -121,9 +147,9 @@
         "startTime": "2026-11-30T19:30:00-08:00"
       }
     ],
-    "collapsedDuplicates": 4,
+    "collapsedDuplicates": 3,
     "excluded": {
-      "ours": 2,
+      "ours": 4,
       "scenef": 0
     }
   }
