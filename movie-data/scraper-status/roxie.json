@@ -1,10 +1,10 @@
 {
   "slug": "roxie",
   "theater": "Roxie",
-  "generatedAt": "2026-11-11T13:51:26.971Z",
+  "generatedAt": "2026-11-12T13:51:17.565Z",
   "status": "discrepancies",
   "report": {
-    "matched": 81,
+    "matched": 78,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -19,14 +19,6 @@
       }
     ],
     "oursOnly": [
-      {
-        "title": "Arab Film Festival 2026",
-        "startTime": "2026-11-11T18:00:00-08:00"
-      },
-      {
-        "title": "Arab Film Festival 2026",
-        "startTime": "2026-11-11T20:00:00-08:00"
-      },
       {
         "title": "SFTFF 2026 – COMEDY",
         "startTime": "2026-11-12T19:00:00-08:00"

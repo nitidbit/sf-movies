@@ -561,6 +561,20 @@
   },
   {
     "theater": "Roxie",
+    "title": "La Bola Negra",
+    "startTime": "2026-11-27T17:25:00-08:00",
+    "sourceUrl": "https://roxie.com/film/la-bola-negra/#showtimes-20261127-1725",
+    "synopsis": "From Cannes-winning directors Javier Calvo and Javier Ambrossi—popularly known as Los Javis—La Bola Negra follows three generations of men across pivotal moments in Spanish […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "La Bola Negra",
+    "startTime": "2026-11-28T20:10:00-08:00",
+    "sourceUrl": "https://roxie.com/film/la-bola-negra/#showtimes-20261128-2010",
+    "synopsis": "From Cannes-winning directors Javier Calvo and Javier Ambrossi—popularly known as Los Javis—La Bola Negra follows three generations of men across pivotal moments in Spanish […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "SFTFF 2026 – COMEDY",
     "startTime": "2026-11-12T19:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/sftff-2026-comedy/#showtimes-20261112-1900",
@@ -641,7 +655,7 @@
     "title": "Fatherland",
     "startTime": "2026-11-14T13:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/fatherland/#showtimes-20261114-1300",
-    "synopsis": "DM us your ticket confirmation & favorite Sandra Hüller film to enter to win a free Sandra Hüller Girls On Tops Tee! We will […]"
+    "synopsis": "FATHERLAND centres on the relationship between the Nobel Prize-winning writer Thomas Mann (Hanns Zischler) and his daughter Erika (Sandra Hüller) – actress, writer and […]"
   },
   {
     "theater": "Roxie",
@@ -739,7 +753,7 @@
     "title": "Fatherland",
     "startTime": "2026-11-15T20:10:00-08:00",
     "sourceUrl": "https://roxie.com/film/fatherland/#showtimes-20261115-2010",
-    "synopsis": "DM us your ticket confirmation & favorite Sandra Hüller film to enter to win a free Sandra Hüller Girls On Tops Tee! We will […]"
+    "synopsis": "FATHERLAND centres on the relationship between the Nobel Prize-winning writer Thomas Mann (Hanns Zischler) and his daughter Erika (Sandra Hüller) – actress, writer and […]"
   },
   {
     "theater": "Roxie",
@@ -753,7 +767,7 @@
     "title": "Fatherland",
     "startTime": "2026-11-16T18:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/fatherland/#showtimes-20261116-1800",
-    "synopsis": "DM us your ticket confirmation & favorite Sandra Hüller film to enter to win a free Sandra Hüller Girls On Tops Tee! We will […]"
+    "synopsis": "FATHERLAND centres on the relationship between the Nobel Prize-winning writer Thomas Mann (Hanns Zischler) and his daughter Erika (Sandra Hüller) – actress, writer and […]"
   },
   {
     "theater": "Roxie",
@@ -803,6 +817,13 @@
     "startTime": "2026-11-18T17:45:00-08:00",
     "sourceUrl": "https://roxie.com/film/ken-russells-the-devils-4k-restoration/#showtimes-20261118-1745",
     "synopsis": "In 17th-century France, Father Urbain Grandier’s protection of the city of Loudun from the corrupt Cardinal Richelieu is undermined by a sexually repressed nun’s […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Fatherland",
+    "startTime": "2026-11-18T18:20:00-08:00",
+    "sourceUrl": "https://roxie.com/film/fatherland/#showtimes-20261118-1820",
+    "synopsis": "FATHERLAND centres on the relationship between the Nobel Prize-winning writer Thomas Mann (Hanns Zischler) and his daughter Erika (Sandra Hüller) – actress, writer and […]"
   },
   {
     "theater": "Roxie",
@@ -928,7 +949,7 @@
     "title": "Fatherland",
     "startTime": "2026-11-21T18:45:00-08:00",
     "sourceUrl": "https://roxie.com/film/fatherland/#showtimes-20261121-1845",
-    "synopsis": "DM us your ticket confirmation & favorite Sandra Hüller film to enter to win a free Sandra Hüller Girls On Tops Tee! We will […]"
+    "synopsis": "FATHERLAND centres on the relationship between the Nobel Prize-winning writer Thomas Mann (Hanns Zischler) and his daughter Erika (Sandra Hüller) – actress, writer and […]"
   },
   {
     "theater": "Roxie",
@@ -1044,13 +1065,6 @@
   },
   {
     "theater": "Roxie",
-    "title": "La Bola Negra",
-    "startTime": "2026-11-27T17:25:00-08:00",
-    "sourceUrl": "https://roxie.com/film/la-bola-negra/#showtimes-20261127-1725",
-    "synopsis": "From Cannes-winning directors Javier Calvo and Javier Ambrossi—popularly known as Los Javis—La Bola Negra follows three generations of men across pivotal moments in Spanish […]"
-  },
-  {
-    "theater": "Roxie",
     "title": "Johnny Mnemonic: In Black and White",
     "startTime": "2026-11-27T20:40:00-08:00",
     "sourceUrl": "https://roxie.com/film/johnny-mnemonic-in-black-and-white/#showtimes-20261127-2040",
@@ -1076,13 +1090,6 @@
     "startTime": "2026-11-28T20:10:00-08:00",
     "sourceUrl": "https://roxie.com/film/you-can-see-everything/#showtimes-20261128-2010",
     "synopsis": "Thirty-four days before she’s sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What […]"
-  },
-  {
-    "theater": "Roxie",
-    "title": "La Bola Negra",
-    "startTime": "2026-11-28T20:10:00-08:00",
-    "sourceUrl": "https://roxie.com/film/la-bola-negra/#showtimes-20261128-2010",
-    "synopsis": "From Cannes-winning directors Javier Calvo and Javier Ambrossi—popularly known as Los Javis—La Bola Negra follows three generations of men across pivotal moments in Spanish […]"
   },
   {
     "theater": "Roxie",
