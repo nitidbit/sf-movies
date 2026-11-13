@@ -1,21 +1,13 @@
 {
   "slug": "balboa",
   "theater": "Balboa",
-  "generatedAt": "2026-11-12T13:22:12.637Z",
+  "generatedAt": "2026-11-13T13:21:39.137Z",
   "status": "discrepancies",
   "report": {
-    "matched": 52,
+    "matched": 53,
     "timeMismatches": [],
     "titleMismatches": [],
     "oursOnly": [
-      {
-        "title": "AHITH FEST 2026: Deep Dish + 2 Short Films",
-        "startTime": "2026-12-04T18:00:00-08:00"
-      },
-      {
-        "title": "AHITH FEST 2026: The Crawling + 3 Short Films",
-        "startTime": "2026-12-04T20:45:00-08:00"
-      },
       {
         "title": "AHITH FEST 2026: Shorts Film Collection One",
         "startTime": "2026-12-05T10:15:00-08:00"
@@ -87,6 +79,46 @@
       {
         "title": "AHITH FEST 2026: Homebody + 1 Short Film",
         "startTime": "2026-12-11T21:30:00-08:00"
+      },
+      {
+        "title": "AHITH FEST 2026: Short Film Collection Seven",
+        "startTime": "2026-12-12T12:00:00-08:00"
+      },
+      {
+        "title": "AHITH FEST 2026: Short Film Collection Eight",
+        "startTime": "2026-12-12T14:00:00-08:00"
+      },
+      {
+        "title": "AHITH FEST 2026: Frankenstein (W/ Live Score by Sleepbomb)",
+        "startTime": "2026-12-12T18:45:00-08:00"
+      },
+      {
+        "title": "AHITH FEST 2026: Sleepaway Camp + 1 Short Film (Presented on VHS by Warped VHS & Basement VHS)",
+        "startTime": "2026-12-12T21:45:00-08:00"
+      },
+      {
+        "title": "AHITH FEST 2026: Short Film Collection Ten",
+        "startTime": "2026-12-13T12:30:00-08:00"
+      },
+      {
+        "title": "AHITH FEST 2026: The Haunting of Pennhurst",
+        "startTime": "2026-12-13T15:00:00-08:00"
+      },
+      {
+        "title": "AHITH FEST 2026: For Matilda + 1 Short Film",
+        "startTime": "2026-12-13T17:10:00-08:00"
+      },
+      {
+        "title": "AHITH FEST 2026: The King of Black Goo",
+        "startTime": "2026-12-13T20:00:00-08:00"
+      },
+      {
+        "title": "AHITH FEST 2026: The Red-Eyed Monster + 3 Short Films",
+        "startTime": "2026-12-14T18:30:00-08:00"
+      },
+      {
+        "title": "AHITH FEST 2026: Blood Secret + 2 Short Films",
+        "startTime": "2026-12-15T18:20:00-08:00"
       }
     ],
     "scenefOnly": [
@@ -139,6 +171,18 @@
         "startTime": "2026-11-25T15:30:00-08:00"
       },
       {
+        "title": "You Can See Everything",
+        "startTime": "2026-11-27T15:30:00-08:00"
+      },
+      {
+        "title": "You Can See Everything",
+        "startTime": "2026-11-28T19:00:00-08:00"
+      },
+      {
+        "title": "You Can See Everything",
+        "startTime": "2026-11-29T15:30:00-08:00"
+      },
+      {
         "title": "The Cremator",
         "startTime": "2026-11-29T19:30:00-08:00"
       },
@@ -149,7 +193,7 @@
     ],
     "collapsedDuplicates": 3,
     "excluded": {
-      "ours": 4,
+      "ours": 3,
       "scenef": 0
     }
   }
