@@ -568,13 +568,6 @@
   },
   {
     "theater": "Roxie",
-    "title": "La Bola Negra",
-    "startTime": "2026-11-28T20:10:00-08:00",
-    "sourceUrl": "https://roxie.com/film/la-bola-negra/#showtimes-20261128-2010",
-    "synopsis": "From Cannes-winning directors Javier Calvo and Javier Ambrossi—popularly known as Los Javis—La Bola Negra follows three generations of men across pivotal moments in Spanish […]"
-  },
-  {
-    "theater": "Roxie",
     "title": "SFTFF 2026 – COMEDY",
     "startTime": "2026-11-12T19:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/sftff-2026-comedy/#showtimes-20261112-1900",
@@ -607,6 +600,13 @@
     "startTime": "2026-11-12T21:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/sftff-2026-documentary/#showtimes-20261112-2100",
     "synopsis": "The 2026 San Francisco Transgender Film Festival continues with DOCUMENTARY, a shorts block featuring four poignant and explorative films. 3 Hearts of Iron (13:25min)Ariel del Sol, Costa Rica, […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Fatherland",
+    "startTime": "2026-11-18T18:20:00-08:00",
+    "sourceUrl": "https://roxie.com/film/fatherland/#showtimes-20261118-1820",
+    "synopsis": "FATHERLAND centres on the relationship between the Nobel Prize-winning writer Thomas Mann (Hanns Zischler) and his daughter Erika (Sandra Hüller) – actress, writer and […]"
   },
   {
     "theater": "Roxie",
@@ -820,10 +820,10 @@
   },
   {
     "theater": "Roxie",
-    "title": "Fatherland",
-    "startTime": "2026-11-18T18:20:00-08:00",
-    "sourceUrl": "https://roxie.com/film/fatherland/#showtimes-20261118-1820",
-    "synopsis": "FATHERLAND centres on the relationship between the Nobel Prize-winning writer Thomas Mann (Hanns Zischler) and his daughter Erika (Sandra Hüller) – actress, writer and […]"
+    "title": "The History of Concrete",
+    "startTime": "2026-11-18T18:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/the-history-of-concrete/#showtimes-20261118-1800",
+    "synopsis": "Following the finale of his TV show, filmmaker John Wilson searches for a new creative outlet. After attending a workshop on how to write […]"
   },
   {
     "theater": "Roxie",
@@ -970,7 +970,7 @@
     "title": "Birds of War",
     "startTime": "2026-11-22T15:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/birds-of-war/#showtimes-20261122-1500",
-    "synopsis": "Post screening Q&A with Director’s and Film Subject’s Janay Boulos and Abd Alkader Habak. By turning the camera on themselves, the co-directors follow the […]"
+    "synopsis": "Post screening Q&A with Director’s and Film Subject’s Janay Boulos and Abd Alkader Habak moderated by Amanda Pike from Center for Investigative Reporting. By […]"
   },
   {
     "theater": "Roxie",
@@ -1090,6 +1090,13 @@
     "startTime": "2026-11-28T20:10:00-08:00",
     "sourceUrl": "https://roxie.com/film/you-can-see-everything/#showtimes-20261128-2010",
     "synopsis": "Thirty-four days before she’s sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "La Bola Negra",
+    "startTime": "2026-11-28T20:10:00-08:00",
+    "sourceUrl": "https://roxie.com/film/la-bola-negra/#showtimes-20261128-2010",
+    "synopsis": "From Cannes-winning directors Javier Calvo and Javier Ambrossi—popularly known as Los Javis—La Bola Negra follows three generations of men across pivotal moments in Spanish […]"
   },
   {
     "theater": "Roxie",

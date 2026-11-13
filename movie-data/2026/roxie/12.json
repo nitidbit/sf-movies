@@ -8,10 +8,24 @@
   },
   {
     "theater": "Roxie",
+    "title": "Santacon",
+    "startTime": "2026-12-02T18:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/santacon-2/#showtimes-20261202-1800",
+    "synopsis": "In attendance for a special post-film Q&A will be original Santas John Law and Rob Schmitt, as well as other surprise guests. Today, Santacon […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "New People: Filipiñana",
     "startTime": "2026-12-04T18:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/new-people-filipinana/#showtimes-20261204-1800",
     "synopsis": "All listed screenings take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. Director Rafael Manuel in person for a post […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Arthouse 50: Polyester in Odorama",
+    "startTime": "2026-12-04T21:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/arthouse-50-polyester/#showtimes-20261204-2100",
+    "synopsis": "Celebrating Frameline‘s 50th anniversary alongside the Roxie’s 50 years as an arthouse cinema, as part of our Arthouse 50 series. A fitting occasion to […]"
   },
   {
     "theater": "Roxie",
@@ -46,7 +60,7 @@
     "title": "New People: Cookie Queens",
     "startTime": "2026-12-06T13:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/new-people-cookie-queens/#showtimes-20261206-1300",
-    "synopsis": "This screening will take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. Followed by a post-screening filmmaker Q&A! A celebration […]"
+    "synopsis": "This screening will take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. Followed by a post-screening filmmaker Q&A with Cookie […]"
   },
   {
     "theater": "Roxie",

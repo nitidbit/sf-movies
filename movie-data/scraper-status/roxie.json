@@ -1,10 +1,10 @@
 {
   "slug": "roxie",
   "theater": "Roxie",
-  "generatedAt": "2026-11-12T13:51:17.565Z",
+  "generatedAt": "2026-11-13T13:51:27.740Z",
   "status": "discrepancies",
   "report": {
-    "matched": 78,
+    "matched": 80,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -19,22 +19,6 @@
       }
     ],
     "oursOnly": [
-      {
-        "title": "SFTFF 2026 – COMEDY",
-        "startTime": "2026-11-12T19:00:00-08:00"
-      },
-      {
-        "title": "New People: Nausicaä of the Valley of the Wind",
-        "startTime": "2026-11-12T18:00:00-08:00"
-      },
-      {
-        "title": "New People: Paprika",
-        "startTime": "2026-11-12T20:30:00-08:00"
-      },
-      {
-        "title": "SFTFF 2026 – DOCUMENTARY",
-        "startTime": "2026-11-12T21:00:00-08:00"
-      },
       {
         "title": "Floating Features: Friday the 13th",
         "startTime": "2026-11-13T19:00:00-08:00"
