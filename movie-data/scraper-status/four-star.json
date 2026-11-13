@@ -1,7 +1,7 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-11-12T13:41:23.318Z",
+  "generatedAt": "2026-11-13T13:40:41.794Z",
   "status": "discrepancies",
   "report": {
     "matched": 16,
@@ -122,6 +122,10 @@
       {
         "title": "LIVE MUSIC: Angela Autumn (Presented by THROWIN' BO'S)",
         "startTime": "2027-01-24T20:00:00-08:00"
+      },
+      {
+        "title": "LIVE MUSIC: John Roseboro (Presented by THROWIN' BO'S)",
+        "startTime": "2027-01-25T20:00:00-08:00"
       },
       {
         "title": "LIVE MUSIC: Morgan Garrett, Lucy Liyou (Presented by THROWIN' BO'S)",
