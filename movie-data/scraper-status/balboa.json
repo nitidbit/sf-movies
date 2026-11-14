@@ -1,36 +1,16 @@
 {
   "slug": "balboa",
   "theater": "Balboa",
-  "generatedAt": "2026-11-13T13:21:39.137Z",
+  "generatedAt": "2026-11-14T13:21:45.187Z",
   "status": "discrepancies",
   "report": {
-    "matched": 53,
+    "matched": 55,
     "timeMismatches": [],
     "titleMismatches": [],
     "oursOnly": [
       {
-        "title": "AHITH FEST 2026: Shorts Film Collection One",
-        "startTime": "2026-12-05T10:15:00-08:00"
-      },
-      {
-        "title": "AHITH FEST 2026: Shorts Film Collection Two",
-        "startTime": "2026-12-05T12:30:00-08:00"
-      },
-      {
-        "title": "AHITH FEST 2026: Short Film Collection Three",
-        "startTime": "2026-12-05T15:00:00-08:00"
-      },
-      {
-        "title": "AHITH FEST 2026: Mary Kwon Mary Kwon",
-        "startTime": "2026-12-05T17:15:00-08:00"
-      },
-      {
         "title": "AHITH FEST 2026: Devil's Disciple: The Night Stalker",
         "startTime": "2026-12-05T19:25:00-08:00"
-      },
-      {
-        "title": "AHITH FEST 2026: The Texas Chainsaw Massacre 2 (40th Anniversary – Original Unrated 35mm Print)",
-        "startTime": "2026-12-05T21:45:00-08:00"
       },
       {
         "title": "AHITH FEST 2026: Short Film Collection 5 (Dark Rainbow)",
@@ -123,10 +103,6 @@
     ],
     "scenefOnly": [
       {
-        "title": "Nirvanna the Band the Show (Season One, Ep. 5 - 8)",
-        "startTime": "2026-11-13T20:55:00-08:00"
-      },
-      {
         "title": "Nirvanna the Band the Show (Season Two, Ep. 5 - 8)",
         "startTime": "2026-11-14T17:55:00-08:00"
       },
@@ -191,9 +167,9 @@
         "startTime": "2026-11-30T19:30:00-08:00"
       }
     ],
-    "collapsedDuplicates": 3,
+    "collapsedDuplicates": 2,
     "excluded": {
-      "ours": 3,
+      "ours": 0,
       "scenef": 0
     }
   }
