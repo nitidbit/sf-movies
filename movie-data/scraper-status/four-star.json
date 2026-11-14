@@ -1,17 +1,12 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-11-13T13:40:41.794Z",
+  "generatedAt": "2026-11-14T13:40:19.339Z",
   "status": "discrepancies",
   "report": {
     "matched": 16,
     "timeMismatches": [],
     "titleMismatches": [
-      {
-        "startTime": "2026-11-13T19:30:00-08:00",
-        "ourTitle": "NEIL YOUNG CELEBRATION: Live Music Tribute & Screening of Rust Never Sleeps",
-        "scenefTitle": "Neil Young Celebration: Rust Never Sleeps & more"
-      },
       {
         "startTime": "2026-11-15T20:00:00-08:00",
         "ourTitle": "LIVE MUSIC: Todd Day Wait, Mac Cornish, Josiah Flores",
@@ -39,26 +34,6 @@
       }
     ],
     "oursOnly": [
-      {
-        "title": "4 Star Autumn Cartoon Special",
-        "startTime": "2026-11-14T10:00:00-08:00"
-      },
-      {
-        "title": "San Francisco Underground Short Film Festival 2026: First Program (presented by Media Meltdown)",
-        "startTime": "2026-11-14T14:15:00-08:00"
-      },
-      {
-        "title": "San Francisco Underground Short Film Festival 2026: Second Program (presented by Media Meltdown)",
-        "startTime": "2026-11-14T17:00:00-08:00"
-      },
-      {
-        "title": "San Francisco Underground Short Film Festival 2026: Third Program (presented by Media Meltdown)",
-        "startTime": "2026-11-14T20:00:00-08:00"
-      },
-      {
-        "title": "San Francisco Underground Short Film Festival 2026: Fourth Program (presented by Media Meltdown)",
-        "startTime": "2026-11-14T22:45:00-08:00"
-      },
       {
         "title": "4 Star Autumn Cartoon Special",
         "startTime": "2026-11-15T10:00:00-08:00"
@@ -168,7 +143,7 @@
     ],
     "collapsedDuplicates": 0,
     "excluded": {
-      "ours": 2,
+      "ours": 6,
       "scenef": 0
     }
   }
