@@ -1,10 +1,10 @@
 {
   "slug": "vogue",
   "theater": "Vogue",
-  "generatedAt": "2026-11-13T13:28:52.208Z",
+  "generatedAt": "2026-11-14T13:28:34.662Z",
   "status": "discrepancies",
   "report": {
-    "matched": 17,
+    "matched": 16,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -13,7 +13,12 @@
         "scenefTitle": "NT Live: Fleabag"
       }
     ],
-    "oursOnly": [],
+    "oursOnly": [
+      {
+        "title": "\"Run Ronnie Run\" 25th Anniversary Screening with live commentary by David Cross and Bob Odenkirk",
+        "startTime": "2027-01-16T21:30:00-08:00"
+      }
+    ],
     "scenefOnly": [
       {
         "title": "Scattered Seeds of the Pomegranate",
@@ -58,7 +63,7 @@
     ],
     "collapsedDuplicates": 1,
     "excluded": {
-      "ours": 3,
+      "ours": 1,
       "scenef": 0
     }
   }
