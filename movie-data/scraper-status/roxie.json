@@ -1,10 +1,10 @@
 {
   "slug": "roxie",
   "theater": "Roxie",
-  "generatedAt": "2026-11-13T13:51:27.740Z",
+  "generatedAt": "2026-11-14T13:51:24.684Z",
   "status": "discrepancies",
   "report": {
-    "matched": 80,
+    "matched": 85,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -19,22 +19,6 @@
       }
     ],
     "oursOnly": [
-      {
-        "title": "Floating Features: Friday the 13th",
-        "startTime": "2026-11-13T19:00:00-08:00"
-      },
-      {
-        "title": "SFTFF 2026 – HORROR",
-        "startTime": "2026-11-13T19:00:00-08:00"
-      },
-      {
-        "title": "New People: Seven Samurai",
-        "startTime": "2026-11-13T18:30:00-08:00"
-      },
-      {
-        "title": "SFTFF 2026 – GRAB BAG",
-        "startTime": "2026-11-13T21:00:00-08:00"
-      },
       {
         "title": "New People: Being Heumann",
         "startTime": "2026-11-14T16:30:00-08:00"
@@ -56,12 +40,28 @@
         "startTime": "2026-11-20T18:00:00-08:00"
       },
       {
+        "title": "New People: In the Mood for Love",
+        "startTime": "2026-11-20T20:20:00-08:00"
+      },
+      {
         "title": "New People: A Deeper Love: The Story of Miss Peppermint",
         "startTime": "2026-11-22T13:00:00-08:00"
       },
       {
+        "title": "New People: Asako I & II",
+        "startTime": "2026-11-22T15:15:00-08:00"
+      },
+      {
+        "title": "New People: Seven Samurai",
+        "startTime": "2026-11-28T17:00:00-08:00"
+      },
+      {
         "title": "New People: An Eye for an Eye",
         "startTime": "2026-11-29T15:30:00-08:00"
+      },
+      {
+        "title": "New People: In the Mood for Love",
+        "startTime": "2026-11-29T18:00:00-08:00"
       },
       {
         "title": "New People: Filipiñana",
