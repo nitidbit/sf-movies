@@ -1,32 +1,16 @@
 {
   "slug": "balboa",
   "theater": "Balboa",
-  "generatedAt": "2026-11-14T13:21:45.187Z",
+  "generatedAt": "2026-11-15T13:21:41.043Z",
   "status": "discrepancies",
   "report": {
-    "matched": 55,
+    "matched": 54,
     "timeMismatches": [],
     "titleMismatches": [],
     "oursOnly": [
       {
         "title": "AHITH FEST 2026: Devil's Disciple: The Night Stalker",
         "startTime": "2026-12-05T19:25:00-08:00"
-      },
-      {
-        "title": "AHITH FEST 2026: Short Film Collection 5 (Dark Rainbow)",
-        "startTime": "2026-12-06T12:30:00-08:00"
-      },
-      {
-        "title": "AHITH FEST 2026: Remy & Bo: Rise of Belladonna",
-        "startTime": "2026-12-06T15:00:00-08:00"
-      },
-      {
-        "title": "AHITH FEST 2026: Twice Midnight",
-        "startTime": "2026-12-06T17:15:00-08:00"
-      },
-      {
-        "title": "AHITH FEST 2026: Life at Sandy's + 4 Short Films",
-        "startTime": "2026-12-06T19:45:00-08:00"
       },
       {
         "title": "AHITH FEST 2026: The Ritual of Hausao",
@@ -103,14 +87,6 @@
     ],
     "scenefOnly": [
       {
-        "title": "Nirvanna the Band the Show (Season Two, Ep. 5 - 8)",
-        "startTime": "2026-11-14T17:55:00-08:00"
-      },
-      {
-        "title": "Nirvanna the Band the Show the Movie",
-        "startTime": "2026-11-14T20:00:00-08:00"
-      },
-      {
         "title": "You Can See Everything",
         "startTime": "2026-11-20T19:00:00-08:00"
       },
@@ -167,7 +143,7 @@
         "startTime": "2026-11-30T19:30:00-08:00"
       }
     ],
-    "collapsedDuplicates": 2,
+    "collapsedDuplicates": 1,
     "excluded": {
       "ours": 0,
       "scenef": 0
