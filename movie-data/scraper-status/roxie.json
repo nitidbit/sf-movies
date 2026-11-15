@@ -1,10 +1,10 @@
 {
   "slug": "roxie",
   "theater": "Roxie",
-  "generatedAt": "2026-11-14T13:51:24.684Z",
+  "generatedAt": "2026-11-15T13:51:11.040Z",
   "status": "discrepancies",
   "report": {
-    "matched": 85,
+    "matched": 80,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -20,18 +20,6 @@
     ],
     "oursOnly": [
       {
-        "title": "New People: Being Heumann",
-        "startTime": "2026-11-14T16:30:00-08:00"
-      },
-      {
-        "title": "SFTFF 2026 – SPECULATIVE FICTION",
-        "startTime": "2026-11-14T19:00:00-08:00"
-      },
-      {
-        "title": "SFTFF 2026 – ADULT (18+)",
-        "startTime": "2026-11-14T21:00:00-08:00"
-      },
-      {
         "title": "Love Birds",
         "startTime": "2026-11-19T16:00:00-08:00"
       },
@@ -41,7 +29,7 @@
       },
       {
         "title": "New People: In the Mood for Love",
-        "startTime": "2026-11-20T20:20:00-08:00"
+        "startTime": "2026-11-20T20:35:00-08:00"
       },
       {
         "title": "New People: A Deeper Love: The Story of Miss Peppermint",
