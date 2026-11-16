@@ -764,6 +764,20 @@
   },
   {
     "theater": "Roxie",
+    "title": "New People: In the Mood for Love",
+    "startTime": "2026-11-20T20:35:00-08:00",
+    "sourceUrl": "https://roxie.com/film/new-people-in-the-mood-for-love/#showtimes-20261120-2035",
+    "synopsis": "All listed screenings take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. Hong Kong, 1962: Chow Mo-wan (Tony Leung Chiu-wai) […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "New People: A Deeper Love: The Story of Miss Peppermint",
+    "startTime": "2026-11-22T13:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/new-people-a-deeper-love-the-story-of-miss-peppermint/#showtimes-20261122-1300",
+    "synopsis": "All listed screenings take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. A Deeper Love: The Story of Miss Peppermint […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "Closure",
     "startTime": "2026-11-16T18:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/closure/#showtimes-20261116-1800",
@@ -848,17 +862,17 @@
   },
   {
     "theater": "Roxie",
-    "title": "Los Domingos",
-    "startTime": "2026-11-19T18:00:00-08:00",
-    "sourceUrl": "https://roxie.com/film/los-domingos/#showtimes-20261119-1800",
-    "synopsis": "Ainara is seventeen, brilliant, and expected to choose a university degree. Instead, she makes a choice no one saw coming: she feels called to […]"
-  },
-  {
-    "theater": "Roxie",
     "title": "Stanley Kubrick’s The Killing (4K Restoration)",
     "startTime": "2026-11-19T18:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/the-killing-4k-restoration/#showtimes-20261119-1800",
     "synopsis": "The 28-year-old Kubrick’s first film with a certifiable star—looming lead lug Sterling Hayden, fronting an ensemble of desperate, lumpy-visaged characters, including the livewire Timothy […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Los Domingos",
+    "startTime": "2026-11-19T18:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/los-domingos/#showtimes-20261119-1800",
+    "synopsis": "Ainara is seventeen, brilliant, and expected to choose a university degree. Instead, she makes a choice no one saw coming: she feels called to […]"
   },
   {
     "theater": "Roxie",
@@ -876,10 +890,10 @@
   },
   {
     "theater": "Roxie",
-    "title": "On the Road (En el Camino)",
+    "title": "New People: Soul Patrol",
     "startTime": "2026-11-20T18:00:00-08:00",
-    "sourceUrl": "https://roxie.com/film/on-the-road-en-el-camino/#showtimes-20261120-1800",
-    "synopsis": "Veneno’, a rebellious young drifter, frequents roadside diners where he sleeps with truck drivers. Urgently needing a ride, he meets ‘Muñeco’, a hard-edged driver […]"
+    "sourceUrl": "https://roxie.com/film/new-people-soul-patrol/#showtimes-20261120-1800",
+    "synopsis": "All listed screenings take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. Director J.M. Harper in person for a post-screening […]"
   },
   {
     "theater": "Roxie",
@@ -890,10 +904,10 @@
   },
   {
     "theater": "Roxie",
-    "title": "New People: Soul Patrol",
+    "title": "On the Road (En el Camino)",
     "startTime": "2026-11-20T18:00:00-08:00",
-    "sourceUrl": "https://roxie.com/film/new-people-soul-patrol/#showtimes-20261120-1800",
-    "synopsis": "All listed screenings take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. Director J.M. Harper in person for a post-screening […]"
+    "sourceUrl": "https://roxie.com/film/on-the-road-en-el-camino/#showtimes-20261120-1800",
+    "synopsis": "Veneno’, a rebellious young drifter, frequents roadside diners where he sleeps with truck drivers. Urgently needing a ride, he meets ‘Muñeco’, a hard-edged driver […]"
   },
   {
     "theater": "Roxie",
@@ -905,8 +919,8 @@
   {
     "theater": "Roxie",
     "title": "New People: In the Mood for Love",
-    "startTime": "2026-11-20T20:35:00-08:00",
-    "sourceUrl": "https://roxie.com/film/new-people-in-the-mood-for-love/#showtimes-20261120-2035",
+    "startTime": "2026-11-20T20:40:00-08:00",
+    "sourceUrl": "https://roxie.com/film/new-people-in-the-mood-for-love/#showtimes-20261120-2040",
     "synopsis": "All listed screenings take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. Hong Kong, 1962: Chow Mo-wan (Tony Leung Chiu-wai) […]"
   },
   {
@@ -974,13 +988,6 @@
   },
   {
     "theater": "Roxie",
-    "title": "New People: A Deeper Love: The Story of Miss Peppermint",
-    "startTime": "2026-11-22T13:00:00-08:00",
-    "sourceUrl": "https://roxie.com/film/new-people-a-deeper-love-the-story-of-miss-peppermint/#showtimes-20261122-1300",
-    "synopsis": "All listed screenings take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. A Deeper Love: The Story of Miss Peppermint […]"
-  },
-  {
-    "theater": "Roxie",
     "title": "Zhang Yimou’s Raise the Red Lantern (4K Restoration)",
     "startTime": "2026-11-22T12:20:00-08:00",
     "sourceUrl": "https://roxie.com/film/raise-the-red-lantern/#showtimes-20261122-1220",
@@ -992,6 +999,13 @@
     "startTime": "2026-11-22T17:40:00-08:00",
     "sourceUrl": "https://roxie.com/film/raise-the-red-lantern/#showtimes-20261122-1740",
     "synopsis": "Co-presented by Bay Area Chinese Culture Salon and Amoment Books. Nineteen-year-old Songlian, a promising student whose family has been destroyed by her father’s death, […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "New People: In the Mood for Love",
+    "startTime": "2026-11-22T13:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/new-people-in-the-mood-for-love/#showtimes-20261122-1300",
+    "synopsis": "All listed screenings take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. Hong Kong, 1962: Chow Mo-wan (Tony Leung Chiu-wai) […]"
   },
   {
     "theater": "Roxie",
@@ -1058,17 +1072,17 @@
   },
   {
     "theater": "Roxie",
-    "title": "The Host (4K Restoration)",
-    "startTime": "2026-11-23T20:30:00-08:00",
-    "sourceUrl": "https://roxie.com/film/the-host-20th-anniverary-4k-restoration/#showtimes-20261123-2030",
-    "synopsis": "20 years after becoming a worldwide sensation, Bong Joon Ho’s acclaimed creature feature THE HOST returns to theaters in a stunning new 4K restoration, […]"
-  },
-  {
-    "theater": "Roxie",
     "title": "On the Road (En el Camino)",
     "startTime": "2026-11-23T20:30:00-08:00",
     "sourceUrl": "https://roxie.com/film/on-the-road-en-el-camino/#showtimes-20261123-2030",
     "synopsis": "Veneno’, a rebellious young drifter, frequents roadside diners where he sleeps with truck drivers. Urgently needing a ride, he meets ‘Muñeco’, a hard-edged driver […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "The Host (4K Restoration)",
+    "startTime": "2026-11-23T20:30:00-08:00",
+    "sourceUrl": "https://roxie.com/film/the-host-20th-anniverary-4k-restoration/#showtimes-20261123-2030",
+    "synopsis": "20 years after becoming a worldwide sensation, Bong Joon Ho’s acclaimed creature feature THE HOST returns to theaters in a stunning new 4K restoration, […]"
   },
   {
     "theater": "Roxie",
@@ -1107,17 +1121,17 @@
   },
   {
     "theater": "Roxie",
-    "title": "La Bola Negra",
-    "startTime": "2026-11-25T20:05:00-08:00",
-    "sourceUrl": "https://roxie.com/film/la-bola-negra/#showtimes-20261125-2005",
-    "synopsis": "From Cannes-winning directors Javier Calvo and Javier Ambrossi—popularly known as Los Javis—La Bola Negra follows three generations of men across pivotal moments in Spanish […]"
-  },
-  {
-    "theater": "Roxie",
     "title": "Zhang Yimou’s Raise the Red Lantern (4K Restoration)",
     "startTime": "2026-11-25T20:05:00-08:00",
     "sourceUrl": "https://roxie.com/film/raise-the-red-lantern/#showtimes-20261125-2005",
     "synopsis": "Co-presented by Bay Area Chinese Culture Salon and Amoment Books. Nineteen-year-old Songlian, a promising student whose family has been destroyed by her father’s death, […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "La Bola Negra",
+    "startTime": "2026-11-25T20:05:00-08:00",
+    "sourceUrl": "https://roxie.com/film/la-bola-negra/#showtimes-20261125-2005",
+    "synopsis": "From Cannes-winning directors Javier Calvo and Javier Ambrossi—popularly known as Los Javis—La Bola Negra follows three generations of men across pivotal moments in Spanish […]"
   },
   {
     "theater": "Roxie",
