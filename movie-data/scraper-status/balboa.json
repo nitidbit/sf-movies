@@ -1,24 +1,16 @@
 {
   "slug": "balboa",
   "theater": "Balboa",
-  "generatedAt": "2026-11-15T13:21:41.043Z",
+  "generatedAt": "2026-11-16T13:43:26.351Z",
   "status": "discrepancies",
   "report": {
-    "matched": 54,
+    "matched": 51,
     "timeMismatches": [],
     "titleMismatches": [],
     "oursOnly": [
       {
         "title": "AHITH FEST 2026: Devil's Disciple: The Night Stalker",
         "startTime": "2026-12-05T19:25:00-08:00"
-      },
-      {
-        "title": "AHITH FEST 2026: The Ritual of Hausao",
-        "startTime": "2026-12-07T18:00:00-08:00"
-      },
-      {
-        "title": "AHITH FEST 2026: Starslyderz",
-        "startTime": "2026-12-07T20:00:00-08:00"
       },
       {
         "title": "AHITH FEST 2026: The Shining Forwards and Backwards + 2 Short Films",
@@ -45,6 +37,10 @@
         "startTime": "2026-12-11T21:30:00-08:00"
       },
       {
+        "title": "AHITH FEST 2026: Short Film Collection Six",
+        "startTime": "2026-12-12T10:15:00-08:00"
+      },
+      {
         "title": "AHITH FEST 2026: Short Film Collection Seven",
         "startTime": "2026-12-12T12:00:00-08:00"
       },
@@ -59,6 +55,10 @@
       {
         "title": "AHITH FEST 2026: Sleepaway Camp + 1 Short Film (Presented on VHS by Warped VHS & Basement VHS)",
         "startTime": "2026-12-12T21:45:00-08:00"
+      },
+      {
+        "title": "AHITH FEST 2026: Short Film Collection Nine",
+        "startTime": "2026-12-13T10:15:00-08:00"
       },
       {
         "title": "AHITH FEST 2026: Short Film Collection Ten",
@@ -83,6 +83,26 @@
       {
         "title": "AHITH FEST 2026: Blood Secret + 2 Short Films",
         "startTime": "2026-12-15T18:20:00-08:00"
+      },
+      {
+        "title": "AHITH FEST 2026: The Day the Earth Stood Still — 75th Anniversary 16mm Film Presentation",
+        "startTime": "2026-12-15T21:00:00-08:00"
+      },
+      {
+        "title": "AHITH FEST 2026: Godmother + 3 Short Films",
+        "startTime": "2026-12-16T18:30:00-08:00"
+      },
+      {
+        "title": "AHITH FEST 2026: Friday the 13th Part 2 (on 16mm)",
+        "startTime": "2026-12-16T21:00:00-08:00"
+      },
+      {
+        "title": "AHITH FEST 2026: Sweetest Day + 1 Short Film",
+        "startTime": "2026-12-17T18:20:00-08:00"
+      },
+      {
+        "title": "AHITH FEST 2026: The Texas Chain Saw Massacre – Presented by Warped VHS + 1 Short Film",
+        "startTime": "2026-12-17T21:00:00-08:00"
       }
     ],
     "scenefOnly": [
@@ -145,7 +165,7 @@
     ],
     "collapsedDuplicates": 1,
     "excluded": {
-      "ours": 0,
+      "ours": 5,
       "scenef": 0
     }
   }
