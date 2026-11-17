@@ -1289,14 +1289,6 @@
   },
   {
     "theater": "Alamo",
-    "title": "Sudden Fury",
-    "startTime": "2026-11-25T21:30:00-08:00",
-    "sourceUrl": "https://scenef.com/go/252e6efe9155",
-    "attribution": "Showtimes via SceneF.com",
-    "synopsis": "A teenage boy finds his mother and father murdered in their home but as the story goes on he reveals he knows more than he is letting on."
-  },
-  {
-    "theater": "Alamo",
     "title": "Little Odessa",
     "startTime": "2026-11-11T14:15:00-08:00",
     "sourceUrl": "https://scenef.com/go/ac813b72027c",
@@ -2073,6 +2065,14 @@
   },
   {
     "theater": "Alamo",
+    "title": "Sudden Fury",
+    "startTime": "2026-11-25T21:30:00-08:00",
+    "sourceUrl": "https://scenef.com/go/b444302905b4",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Fred is a psychotic entrepreneur who hopes to convince his wife Janet to invest in a shady land deal. The wife refuses, and the couple continue their heated argument while driving through the Ontario backwoods. When their car crashes, Janet is seriously injured, but Fred leaves the scene, hoping that his wife won't last the night."
+  },
+  {
+    "theater": "Alamo",
     "title": "Wild Horse Nine",
     "startTime": "2026-11-17T14:00:00-08:00",
     "sourceUrl": "https://scenef.com/go/1c8333ac6e1c",
@@ -2305,11 +2305,51 @@
   },
   {
     "theater": "Alamo",
+    "title": "Club Kid",
+    "startTime": "2026-11-19T12:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/2a0af47e7cd9",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had."
+  },
+  {
+    "theater": "Alamo",
     "title": "The Hunger Games: Sunrise on the Reaping",
     "startTime": "2026-11-19T12:00:00-08:00",
     "sourceUrl": "https://scenef.com/go/0c9211746b72",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Wild Horse Nine",
+    "startTime": "2026-11-19T12:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/94df0b9b0773",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Paper Tiger",
+    "startTime": "2026-11-19T12:20:00-08:00",
+    "sourceUrl": "https://scenef.com/go/5127711517ec",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Two brothers become entangled in a scheme that turns out to be too good to be true. As they try to navigate their way through the dangerous world of the Russian mafia, family bonds begin to fray with life-altering consequences."
+  },
+  {
+    "theater": "Alamo",
+    "title": "You Can See Everything",
+    "startTime": "2026-11-19T14:15:00-08:00",
+    "sourceUrl": "https://scenef.com/go/dd72c672a7c0",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Wild Horse Nine",
+    "startTime": "2026-11-19T15:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/b8b040181c0a",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways."
   },
   {
     "theater": "Alamo",
@@ -2321,6 +2361,14 @@
   },
   {
     "theater": "Alamo",
+    "title": "Club Kid",
+    "startTime": "2026-11-19T15:20:00-08:00",
+    "sourceUrl": "https://scenef.com/go/a5527a422bf9",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had."
+  },
+  {
+    "theater": "Alamo",
     "title": "Paper Tiger",
     "startTime": "2026-11-19T16:00:00-08:00",
     "sourceUrl": "https://scenef.com/go/10063e98cb6a",
@@ -2329,11 +2377,27 @@
   },
   {
     "theater": "Alamo",
+    "title": "Wild Horse Nine",
+    "startTime": "2026-11-19T18:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/2af7d3ec7320",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways."
+  },
+  {
+    "theater": "Alamo",
     "title": "The Hunger Games: Sunrise on the Reaping",
     "startTime": "2026-11-19T18:15:00-08:00",
     "sourceUrl": "https://scenef.com/go/a74cefb66392",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Club Kid",
+    "startTime": "2026-11-19T18:30:00-08:00",
+    "sourceUrl": "https://scenef.com/go/86c1041e7168",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had."
   },
   {
     "theater": "Alamo",
@@ -2353,11 +2417,123 @@
   },
   {
     "theater": "Alamo",
+    "title": "Club Kid",
+    "startTime": "2026-11-19T21:40:00-08:00",
+    "sourceUrl": "https://scenef.com/go/04883eeed1b0",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Paper Tiger",
+    "startTime": "2026-11-19T22:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/57217812bca5",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Two brothers become entangled in a scheme that turns out to be too good to be true. As they try to navigate their way through the dangerous world of the Russian mafia, family bonds begin to fray with life-altering consequences."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Room Returns!",
+    "startTime": "2026-11-19T22:30:00-08:00",
+    "sourceUrl": "https://scenef.com/go/4190cf82c032",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A chaotic reimagining of Tommy Wiseau's THE ROOM, filmed without any rehearsal"
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Hunger Games: Sunrise on the Reaping",
+    "startTime": "2026-11-20T11:15:00-08:00",
+    "sourceUrl": "https://scenef.com/go/d94725f0e38b",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Paper Tiger",
+    "startTime": "2026-11-20T11:30:00-08:00",
+    "sourceUrl": "https://scenef.com/go/c7aee1c23d6a",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Two brothers become entangled in a scheme that turns out to be too good to be true. As they try to navigate their way through the dangerous world of the Russian mafia, family bonds begin to fray with life-altering consequences."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Wild Horse Nine",
+    "startTime": "2026-11-20T12:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/4a6591753444",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Club Kid",
+    "startTime": "2026-11-20T12:15:00-08:00",
+    "sourceUrl": "https://scenef.com/go/6f8d0ec3b90d",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had."
+  },
+  {
+    "theater": "Alamo",
+    "title": "You Can See Everything",
+    "startTime": "2026-11-20T12:50:00-08:00",
+    "sourceUrl": "https://scenef.com/go/0924096d378f",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Hunger Games: Sunrise on the Reaping",
+    "startTime": "2026-11-20T14:30:00-08:00",
+    "sourceUrl": "https://scenef.com/go/e231346c96ab",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Wild Horse Nine",
+    "startTime": "2026-11-20T15:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/83f8d5d5d252",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways."
+  },
+  {
+    "theater": "Alamo",
     "title": "Paper Tiger",
     "startTime": "2026-11-20T15:15:00-08:00",
     "sourceUrl": "https://scenef.com/go/894d1bbb7472",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "Two brothers become entangled in a scheme that turns out to be too good to be true. As they try to navigate their way through the dangerous world of the Russian mafia, family bonds begin to fray with life-altering consequences."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Club Kid",
+    "startTime": "2026-11-20T15:30:00-08:00",
+    "sourceUrl": "https://scenef.com/go/3221b3084667",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Hunger Games: Sunrise on the Reaping",
+    "startTime": "2026-11-20T17:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/debb85201f48",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Hunger Games: Sunrise on the Reaping",
+    "startTime": "2026-11-20T18:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/cbba8ddc9dff",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Wild Horse Nine",
+    "startTime": "2026-11-20T18:15:00-08:00",
+    "sourceUrl": "https://scenef.com/go/910df5a7566e",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways."
   },
   {
     "theater": "Alamo",
@@ -2369,11 +2545,99 @@
   },
   {
     "theater": "Alamo",
+    "title": "Club Kid",
+    "startTime": "2026-11-20T18:40:00-08:00",
+    "sourceUrl": "https://scenef.com/go/6a927f0f05b2",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had."
+  },
+  {
+    "theater": "Alamo",
     "title": "The Cook, the Thief, His Wife & Her Lover",
     "startTime": "2026-11-20T21:00:00-08:00",
     "sourceUrl": "https://scenef.com/go/565d94d8d66a",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "When churlish mobster Albert Spica acquires an upscale French restaurant in London, he dines there nightly, effectively scaring off the clientele with his bad manners. His wife, Georgina, is especially disgusted by him, and soon begins an affair with regular guest Michael. Despite their best efforts to keep it secret, Spica learns about their trysts, and he plots a terrible revenge."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Hunger Games: Sunrise on the Reaping",
+    "startTime": "2026-11-20T21:10:00-08:00",
+    "sourceUrl": "https://scenef.com/go/f631d2a85369",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Club Kid",
+    "startTime": "2026-11-20T21:40:00-08:00",
+    "sourceUrl": "https://scenef.com/go/2dc3c82c94ca",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Wild Horse Nine",
+    "startTime": "2026-11-20T21:45:00-08:00",
+    "sourceUrl": "https://scenef.com/go/09f14ba77b0f",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Paper Tiger",
+    "startTime": "2026-11-20T21:50:00-08:00",
+    "sourceUrl": "https://scenef.com/go/6bce68f3d9ce",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Two brothers become entangled in a scheme that turns out to be too good to be true. As they try to navigate their way through the dangerous world of the Russian mafia, family bonds begin to fray with life-altering consequences."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Club Kid",
+    "startTime": "2026-11-21T11:30:00-08:00",
+    "sourceUrl": "https://scenef.com/go/ae312425cd5c",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Wild Horse Nine",
+    "startTime": "2026-11-21T11:40:00-08:00",
+    "sourceUrl": "https://scenef.com/go/10bb1656af2e",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Point Blank",
+    "startTime": "2026-11-21T12:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/88607b7fe60e",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "After being double-crossed and left for dead, a mysterious man named Walker single-mindedly tries to retrieve the rather inconsequential sum of money that was stolen from him."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Paper Tiger",
+    "startTime": "2026-11-21T12:15:00-08:00",
+    "sourceUrl": "https://scenef.com/go/cfcd0ff0ef55",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Two brothers become entangled in a scheme that turns out to be too good to be true. As they try to navigate their way through the dangerous world of the Russian mafia, family bonds begin to fray with life-altering consequences."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Hunger Games: Sunrise on the Reaping",
+    "startTime": "2026-11-21T12:20:00-08:00",
+    "sourceUrl": "https://scenef.com/go/dbf6bd25a125",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Wild Horse Nine",
+    "startTime": "2026-11-21T14:40:00-08:00",
+    "sourceUrl": "https://scenef.com/go/932336a96d54",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways."
   },
   {
     "theater": "Alamo",
@@ -2385,11 +2649,35 @@
   },
   {
     "theater": "Alamo",
+    "title": "Club Kid",
+    "startTime": "2026-11-21T14:50:00-08:00",
+    "sourceUrl": "https://scenef.com/go/cd57241e76e4",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Hunger Games: Sunrise on the Reaping",
+    "startTime": "2026-11-21T15:15:00-08:00",
+    "sourceUrl": "https://scenef.com/go/3e95bf1ee5a6",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell."
+  },
+  {
+    "theater": "Alamo",
     "title": "My Brother's Wedding",
     "startTime": "2026-11-21T16:15:00-08:00",
     "sourceUrl": "https://scenef.com/go/bb3622ae64b7",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "A young African-American man, living in Los Angeles without direction in his life, reluctantly agrees to be the best man for his brother, an upwardly mobile lawyer."
+  },
+  {
+    "theater": "Alamo",
+    "title": "You Can See Everything",
+    "startTime": "2026-11-21T17:40:00-08:00",
+    "sourceUrl": "https://scenef.com/go/b949a5cd516c",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss."
   },
   {
     "theater": "Alamo",
@@ -2401,11 +2689,115 @@
   },
   {
     "theater": "Alamo",
+    "title": "The Hunger Games: Sunrise on the Reaping",
+    "startTime": "2026-11-21T18:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/9e350482c5c4",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Club Kid",
+    "startTime": "2026-11-21T18:45:00-08:00",
+    "sourceUrl": "https://scenef.com/go/207222ca8b2f",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Wild Horse Nine",
+    "startTime": "2026-11-21T19:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/70dd387ac95f",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Hunger Games: Sunrise on the Reaping",
+    "startTime": "2026-11-21T21:15:00-08:00",
+    "sourceUrl": "https://scenef.com/go/0972c06097a9",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Wild Horse Nine",
+    "startTime": "2026-11-21T21:40:00-08:00",
+    "sourceUrl": "https://scenef.com/go/4ed6180aa438",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways."
+  },
+  {
+    "theater": "Alamo",
     "title": "NOFX: 40 YEARS OF FUCKIN' UP",
     "startTime": "2026-11-21T21:45:00-08:00",
     "sourceUrl": "https://scenef.com/go/c74051ff577d",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "The history of one of punk’s loudest and most stubbornly independent bands"
+  },
+  {
+    "theater": "Alamo",
+    "title": "Club Kid",
+    "startTime": "2026-11-21T22:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/93b9d5858643",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Paper Tiger",
+    "startTime": "2026-11-21T22:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/2d7b78dc3f14",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Two brothers become entangled in a scheme that turns out to be too good to be true. As they try to navigate their way through the dangerous world of the Russian mafia, family bonds begin to fray with life-altering consequences."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Hunger Games: Sunrise on the Reaping",
+    "startTime": "2026-11-22T11:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/d165fce0a979",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Club Kid",
+    "startTime": "2026-11-22T11:30:00-08:00",
+    "sourceUrl": "https://scenef.com/go/0d78d44f0974",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Paper Tiger",
+    "startTime": "2026-11-22T11:30:00-08:00",
+    "sourceUrl": "https://scenef.com/go/8480f5995a03",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Two brothers become entangled in a scheme that turns out to be too good to be true. As they try to navigate their way through the dangerous world of the Russian mafia, family bonds begin to fray with life-altering consequences."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Wild Horse Nine",
+    "startTime": "2026-11-22T12:15:00-08:00",
+    "sourceUrl": "https://scenef.com/go/8b200a7e564b",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Hunger Games: Sunrise on the Reaping",
+    "startTime": "2026-11-22T12:40:00-08:00",
+    "sourceUrl": "https://scenef.com/go/a4a2622f4824",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell."
+  },
+  {
+    "theater": "Alamo",
+    "title": "You Can See Everything",
+    "startTime": "2026-11-22T14:30:00-08:00",
+    "sourceUrl": "https://scenef.com/go/9881fd69775d",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss."
   },
   {
     "theater": "Alamo",
@@ -2417,11 +2809,51 @@
   },
   {
     "theater": "Alamo",
+    "title": "The Hunger Games: Sunrise on the Reaping",
+    "startTime": "2026-11-22T15:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/a314b81ce668",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Wild Horse Nine",
+    "startTime": "2026-11-22T15:15:00-08:00",
+    "sourceUrl": "https://scenef.com/go/329ad8111852",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Club Kid",
+    "startTime": "2026-11-22T16:30:00-08:00",
+    "sourceUrl": "https://scenef.com/go/fe3119c2cda0",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had."
+  },
+  {
+    "theater": "Alamo",
     "title": "Paper Tiger",
     "startTime": "2026-11-22T18:00:00-08:00",
     "sourceUrl": "https://scenef.com/go/6c57090314fe",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "Two brothers become entangled in a scheme that turns out to be too good to be true. As they try to navigate their way through the dangerous world of the Russian mafia, family bonds begin to fray with life-altering consequences."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Wild Horse Nine",
+    "startTime": "2026-11-22T18:15:00-08:00",
+    "sourceUrl": "https://scenef.com/go/05781d30c1c8",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Club Kid",
+    "startTime": "2026-11-22T18:30:00-08:00",
+    "sourceUrl": "https://scenef.com/go/a13e401a6242",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had."
   },
   {
     "theater": "Alamo",
@@ -2433,6 +2865,86 @@
   },
   {
     "theater": "Alamo",
+    "title": "The Hunger Games: Sunrise on the Reaping",
+    "startTime": "2026-11-22T19:40:00-08:00",
+    "sourceUrl": "https://scenef.com/go/23823295fe92",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Hunger Games: Sunrise on the Reaping",
+    "startTime": "2026-11-22T21:10:00-08:00",
+    "sourceUrl": "https://scenef.com/go/2d135d8fd013",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Wild Horse Nine",
+    "startTime": "2026-11-22T21:15:00-08:00",
+    "sourceUrl": "https://scenef.com/go/3d737487b4c0",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Club Kid",
+    "startTime": "2026-11-22T21:40:00-08:00",
+    "sourceUrl": "https://scenef.com/go/70e13da599fe",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Paper Tiger",
+    "startTime": "2026-11-22T21:50:00-08:00",
+    "sourceUrl": "https://scenef.com/go/4d55cf5cfd00",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Two brothers become entangled in a scheme that turns out to be too good to be true. As they try to navigate their way through the dangerous world of the Russian mafia, family bonds begin to fray with life-altering consequences."
+  },
+  {
+    "theater": "Alamo",
+    "title": "You Can See Everything",
+    "startTime": "2026-11-23T14:30:00-08:00",
+    "sourceUrl": "https://scenef.com/go/daf5aaca63a0",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Club Kid",
+    "startTime": "2026-11-23T14:45:00-08:00",
+    "sourceUrl": "https://scenef.com/go/6879a6bb257d",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Hunger Games: Sunrise on the Reaping",
+    "startTime": "2026-11-23T14:50:00-08:00",
+    "sourceUrl": "https://scenef.com/go/6712cbe5c7d9",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Paper Tiger",
+    "startTime": "2026-11-23T15:15:00-08:00",
+    "sourceUrl": "https://scenef.com/go/50ace51447b8",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Two brothers become entangled in a scheme that turns out to be too good to be true. As they try to navigate their way through the dangerous world of the Russian mafia, family bonds begin to fray with life-altering consequences."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Wild Horse Nine",
+    "startTime": "2026-11-23T16:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/c261c22a06b5",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways."
+  },
+  {
+    "theater": "Alamo",
     "title": "Paper Tiger",
     "startTime": "2026-11-23T18:00:00-08:00",
     "sourceUrl": "https://scenef.com/go/ea3c279c12fe",
@@ -2441,11 +2953,75 @@
   },
   {
     "theater": "Alamo",
+    "title": "The Hunger Games: Sunrise on the Reaping",
+    "startTime": "2026-11-23T18:15:00-08:00",
+    "sourceUrl": "https://scenef.com/go/e5ade16d698a",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Club Kid",
+    "startTime": "2026-11-23T18:30:00-08:00",
+    "sourceUrl": "https://scenef.com/go/c7ea683fcc1f",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had."
+  },
+  {
+    "theater": "Alamo",
     "title": "Point Blank",
     "startTime": "2026-11-23T18:45:00-08:00",
     "sourceUrl": "https://scenef.com/go/ae108ae51599",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "After being double-crossed and left for dead, a mysterious man named Walker single-mindedly tries to retrieve the rather inconsequential sum of money that was stolen from him."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Wild Horse Nine",
+    "startTime": "2026-11-23T19:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/1afe8a57e220",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Hunger Games: Sunrise on the Reaping",
+    "startTime": "2026-11-23T21:15:00-08:00",
+    "sourceUrl": "https://scenef.com/go/0b3f186393dc",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Club Kid",
+    "startTime": "2026-11-23T21:40:00-08:00",
+    "sourceUrl": "https://scenef.com/go/63383638bf8e",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Cook, the Thief, His Wife & Her Lover",
+    "startTime": "2026-11-23T21:40:00-08:00",
+    "sourceUrl": "https://scenef.com/go/a42e18321b72",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "When churlish mobster Albert Spica acquires an upscale French restaurant in London, he dines there nightly, effectively scaring off the clientele with his bad manners. His wife, Georgina, is especially disgusted by him, and soon begins an affair with regular guest Michael. Despite their best efforts to keep it secret, Spica learns about their trysts, and he plots a terrible revenge."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Paper Tiger",
+    "startTime": "2026-11-23T22:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/48bf8549e45c",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Two brothers become entangled in a scheme that turns out to be too good to be true. As they try to navigate their way through the dangerous world of the Russian mafia, family bonds begin to fray with life-altering consequences."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Wild Horse Nine",
+    "startTime": "2026-11-23T22:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/a5af3d1d92d1",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways."
   },
   {
     "theater": "Alamo",
@@ -2473,6 +3049,22 @@
   },
   {
     "theater": "Alamo",
+    "title": "The Hunger Games: Sunrise on the Reaping",
+    "startTime": "2026-11-25T13:30:00-08:00",
+    "sourceUrl": "https://scenef.com/go/a8a480e4a1c0",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Hunger Games: Sunrise on the Reaping",
+    "startTime": "2026-11-25T17:30:00-08:00",
+    "sourceUrl": "https://scenef.com/go/78746426e32f",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell."
+  },
+  {
+    "theater": "Alamo",
     "title": "The Room Returns!",
     "startTime": "2026-11-25T19:00:00-08:00",
     "sourceUrl": "https://scenef.com/go/7a34ed93f6f9",
@@ -2481,11 +3073,35 @@
   },
   {
     "theater": "Alamo",
+    "title": "The Hunger Games: Sunrise on the Reaping",
+    "startTime": "2026-11-25T21:15:00-08:00",
+    "sourceUrl": "https://scenef.com/go/bdd2fc537148",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell."
+  },
+  {
+    "theater": "Alamo",
     "title": "Sudden Fury",
     "startTime": "2026-11-25T21:30:00-08:00",
-    "sourceUrl": "https://scenef.com/go/b444302905b4",
+    "sourceUrl": "https://scenef.com/go/252e6efe9155",
     "attribution": "Showtimes via SceneF.com",
-    "synopsis": "Fred is a psychotic entrepreneur who hopes to convince his wife Janet to invest in a shady land deal. The wife refuses, and the couple continue their heated argument while driving through the Ontario backwoods. When their car crashes, Janet is seriously injured, but Fred leaves the scene, hoping that his wife won't last the night."
+    "synopsis": "A teenage boy finds his mother and father murdered in their home but as the story goes on he reveals he knows more than he is letting on."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Hunger Games: Sunrise on the Reaping",
+    "startTime": "2026-11-26T10:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/353bd474950d",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Hunger Games: Sunrise on the Reaping",
+    "startTime": "2026-11-26T14:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/e14e3fb167d7",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell."
   },
   {
     "theater": "Alamo",
@@ -2494,6 +3110,14 @@
     "sourceUrl": "https://scenef.com/go/e95adca58e98",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "An irritable marketing executive, Neal Page, is heading home to Chicago for Thanksgiving when a number of delays force him to travel with a well meaning but overbearing shower curtain ring salesman, Del Griffith."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Hunger Games: Sunrise on the Reaping",
+    "startTime": "2026-11-26T18:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/edd6ced2665f",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell."
   },
   {
     "theater": "Alamo",
