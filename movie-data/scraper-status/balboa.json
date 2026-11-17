@@ -1,20 +1,16 @@
 {
   "slug": "balboa",
   "theater": "Balboa",
-  "generatedAt": "2026-11-16T13:43:26.351Z",
+  "generatedAt": "2026-11-17T13:21:12.616Z",
   "status": "discrepancies",
   "report": {
-    "matched": 51,
+    "matched": 61,
     "timeMismatches": [],
     "titleMismatches": [],
     "oursOnly": [
       {
         "title": "AHITH FEST 2026: Devil's Disciple: The Night Stalker",
         "startTime": "2026-12-05T19:25:00-08:00"
-      },
-      {
-        "title": "AHITH FEST 2026: The Shining Forwards and Backwards + 2 Short Films",
-        "startTime": "2026-12-08T19:00:00-08:00"
       },
       {
         "title": "AHITH FEST 2026: Mad Max: Fury Road (BLACK & CHROME) + 2 Short Films",
@@ -107,52 +103,8 @@
     ],
     "scenefOnly": [
       {
-        "title": "You Can See Everything",
-        "startTime": "2026-11-20T19:00:00-08:00"
-      },
-      {
-        "title": "You Can See Everything",
-        "startTime": "2026-11-21T15:30:00-08:00"
-      },
-      {
         "title": "Comedy At The Balboa: Johana Coca",
         "startTime": "2026-11-21T19:00:00-08:00"
-      },
-      {
-        "title": "You Can See Everything",
-        "startTime": "2026-11-21T19:30:00-08:00"
-      },
-      {
-        "title": "You Can See Everything",
-        "startTime": "2026-11-22T15:00:00-08:00"
-      },
-      {
-        "title": "You Can See Everything",
-        "startTime": "2026-11-22T19:00:00-08:00"
-      },
-      {
-        "title": "You Can See Everything",
-        "startTime": "2026-11-23T19:00:00-08:00"
-      },
-      {
-        "title": "You Can See Everything",
-        "startTime": "2026-11-24T19:00:00-08:00"
-      },
-      {
-        "title": "You Can See Everything",
-        "startTime": "2026-11-25T15:30:00-08:00"
-      },
-      {
-        "title": "You Can See Everything",
-        "startTime": "2026-11-27T15:30:00-08:00"
-      },
-      {
-        "title": "You Can See Everything",
-        "startTime": "2026-11-28T19:00:00-08:00"
-      },
-      {
-        "title": "You Can See Everything",
-        "startTime": "2026-11-29T15:30:00-08:00"
       },
       {
         "title": "The Cremator",
@@ -165,7 +117,7 @@
     ],
     "collapsedDuplicates": 1,
     "excluded": {
-      "ours": 5,
+      "ours": 0,
       "scenef": 0
     }
   }
