@@ -820,17 +820,17 @@
   },
   {
     "theater": "Roxie",
-    "title": "La Bola Negra",
-    "startTime": "2026-11-17T20:00:00-08:00",
-    "sourceUrl": "https://roxie.com/film/la-bola-negra/#showtimes-20261117-2000",
-    "synopsis": "From Cannes-winning directors Javier Calvo and Javier Ambrossi—popularly known as Los Javis—La Bola Negra follows three generations of men across pivotal moments in Spanish […]"
-  },
-  {
-    "theater": "Roxie",
     "title": "Fjord",
     "startTime": "2026-11-17T20:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/fjord/#showtimes-20261117-2000",
     "synopsis": "From two-time Palme d’Or winner Cristian Mungiu, a Norwegian woman and her devoutRomanian husband relocate with their five children to a remote, close-knit, coastal […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "La Bola Negra",
+    "startTime": "2026-11-17T20:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/la-bola-negra/#showtimes-20261117-2000",
+    "synopsis": "From Cannes-winning directors Javier Calvo and Javier Ambrossi—popularly known as Los Javis—La Bola Negra follows three generations of men across pivotal moments in Spanish […]"
   },
   {
     "theater": "Roxie",
@@ -890,13 +890,6 @@
   },
   {
     "theater": "Roxie",
-    "title": "New People: Soul Patrol",
-    "startTime": "2026-11-20T18:00:00-08:00",
-    "sourceUrl": "https://roxie.com/film/new-people-soul-patrol/#showtimes-20261120-1800",
-    "synopsis": "All listed screenings take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. Director J.M. Harper in person for a post-screening […]"
-  },
-  {
-    "theater": "Roxie",
     "title": "Zhang Yimou’s Raise the Red Lantern (4K Restoration)",
     "startTime": "2026-11-20T18:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/raise-the-red-lantern/#showtimes-20261120-1800",
@@ -908,6 +901,13 @@
     "startTime": "2026-11-20T18:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/on-the-road-en-el-camino/#showtimes-20261120-1800",
     "synopsis": "Veneno’, a rebellious young drifter, frequents roadside diners where he sleeps with truck drivers. Urgently needing a ride, he meets ‘Muñeco’, a hard-edged driver […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "New People: Soul Patrol",
+    "startTime": "2026-11-20T18:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/new-people-soul-patrol/#showtimes-20261120-1800",
+    "synopsis": "All listed screenings take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. Director J.M. Harper in person for a post-screening […]"
   },
   {
     "theater": "Roxie",
@@ -1121,6 +1121,13 @@
   },
   {
     "theater": "Roxie",
+    "title": "La Bola Negra",
+    "startTime": "2026-11-25T20:05:00-08:00",
+    "sourceUrl": "https://roxie.com/film/la-bola-negra/#showtimes-20261125-2005",
+    "synopsis": "From Cannes-winning directors Javier Calvo and Javier Ambrossi—popularly known as Los Javis—La Bola Negra follows three generations of men across pivotal moments in Spanish […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "Zhang Yimou’s Raise the Red Lantern (4K Restoration)",
     "startTime": "2026-11-25T20:05:00-08:00",
     "sourceUrl": "https://roxie.com/film/raise-the-red-lantern/#showtimes-20261125-2005",
@@ -1128,10 +1135,10 @@
   },
   {
     "theater": "Roxie",
-    "title": "La Bola Negra",
-    "startTime": "2026-11-25T20:05:00-08:00",
-    "sourceUrl": "https://roxie.com/film/la-bola-negra/#showtimes-20261125-2005",
-    "synopsis": "From Cannes-winning directors Javier Calvo and Javier Ambrossi—popularly known as Los Javis—La Bola Negra follows three generations of men across pivotal moments in Spanish […]"
+    "title": "Theater Closed: Nov. 26",
+    "startTime": "2026-11-26T18:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/theater-closed-nov-26/#showtimes-20261126-1800",
+    "synopsis": "The Roxie is closed today. But we’ll be back tomorrow, Friday, November 27!"
   },
   {
     "theater": "Roxie",
@@ -1170,17 +1177,17 @@
   },
   {
     "theater": "Roxie",
-    "title": "You Can See Everything",
-    "startTime": "2026-11-28T20:10:00-08:00",
-    "sourceUrl": "https://roxie.com/film/you-can-see-everything/#showtimes-20261128-2010",
-    "synopsis": "Thirty-four days before she’s sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What […]"
-  },
-  {
-    "theater": "Roxie",
     "title": "La Bola Negra",
     "startTime": "2026-11-28T20:10:00-08:00",
     "sourceUrl": "https://roxie.com/film/la-bola-negra/#showtimes-20261128-2010",
     "synopsis": "From Cannes-winning directors Javier Calvo and Javier Ambrossi—popularly known as Los Javis—La Bola Negra follows three generations of men across pivotal moments in Spanish […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "You Can See Everything",
+    "startTime": "2026-11-28T20:10:00-08:00",
+    "sourceUrl": "https://roxie.com/film/you-can-see-everything/#showtimes-20261128-2010",
+    "synopsis": "Thirty-four days before she’s sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What […]"
   },
   {
     "theater": "Roxie",

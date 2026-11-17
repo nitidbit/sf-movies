@@ -1,10 +1,10 @@
 {
   "slug": "roxie",
   "theater": "Roxie",
-  "generatedAt": "2026-11-16T14:04:39.361Z",
+  "generatedAt": "2026-11-17T13:51:07.193Z",
   "status": "discrepancies",
   "report": {
-    "matched": 73,
+    "matched": 69,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -16,6 +16,11 @@
         "startTime": "2026-11-23T20:30:00-08:00",
         "ourTitle": "The Host (4K Restoration)",
         "scenefTitle": "The Host 20th 4K Restoration"
+      },
+      {
+        "startTime": "2026-12-04T18:00:00-08:00",
+        "ourTitle": "New People: Filipiñana",
+        "scenefTitle": "Minotaur"
       }
     ],
     "oursOnly": [
@@ -40,6 +45,10 @@
         "startTime": "2026-11-22T15:15:00-08:00"
       },
       {
+        "title": "Theater Closed: Nov. 26",
+        "startTime": "2026-11-26T18:00:00-08:00"
+      },
+      {
         "title": "New People: Seven Samurai",
         "startTime": "2026-11-28T17:00:00-08:00"
       },
@@ -52,12 +61,12 @@
         "startTime": "2026-11-29T18:00:00-08:00"
       },
       {
-        "title": "New People: Filipiñana",
-        "startTime": "2026-12-04T18:00:00-08:00"
-      },
-      {
         "title": "New People: Cookie Queens",
         "startTime": "2026-12-06T13:00:00-08:00"
+      },
+      {
+        "title": "New People: threeASFOUR: FULL CIRCLE",
+        "startTime": "2026-12-12T16:00:00-08:00"
       },
       {
         "title": "Floating Features: National Lampoon’s Christmas Vacation",
@@ -72,7 +81,24 @@
         "startTime": "2026-12-19T18:30:00-08:00"
       }
     ],
-    "scenefOnly": [],
+    "scenefOnly": [
+      {
+        "title": "Raise the Red Lantern",
+        "startTime": "2026-11-27T17:00:00-08:00"
+      },
+      {
+        "title": "La Bola Negra",
+        "startTime": "2026-11-27T19:40:00-08:00"
+      },
+      {
+        "title": "Fatherland",
+        "startTime": "2026-11-28T13:10:00-08:00"
+      },
+      {
+        "title": "Fjord",
+        "startTime": "2026-11-30T20:05:00-08:00"
+      }
+    ],
     "collapsedDuplicates": 0,
     "excluded": {
       "ours": 3,
