@@ -8,6 +8,27 @@
   },
   {
     "theater": "Roxie",
+    "title": "Zhang Yimou’s Raise the Red Lantern (4K Restoration)",
+    "startTime": "2026-12-01T18:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/raise-the-red-lantern/#showtimes-20261201-1800",
+    "synopsis": "Co-presented by Bay Area Chinese Culture Salon and Amoment Books. Nineteen-year-old Songlian, a promising student whose family has been destroyed by her father’s death, […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "On the Road (En el Camino)",
+    "startTime": "2026-12-01T18:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/on-the-road-en-el-camino/#showtimes-20261201-1800",
+    "synopsis": "Veneno’, a rebellious young drifter, frequents roadside diners where he sleeps with truck drivers. Urgently needing a ride, he meets ‘Muñeco’, a hard-edged driver […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Women on the Verge of a Nervous Breakdown (35mm)",
+    "startTime": "2026-12-01T20:40:00-08:00",
+    "sourceUrl": "https://roxie.com/film/women-on-the-verge-of-a-nervous-breakdown/#showtimes-20261201-2040",
+    "synopsis": "Part of IN THE MOOD FOR ALMODÓVAR, presented in anticipation of our upcoming run of BITTER CHRISTMAS. This fast-paced celebration of hysteria put Almodóvar […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "Santacon",
     "startTime": "2026-12-02T18:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/santacon-2/#showtimes-20261202-1800",
@@ -15,10 +36,31 @@
   },
   {
     "theater": "Roxie",
+    "title": "Ken Russell’s The Devils (4K Restoration)",
+    "startTime": "2026-12-02T20:35:00-08:00",
+    "sourceUrl": "https://roxie.com/film/ken-russells-the-devils-4k-restoration/#showtimes-20261202-2035",
+    "synopsis": "In 17th-century France, Father Urbain Grandier’s protection of the city of Loudun from the corrupt Cardinal Richelieu is undermined by a sexually repressed nun’s […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Theater Closed: December 3",
+    "startTime": "2026-12-03T18:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/theater-closed-december-3/#showtimes-20261203-1800",
+    "synopsis": "The Roxie is closed today. But we’ll be back tomorrow, Friday, December 4th!"
+  },
+  {
+    "theater": "Roxie",
     "title": "New People: Filipiñana",
     "startTime": "2026-12-04T18:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/new-people-filipinana/#showtimes-20261204-1800",
     "synopsis": "All listed screenings take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. Director Rafael Manuel in person for a post […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Minotaur",
+    "startTime": "2026-12-04T18:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/minotaur/#showtimes-20261204-1800",
+    "synopsis": "Winner of the Grand Prix at Cannes, MINOTAUR is the latest from Russian filmmaker Andrey Zvyagintsev (LEVIATHAN, LOVELESS). His riveting, razor-sharp tale of personal, […]"
   },
   {
     "theater": "Roxie",
@@ -40,6 +82,13 @@
     "startTime": "2026-12-05T16:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/cameron-winter-at-carnegie-hall-35mm/#showtimes-20261205-1600",
     "synopsis": "Cameron Winter, in December 2025, after a months-long sold-out tour with his band Geese, returned to New York to play a single show at […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "New People: All of a Sudden",
+    "startTime": "2026-12-05T15:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/new-people-all-of-a-sudden/#showtimes-20261205-1500",
+    "synopsis": "All listed screenings take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. SNEAK PREVIEWCo-presented by the Japan Society of Northern […]"
   },
   {
     "theater": "Roxie",
@@ -155,6 +204,13 @@
   },
   {
     "theater": "Roxie",
+    "title": "All of a Sudden",
+    "startTime": "2026-12-18T17:45:00-08:00",
+    "sourceUrl": "https://roxie.com/film/all-of-a-sudden/#showtimes-20261218-1745",
+    "synopsis": "Co-presented by the Japan Society of Northern California Japan’s Official Selection for Best International Feature Film at the 99th Academy Awards® WINNER, BEST ACTRESS […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "New People: The Promised Land",
     "startTime": "2026-12-19T15:30:00-08:00",
     "sourceUrl": "https://roxie.com/film/new-people-the-promised-land/#showtimes-20261219-1530",
@@ -166,6 +222,20 @@
     "startTime": "2026-12-19T18:30:00-08:00",
     "sourceUrl": "https://roxie.com/film/floating-features-a-christmas-story-1983/#showtimes-20261219-1830",
     "synopsis": "Based on the humorous writings of author Jean Shepherd, this beloved holiday movie follows the wintry exploits of youngster Ralphie Parker (Peter Billingsley), who […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "All of a Sudden",
+    "startTime": "2026-12-19T17:50:00-08:00",
+    "sourceUrl": "https://roxie.com/film/all-of-a-sudden/#showtimes-20261219-1750",
+    "synopsis": "Co-presented by the Japan Society of Northern California Japan’s Official Selection for Best International Feature Film at the 99th Academy Awards® WINNER, BEST ACTRESS […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "All of a Sudden",
+    "startTime": "2026-12-20T13:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/all-of-a-sudden/#showtimes-20261220-1300",
+    "synopsis": "Co-presented by the Japan Society of Northern California Japan’s Official Selection for Best International Feature Film at the 99th Academy Awards® WINNER, BEST ACTRESS […]"
   },
   {
     "theater": "Roxie",
