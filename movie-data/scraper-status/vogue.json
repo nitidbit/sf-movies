@@ -1,24 +1,25 @@
 {
   "slug": "vogue",
   "theater": "Vogue",
-  "generatedAt": "2026-11-18T13:28:58.162Z",
+  "generatedAt": "2026-11-19T13:29:02.507Z",
   "status": "discrepancies",
   "report": {
-    "matched": 34,
+    "matched": 33,
     "timeMismatches": [],
     "titleMismatches": [
       {
         "startTime": "2026-12-28T19:00:00-08:00",
         "ourTitle": "National Theatre Live: Fleabag",
         "scenefTitle": "NT Live: Fleabag"
+      },
+      {
+        "startTime": "2026-12-31T21:00:00-08:00",
+        "ourTitle": "A Very Purple New Year's Eve (Purple Rain + Sign \"☮\" the Times): Doors at 9 PM/First Film at 10 PM (Copy)",
+        "scenefTitle": "Purple NYE With PURPLE RAIN And Sign \"O\" The Times"
       }
     ],
     "oursOnly": [],
     "scenefOnly": [
-      {
-        "title": "Purple NYE With PURPLE RAIN And Sign \"O\" The Times",
-        "startTime": "2026-12-31T21:00:00-08:00"
-      },
       {
         "title": "Mostly British Pass",
         "startTime": "2027-02-25T23:00:00-08:00"
