@@ -1,10 +1,10 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-11-18T13:40:35.841Z",
+  "generatedAt": "2026-11-19T13:40:32.249Z",
   "status": "discrepancies",
   "report": {
-    "matched": 16,
+    "matched": 15,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -29,14 +29,6 @@
       }
     ],
     "oursOnly": [
-      {
-        "title": "LIVE MUSIC: Computerwife, Double Helix Peace Treaty (Presented by THROWIN' BO'S)",
-        "startTime": "2026-11-19T20:00:00-08:00"
-      },
-      {
-        "title": "LIVE MUSIC: Babehoven, Pileup (Presented by THROWIN' BO'S)",
-        "startTime": "2026-11-20T20:00:00-08:00"
-      },
       {
         "title": "Fantastic Mr. Fox",
         "startTime": "2026-11-21T10:00:00-08:00"
@@ -82,7 +74,7 @@
         "startTime": "2026-12-16T20:00:00-08:00"
       },
       {
-        "title": "LIVE MUSIC: Angela Autumn (Presented by THROWIN' BO'S)",
+        "title": "LIVE MUSIC: Angela Autumn, Abbie McAllister (Presented by THROWIN' BO'S)",
         "startTime": "2027-01-24T20:00:00-08:00"
       },
       {
@@ -130,7 +122,7 @@
     ],
     "collapsedDuplicates": 0,
     "excluded": {
-      "ours": 2,
+      "ours": 5,
       "scenef": 0
     }
   }
