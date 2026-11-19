@@ -1,20 +1,16 @@
 {
   "slug": "balboa",
   "theater": "Balboa",
-  "generatedAt": "2026-11-18T13:21:44.705Z",
+  "generatedAt": "2026-11-19T13:22:39.110Z",
   "status": "discrepancies",
   "report": {
-    "matched": 61,
+    "matched": 59,
     "timeMismatches": [],
     "titleMismatches": [],
     "oursOnly": [
       {
         "title": "AHITH FEST 2026: Devil's Disciple: The Night Stalker",
         "startTime": "2026-12-05T19:25:00-08:00"
-      },
-      {
-        "title": "AHITH Fest 2026: Unsavory Elements + 2 Short Films",
-        "startTime": "2026-12-10T18:45:00-08:00"
       },
       {
         "title": "AHITH FEST 2026: Ripple in a Pond of Blood + 1 Short Film",
@@ -113,7 +109,7 @@
     ],
     "collapsedDuplicates": 2,
     "excluded": {
-      "ours": 2,
+      "ours": 3,
       "scenef": 0
     }
   }
