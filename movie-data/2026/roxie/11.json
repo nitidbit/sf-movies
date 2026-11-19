@@ -855,6 +855,20 @@
   },
   {
     "theater": "Roxie",
+    "title": "Zhang Yimou’s Raise the Red Lantern (4K Restoration)",
+    "startTime": "2026-11-27T17:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/raise-the-red-lantern/#showtimes-20261127-1700",
+    "synopsis": "Co-presented by Bay Area Chinese Culture Salon and Amoment Books. Nineteen-year-old Songlian, a promising student whose family has been destroyed by her father’s death, […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "La Bola Negra",
+    "startTime": "2026-11-27T19:40:00-08:00",
+    "sourceUrl": "https://roxie.com/film/la-bola-negra/#showtimes-20261127-1940",
+    "synopsis": "From Cannes-winning directors Javier Calvo and Javier Ambrossi—popularly known as Los Javis—La Bola Negra follows three generations of men across pivotal moments in Spanish […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "Love Birds",
     "startTime": "2026-11-19T16:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/love-birds/#showtimes-20261119-1600",
@@ -1142,13 +1156,6 @@
   },
   {
     "theater": "Roxie",
-    "title": "Zhang Yimou’s Raise the Red Lantern (4K Restoration)",
-    "startTime": "2026-11-27T17:00:00-08:00",
-    "sourceUrl": "https://roxie.com/film/raise-the-red-lantern/#showtimes-20261127-1700",
-    "synopsis": "Co-presented by Bay Area Chinese Culture Salon and Amoment Books. Nineteen-year-old Songlian, a promising student whose family has been destroyed by her father’s death, […]"
-  },
-  {
-    "theater": "Roxie",
     "title": "You Can See Everything",
     "startTime": "2026-11-27T17:05:00-08:00",
     "sourceUrl": "https://roxie.com/film/you-can-see-everything/#showtimes-20261127-1705",
@@ -1160,13 +1167,6 @@
     "startTime": "2026-11-27T20:40:00-08:00",
     "sourceUrl": "https://roxie.com/film/johnny-mnemonic-in-black-and-white/#showtimes-20261127-2040",
     "synopsis": "Robert Longo’s JOHNNY MNEMONIC: IN BLACK & WHITE strips the cyberpunk thriller down to its starkest elements, turning its corporate dystopia, overloaded data networks, […]"
-  },
-  {
-    "theater": "Roxie",
-    "title": "La Bola Negra",
-    "startTime": "2026-11-27T19:40:00-08:00",
-    "sourceUrl": "https://roxie.com/film/la-bola-negra/#showtimes-20261127-1940",
-    "synopsis": "From Cannes-winning directors Javier Calvo and Javier Ambrossi—popularly known as Los Javis—La Bola Negra follows three generations of men across pivotal moments in Spanish […]"
   },
   {
     "theater": "Roxie",
@@ -1272,6 +1272,13 @@
     "startTime": "2026-11-29T16:45:00-08:00",
     "sourceUrl": "https://roxie.com/film/the-killing-4k-restoration/#showtimes-20261129-1645",
     "synopsis": "The 28-year-old Kubrick’s first film with a certifiable star—looming lead lug Sterling Hayden, fronting an ensemble of desperate, lumpy-visaged characters, including the livewire Timothy […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "La Bola Negra",
+    "startTime": "2026-11-29T17:55:00-08:00",
+    "sourceUrl": "https://roxie.com/film/la-bola-negra/#showtimes-20261129-1755",
+    "synopsis": "From Cannes-winning directors Javier Calvo and Javier Ambrossi—popularly known as Los Javis—La Bola Negra follows three generations of men across pivotal moments in Spanish […]"
   },
   {
     "theater": "Roxie",
