@@ -1,10 +1,10 @@
 {
   "slug": "roxie",
   "theater": "Roxie",
-  "generatedAt": "2026-11-19T13:51:13.271Z",
+  "generatedAt": "2026-11-20T13:51:30.268Z",
   "status": "discrepancies",
   "report": {
-    "matched": 84,
+    "matched": 76,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -16,13 +16,14 @@
         "startTime": "2026-11-23T20:30:00-08:00",
         "ourTitle": "The Host (4K Restoration)",
         "scenefTitle": "The Host 20th 4K Restoration"
+      },
+      {
+        "startTime": "2026-12-13T12:00:00-08:00",
+        "ourTitle": "14th Annual Festival of the Moving Image",
+        "scenefTitle": "14th Festival of the Moving Image"
       }
     ],
     "oursOnly": [
-      {
-        "title": "Love Birds",
-        "startTime": "2026-11-19T16:00:00-08:00"
-      },
       {
         "title": "New People: Soul Patrol",
         "startTime": "2026-11-20T18:00:00-08:00"
@@ -52,8 +53,20 @@
         "startTime": "2026-11-29T15:30:00-08:00"
       },
       {
+        "title": "La Bola Negra",
+        "startTime": "2026-11-29T17:55:00-08:00"
+      },
+      {
         "title": "New People: In the Mood for Love",
         "startTime": "2026-11-29T18:00:00-08:00"
+      },
+      {
+        "title": "Fatherland",
+        "startTime": "2026-11-30T18:00:00-08:00"
+      },
+      {
+        "title": "La Bola Negra",
+        "startTime": "2026-11-30T19:55:00-08:00"
       },
       {
         "title": "Theater Closed: December 3",
