@@ -1,36 +1,24 @@
 {
   "slug": "balboa",
   "theater": "Balboa",
-  "generatedAt": "2026-11-20T13:21:26.249Z",
+  "generatedAt": "2026-11-21T13:21:36.467Z",
   "status": "discrepancies",
   "report": {
-    "matched": 60,
+    "matched": 59,
     "timeMismatches": [],
     "titleMismatches": [],
     "oursOnly": [
       {
+        "title": "Tokyo Drifter",
+        "startTime": "2026-11-22T17:30:00-08:00"
+      },
+      {
+        "title": "Tokyo Drifter",
+        "startTime": "2026-11-22T19:30:00-08:00"
+      },
+      {
         "title": "AHITH FEST 2026: Devil's Disciple: The Night Stalker",
         "startTime": "2026-12-05T19:25:00-08:00"
-      },
-      {
-        "title": "AHITH FEST 2026: Short Film Collection Six",
-        "startTime": "2026-12-12T10:15:00-08:00"
-      },
-      {
-        "title": "AHITH FEST 2026: Short Film Collection Seven",
-        "startTime": "2026-12-12T12:00:00-08:00"
-      },
-      {
-        "title": "AHITH FEST 2026: Short Film Collection Eight",
-        "startTime": "2026-12-12T14:00:00-08:00"
-      },
-      {
-        "title": "AHITH FEST 2026: Frankenstein (W/ Live Score by Sleepbomb)",
-        "startTime": "2026-12-12T18:45:00-08:00"
-      },
-      {
-        "title": "AHITH FEST 2026: Sleepaway Camp + 1 Short Film (Presented on VHS by Warped VHS & Basement VHS)",
-        "startTime": "2026-12-12T21:45:00-08:00"
       },
       {
         "title": "AHITH FEST 2026: Short Film Collection Nine",
