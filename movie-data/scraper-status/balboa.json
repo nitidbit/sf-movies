@@ -1,10 +1,10 @@
 {
   "slug": "balboa",
   "theater": "Balboa",
-  "generatedAt": "2026-11-21T13:21:36.467Z",
+  "generatedAt": "2026-11-22T13:21:02.989Z",
   "status": "discrepancies",
   "report": {
-    "matched": 59,
+    "matched": 61,
     "timeMismatches": [],
     "titleMismatches": [],
     "oursOnly": [
@@ -19,26 +19,6 @@
       {
         "title": "AHITH FEST 2026: Devil's Disciple: The Night Stalker",
         "startTime": "2026-12-05T19:25:00-08:00"
-      },
-      {
-        "title": "AHITH FEST 2026: Short Film Collection Nine",
-        "startTime": "2026-12-13T10:15:00-08:00"
-      },
-      {
-        "title": "AHITH FEST 2026: Short Film Collection Ten",
-        "startTime": "2026-12-13T12:30:00-08:00"
-      },
-      {
-        "title": "AHITH FEST 2026: The Haunting of Pennhurst",
-        "startTime": "2026-12-13T15:00:00-08:00"
-      },
-      {
-        "title": "AHITH FEST 2026: For Matilda + 1 Short Film",
-        "startTime": "2026-12-13T17:10:00-08:00"
-      },
-      {
-        "title": "AHITH FEST 2026: The King of Black Goo",
-        "startTime": "2026-12-13T20:00:00-08:00"
       },
       {
         "title": "AHITH FEST 2026: The Red-Eyed Monster + 3 Short Films",
@@ -71,10 +51,6 @@
     ],
     "scenefOnly": [
       {
-        "title": "Comedy At The Balboa: Johana Coca",
-        "startTime": "2026-11-21T19:00:00-08:00"
-      },
-      {
         "title": "The Cremator",
         "startTime": "2026-11-29T19:30:00-08:00"
       },
@@ -85,7 +61,7 @@
     ],
     "collapsedDuplicates": 2,
     "excluded": {
-      "ours": 2,
+      "ours": 3,
       "scenef": 0
     }
   }
