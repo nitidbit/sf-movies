@@ -11,9 +11,9 @@
     "theater": "Alamo",
     "title": "Lucid",
     "startTime": "2026-12-07T21:45:00-08:00",
-    "sourceUrl": "https://scenef.com/go/1a3bfea57ddb",
+    "sourceUrl": "https://scenef.com/go/1139a522e1ea",
     "attribution": "Showtimes via SceneF.com",
-    "synopsis": "Mia, a queer art student who is on the verge of being expelled from school, finds her last hope for combating her creative block in a magical lucid dreaming elixir. But in addition to awakening her creativity, the potion also unleashes a number of dark monsters that inhabit her subconscious, one of which is her mother, who appears transformed into a hairy creature that Mia will be forced to confront."
+    "synopsis": "Zel, a lonely young man's life changes when his enigmatic neighbour offers to help him overcome social anxiety."
   },
   {
     "theater": "Alamo",
@@ -75,9 +75,9 @@
     "theater": "Alamo",
     "title": "Lucid",
     "startTime": "2026-12-07T21:45:00-08:00",
-    "sourceUrl": "https://scenef.com/go/1139a522e1ea",
+    "sourceUrl": "https://scenef.com/go/1a3bfea57ddb",
     "attribution": "Showtimes via SceneF.com",
-    "synopsis": "Zel, a lonely young man's life changes when his enigmatic neighbour offers to help him overcome social anxiety."
+    "synopsis": "Mia, a queer art student who is on the verge of being expelled from school, finds her last hope for combating her creative block in a magical lucid dreaming elixir. But in addition to awakening her creativity, the potion also unleashes a number of dark monsters that inhabit her subconscious, one of which is her mother, who appears transformed into a hairy creature that Mia will be forced to confront."
   },
   {
     "theater": "Alamo",
@@ -409,11 +409,131 @@
   },
   {
     "theater": "Alamo",
+    "title": "Avengers: Doomsday",
+    "startTime": "2026-12-25T14:10:00-08:00",
+    "sourceUrl": "https://scenef.com/go/200832ba5c28",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Dune: Part Three",
+    "startTime": "2026-12-25T14:15:00-08:00",
+    "sourceUrl": "https://scenef.com/go/cac08f00e858",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Nearly two decades after he seized control of the Imperium, Paul Atreides is now a ruthless Emperor, and must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As enemies close in, Paul must confront the true cost of power and the fate of those he loves the most."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Avengers: Doomsday",
+    "startTime": "2026-12-25T17:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/d4d85e6f3efb",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Dune: Part Three",
+    "startTime": "2026-12-25T17:30:00-08:00",
+    "sourceUrl": "https://scenef.com/go/e13466e9380a",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Nearly two decades after he seized control of the Imperium, Paul Atreides is now a ruthless Emperor, and must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As enemies close in, Paul must confront the true cost of power and the fate of those he loves the most."
+  },
+  {
+    "theater": "Alamo",
     "title": "Werwulf",
     "startTime": "2026-12-25T18:00:00-08:00",
     "sourceUrl": "https://scenef.com/go/3f0f53796bde",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "A harrowing tale of devotion, damnation and the devil within."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Avengers: Doomsday",
+    "startTime": "2026-12-25T18:15:00-08:00",
+    "sourceUrl": "https://scenef.com/go/30c3070dc590",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Dune: Part Three",
+    "startTime": "2026-12-25T20:50:00-08:00",
+    "sourceUrl": "https://scenef.com/go/7772c34e566e",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Nearly two decades after he seized control of the Imperium, Paul Atreides is now a ruthless Emperor, and must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As enemies close in, Paul must confront the true cost of power and the fate of those he loves the most."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Avengers: Doomsday",
+    "startTime": "2026-12-25T21:10:00-08:00",
+    "sourceUrl": "https://scenef.com/go/6159f433a4b2",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Werwulf",
+    "startTime": "2026-12-25T21:15:00-08:00",
+    "sourceUrl": "https://scenef.com/go/51b322b0fc26",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A harrowing tale of devotion, damnation and the devil within."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Dune: Part Three",
+    "startTime": "2026-12-25T21:20:00-08:00",
+    "sourceUrl": "https://scenef.com/go/22a00581f4c5",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Nearly two decades after he seized control of the Imperium, Paul Atreides is now a ruthless Emperor, and must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As enemies close in, Paul must confront the true cost of power and the fate of those he loves the most."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Avengers: Doomsday",
+    "startTime": "2026-12-26T11:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/fe8d1a344f35",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Dune: Part Three",
+    "startTime": "2026-12-26T11:15:00-08:00",
+    "sourceUrl": "https://scenef.com/go/746190a4a733",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Nearly two decades after he seized control of the Imperium, Paul Atreides is now a ruthless Emperor, and must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As enemies close in, Paul must confront the true cost of power and the fate of those he loves the most."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Dune: Part Three",
+    "startTime": "2026-12-26T14:10:00-08:00",
+    "sourceUrl": "https://scenef.com/go/35824566a062",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Nearly two decades after he seized control of the Imperium, Paul Atreides is now a ruthless Emperor, and must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As enemies close in, Paul must confront the true cost of power and the fate of those he loves the most."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Dune: Part Three",
+    "startTime": "2026-12-26T14:15:00-08:00",
+    "sourceUrl": "https://scenef.com/go/054e3d25292f",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Nearly two decades after he seized control of the Imperium, Paul Atreides is now a ruthless Emperor, and must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As enemies close in, Paul must confront the true cost of power and the fate of those he loves the most."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Avengers: Doomsday",
+    "startTime": "2026-12-26T15:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/52056f2562c6",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Avengers: Doomsday",
+    "startTime": "2026-12-26T17:45:00-08:00",
+    "sourceUrl": "https://scenef.com/go/e7f74f8bebce",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered."
   },
   {
     "theater": "Alamo",
@@ -425,11 +545,91 @@
   },
   {
     "theater": "Alamo",
+    "title": "Dune: Part Three",
+    "startTime": "2026-12-26T18:10:00-08:00",
+    "sourceUrl": "https://scenef.com/go/348b7a16a9ac",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Nearly two decades after he seized control of the Imperium, Paul Atreides is now a ruthless Emperor, and must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As enemies close in, Paul must confront the true cost of power and the fate of those he loves the most."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Avengers: Doomsday",
+    "startTime": "2026-12-26T20:30:00-08:00",
+    "sourceUrl": "https://scenef.com/go/5a7a5948cb20",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered."
+  },
+  {
+    "theater": "Alamo",
     "title": "Werwulf",
     "startTime": "2026-12-26T21:30:00-08:00",
     "sourceUrl": "https://scenef.com/go/20c81989f380",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "A harrowing tale of devotion, damnation and the devil within."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Avengers: Doomsday",
+    "startTime": "2026-12-26T21:45:00-08:00",
+    "sourceUrl": "https://scenef.com/go/57197fd0e5de",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Dune: Part Three",
+    "startTime": "2026-12-26T21:50:00-08:00",
+    "sourceUrl": "https://scenef.com/go/d92e47259c1e",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Nearly two decades after he seized control of the Imperium, Paul Atreides is now a ruthless Emperor, and must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As enemies close in, Paul must confront the true cost of power and the fate of those he loves the most."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Avengers: Doomsday",
+    "startTime": "2026-12-27T11:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/055e789c7bc1",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Dune: Part Three",
+    "startTime": "2026-12-27T11:15:00-08:00",
+    "sourceUrl": "https://scenef.com/go/6f66c28c7cbf",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Nearly two decades after he seized control of the Imperium, Paul Atreides is now a ruthless Emperor, and must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As enemies close in, Paul must confront the true cost of power and the fate of those he loves the most."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Dune: Part Three",
+    "startTime": "2026-12-27T14:10:00-08:00",
+    "sourceUrl": "https://scenef.com/go/623620120256",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Nearly two decades after he seized control of the Imperium, Paul Atreides is now a ruthless Emperor, and must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As enemies close in, Paul must confront the true cost of power and the fate of those he loves the most."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Dune: Part Three",
+    "startTime": "2026-12-27T14:15:00-08:00",
+    "sourceUrl": "https://scenef.com/go/8a3d9add75a9",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Nearly two decades after he seized control of the Imperium, Paul Atreides is now a ruthless Emperor, and must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As enemies close in, Paul must confront the true cost of power and the fate of those he loves the most."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Avengers: Doomsday",
+    "startTime": "2026-12-27T15:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/33251c9a503a",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Avengers: Doomsday",
+    "startTime": "2026-12-27T17:45:00-08:00",
+    "sourceUrl": "https://scenef.com/go/c72efee783dd",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered."
   },
   {
     "theater": "Alamo",
@@ -441,11 +641,43 @@
   },
   {
     "theater": "Alamo",
+    "title": "Dune: Part Three",
+    "startTime": "2026-12-27T18:10:00-08:00",
+    "sourceUrl": "https://scenef.com/go/a3f62ab44dfd",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Nearly two decades after he seized control of the Imperium, Paul Atreides is now a ruthless Emperor, and must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As enemies close in, Paul must confront the true cost of power and the fate of those he loves the most."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Avengers: Doomsday",
+    "startTime": "2026-12-27T20:30:00-08:00",
+    "sourceUrl": "https://scenef.com/go/7f702d8a9787",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered."
+  },
+  {
+    "theater": "Alamo",
     "title": "Werwulf",
     "startTime": "2026-12-27T21:30:00-08:00",
     "sourceUrl": "https://scenef.com/go/0f3948ee0dd1",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "A harrowing tale of devotion, damnation and the devil within."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Avengers: Doomsday",
+    "startTime": "2026-12-27T21:45:00-08:00",
+    "sourceUrl": "https://scenef.com/go/e09e9fe0c51f",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Dune: Part Three",
+    "startTime": "2026-12-27T21:50:00-08:00",
+    "sourceUrl": "https://scenef.com/go/84b3cf2f0aca",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Nearly two decades after he seized control of the Imperium, Paul Atreides is now a ruthless Emperor, and must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As enemies close in, Paul must confront the true cost of power and the fate of those he loves the most."
   },
   {
     "theater": "Alamo",

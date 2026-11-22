@@ -2065,14 +2065,6 @@
   },
   {
     "theater": "Alamo",
-    "title": "Sudden Fury",
-    "startTime": "2026-11-25T21:30:00-08:00",
-    "sourceUrl": "https://scenef.com/go/b444302905b4",
-    "attribution": "Showtimes via SceneF.com",
-    "synopsis": "Fred is a psychotic entrepreneur who hopes to convince his wife Janet to invest in a shady land deal. The wife refuses, and the couple continue their heated argument while driving through the Ontario backwoods. When their car crashes, Janet is seriously injured, but Fred leaves the scene, hoping that his wife won't last the night."
-  },
-  {
-    "theater": "Alamo",
     "title": "Wild Horse Nine",
     "startTime": "2026-11-17T14:00:00-08:00",
     "sourceUrl": "https://scenef.com/go/1c8333ac6e1c",
@@ -2753,6 +2745,22 @@
   },
   {
     "theater": "Alamo",
+    "title": "Sudden Fury",
+    "startTime": "2026-11-25T21:30:00-08:00",
+    "sourceUrl": "https://scenef.com/go/252e6efe9155",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A teenage boy finds his mother and father murdered in their home but as the story goes on he reveals he knows more than he is letting on."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Paper Tiger",
+    "startTime": "2026-11-27T21:50:00-08:00",
+    "sourceUrl": "https://scenef.com/go/e5f4b90757fc",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Two brothers become entangled in a scheme that turns out to be too good to be true. As they try to navigate their way through the dangerous world of the Russian mafia, family bonds begin to fray with life-altering consequences."
+  },
+  {
+    "theater": "Alamo",
     "title": "The Hunger Games: Sunrise on the Reaping",
     "startTime": "2026-11-22T11:00:00-08:00",
     "sourceUrl": "https://scenef.com/go/d165fce0a979",
@@ -3025,6 +3033,70 @@
   },
   {
     "theater": "Alamo",
+    "title": "The Hunger Games: Sunrise on the Reaping",
+    "startTime": "2026-11-24T14:15:00-08:00",
+    "sourceUrl": "https://scenef.com/go/376f9acf0b63",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Return to the world of Panem 24 years before Katniss Everdeen volunteers in her sister's place, commencing on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Paper Tiger",
+    "startTime": "2026-11-24T14:50:00-08:00",
+    "sourceUrl": "https://scenef.com/go/ef119df04b77",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Two brothers become entangled in a scheme that turns out to be too good to be true. As they try to navigate their way through the dangerous world of the Russian mafia, family bonds begin to fray with life-altering consequences."
+  },
+  {
+    "theater": "Alamo",
+    "title": "You Can See Everything",
+    "startTime": "2026-11-24T15:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/e9f66eaf0985",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Wild Horse Nine",
+    "startTime": "2026-11-24T15:20:00-08:00",
+    "sourceUrl": "https://scenef.com/go/e040a94b376e",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Club Kid",
+    "startTime": "2026-11-24T15:30:00-08:00",
+    "sourceUrl": "https://scenef.com/go/60316fb33975",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Hunger Games: Sunrise on the Reaping",
+    "startTime": "2026-11-24T18:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/13da6d0beb75",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Return to the world of Panem 24 years before Katniss Everdeen volunteers in her sister's place, commencing on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Paper Tiger",
+    "startTime": "2026-11-24T18:15:00-08:00",
+    "sourceUrl": "https://scenef.com/go/56d658f3c3b8",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Two brothers become entangled in a scheme that turns out to be too good to be true. As they try to navigate their way through the dangerous world of the Russian mafia, family bonds begin to fray with life-altering consequences."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Club Kid",
+    "startTime": "2026-11-24T18:20:00-08:00",
+    "sourceUrl": "https://scenef.com/go/ec766f2999a5",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had."
+  },
+  {
+    "theater": "Alamo",
     "title": "September Songs: The Music of Kurt Weill",
     "startTime": "2026-11-24T18:45:00-08:00",
     "sourceUrl": "https://scenef.com/go/5d5f37da730e",
@@ -3046,6 +3118,38 @@
     "sourceUrl": "https://scenef.com/go/76c8006411b0",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "Army psychiatrist Colonel Kane is posted to a secluded gothic castle housing a military asylum. With a reserved calm, he indulges the inmates' delusions, allowing them free rein to express their fantasies."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Hunger Games: Sunrise on the Reaping",
+    "startTime": "2026-11-24T21:30:00-08:00",
+    "sourceUrl": "https://scenef.com/go/0d4dcc94e1f5",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Return to the world of Panem 24 years before Katniss Everdeen volunteers in her sister's place, commencing on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Wild Horse Nine",
+    "startTime": "2026-11-24T21:30:00-08:00",
+    "sourceUrl": "https://scenef.com/go/7e8fad987b37",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Club Kid",
+    "startTime": "2026-11-24T21:45:00-08:00",
+    "sourceUrl": "https://scenef.com/go/f6ea1f70be6e",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Paper Tiger",
+    "startTime": "2026-11-24T21:45:00-08:00",
+    "sourceUrl": "https://scenef.com/go/61f11e9d4dd4",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Two brothers become entangled in a scheme that turns out to be too good to be true. As they try to navigate their way through the dangerous world of the Russian mafia, family bonds begin to fray with life-altering consequences."
   },
   {
     "theater": "Alamo",
@@ -3083,9 +3187,9 @@
     "theater": "Alamo",
     "title": "Sudden Fury",
     "startTime": "2026-11-25T21:30:00-08:00",
-    "sourceUrl": "https://scenef.com/go/252e6efe9155",
+    "sourceUrl": "https://scenef.com/go/b444302905b4",
     "attribution": "Showtimes via SceneF.com",
-    "synopsis": "A teenage boy finds his mother and father murdered in their home but as the story goes on he reveals he knows more than he is letting on."
+    "synopsis": "Fred is a psychotic entrepreneur who hopes to convince his wife Janet to invest in a shady land deal. The wife refuses, and the couple continue their heated argument while driving through the Ontario backwoods. When their car crashes, Janet is seriously injured, but Fred leaves the scene, hoping that his wife won't last the night."
   },
   {
     "theater": "Alamo",
@@ -3186,8 +3290,8 @@
   {
     "theater": "Alamo",
     "title": "Paper Tiger",
-    "startTime": "2026-11-27T21:50:00-08:00",
-    "sourceUrl": "https://scenef.com/go/e5f4b90757fc",
+    "startTime": "2026-11-27T21:30:00-08:00",
+    "sourceUrl": "https://scenef.com/go/3b1d83e81001",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "Two brothers become entangled in a scheme that turns out to be too good to be true. As they try to navigate their way through the dangerous world of the Russian mafia, family bonds begin to fray with life-altering consequences."
   },
