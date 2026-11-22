@@ -43,6 +43,13 @@
   },
   {
     "theater": "Roxie",
+    "title": "Fatherland",
+    "startTime": "2026-12-02T18:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/fatherland/#showtimes-20261202-1800",
+    "synopsis": "FATHERLAND centres on the relationship between the Nobel Prize-winning writer Thomas Mann (Hanns Zischler) and his daughter Erika (Sandra Hüller) – actress, writer and […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "Ken Russell’s The Devils (4K Restoration)",
     "startTime": "2026-12-02T20:35:00-08:00",
     "sourceUrl": "https://roxie.com/film/ken-russells-the-devils-4k-restoration/#showtimes-20261202-2035",
@@ -215,6 +222,13 @@
     "startTime": "2026-12-10T18:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/minotaur/#showtimes-20261210-1800",
     "synopsis": "Winner of the Grand Prix at Cannes, MINOTAUR is the latest from Russian filmmaker Andrey Zvyagintsev (LEVIATHAN, LOVELESS). His riveting, razor-sharp tale of personal, […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "New People: In the Mood for Love",
+    "startTime": "2026-12-10T18:10:00-08:00",
+    "sourceUrl": "https://roxie.com/film/new-people-in-the-mood-for-love/#showtimes-20261210-1810",
+    "synopsis": "All listed screenings take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. Hong Kong, 1962: Chow Mo-wan (Tony Leung Chiu-wai) […]"
   },
   {
     "theater": "Roxie",

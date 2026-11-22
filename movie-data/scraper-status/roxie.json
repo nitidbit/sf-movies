@@ -1,17 +1,12 @@
 {
   "slug": "roxie",
   "theater": "Roxie",
-  "generatedAt": "2026-11-21T13:51:20.319Z",
+  "generatedAt": "2026-11-22T13:51:24.003Z",
   "status": "discrepancies",
   "report": {
-    "matched": 90,
+    "matched": 84,
     "timeMismatches": [],
     "titleMismatches": [
-      {
-        "startTime": "2026-11-21T21:15:00-08:00",
-        "ourTitle": "The Host (4K Restoration)",
-        "scenefTitle": "The Host 20th 4K Restoration"
-      },
       {
         "startTime": "2026-11-23T20:30:00-08:00",
         "ourTitle": "The Host (4K Restoration)",
@@ -71,6 +66,10 @@
       {
         "title": "New People: Cookie Queens",
         "startTime": "2026-12-06T13:00:00-08:00"
+      },
+      {
+        "title": "New People: In the Mood for Love",
+        "startTime": "2026-12-10T18:10:00-08:00"
       },
       {
         "title": "New People: threeASFOUR: FULL CIRCLE",
