@@ -36,17 +36,17 @@
   },
   {
     "theater": "Roxie",
-    "title": "Santacon",
-    "startTime": "2026-12-02T18:00:00-08:00",
-    "sourceUrl": "https://roxie.com/film/santacon-2/#showtimes-20261202-1800",
-    "synopsis": "In attendance for a special post-film Q&A will be original Santas John Law and Rob Schmitt, as well as other surprise guests. Today, Santacon […]"
-  },
-  {
-    "theater": "Roxie",
     "title": "Fatherland",
     "startTime": "2026-12-02T18:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/fatherland/#showtimes-20261202-1800",
     "synopsis": "FATHERLAND centres on the relationship between the Nobel Prize-winning writer Thomas Mann (Hanns Zischler) and his daughter Erika (Sandra Hüller) – actress, writer and […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Santacon",
+    "startTime": "2026-12-02T18:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/santacon-2/#showtimes-20261202-1800",
+    "synopsis": "In attendance for a special post-film Q&A will be original Santas John Law and Rob Schmitt, as well as other surprise guests. Today, Santacon […]"
   },
   {
     "theater": "Roxie",
@@ -64,6 +64,13 @@
   },
   {
     "theater": "Roxie",
+    "title": "Zhang Yimou’s Raise the Red Lantern (4K Restoration)",
+    "startTime": "2026-12-04T18:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/raise-the-red-lantern/#showtimes-20261204-1800",
+    "synopsis": "Co-presented by Bay Area Chinese Culture Salon and Amoment Books. Nineteen-year-old Songlian, a promising student whose family has been destroyed by her father’s death, […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "New People: Filipiñana",
     "startTime": "2026-12-04T18:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/new-people-filipinana/#showtimes-20261204-1800",
@@ -75,13 +82,6 @@
     "startTime": "2026-12-04T18:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/minotaur/#showtimes-20261204-1800",
     "synopsis": "Winner of the Grand Prix at Cannes, MINOTAUR is the latest from Russian filmmaker Andrey Zvyagintsev (LEVIATHAN, LOVELESS). His riveting, razor-sharp tale of personal, […]"
-  },
-  {
-    "theater": "Roxie",
-    "title": "Zhang Yimou’s Raise the Red Lantern (4K Restoration)",
-    "startTime": "2026-12-04T18:00:00-08:00",
-    "sourceUrl": "https://roxie.com/film/raise-the-red-lantern/#showtimes-20261204-1800",
-    "synopsis": "Co-presented by Bay Area Chinese Culture Salon and Amoment Books. Nineteen-year-old Songlian, a promising student whose family has been destroyed by her father’s death, […]"
   },
   {
     "theater": "Roxie",
