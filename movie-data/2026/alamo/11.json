@@ -2745,14 +2745,6 @@
   },
   {
     "theater": "Alamo",
-    "title": "Sudden Fury",
-    "startTime": "2026-11-25T21:30:00-08:00",
-    "sourceUrl": "https://scenef.com/go/252e6efe9155",
-    "attribution": "Showtimes via SceneF.com",
-    "synopsis": "A teenage boy finds his mother and father murdered in their home but as the story goes on he reveals he knows more than he is letting on."
-  },
-  {
-    "theater": "Alamo",
     "title": "Paper Tiger",
     "startTime": "2026-11-27T21:50:00-08:00",
     "sourceUrl": "https://scenef.com/go/e5f4b90757fc",
@@ -2910,6 +2902,14 @@
     "sourceUrl": "https://scenef.com/go/4d55cf5cfd00",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "Two brothers become entangled in a scheme that turns out to be too good to be true. As they try to navigate their way through the dangerous world of the Russian mafia, family bonds begin to fray with life-altering consequences."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Sudden Fury",
+    "startTime": "2026-11-25T21:30:00-08:00",
+    "sourceUrl": "https://scenef.com/go/b444302905b4",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Fred is a psychotic entrepreneur who hopes to convince his wife Janet to invest in a shady land deal. The wife refuses, and the couple continue their heated argument while driving through the Ontario backwoods. When their car crashes, Janet is seriously injured, but Fred leaves the scene, hoping that his wife won't last the night."
   },
   {
     "theater": "Alamo",
@@ -3187,9 +3187,9 @@
     "theater": "Alamo",
     "title": "Sudden Fury",
     "startTime": "2026-11-25T21:30:00-08:00",
-    "sourceUrl": "https://scenef.com/go/b444302905b4",
+    "sourceUrl": "https://scenef.com/go/252e6efe9155",
     "attribution": "Showtimes via SceneF.com",
-    "synopsis": "Fred is a psychotic entrepreneur who hopes to convince his wife Janet to invest in a shady land deal. The wife refuses, and the couple continue their heated argument while driving through the Ontario backwoods. When their car crashes, Janet is seriously injured, but Fred leaves the scene, hoping that his wife won't last the night."
+    "synopsis": "A teenage boy finds his mother and father murdered in their home but as the story goes on he reveals he knows more than he is letting on."
   },
   {
     "theater": "Alamo",
