@@ -1,10 +1,10 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-11-22T13:40:29.012Z",
+  "generatedAt": "2026-11-23T13:40:45.504Z",
   "status": "discrepancies",
   "report": {
-    "matched": 12,
+    "matched": 10,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -29,14 +29,6 @@
       }
     ],
     "oursOnly": [
-      {
-        "title": "Fantastic Mr. Fox",
-        "startTime": "2026-11-22T10:00:00-08:00"
-      },
-      {
-        "title": "A Charlie Brown Thanksgiving",
-        "startTime": "2026-11-22T14:45:00-08:00"
-      },
       {
         "title": "Ponyo",
         "startTime": "2026-11-28T10:00:00-08:00"
@@ -84,18 +76,6 @@
     ],
     "scenefOnly": [
       {
-        "title": "A Charlie Brown Thanksgiving",
-        "startTime": "2026-11-22T12:15:00-08:00"
-      },
-      {
-        "title": "A Charlie Brown Thanksgiving",
-        "startTime": "2026-11-22T16:00:00-08:00"
-      },
-      {
-        "title": "Fantastic Mr. Fox",
-        "startTime": "2026-11-22T17:15:00-08:00"
-      },
-      {
         "title": "Ponyo",
         "startTime": "2026-11-29T12:30:00-08:00"
       },
@@ -110,7 +90,7 @@
     ],
     "collapsedDuplicates": 0,
     "excluded": {
-      "ours": 8,
+      "ours": 12,
       "scenef": 0
     }
   }
