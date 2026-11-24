@@ -1,24 +1,16 @@
 {
   "slug": "balboa",
   "theater": "Balboa",
-  "generatedAt": "2026-11-23T13:23:57.087Z",
+  "generatedAt": "2026-11-24T13:21:37.085Z",
   "status": "discrepancies",
   "report": {
-    "matched": 58,
+    "matched": 59,
     "timeMismatches": [],
     "titleMismatches": [],
     "oursOnly": [
       {
         "title": "AHITH FEST 2026: Devil's Disciple: The Night Stalker",
         "startTime": "2026-12-05T19:25:00-08:00"
-      },
-      {
-        "title": "AHITH FEST 2026: Blood Secret + 2 Short Films",
-        "startTime": "2026-12-15T18:20:00-08:00"
-      },
-      {
-        "title": "AHITH FEST 2026: The Day the Earth Stood Still — 75th Anniversary 16mm Film Presentation",
-        "startTime": "2026-12-15T21:00:00-08:00"
       },
       {
         "title": "AHITH FEST 2026: Godmother + 3 Short Films",
@@ -47,9 +39,9 @@
         "startTime": "2026-11-30T19:30:00-08:00"
       }
     ],
-    "collapsedDuplicates": 2,
+    "collapsedDuplicates": 3,
     "excluded": {
-      "ours": 5,
+      "ours": 6,
       "scenef": 0
     }
   }
