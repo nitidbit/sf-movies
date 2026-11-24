@@ -1,17 +1,12 @@
 {
   "slug": "roxie",
   "theater": "Roxie",
-  "generatedAt": "2026-11-23T13:51:44.364Z",
+  "generatedAt": "2026-11-24T13:51:10.828Z",
   "status": "discrepancies",
   "report": {
     "matched": 76,
     "timeMismatches": [],
     "titleMismatches": [
-      {
-        "startTime": "2026-11-23T20:30:00-08:00",
-        "ourTitle": "The Host (4K Restoration)",
-        "scenefTitle": "The Host 20th 4K Restoration"
-      },
       {
         "startTime": "2026-12-13T12:00:00-08:00",
         "ourTitle": "14th Annual Festival of the Moving Image",
@@ -60,8 +55,16 @@
         "startTime": "2026-12-06T13:00:00-08:00"
       },
       {
+        "title": "New People: Tampopo",
+        "startTime": "2026-12-06T16:00:00-08:00"
+      },
+      {
         "title": "New People: In the Mood for Love",
         "startTime": "2026-12-10T18:10:00-08:00"
+      },
+      {
+        "title": "New People: Tampopo",
+        "startTime": "2026-12-10T20:20:00-08:00"
       },
       {
         "title": "New People: threeASFOUR: FULL CIRCLE",
@@ -70,6 +73,18 @@
       {
         "title": "Floating Features: National Lampoon’s Christmas Vacation",
         "startTime": "2026-12-12T18:30:00-08:00"
+      },
+      {
+        "title": "New People: Rex: A Dinosaur’s Story",
+        "startTime": "2026-12-12T18:40:00-08:00"
+      },
+      {
+        "title": "New People: Rex: A Dinosaur’s Story",
+        "startTime": "2026-12-13T13:00:00-08:00"
+      },
+      {
+        "title": "Paran",
+        "startTime": "2026-12-19T11:45:00-08:00"
       },
       {
         "title": "New People: The Promised Land",

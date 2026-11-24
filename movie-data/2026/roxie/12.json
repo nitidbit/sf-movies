@@ -8,10 +8,10 @@
   },
   {
     "theater": "Roxie",
-    "title": "Zhang Yimou’s Raise the Red Lantern (4K Restoration)",
-    "startTime": "2026-12-01T18:00:00-08:00",
-    "sourceUrl": "https://roxie.com/film/raise-the-red-lantern/#showtimes-20261201-1800",
-    "synopsis": "Co-presented by Bay Area Chinese Culture Salon and Amoment Books. Nineteen-year-old Songlian, a promising student whose family has been destroyed by her father’s death, […]"
+    "title": "You Can See Everything",
+    "startTime": "2026-12-01T20:05:00-08:00",
+    "sourceUrl": "https://roxie.com/film/you-can-see-everything/#showtimes-20261201-2005",
+    "synopsis": "Thirty-four days before she’s sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What […]"
   },
   {
     "theater": "Roxie",
@@ -22,10 +22,10 @@
   },
   {
     "theater": "Roxie",
-    "title": "You Can See Everything",
-    "startTime": "2026-12-01T20:05:00-08:00",
-    "sourceUrl": "https://roxie.com/film/you-can-see-everything/#showtimes-20261201-2005",
-    "synopsis": "Thirty-four days before she’s sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What […]"
+    "title": "Zhang Yimou’s Raise the Red Lantern (4K Restoration)",
+    "startTime": "2026-12-01T18:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/raise-the-red-lantern/#showtimes-20261201-1800",
+    "synopsis": "Co-presented by Bay Area Chinese Culture Salon and Amoment Books. Nineteen-year-old Songlian, a promising student whose family has been destroyed by her father’s death, […]"
   },
   {
     "theater": "Roxie",
@@ -47,6 +47,13 @@
     "startTime": "2026-12-02T18:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/santacon-2/#showtimes-20261202-1800",
     "synopsis": "In attendance for a special post-film Q&A will be original Santas John Law and Rob Schmitt, as well as other surprise guests. Today, Santacon […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Zhang Yimou’s Raise the Red Lantern (4K Restoration)",
+    "startTime": "2026-12-02T19:55:00-08:00",
+    "sourceUrl": "https://roxie.com/film/raise-the-red-lantern/#showtimes-20261202-1955",
+    "synopsis": "Co-presented by Bay Area Chinese Culture Salon and Amoment Books. Nineteen-year-old Songlian, a promising student whose family has been destroyed by her father’s death, […]"
   },
   {
     "theater": "Roxie",
@@ -106,6 +113,20 @@
   },
   {
     "theater": "Roxie",
+    "title": "Minotaur",
+    "startTime": "2026-12-05T13:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/minotaur/#showtimes-20261205-1300",
+    "synopsis": "Winner of the Grand Prix at Cannes, MINOTAUR is the latest from Russian filmmaker Andrey Zvyagintsev (LEVIATHAN, LOVELESS). His riveting, razor-sharp tale of personal, […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Minotaur",
+    "startTime": "2026-12-05T17:30:00-08:00",
+    "sourceUrl": "https://roxie.com/film/minotaur/#showtimes-20261205-1730",
+    "synopsis": "Winner of the Grand Prix at Cannes, MINOTAUR is the latest from Russian filmmaker Andrey Zvyagintsev (LEVIATHAN, LOVELESS). His riveting, razor-sharp tale of personal, […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "American Pachuco: The Legend of Luis Valdez",
     "startTime": "2026-12-05T15:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/american-pachuco-the-legend-of-luis-valdez/#showtimes-20261205-1500",
@@ -134,13 +155,6 @@
   },
   {
     "theater": "Roxie",
-    "title": "Minotaur",
-    "startTime": "2026-12-05T17:30:00-08:00",
-    "sourceUrl": "https://roxie.com/film/minotaur/#showtimes-20261205-1730",
-    "synopsis": "Winner of the Grand Prix at Cannes, MINOTAUR is the latest from Russian filmmaker Andrey Zvyagintsev (LEVIATHAN, LOVELESS). His riveting, razor-sharp tale of personal, […]"
-  },
-  {
-    "theater": "Roxie",
     "title": "Josephine",
     "startTime": "2026-12-05T18:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/josephine/#showtimes-20261205-1800",
@@ -162,13 +176,6 @@
   },
   {
     "theater": "Roxie",
-    "title": "Cameron Winter at Carnegie Hall (35mm)",
-    "startTime": "2026-12-06T13:00:00-08:00",
-    "sourceUrl": "https://roxie.com/film/cameron-winter-at-carnegie-hall-35mm/#showtimes-20261206-1300",
-    "synopsis": "Cameron Winter, in December 2025, after a months-long sold-out tour with his band Geese, returned to New York to play a single show at […]"
-  },
-  {
-    "theater": "Roxie",
     "title": "New People: Cookie Queens",
     "startTime": "2026-12-06T13:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/new-people-cookie-queens/#showtimes-20261206-1300",
@@ -176,10 +183,24 @@
   },
   {
     "theater": "Roxie",
+    "title": "Cameron Winter at Carnegie Hall (35mm)",
+    "startTime": "2026-12-06T13:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/cameron-winter-at-carnegie-hall-35mm/#showtimes-20261206-1300",
+    "synopsis": "Cameron Winter, in December 2025, after a months-long sold-out tour with his band Geese, returned to New York to play a single show at […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "Welcome II the Terrordome (4K Restoration)",
     "startTime": "2026-12-06T15:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/welcome-ii-the-terrordome-4k-restoration/#showtimes-20261206-1500",
     "synopsis": "Ngozi Onwurah’s radically ahead-of-its-time Afrofuturist vision WELCOME II THE TERRORDOME made history as the first theatrically distributed British feature directed by a Black woman. […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "New People: Tampopo",
+    "startTime": "2026-12-06T16:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/new-people-tampopo/#showtimes-20261206-1600",
+    "synopsis": "All listed screenings take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. Tampopo is Juzo Itami’s rapturous “ramen western”. The […]"
   },
   {
     "theater": "Roxie",
@@ -218,6 +239,13 @@
   },
   {
     "theater": "Roxie",
+    "title": "Zhang Yimou’s Raise the Red Lantern (4K Restoration)",
+    "startTime": "2026-12-08T18:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/raise-the-red-lantern/#showtimes-20261208-1800",
+    "synopsis": "Co-presented by Bay Area Chinese Culture Salon and Amoment Books. Nineteen-year-old Songlian, a promising student whose family has been destroyed by her father’s death, […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "Minotaur",
     "startTime": "2026-12-10T18:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/minotaur/#showtimes-20261210-1800",
@@ -229,6 +257,13 @@
     "startTime": "2026-12-10T18:10:00-08:00",
     "sourceUrl": "https://roxie.com/film/new-people-in-the-mood-for-love/#showtimes-20261210-1810",
     "synopsis": "All listed screenings take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. Hong Kong, 1962: Chow Mo-wan (Tony Leung Chiu-wai) […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "New People: Tampopo",
+    "startTime": "2026-12-10T20:20:00-08:00",
+    "sourceUrl": "https://roxie.com/film/new-people-tampopo/#showtimes-20261210-2020",
+    "synopsis": "All listed screenings take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. Tampopo is Juzo Itami’s rapturous “ramen western”. The […]"
   },
   {
     "theater": "Roxie",
@@ -267,10 +302,24 @@
   },
   {
     "theater": "Roxie",
+    "title": "New People: Rex: A Dinosaur’s Story",
+    "startTime": "2026-12-12T18:40:00-08:00",
+    "sourceUrl": "https://roxie.com/film/new-people-rex-a-dinosaurs-story/#showtimes-20261212-1840",
+    "synopsis": "All listed screenings take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. Co-presented by the Japan Society of Northern California […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "14th Annual Festival of the Moving Image",
     "startTime": "2026-12-13T12:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/14th-festival-of-the-moving-image/#showtimes-20261213-1200",
     "synopsis": "The 14th Festival of the Moving Image showcases outstanding recent media work created by students in the Broadcast Electronic Media Arts (BEMA) and Cinema […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "New People: Rex: A Dinosaur’s Story",
+    "startTime": "2026-12-13T13:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/new-people-rex-a-dinosaurs-story/#showtimes-20261213-1300",
+    "synopsis": "All listed screenings take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. Co-presented by the Japan Society of Northern California […]"
   },
   {
     "theater": "Roxie",
@@ -323,10 +372,24 @@
   },
   {
     "theater": "Roxie",
+    "title": "Paran",
+    "startTime": "2026-12-19T11:45:00-08:00",
+    "sourceUrl": "https://roxie.com/film/paran/#showtimes-20261219-1145",
+    "synopsis": "Paran is a heartfelt family drama about Dharmanath (Neer Shah), who treasures his children as his “essence of life” and dreams of growing old […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "New People: The Promised Land",
     "startTime": "2026-12-19T15:30:00-08:00",
     "sourceUrl": "https://roxie.com/film/new-people-the-promised-land/#showtimes-20261219-1530",
     "synopsis": "All listed screenings take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. In turn-of-the-century Łódź, three ambitious young men set […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Bay Area Movies: The Princess Diaries",
+    "startTime": "2026-12-19T15:05:00-08:00",
+    "sourceUrl": "https://roxie.com/film/bay-area-movies-the-princess-diaries/#showtimes-20261219-1505",
+    "synopsis": "Mia’s just your average awkward teen girl with a single artist mother in San Francisco, until she discovers her royal lineage and her right […]"
   },
   {
     "theater": "Roxie",
