@@ -1,7 +1,7 @@
 {
   "slug": "balboa",
   "theater": "Balboa",
-  "generatedAt": "2026-11-24T13:21:37.085Z",
+  "generatedAt": "2026-11-25T13:23:08.176Z",
   "status": "discrepancies",
   "report": {
     "matched": 59,
@@ -11,14 +11,6 @@
       {
         "title": "AHITH FEST 2026: Devil's Disciple: The Night Stalker",
         "startTime": "2026-12-05T19:25:00-08:00"
-      },
-      {
-        "title": "AHITH FEST 2026: Godmother + 3 Short Films",
-        "startTime": "2026-12-16T18:30:00-08:00"
-      },
-      {
-        "title": "AHITH FEST 2026: Friday the 13th Part 2 (on 16mm)",
-        "startTime": "2026-12-16T21:00:00-08:00"
       },
       {
         "title": "AHITH FEST 2026: Sweetest Day + 1 Short Film",
@@ -41,7 +33,7 @@
     ],
     "collapsedDuplicates": 3,
     "excluded": {
-      "ours": 6,
+      "ours": 8,
       "scenef": 0
     }
   }
