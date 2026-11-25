@@ -8,10 +8,10 @@
   },
   {
     "theater": "Roxie",
-    "title": "You Can See Everything",
-    "startTime": "2026-12-01T20:05:00-08:00",
-    "sourceUrl": "https://roxie.com/film/you-can-see-everything/#showtimes-20261201-2005",
-    "synopsis": "Thirty-four days before she’s sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What […]"
+    "title": "Zhang Yimou’s Raise the Red Lantern (4K Restoration)",
+    "startTime": "2026-12-01T18:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/raise-the-red-lantern/#showtimes-20261201-1800",
+    "synopsis": "Co-presented by Bay Area Chinese Culture Salon and Amoment Books. Nineteen-year-old Songlian, a promising student whose family has been destroyed by her father’s death, […]"
   },
   {
     "theater": "Roxie",
@@ -22,10 +22,10 @@
   },
   {
     "theater": "Roxie",
-    "title": "Zhang Yimou’s Raise the Red Lantern (4K Restoration)",
-    "startTime": "2026-12-01T18:00:00-08:00",
-    "sourceUrl": "https://roxie.com/film/raise-the-red-lantern/#showtimes-20261201-1800",
-    "synopsis": "Co-presented by Bay Area Chinese Culture Salon and Amoment Books. Nineteen-year-old Songlian, a promising student whose family has been destroyed by her father’s death, […]"
+    "title": "You Can See Everything",
+    "startTime": "2026-12-01T20:05:00-08:00",
+    "sourceUrl": "https://roxie.com/film/you-can-see-everything/#showtimes-20261201-2005",
+    "synopsis": "Thirty-four days before she’s sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What […]"
   },
   {
     "theater": "Roxie",
@@ -36,17 +36,17 @@
   },
   {
     "theater": "Roxie",
-    "title": "Fatherland",
-    "startTime": "2026-12-02T18:00:00-08:00",
-    "sourceUrl": "https://roxie.com/film/fatherland/#showtimes-20261202-1800",
-    "synopsis": "FATHERLAND centres on the relationship between the Nobel Prize-winning writer Thomas Mann (Hanns Zischler) and his daughter Erika (Sandra Hüller) – actress, writer and […]"
-  },
-  {
-    "theater": "Roxie",
     "title": "Santacon",
     "startTime": "2026-12-02T18:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/santacon-2/#showtimes-20261202-1800",
     "synopsis": "In attendance for a special post-film Q&A will be original Santas John Law and Rob Schmitt, as well as other surprise guests. Today, Santacon […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Fatherland",
+    "startTime": "2026-12-02T18:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/fatherland/#showtimes-20261202-1800",
+    "synopsis": "FATHERLAND centres on the relationship between the Nobel Prize-winning writer Thomas Mann (Hanns Zischler) and his daughter Erika (Sandra Hüller) – actress, writer and […]"
   },
   {
     "theater": "Roxie",
@@ -71,13 +71,6 @@
   },
   {
     "theater": "Roxie",
-    "title": "Zhang Yimou’s Raise the Red Lantern (4K Restoration)",
-    "startTime": "2026-12-04T18:00:00-08:00",
-    "sourceUrl": "https://roxie.com/film/raise-the-red-lantern/#showtimes-20261204-1800",
-    "synopsis": "Co-presented by Bay Area Chinese Culture Salon and Amoment Books. Nineteen-year-old Songlian, a promising student whose family has been destroyed by her father’s death, […]"
-  },
-  {
-    "theater": "Roxie",
     "title": "New People: Filipiñana",
     "startTime": "2026-12-04T18:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/new-people-filipinana/#showtimes-20261204-1800",
@@ -89,6 +82,13 @@
     "startTime": "2026-12-04T18:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/minotaur/#showtimes-20261204-1800",
     "synopsis": "Winner of the Grand Prix at Cannes, MINOTAUR is the latest from Russian filmmaker Andrey Zvyagintsev (LEVIATHAN, LOVELESS). His riveting, razor-sharp tale of personal, […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Zhang Yimou’s Raise the Red Lantern (4K Restoration)",
+    "startTime": "2026-12-04T18:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/raise-the-red-lantern/#showtimes-20261204-1800",
+    "synopsis": "Co-presented by Bay Area Chinese Culture Salon and Amoment Books. Nineteen-year-old Songlian, a promising student whose family has been destroyed by her father’s death, […]"
   },
   {
     "theater": "Roxie",
@@ -176,17 +176,17 @@
   },
   {
     "theater": "Roxie",
-    "title": "New People: Cookie Queens",
-    "startTime": "2026-12-06T13:00:00-08:00",
-    "sourceUrl": "https://roxie.com/film/new-people-cookie-queens/#showtimes-20261206-1300",
-    "synopsis": "This screening will take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. Followed by a post-screening filmmaker Q&A with Cookie […]"
-  },
-  {
-    "theater": "Roxie",
     "title": "Cameron Winter at Carnegie Hall (35mm)",
     "startTime": "2026-12-06T13:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/cameron-winter-at-carnegie-hall-35mm/#showtimes-20261206-1300",
     "synopsis": "Cameron Winter, in December 2025, after a months-long sold-out tour with his band Geese, returned to New York to play a single show at […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "New People: Cookie Queens",
+    "startTime": "2026-12-06T13:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/new-people-cookie-queens/#showtimes-20261206-1300",
+    "synopsis": "This screening will take place at NEW PEOPLE CINEMA, located at 1746 Post Street in Japantown. Followed by a post-screening filmmaker Q&A with Cookie […]"
   },
   {
     "theater": "Roxie",
@@ -222,6 +222,13 @@
     "startTime": "2026-12-06T19:45:00-08:00",
     "sourceUrl": "https://roxie.com/film/minotaur/#showtimes-20261206-1945",
     "synopsis": "Winner of the Grand Prix at Cannes, MINOTAUR is the latest from Russian filmmaker Andrey Zvyagintsev (LEVIATHAN, LOVELESS). His riveting, razor-sharp tale of personal, […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "La Bola Negra",
+    "startTime": "2026-12-06T19:45:00-08:00",
+    "sourceUrl": "https://roxie.com/film/la-bola-negra/#showtimes-20261206-1945",
+    "synopsis": "From Cannes-winning directors Javier Calvo and Javier Ambrossi—popularly known as Los Javis—La Bola Negra follows three generations of men across pivotal moments in Spanish […]"
   },
   {
     "theater": "Roxie",
@@ -267,6 +274,20 @@
   },
   {
     "theater": "Roxie",
+    "title": "Ken Russell’s The Devils (4K Restoration)",
+    "startTime": "2026-12-10T21:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/ken-russells-the-devils-4k-restoration/#showtimes-20261210-2100",
+    "synopsis": "In 17th-century France, Father Urbain Grandier’s protection of the city of Loudun from the corrupt Cardinal Richelieu is undermined by a sexually repressed nun’s […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "The Friend’s House Is Here",
+    "startTime": "2026-12-11T18:00:00-08:00",
+    "sourceUrl": "https://roxie.com/film/the-friends-house-is-here/#showtimes-20261211-1800",
+    "synopsis": "Co-director Hossein Keshavarz in person for Q&A on Saturday, December 12  In Tehran’s underground art scene, Pari, a theater director, and Hanna, a dancer, […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "Bitter Christmas",
     "startTime": "2026-12-11T18:10:00-08:00",
     "sourceUrl": "https://roxie.com/film/bitter-christmas/#showtimes-20261211-1810",
@@ -288,6 +309,13 @@
   },
   {
     "theater": "Roxie",
+    "title": "The Friend’s House Is Here",
+    "startTime": "2026-12-12T15:10:00-08:00",
+    "sourceUrl": "https://roxie.com/film/the-friends-house-is-here/#showtimes-20261212-1510",
+    "synopsis": "Co-director Hossein Keshavarz in person for Q&A on Saturday, December 12  In Tehran’s underground art scene, Pari, a theater director, and Hanna, a dancer, […]"
+  },
+  {
+    "theater": "Roxie",
     "title": "New People: threeASFOUR: FULL CIRCLE",
     "startTime": "2026-12-12T16:00:00-08:00",
     "sourceUrl": "https://roxie.com/film/new-people-threeasfour-full-circle/#showtimes-20261212-1600",
@@ -299,6 +327,13 @@
     "startTime": "2026-12-12T18:30:00-08:00",
     "sourceUrl": "https://roxie.com/film/floating-features-national-lampoons-christmas-vacation/#showtimes-20261212-1830",
     "synopsis": "The Griswolds have planned all year for a great summer vacation. From their suburban Chicago home, across America, to the wonders of Wally World […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "Bitter Christmas",
+    "startTime": "2026-12-12T17:55:00-08:00",
+    "sourceUrl": "https://roxie.com/film/bitter-christmas/#showtimes-20261212-1755",
+    "synopsis": "Check out IN THE MOOD FOR ALMODÓVAR, our limited series celebrating three earlier works by Pedro Almodóvar. The incomparable Almodóvar has been rendering the life of the creative […]"
   },
   {
     "theater": "Roxie",
@@ -425,6 +460,13 @@
     "startTime": "2026-12-21T20:50:00-08:00",
     "sourceUrl": "https://roxie.com/film/staff-pick-8-mile/#showtimes-20261221-2050",
     "synopsis": "Mabie’s Staff Pick! The people of Detroit know 8 Mile as the city limit, a border, a boundary. It is also a psychological dividing […]"
+  },
+  {
+    "theater": "Roxie",
+    "title": "La Gradiva",
+    "startTime": "2026-12-25T15:10:00-08:00",
+    "sourceUrl": "https://roxie.com/film/la-gradiva/#showtimes-20261225-1510",
+    "synopsis": "In the shadow of Vesuvius, a group of French teenagers on a class trip to Naples grapple with the anxiety and exhilaration of their […]"
   },
   {
     "theater": "Roxie",
