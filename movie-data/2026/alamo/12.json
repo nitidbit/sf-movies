@@ -11,9 +11,9 @@
     "theater": "Alamo",
     "title": "Lucid",
     "startTime": "2026-12-07T21:45:00-08:00",
-    "sourceUrl": "https://scenef.com/go/1139a522e1ea",
+    "sourceUrl": "https://scenef.com/go/1a3bfea57ddb",
     "attribution": "Showtimes via SceneF.com",
-    "synopsis": "Zel, a lonely young man's life changes when his enigmatic neighbour offers to help him overcome social anxiety."
+    "synopsis": "Mia, a queer art student who is on the verge of being expelled from school, finds her last hope for combating her creative block in a magical lucid dreaming elixir. But in addition to awakening her creativity, the potion also unleashes a number of dark monsters that inhabit her subconscious, one of which is her mother, who appears transformed into a hairy creature that Mia will be forced to confront."
   },
   {
     "theater": "Alamo",
@@ -241,11 +241,35 @@
   },
   {
     "theater": "Alamo",
+    "title": "The Hunger Games: Sunrise on the Reaping",
+    "startTime": "2026-12-03T14:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/4a1127e8cffd",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Return to the world of Panem 24 years before Katniss Everdeen volunteers in her sister's place, commencing on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell."
+  },
+  {
+    "theater": "Alamo",
     "title": "Tokyo Godfathers",
     "startTime": "2026-12-03T16:00:00-08:00",
     "sourceUrl": "https://scenef.com/go/2759b2d10d96",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "On Christmas Eve, three homeless people living on the streets of Tokyo discover a newborn baby among the trash and set out to find its parents."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Elsinore",
+    "startTime": "2026-12-03T18:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/67b7e76e6a5a",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "The deeply emotional and inspirational true story of Ian Charleson, a gifted actor whose greatest challenge becomes his greatest triumph. Facing his own mortality with unflinching honesty, wit, and grace, Charleson delivers a courageous performance that becomes a source of healing and inspiration for those around him."
+  },
+  {
+    "theater": "Alamo",
+    "title": "The Hunger Games: Sunrise on the Reaping",
+    "startTime": "2026-12-03T21:10:00-08:00",
+    "sourceUrl": "https://scenef.com/go/b5419704524f",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Return to the world of Panem 24 years before Katniss Everdeen volunteers in her sister's place, commencing on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell."
   },
   {
     "theater": "Alamo",
@@ -275,9 +299,9 @@
     "theater": "Alamo",
     "title": "Lucid",
     "startTime": "2026-12-07T21:45:00-08:00",
-    "sourceUrl": "https://scenef.com/go/1a3bfea57ddb",
+    "sourceUrl": "https://scenef.com/go/1139a522e1ea",
     "attribution": "Showtimes via SceneF.com",
-    "synopsis": "Mia, a queer art student who is on the verge of being expelled from school, finds her last hope for combating her creative block in a magical lucid dreaming elixir. But in addition to awakening her creativity, the potion also unleashes a number of dark monsters that inhabit her subconscious, one of which is her mother, who appears transformed into a hairy creature that Mia will be forced to confront."
+    "synopsis": "Zel, a lonely young man's life changes when his enigmatic neighbour offers to help him overcome social anxiety."
   },
   {
     "theater": "Alamo",
@@ -609,6 +633,46 @@
   },
   {
     "theater": "Alamo",
+    "title": "Werwulf",
+    "startTime": "2026-12-24T18:45:00-08:00",
+    "sourceUrl": "https://scenef.com/go/86afc5e97956",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A harrowing tale of devotion, damnation and the devil within."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Dune: Part Three",
+    "startTime": "2026-12-25T11:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/0bf4f693434d",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Nearly two decades after he seized control of the Imperium, Paul Atreides is now a ruthless Emperor, and must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As enemies close in, Paul must confront the true cost of power and the fate of those he loves the most."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Werwulf",
+    "startTime": "2026-12-25T11:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/8f3d1d759977",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A harrowing tale of devotion, damnation and the devil within."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Avengers: Doomsday",
+    "startTime": "2026-12-25T11:20:00-08:00",
+    "sourceUrl": "https://scenef.com/go/a4a6f22aa2f4",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Werwulf",
+    "startTime": "2026-12-25T14:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/64c6e4ce7216",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A harrowing tale of devotion, damnation and the devil within."
+  },
+  {
+    "theater": "Alamo",
     "title": "Avengers: Doomsday",
     "startTime": "2026-12-25T14:10:00-08:00",
     "sourceUrl": "https://scenef.com/go/200832ba5c28",
@@ -622,6 +686,14 @@
     "sourceUrl": "https://scenef.com/go/cac08f00e858",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "Nearly two decades after he seized control of the Imperium, Paul Atreides is now a ruthless Emperor, and must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As enemies close in, Paul must confront the true cost of power and the fate of those he loves the most."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Werwulf",
+    "startTime": "2026-12-25T15:10:00-08:00",
+    "sourceUrl": "https://scenef.com/go/9d9c762363c8",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A harrowing tale of devotion, damnation and the devil within."
   },
   {
     "theater": "Alamo",
@@ -697,11 +769,27 @@
   },
   {
     "theater": "Alamo",
+    "title": "Werwulf",
+    "startTime": "2026-12-26T11:10:00-08:00",
+    "sourceUrl": "https://scenef.com/go/ec119401d9cc",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A harrowing tale of devotion, damnation and the devil within."
+  },
+  {
+    "theater": "Alamo",
     "title": "Dune: Part Three",
     "startTime": "2026-12-26T11:15:00-08:00",
     "sourceUrl": "https://scenef.com/go/746190a4a733",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "Nearly two decades after he seized control of the Imperium, Paul Atreides is now a ruthless Emperor, and must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As enemies close in, Paul must confront the true cost of power and the fate of those he loves the most."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Werwulf",
+    "startTime": "2026-12-26T11:30:00-08:00",
+    "sourceUrl": "https://scenef.com/go/c0a0cd70caa6",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A harrowing tale of devotion, damnation and the devil within."
   },
   {
     "theater": "Alamo",
@@ -726,6 +814,14 @@
     "sourceUrl": "https://scenef.com/go/52056f2562c6",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Werwulf",
+    "startTime": "2026-12-26T15:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/879ad8359639",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A harrowing tale of devotion, damnation and the devil within."
   },
   {
     "theater": "Alamo",
@@ -793,11 +889,27 @@
   },
   {
     "theater": "Alamo",
+    "title": "Werwulf",
+    "startTime": "2026-12-27T11:10:00-08:00",
+    "sourceUrl": "https://scenef.com/go/aee01b4418c7",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A harrowing tale of devotion, damnation and the devil within."
+  },
+  {
+    "theater": "Alamo",
     "title": "Dune: Part Three",
     "startTime": "2026-12-27T11:15:00-08:00",
     "sourceUrl": "https://scenef.com/go/6f66c28c7cbf",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "Nearly two decades after he seized control of the Imperium, Paul Atreides is now a ruthless Emperor, and must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As enemies close in, Paul must confront the true cost of power and the fate of those he loves the most."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Werwulf",
+    "startTime": "2026-12-27T11:30:00-08:00",
+    "sourceUrl": "https://scenef.com/go/1ba99ef823c7",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A harrowing tale of devotion, damnation and the devil within."
   },
   {
     "theater": "Alamo",
@@ -822,6 +934,14 @@
     "sourceUrl": "https://scenef.com/go/33251c9a503a",
     "attribution": "Showtimes via SceneF.com",
     "synopsis": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Werwulf",
+    "startTime": "2026-12-27T15:00:00-08:00",
+    "sourceUrl": "https://scenef.com/go/cfdb34e54f72",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A harrowing tale of devotion, damnation and the devil within."
   },
   {
     "theater": "Alamo",
