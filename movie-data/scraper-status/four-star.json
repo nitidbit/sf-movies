@@ -1,10 +1,10 @@
 {
   "slug": "four-star",
   "theater": "4-Star",
-  "generatedAt": "2026-11-25T13:40:35.018Z",
+  "generatedAt": "2026-11-26T13:40:27.416Z",
   "status": "discrepancies",
   "report": {
-    "matched": 9,
+    "matched": 7,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -29,10 +29,6 @@
       }
     ],
     "oursOnly": [
-      {
-        "title": "MC5: A True Testimonial (Presented by CHUCK PROPHET'S CINEMA DISCOTHEQUE)",
-        "startTime": "2026-11-27T19:30:00-08:00"
-      },
       {
         "title": "Ponyo",
         "startTime": "2026-11-28T10:00:00-08:00"
@@ -94,7 +90,7 @@
     ],
     "collapsedDuplicates": 0,
     "excluded": {
-      "ours": 3,
+      "ours": 5,
       "scenef": 0
     }
   }
