@@ -1,10 +1,10 @@
 {
   "slug": "roxie",
   "theater": "Roxie",
-  "generatedAt": "2026-11-25T13:51:36.850Z",
+  "generatedAt": "2026-11-26T13:51:16.017Z",
   "status": "discrepancies",
   "report": {
-    "matched": 80,
+    "matched": 77,
     "timeMismatches": [],
     "titleMismatches": [
       {
@@ -14,10 +14,6 @@
       }
     ],
     "oursOnly": [
-      {
-        "title": "Theater Closed: Nov. 26",
-        "startTime": "2026-11-26T18:00:00-08:00"
-      },
       {
         "title": "New People: Seven Samurai",
         "startTime": "2026-11-28T17:00:00-08:00"
@@ -59,6 +55,10 @@
         "startTime": "2026-12-06T16:00:00-08:00"
       },
       {
+        "title": "BAVC MediaMaker Fellowship Pitch & Party 2026",
+        "startTime": "2026-12-09T18:00:00-08:00"
+      },
+      {
         "title": "New People: In the Mood for Love",
         "startTime": "2026-12-10T18:10:00-08:00"
       },
@@ -98,7 +98,7 @@
     "scenefOnly": [],
     "collapsedDuplicates": 0,
     "excluded": {
-      "ours": 3,
+      "ours": 4,
       "scenef": 0
     }
   }
