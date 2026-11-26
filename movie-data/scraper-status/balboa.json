@@ -1,24 +1,16 @@
 {
   "slug": "balboa",
   "theater": "Balboa",
-  "generatedAt": "2026-11-25T13:23:08.176Z",
+  "generatedAt": "2026-11-26T13:22:20.685Z",
   "status": "discrepancies",
   "report": {
-    "matched": 59,
+    "matched": 57,
     "timeMismatches": [],
     "titleMismatches": [],
     "oursOnly": [
       {
         "title": "AHITH FEST 2026: Devil's Disciple: The Night Stalker",
         "startTime": "2026-12-05T19:25:00-08:00"
-      },
-      {
-        "title": "AHITH FEST 2026: Sweetest Day + 1 Short Film",
-        "startTime": "2026-12-17T18:20:00-08:00"
-      },
-      {
-        "title": "AHITH FEST 2026: The Texas Chain Saw Massacre – Presented by Warped VHS + 1 Short Film",
-        "startTime": "2026-12-17T21:00:00-08:00"
       }
     ],
     "scenefOnly": [
@@ -31,9 +23,9 @@
         "startTime": "2026-11-30T19:30:00-08:00"
       }
     ],
-    "collapsedDuplicates": 3,
+    "collapsedDuplicates": 2,
     "excluded": {
-      "ours": 8,
+      "ours": 0,
       "scenef": 0
     }
   }
