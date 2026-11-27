@@ -1,7 +1,7 @@
 {
   "slug": "roxie",
   "theater": "Roxie",
-  "generatedAt": "2026-11-26T13:51:16.017Z",
+  "generatedAt": "2026-11-27T13:51:23.923Z",
   "status": "discrepancies",
   "report": {
     "matched": 77,
@@ -98,7 +98,7 @@
     "scenefOnly": [],
     "collapsedDuplicates": 0,
     "excluded": {
-      "ours": 4,
+      "ours": 3,
       "scenef": 0
     }
   }
