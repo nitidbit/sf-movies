@@ -1,7 +1,7 @@
 {
   "slug": "balboa",
   "theater": "Balboa",
-  "generatedAt": "2026-11-26T13:22:20.685Z",
+  "generatedAt": "2026-11-27T13:21:45.235Z",
   "status": "discrepancies",
   "report": {
     "matched": 57,
@@ -21,6 +21,62 @@
       {
         "title": "Little Shop of Horrors",
         "startTime": "2026-11-30T19:30:00-08:00"
+      },
+      {
+        "title": "Club Kid",
+        "startTime": "2026-12-04T19:30:00-08:00"
+      },
+      {
+        "title": "Club Kid",
+        "startTime": "2026-12-05T16:30:00-08:00"
+      },
+      {
+        "title": "Club Kid",
+        "startTime": "2026-12-05T19:30:00-08:00"
+      },
+      {
+        "title": "Club Kid",
+        "startTime": "2026-12-06T16:00:00-08:00"
+      },
+      {
+        "title": "Club Kid",
+        "startTime": "2026-12-06T19:00:00-08:00"
+      },
+      {
+        "title": "Club Kid",
+        "startTime": "2026-12-07T19:00:00-08:00"
+      },
+      {
+        "title": "Club Kid",
+        "startTime": "2026-12-08T19:00:00-08:00"
+      },
+      {
+        "title": "Club Kid",
+        "startTime": "2026-12-09T19:00:00-08:00"
+      },
+      {
+        "title": "Club Kid",
+        "startTime": "2026-12-10T19:00:00-08:00"
+      },
+      {
+        "title": "Batman Returns",
+        "startTime": "2026-12-10T19:30:00-08:00"
+      },
+      {
+        "title": "Night of the Comet",
+        "startTime": "2026-12-18T19:00:00-08:00"
+      },
+      {
+        "title": "Gremlins",
+        "startTime": "2026-12-18T19:30:00-08:00"
+      },
+      {
+        "title": "Elf",
+        "startTime": "2026-12-19T16:45:00-08:00"
+      },
+      {
+        "title": "Elf",
+        "startTime": "2026-12-19T19:00:00-08:00"
       }
     ],
     "collapsedDuplicates": 2,
