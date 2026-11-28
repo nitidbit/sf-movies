@@ -25,6 +25,22 @@
   },
   {
     "theater": "Alamo",
+    "title": "Lucid",
+    "startTime": "2026-12-07T21:45:00-08:00",
+    "sourceUrl": "https://scenef.com/go/1a3bfea57ddb",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "Mia, a queer art student who is on the verge of being expelled from school, finds her last hope for combating her creative block in a magical lucid dreaming elixir. But in addition to awakening her creativity, the potion also unleashes a number of dark monsters that inhabit her subconscious, one of which is her mother, who appears transformed into a hairy creature that Mia will be forced to confront."
+  },
+  {
+    "theater": "Alamo",
+    "title": "Red Snow",
+    "startTime": "2026-12-11T21:45:00-08:00",
+    "sourceUrl": "https://scenef.com/go/f21285aefcce",
+    "attribution": "Showtimes via SceneF.com",
+    "synopsis": "A struggling vampire romance novelist must defend herself against real-life vampires during Christmas in Lake Tahoe."
+  },
+  {
+    "theater": "Alamo",
     "title": "The Hunger Games: Sunrise on the Reaping",
     "startTime": "2026-12-01T13:30:00-08:00",
     "sourceUrl": "https://scenef.com/go/e5207508a75b",
@@ -307,9 +323,9 @@
     "theater": "Alamo",
     "title": "Lucid",
     "startTime": "2026-12-07T21:45:00-08:00",
-    "sourceUrl": "https://scenef.com/go/1a3bfea57ddb",
+    "sourceUrl": "https://scenef.com/go/788b1ddf2bd2",
     "attribution": "Showtimes via SceneF.com",
-    "synopsis": "Mia, a queer art student who is on the verge of being expelled from school, finds her last hope for combating her creative block in a magical lucid dreaming elixir. But in addition to awakening her creativity, the potion also unleashes a number of dark monsters that inhabit her subconscious, one of which is her mother, who appears transformed into a hairy creature that Mia will be forced to confront."
+    "synopsis": "A young woman who leads a lonely, mundane existence in the real world but who has the perfect life in her lucid dreams which she can somehow control, meets a mysterious stranger who challenges her to turn her dream life into something a bit more adventurous. Then her dreams become more real than her reality and the line between the two starts to blur."
   },
   {
     "theater": "Alamo",
@@ -339,9 +355,9 @@
     "theater": "Alamo",
     "title": "Red Snow",
     "startTime": "2026-12-11T21:45:00-08:00",
-    "sourceUrl": "https://scenef.com/go/f21285aefcce",
+    "sourceUrl": "https://scenef.com/go/10e3c92fc9d4",
     "attribution": "Showtimes via SceneF.com",
-    "synopsis": "A struggling vampire romance novelist must defend herself against real-life vampires during Christmas in Lake Tahoe."
+    "synopsis": "Red Snow is a dramatic adventure that begins when Dylan, a Gwich'in soldier from the Canadian Arctic, is caught in an ambush in Panjwayi, Afghanistan. His capture and interrogation by a Taliban Commander releases a cache of memories connected to the love and death of his Inuit cousin, Asana, and binds him closer to a Pashtun family as they escape across treacherous landscapes and through a blizzard that becomes their key to survival."
   },
   {
     "theater": "Alamo",
